@@ -1,0 +1,2797 @@
+{
+    "Super Mario 64 (1996)":
+    {
+        
+        "id": 1,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "N64", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Shigeru Miyamoto"],
+        "composer": ["Koji Kondo"],
+        "hltb": 17
+
+    },
+    "Tetris (1984)":
+    {
+        "id": 2,
+        "year": 1984,
+        "country": ["URS"],
+        "platforms": ["MSX", "Mega Drive", "GBC", "Amiga", "NES", "Mac", "ZX Spectrum", "WonderSwan", "DOS", "C64/128", "SMS", "Sharp X1", "BBC", "VIC-20", "Apple II", "Atari ST", "Arcade"],
+        "developers": ["Spectrum HoloByte", "Vadim Gerasimov", "Alexey Pajitnov"],
+        "publishers": ["Spectrum HoloByte", "Nintendo", "Infogrames", "Mirrorsoft", "DR Korea", "Tandy", "Bullet-Proof Software", "AcademySoft", "Philips Interactive Media, Inc.", "Sega", "W!Games"],
+        "genre": ["Arcade", "Puzzle", "Strategy"],
+        "theme": ["Abstract"],
+        "perspective": ["Side view"],
+        "designer": ["Alexey Pajitnov"],
+        "composer": ["trad."],
+        "hltb": 6
+
+    },
+    "Super Bomberman 2 (1994)":
+    {
+        "id": 3,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["SNES"],
+        "developers": ["Hudson Soft"],
+        "publishers": ["Hudson Soft"],
+        "genre": ["Arcade", "Strategy", "Tactical"],
+        "theme": ["Action", "Historical", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Takayuki Hirai"],
+        "composer": ["Yasuhiko Fukuda"],
+        "hltb": 5
+    },
+    "Sid Meier's Civilization (1991)":
+    {
+        "id": 4,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "SNES", "PSX", "DOS", "Atari ST", "Win"],
+        "developers": ["MicroProse", "Koei"],
+        "publishers": ["MicroProse"],
+        "genre": ["Strategy", "Turn-Based Strategy"],
+        "theme": ["4X"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Sid Meier", "Bruce Shelley"],
+        "composer": ["Jeffery L. Briggs"],
+        "hltb": 50
+        
+    },
+    "Super Mario Bros. (1985)":
+    {
+        "id": 5,
+        "year": 1985,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Shigeru Miyamoto", "Takashi Tezuka"],
+        "composer": ["Koji Kondo"],
+        "hltb": 2
+    },
+    "Virtua Fighter 2 (1994)":
+    {
+        "id": 6,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Saturn", "Xbox 360", "PS2", "Wii", "PS3", "Arcade", "Win"],
+        "developers": ["Sega", "3D Ages"],
+        "publishers": ["Sega"],
+        "genre": ["Arcade", "Fighting", "Simulator"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Yu Suzuki", "Kazuhiro Izaki"],
+        "composer": ["Takenobu Mitsuyoshi", "Takayuki Nakamura", "Akiko Hashimoto"],
+        "hltb": 4
+    },
+    "Street Fighter II (1991)":
+    {
+        "id": 7,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["Amstrad CPC", "Amiga", "ZX Spectrum", "SNES", "DOS", "C64/128", "GB", "Atari ST", "Arcade", "Win"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom", "U.S. Gold"],
+        "genre": ["Arcade", "Fighting"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Akira Nishitani", "Akira Yasuda"],
+        "composer": ["Yoko Shimomura", "Isao Abe"],
+        "hltb": 9
+    },
+    "Lemmings (1991)":
+    {
+        "id": 8,
+        "year": 1991,
+        "country": ["GBR"],
+        "platforms": ["CD32", "Mega Drive", "Amstrad CPC", "Amiga", "NES", "SNES", "DOS", "Game Gear", "3DO", "Lynx", "SMS", "PS3", "Atari ST"],
+        "developers": ["DMA Design"],
+        "publishers": ["Sunsoft", "Psygnosis"],
+        "genre": ["Platform", "Puzzle", "Strategy"],
+        "theme": ["Action", "Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["David Jones"],
+        "composer": ["Tim Wright", "Brian Johnston"],
+        "hltb": 23
+    },
+    "Quake (1996)":
+    {
+        "id": 9,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Sega Saturn", "Linux", "Amiga", "Mac", "DOS", "Mobile", "N64", "Win", "Zeebo"],
+        "developers": ["id Software"],
+        "publishers": ["MacSoft Games", "Sega", "id Software", "Midway", "GT Interactive", "Pulse Interactive", "PXL computers", "R-Comp Interactive"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Comedy", "Historical", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["John Romero", "American McGee", "Sandy Petersen", "Tim Willits"],
+        "composer": ["Trent Reznor", "Nine Inch Nails"],
+        "hltb": 7
+    },
+    "Warcraft II: Tides of Darkness (1995)":
+    {
+        "id": 10,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Saturn", "Mac", "PSX", "DOS", "Win"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Blizzard Entertainment", "Electronic Arts"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Ron Millar"],
+        "composer": ["Glenn Stafford"],
+        "hltb": 26
+    },
+    "Virtua Racing (1992)":
+    {
+        "id": 11,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Arcade"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Yu Suzuki"],
+        "composer": ["Takenobu Mitsuyoshi", "Naofumi Hataya"],
+        "hltb": 4
+    },
+    "Ms. Pac-Man (1982)":
+    {
+        "id": 12,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "TI-99", "Mega Drive", "NES", "ZX Spectrum", "Atari 2600", "SNES", "DOS", "C64/128", "Game Gear", "Lynx", "SMS", "Atari 5200", "Atari 7800", "VIC-20", "Apple II", "Arcade"],
+        "developers": ["General Computer Corporation"],
+        "publishers": ["Atari", "Williams", "Tengen", "Namco", "Midway"],
+        "genre": ["Arcade", "Puzzle"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Steve Golson"],
+        "composer": ["Chris Rode"],
+        "hltb": 2
+    },
+    "Defender (1981)":
+    {
+        "id": 13,
+        "year": 1981,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "TI-99", "Mac", "Atari 2600", "DOS", "C64/128", "Atari 5200", "Intellivision", "ColecoVision", "Web browser", "VIC-20", "Apple II", "Arcade"],
+        "developers": ["Williams"],
+        "publishers": ["Shockwave", "Sears", "Atari", "Williams"],
+        "genre": ["Shooter", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Eugene Jarvis", "Larry DeMar"],
+        "composer": ["Unknown"],
+        "hltb": 2
+    },
+    "Elite (1984)":
+    {
+        "id": 14,
+        "year": 1984,
+        "country": ["GBR"],
+        "platforms": ["MSX", "Acorn Archimedes", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "DOS", "C64/128", "BBC", "Apple II", "Acorn Electron", "Tatung Einstein", "Atari ST"],
+        "developers": ["Acornsoft"],
+        "publishers": ["Acornsoft", "Hybrid Technology", "Firebird", "Merlin Software", "Imagineer"],
+        "genre": ["Shooter", "Simulator", "Strategy"],
+        "theme": ["Action", "Business", "Sandbox", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["David Braben", "Ian Bell"],
+        "composer": ["Aidan Bell", "Johann Strauss", "David Whittaker", "Wally Beben", "Julie Dunn"],
+        "hltb": 100
+    },
+    "Marble Madness (1984)":
+    {
+        "id": 15,
+        "year": 1984,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "GBC", "Amiga", "NES", "DOS", "C64/128", "GB", "Game Gear", "SMS", "FM Towns", "Apple II", "Apple IIGS", "Sharp X68000", "PC-98", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Electronic Arts", "Midway", "Virgin", "Mindscape", "Milton Bradley", "Atari", "Home Data", "Tengen"],
+        "genre": ["Arcade", "Platform", "Puzzle", "Racing", "Strategy"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Mark Cerny"],
+        "composer": ["Brad Fuller", "Hal Canon"],
+        "hltb": 2
+    },
+    "Populous (1989)":
+    {
+        "id": 16,
+        "year": 1989,
+        "country": ["GBR"],
+        "platforms": ["Mega Drive", "Acorn Archimedes", "Amiga", "Mac", "SNES", "DOS", "SMS", "TurboGrafx-16", "Sharp X68000", "PC-98", "Atari ST"],
+        "developers": ["Bullfrog"],
+        "publishers": ["Electronic Arts", "Hudson Soft", "Imagineer"],
+        "genre": ["Real Time Strategy", "Simulator", "Strategy"],
+        "theme": ["Business", "Fantasy"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Peter Molyneux", "Glenn Corpes", "Kevin Donkin", "Les Edgar"],
+        "composer": ["David Hanlon", "Rob Hubbard"],
+        "hltb": 36
+    },
+    "Final Fantasy (1987)":
+    {
+        "id": 17,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["MSX2", "NES", "Wii"],
+        "developers": ["Square"],
+        "publishers": ["Microcabin", "Nintendo", "Square"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Hironobu Sakaguchi", "Hiromichi Tanaka", "Akitoshi Kawazu", "Koichi Ishii"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 23
+    },
+    "Micro Machines (1991)":
+    {
+        "id": 18,
+        "year": 1991,
+        "country": ["GBR"],
+        "platforms": ["Mega Drive", "Amiga", "NES", "SNES", "DOS", "GB", "Game Gear", "SMS", "Philips CD-i"],
+        "developers": ["Mindscape", "Codemasters"],
+        "publishers": ["Camerica", "Ocean Software"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Andrew Graham"],
+        "composer": ["Matt Gray"],
+        "hltb": 8
+    },
+    "Doom (1993)":
+    {
+        "id": 19,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Xbox One", "Saturn", "PS4", "Xbox 360", "Linux", "Mac", "GBA", "Mega Drive", "iOS", "Jaguar", "SNES", "PSX", "DOS", "3DO", "Win", "Switch"],
+        "developers": ["id Software"],
+        "publishers": ["Bethesda", "Atari", "Soft Bank", "Ocean Software", "Bashou House", "Imagineer", "Art Data Interactive", "GT Interactive", "Activision", "Sega", "id Software", "Williams"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["John Romero", "Tom Hall", "Sandy Petersen"],
+        "composer": ["Robert Prince"],
+        "hltb": 7
+    },
+    "Sonic the Hedgehog (1991)":
+    {
+        "id": 20,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["Android", "Mega Drive", "Xbox 360", "iOS", "Wii", "PS3", "Win"],
+        "developers": ["Sonic Team"],
+        "publishers": ["Sega", "Tectoy"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Hirokazu Yasuhara"],
+        "composer": ["Masato Nakamura"],
+        "hltb": 2
+    },
+    "Daytona USA (1994)":
+    {
+        "id": 21,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "PS3", "Arcade", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Racing"],
+        "theme": ["Motorsports"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Toshihiro Nagoshi","Makoto Osaki", "Yukinobu Arikawa"],
+        "composer": ["Takenobu Mitsuyoshi"],
+        "hltb": 2
+    },
+    "Tekken 2 (1995)":
+    {
+        "id": 22,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["PS2", "PSP", "PSX", "Vita", "PS3", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco", "Sony"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Seiichi Ishii"],
+        "composer": ["Yoshie Arakawa", "Yoshie Takayanagi"],
+        "hltb": 6
+    },
+    "Star Wars: X-Wing (1993)":
+    {
+        "id": 23,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS"],
+        "developers": ["Totally Games"],
+        "publishers": ["LucasArts"],
+        "genre": ["Shooter", "Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Lawrence Holland", "Edard Kilham"],
+        "composer": ["Peter McConnell"],
+        "hltb": 24
+    },
+    "The Lurking Horror (1987)":
+    {
+        "id": 24,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "Amstrad CPC", "Amiga", "Mac", "DOS", "C64/128", "Apple II", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure"],
+        "theme": ["Horror"],
+        "perspective": ["Text"],
+        "designer": ["Dave Lebling"],
+        "composer": ["Unknown"],
+        "hltb": 9
+    },
+    "Nights into Dreams... (1996)":
+    {
+        "id": 25,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "Xbox 360", "PS2", "PS3", "Win"],
+        "developers": ["Sonic Team"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person", "Side view"],
+        "designer": ["Naoto Ohshima", "Takashi Iizuka"],
+        "composer": ["Naofumi Hataya", "Tomoko Sasaki", "Fumie Kumatani"],
+        "hltb": 4
+    },
+    "X-COM: UFO Defense (1994)":
+    {
+        "id": 26,
+        "year": 1994,
+        "country": ["GBR", "USA"],
+        "platforms": ["Amiga", "PSX", "DOS", "Win"],
+        "developers": ["MicroProse", "Mythos Games"],
+        "publishers": ["MicroProse", "Spectrum HoloByte"],
+        "genre": ["Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Horror", "Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Julian Gollop", "Nick Gollop"],
+        "composer": ["John Broomhall"],
+        "hltb": 42
+    },
+    "Sam & Max Hit the Road (1993)":
+    {
+        "id": 27,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "DOS", "Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["Activision", "LucasArts"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Sean Clark", "Mike Stemmle", "Collette Michaud", "Steve Purcell"],
+        "composer": ["Clint Bajakian", "Peter McConnell", "Michael Z. Land"],
+        "hltb": 6
+    },
+    "NFL GameDay (1996)":
+    {
+        "id": 28,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["PSX"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Kelly Walker", "Amir Zbeda"],
+        "composer": ["The Pinnacle Group"],
+        "hltb": 20
+    },
+    "Syndicate (1993)":
+    {
+        "id": 29,
+        "year": 1993,
+        "country": ["GBR"],
+        "platforms": ["CD32", "Mega Drive", "Amiga", "Mac", "PSP", "Jaguar", "SNES", "DOS", "3DO", "FM Towns"],
+        "developers": ["Bullfrog"],
+        "publishers": ["Mindscape", "Electronic Arts"],
+        "genre": ["Strategy", "Tactical"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Sean Cooper"],
+        "composer": ["Russell Shaw"],
+        "hltb": 13
+    },
+    "Sid Meier's Civilization II (1996)":
+    {
+        "id": 30,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Mac", "PSX", "Win"],
+        "developers": ["MicroProse"],
+        "publishers": ["MicroProse"],
+        "genre": ["Strategy", "Turn-Based Strategy"],
+        "theme": ["4X"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Brian Reynolds", "Jason S. Coleman", "Chris Taormino"],
+        "composer": ["Jeffery L. Briggs", "Roland J. Rizzo", "Kevin Manthei"],
+        "hltb": 50
+    },
+    "Super Mario Bros. 2 (1988)":
+    {
+        "id": 31,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Arcade", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Kensuke Tanabe", "Yasunori Taketani", "Toshio Iwawaki"],
+        "composer": ["Koji Kondo"],
+        "hltb": 4
+    },
+    "Super Mario Bros. 3 (1988)":
+    {
+        "id": 32,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Shigeru Miyamoto", "Takashi Tezuka", "Katsuya Eguchi", "Hideki Konno", "Kensuke Tanabe"],
+        "composer": ["Koji Kondo"],
+        "hltb": 6
+    },
+    "Super Mario World (1990)":
+    {
+        "id": 33,
+        "year": 1990,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Takashi Tezuka", "Katsuya Eguchi", "Hideki Konno"],
+        "composer": ["Koji Kondo"],
+        "hltb": 8
+    },
+    "Populous II: Trials of the Olympian Gods (1991)":
+    {
+        "id": 34,
+        "year": 1991,
+        "country": ["GBR"],
+        "platforms": ["Mega Drive", "Amiga", "SNES", "DOS"],
+        "developers": ["Bullfrog"],
+        "publishers": ["Imagineer", "PanelComp", "Electronic Arts"],
+        "genre": ["Real Time Strategy", "Simulator", "Strategy"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Peter Molyneux", "Glenn Corpes"],
+        "composer": ["Charles Callet"],
+        "hltb": 12
+    },
+    "Final Fantasy V (1992)":
+    {
+        "id": 35,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["SNES", "PSX", "Wii"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Open world"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Hironobu Sakaguchi", "Hiroyuki Ito"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 37
+    },
+    "Final Fantasy VI (1994)":
+    {
+        "id": 36,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["SNES", "PSX", "Wii", "Win"],
+        "developers": ["Square", "Tose"],
+        "publishers": ["Square", "Nintendo", "Sony"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Open world", "Sandbox"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Yoshinori Kitase", "Hiroyuki Ito"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 42
+    },
+    "Sonic the Hedgehog 2 (1992)":
+    {
+        "id": 37,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "3DS", "Wii U", "Xbox 360", "Wii", "PS3", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Masaharu Yoshii", "Hirokazu Yasuhara", "Takahiro Anto", "Yutaka Sugano"],
+        "composer": ["Masato Nakamura"],
+        "hltb": 3
+    },
+    "Sonic the Hedgehog 3 (1994)":
+    {
+        "id": 38,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Xbox 360", "Wii"],
+        "developers": ["Sonic Team"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Hirokazu Yasuhara", "Hisayoshi Yoshida", "Takashi Iizuka"],
+        "composer": ["Brad Buxer", "Michael Jackson", "Cirocco Jones", "Bobby Brooks", "Darryl Ross", "Geoff Grace", "Doug Grigsby", "Sachio Ogawa", "Tatsuyuki Maeda", "Jun Senoue"],
+        "hltb": 3
+    },
+    "Star Wars: TIE Fighter (1994)":
+    {
+        "id": 39,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS"],
+        "developers": ["Totally Games"],
+        "publishers": ["LucasArts"],
+        "genre": ["Shooter", "Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Lawrence Holland", "Edard Kilham"],
+        "composer": ["Peter McConnell"],
+        "hltb": 23
+    },
+    "John Madden Football (1990)":
+    {
+        "id": 40,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Mega Drive"],
+        "developers": ["Park Place Productions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Troy Lyndon", "Michael Knox", "Scott Orr", "Richard Hilleman", "Jim Simmons"],
+        "composer": ["Rob Hubbard"],
+        "hltb": 10
+    },
+    "John Madden Football '92 (1991)":
+    {
+        "id": 41,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES"],
+        "developers": ["Park Place Productions", "Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Non-fiction", "American Football"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["John Madden"],
+        "composer": ["Michael Bartlow"],
+        "hltb": 2
+    },
+    "John Madden Football '93 (1992)":
+    {
+        "id": 42,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES"],
+        "developers": ["Blue Sky Productions", "Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Non-fiction", "American Football"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Scott Orr"],
+        "composer": ["Rob Hubbard"],
+        "hltb": 10
+    },
+    "Madden NFL '94 (1993)":
+    {
+        "id": 43,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES"],
+        "developers": ["Visual Concepts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Non-fiction", "American Football", "Action"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Michael Kosaka", "Happy Keller"],
+        "composer": ["Brian L. Schmidt"],
+        "hltb": 10
+    },
+    "Madden NFL 95 (1994)":
+    {
+        "id": 44,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES"],
+        "developers": ["Visual Concepts", "Halestorm", "High Score Productions", "Tiertex"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Action", "American Football", "Non-fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Happy Keller", "Michael Rubinelli", "Gordon Bellamy"],
+        "composer": ["Joel Simmons", "Jim Simmons"],
+        "hltb": 10
+    },
+    "Madden NFL 96 (1995)":
+    {
+        "id": 45,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES", "GB", "Game Gear", "Win"],
+        "developers": ["Tiburon Entertainment", "High Score Productions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Non-fiction", "Action", "American Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Michael Rubinelli", "Gordon Bellamy"],
+        "composer": ["Tommy Tallarico"],
+        "hltb": 10
+    },
+    "Herzog Zwei (1989)":
+    {
+        "id": 46,
+        "year": 1989,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive"],
+        "developers": ["Technosoft"],
+        "publishers": ["Technosoft", "Sega"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Osamu Tsujikawa", "Izumi Fukuda"],
+        "composer": ["Naosuke Arai", "Tomomi Ōtani"],
+        "hltb": 23
+    },
+    "Wipeout 2097 (1996)":
+    {
+        "id": 47,
+        "year": 1996,
+        "country": ["GBR"],
+        "platforms": ["Saturn", "Amiga", "Mac", "PSX", "Win"],
+        "developers": ["Psygnosis"],
+        "publishers": ["Psygnosis"],
+        "genre": ["Racing"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Nick Burcombe"],
+        "composer": ["Tim Wright"],
+        "hltb": 4
+    },
+    "SimCity 2000 (1993)":
+    {
+        "id": 48,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Saturn", "Amiga", "Mac", "SNES", "PSX", "DOS", "N64", "Win"],
+        "developers": ["Maxis"],
+        "publishers": ["Maxis", "Electronic Arts", "Zoo Digital", "DSI Games"],
+        "genre": ["Simulator", "Strategy"],
+        "theme": ["Business", "Sandbox"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Will Wright", "Fred Haslam"],
+        "composer": ["Sue Kasper", "Brian Conrad", "Justin McCormick"],
+        "hltb": 25
+    },
+    "Nobunaga's Ambition (1986)":
+    {
+        "id": 49,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["MSX", "Mega Drive", "PC-8801", "Wii U", "Amiga", "NES", "Mac", "WonderSwan", "SNES", "PSX", "DOS", "GB", "Wii", "Sharp X1", "TurboGrafx-16", "Sharp X68000"],
+        "developers": ["Koei"],
+        "publishers": ["Koei"],
+        "genre": ["RPG", "Simulator", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Historical", "Sandbox", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Kou Shibusawa"],
+        "composer": ["Unknown"],
+        "hltb": 40
+    },
+    "Nobunaga's Ambition II (1988)":
+    {
+        "id": 50,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["MSX", "PC-8801", "Saturn", "NES", "PSX", "DOS", "Sharp X1", "FM Towns", "Sharp X68000"],
+        "developers": ["Koei"],
+        "publishers": ["Koei"],
+        "genre": ["Simulator", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Historical", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Kou Shibusawa"],
+        "composer": ["Unknown"],
+        "hltb": 40
+    },
+    "Duke Nukem 3D (1996)":
+    {
+        "id": 51,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Saturn", "PS4", "Xbox 360", "Mac", "iOS", "PSX", "DOS", "Vita", "PS3", "Win"],
+        "developers": ["Lobotomy Software", "Abstraction Games", "Aardvark Software", "3D Realms"],
+        "publishers": ["MacSoft Games", "Sega", "FormGen", "GT Interactive", "Devolver Digital", "Tec Toy Indústria de Brinquedos", "U.S. Gold", "MachineWorks Northwest", "3D Realms"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Allen H. Blum III", "Richard Gray"],
+        "composer": ["Lee Jackson", "Robert Prince"],
+        "hltb": 12
+    },
+    "Rescue Raiders (1984)":
+    {
+        "id": 52,
+        "year": 1984,
+        "country": ["USA"],
+        "platforms": ["Apple II"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech"],
+        "genre": ["Arcade", "Shooter", "Simulator", "Strategy"],
+        "theme": ["Action", "Fantasy", "Historical", "Warfare"],
+        "perspective": ["Side view"],
+        "designer": ["Arthur Britto", "Greg Hale"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Super Mario Kart (1992)":
+    {
+        "id": 53,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "3DS", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Arcade", "Racing"],
+        "theme": ["Action", "Party"],
+        "perspective": ["Third person"],
+        "designer": ["Tadashi Sugiyama", "Hideki Konno"],
+        "composer": ["Soyo Oka"],
+        "hltb": 10
+    },
+    "Zork I: The Great Underground Empire (1980)":
+    {
+        "id": 54,
+        "year": 1980,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "C16", "Amstrad PCW", "Amstrad CPC", "Amiga", "Mac", "DOS", "C64/128", "TRS-80", "Plus/4", "Apple II", "PC-98", "Tatung Einstein", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Commodore", "Personal Software", "Infocom", "SystemSoft"],
+        "genre": ["Adventure"],
+        "theme": ["Fantasy"],
+        "perspective": ["Text"],
+        "designer": ["Tim Anderson", "Marc Blank", "Dave Lebling", "Bruce Daniels"],
+        "composer": ["Unknown"],
+        "hltb": 4
+    },
+    "Zork II: The Wizard of Frobozz (1981)":
+    {
+        "id": 55,
+        "year": 1981,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "C16", "Amstrad PCW", "Amstrad CPC", "Amiga", "Mac", "DOS", "C64/128", "TRS-80", "Plus/4", "Apple II", "Tatung Einstein", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure"],
+        "theme": ["Fantasy"],
+        "perspective": ["Text"],
+        "designer": ["Tim Anderson", "Marc Blank", "Dave Lebling", "Bruce Daniels"],
+        "composer": ["Unknown"],
+        "hltb": 3
+    },
+    "Zork III: The Dungeon Master (1982)":
+    {
+        "id": 56,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "C16", "Amstrad PCW", "Amstrad CPC", "Amiga", "DOS", "C64/128", "TRS-80", "Plus/4", "Apple II", "Tatung Einstein", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure"],
+        "theme": ["Fantasy"],
+        "perspective": ["Text"],
+        "designer": ["Tim Anderson", "Marc Blank", "Dave Lebling", "Bruce Daniels"],
+        "composer": ["Unknown"],
+        "hltb": 3
+    },
+    "Beyond Zork: The Coconut of Quendor (1987)":
+    {
+        "id": 57,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "C64/128", "Apple II", "Apple IIGS", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Text"],
+        "designer": ["Brian Moriarty"],
+        "composer": ["Unknown"],
+        "hltb": 14
+    },
+    "Zork Zero: The Revenge of Megaboz (1988)":
+    {
+        "id": 58,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "Apple II"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure"],
+        "theme": ["Fantasy"],
+        "perspective": ["Text"],
+        "designer": ["Steve Meretzky"],
+        "composer": ["Unknown"],
+        "hltb": 5
+    },
+    "Asteroids (1979)":
+    {
+        "id": 59,
+        "year": 1979,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "Atari 2600", "Atari 7800", "Apple II", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Taito", "Sega", "Atari", "Adventure International"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Lyle Rains", "Ed Logg"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "NHL Powerplay '96 (1996)":
+    {
+        "id": 60,
+        "year": 1996,
+        "country": ["CAN"],
+        "platforms": ["Saturn", "PSX", "Win"],
+        "developers": ["Radical Entertainment"],
+        "publishers": ["Virgin"],
+        "genre": ["Sport"],
+        "theme": ["Ice Hockey"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Robertson"],
+        "composer": ["Marc Baril"],
+        "hltb": 20
+    },
+    "Blockade (1976)":
+    {
+        "id": 61,
+        "year": 1976,
+        "country": ["USA"],
+        "platforms": ["Arcade"],
+        "developers": ["Gremlin"],
+        "publishers": ["Sega"],
+        "genre": ["Arcade", "Puzzle", "Strategy"],
+        "theme": ["Abstract"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Lane Hauck", "Ago Kiss", "Bob Pecarero"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "EF 2000 (1995)":
+    {
+        "id": 62,
+        "year": 1995,
+        "country": ["GBR"],
+        "platforms": ["Win"],
+        "developers": ["Digital Image Design"],
+        "publishers": ["Ocean Software"],
+        "genre": ["Simulator"],
+        "theme": ["Flight", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Martin Kenwright", "Shaun Hollywood"],
+        "composer": ["Robin Anderson"],
+        "hltb": 10
+    },
+    "Rolling Thunder (1986)":
+    {
+        "id": 63,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "C64/128", "Wii", "Atari ST", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco", "Tengen", "U.S. Gold"],
+        "genre": ["Platform", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Unknown"],
+        "composer": ["Junko Ozawa"],
+        "hltb": 2
+    },
+    "Spectre VR (1993)":
+    {
+        "id": 64,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS", "Mac", "Win"],
+        "developers": ["Green Dragon Creations", "Velocity"],
+        "publishers": ["Velocity"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Howard Shere", "Moses Ma"],
+        "composer": ["Morey Goldstein", "Moses Ma", "Kyle Johnson"],
+        "hltb": 10
+    },
+    "OutRun (1986)":
+    {
+        "id": 65,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["MSX", "Mega Drive", "Saturn", "Amstrad CPC", "Amiga", "ZX Spectrum", "DOS", "C64/128", "Game Gear", "SMS", "TurboGrafx-16", "Atari ST", "Arcade"],
+        "developers": ["Sega"],
+        "publishers": ["U.S. Gold", "Mindscape", "NEC Avenue", "Sega"],
+        "genre": ["Arcade", "Racing"],
+        "theme": ["Action", "Non-fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Yu Suzuki"],
+        "composer": ["Hiroshi Kawaguchi"],
+        "hltb": 2
+    },
+    "Grand Prix II (1996)":
+    {
+        "id": 66,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["MicroProse"],
+        "publishers": ["MicroProse"],
+        "genre": ["Racing", "Simulator", "Sport"],
+        "theme": ["Non-fiction"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Geoff Crammond"],
+        "composer": ["John Broomhall", "Andrew Parton"],
+        "hltb": 15
+    },
+    "Sega Worldwide Soccer '97 (1996)":
+    {
+        "id": 67,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Saturn"],
+        "developers": ["Team Aquila"],
+        "publishers": ["Sega"],
+        "genre": ["Sport"],
+        "theme": ["Football"],
+        "perspective": ["Third person", "Bird view / Isometric"],
+        "designer": ["Toshinori Asai"],
+        "composer": ["Jun Senoue", "Seirou Okamoto"],
+        "hltb": 9
+    },
+    "World Series Baseball (1995)":
+    {
+        "id": 68,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["Saturn"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Sport"],
+        "theme": ["Baseball"],
+        "perspective": ["Third person"],
+        "designer": ["Tomoko Hasegawa", "Yoshiaki Kitagawa"],
+        "composer": ["Katsuyoshi Nitta", "Miki Obata"],
+        "hltb": 20
+    },
+    "Command & Conquer (1995)":
+    {
+        "id": 69,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Saturn", "Mac", "PSX", "DOS", "N64", "Win"],
+        "developers": ["Westwood Studios"],
+        "publishers": ["Virgin", "Nintendo", "Sega"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Erik Yeo"],
+        "composer": ["Frank Klepacki"],
+        "hltb": 23
+    },
+    "Donkey Kong (1981)":
+    {
+        "id": 70,
+        "year": 1981,
+        "country": ["JPN"],
+        "platforms": ["Atari 8-bit", "TI-99", "MSX", "Amstrad CPC", "ZX Spectrum", "DOS", "C64/128", "Intellivision", "ColecoVision", "Atari 7800", "VIC-20", "Arcade"],
+        "developers": ["Nintendo"],
+        "publishers": ["Ocean Software", "Atari", "Coleco", "Nintendo"],
+        "genre": ["Arcade", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Shigeru Miyamoto", "Gunpei Yokoi"],
+        "composer": ["Yukio Kaneoka"],
+        "hltb": 1
+    },
+    "Panzer General (1994)":
+    {
+        "id": 71,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["DOS", "3DO"],
+        "developers": ["Strategic Simulations"],
+        "publishers": ["Strategic Simulations"],
+        "genre": ["Strategy", "Turn-Based Strategy"],
+        "theme": ["Warfare", "Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Joel Billings", "Charles J. Kroegel Jr."],
+        "composer": ["Doug Brandon"],
+        "hltb": 50
+    },
+    "Spaceward Ho! (1990)":
+    {
+        "id": 72,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS", "Mac", "Win"],
+        "developers": ["Delta Tao Software"],
+        "publishers": ["New World Computing"],
+        "genre": ["Strategy", "Tactical", "Simulator"],
+        "theme": ["4X", "Business"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Joe Williams", "Peter Commons"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "The Sentinel (1986)":
+    {
+        "id": 73,
+        "year": 1986,
+        "country": ["GBR"],
+        "platforms": ["Amstrad CPC", "Amiga", "ZX Spectrum", "DOS", "C64/128", "BBC", "Atari ST"],
+        "developers": ["Geoff Crammond"],
+        "publishers": ["Firebird"],
+        "genre": ["Puzzle", "Strategy", "Tactical"],
+        "theme": ["Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Geoff Crammond"],
+        "composer": ["Unknown"],
+        "hltb": 79
+    },
+    "MechWarrior 2: 31st Century Combat (1995)":
+    {
+        "id": 74,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS", "Win"],
+        "developers": ["Activision"],
+        "publishers": ["Activision"],
+        "genre": ["Shooter", "Simulator", "Tactical"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Sran Vesce", "Zachary Norman"],
+        "composer": ["Gregory Alper", "Jeehun Hwang"],
+        "hltb": 9
+    },
+    "Ultima I: The First Age of Darkness (1981)":
+    {
+        "id": 75,
+        "year": 1981,
+        "country": ["USA"],
+        "platforms": ["MSX2", "Atari 8-bit", "DOS", "C64/128", "FM Towns", "Apple II", "Apple IIGS"],
+        "developers": ["Origin"],
+        "publishers": ["Electronic Arts", "California Pacific Computer", "Pony Canyon", "Sierra", "Fujitsu", "Vitesse", "Origin"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy", "Open world"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Richard Garriott", "Kenneth W. Arnold"],
+        "composer": ["Unknown"],
+        "hltb": 8
+    },
+    "Akalabeth: World of Doom (1980)":
+    {
+        "id": 76,
+        "year": 1980,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "iOS", "DOS", "Apple II", "Win"],
+        "developers": ["Richard Garriott"],
+        "publishers": ["California Pacific Computer", "Quantum Toast"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Richard Garriott"],
+        "composer": ["Unknown"],
+        "hltb": 4
+    },
+    "Ultima II: The Revenge of the Enchantress (1982)":
+    {
+        "id": 77,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["MSX2", "Atari 8-bit", "PC-8801", "Mac", "DOS", "C64/128", "FM-7", "Apple II", "PC-98", "Atari ST"],
+        "developers": ["Origin"],
+        "publishers": ["StarCraft", "Sierra", "Pony Canyon"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Richard Garriott"],
+        "composer": ["Unknown"],
+        "hltb": 12
+    },
+    "Ultima III: Exodus (1983)":
+    {
+        "id": 78,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "PC-8801", "Amiga", "NES", "Mac", "DOS", "C64/128", "Sharp X1", "FM-7", "Apple II", "PC-98", "Atari ST"],
+        "developers": ["Origin"],
+        "publishers": ["Pony Canyon", "StarCraft", "Origin"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Richard Garriott"],
+        "composer": ["Kenneth W. Arnold"],
+        "hltb": 27
+    },
+    "Ultima IV: Quest of the Avatar (1985)":
+    {
+        "id": 79,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "PC-8801", "Amiga", "NES", "Mac", "iOS", "DOS", "C64/128", "SMS", "Sharp X1", "FM Towns", "FM-7", "Apple II", "Sharp X68000", "PC-98", "Atari ST", "Win"],
+        "developers": ["Origin"],
+        "publishers": ["Electronic Arts", "Sega", "U.S. Gold", "MicroProse", "Fujitsu", "Pony Canyon", "Origin", "FCI", "Tec Toy Indústria de Brinquedos"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Richard Garriott"],
+        "composer": ["Kenneth W. Arnold"],
+        "hltb": 30
+    },
+    "Ultima V: Warriors of Destiny (1988)":
+    {
+        "id": 80,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["Amiga", "NES", "DOS", "C64/128", "FM Towns", "Apple II", "Sharp X68000", "Atari ST"],
+        "developers": ["Origin"],
+        "publishers": ["FCI", "Origin", "Pony Canyon", "Fujitsu"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Richard Garriott"],
+        "composer": ["Kenneth W. Arnold", "David R. Watson"],
+        "hltb": 49
+    },
+    "Ultima VI: The False Prophet (1990)":
+    {
+        "id": 81,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Amiga", "SNES", "DOS", "C64/128", "FM Towns", "Sharp X68000", "PC-98", "Atari ST"],
+        "developers": ["Origin"],
+        "publishers": ["Pony Canyon", "Fujitsu", "Origin", "Mindscape"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Richard Garriott", "Warren Spector"],
+        "composer": ["Todd Poster", "Herman Miller"],
+        "hltb": 40
+    },
+    "Ultima Underworld: The Stygian Abyss (1992)":
+    {
+        "id": 82,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Looking Glass"],
+        "publishers": ["Origin"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Paul Neurath"],
+        "composer": ["George Sanger", "Dave Govett"],
+        "hltb": 31
+    },
+    "Ultima VII: The Black Gate (1992)":
+    {
+        "id": 83,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Origin"],
+        "publishers": ["Origin"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Richard Garriott"],
+        "composer": ["Dana Karl Glover", "Kirk Winterrowd", "Herman Miller"],
+        "hltb": 60
+    },
+    "Ultima Underworld II: Labyrinth of Worlds (1993)":
+    {
+        "id": 84,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Looking Glass"],
+        "publishers": ["Origin"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Paul Neurath", "Doug Church", "Tim Stellmach"],
+        "composer": ["Jon Blackley", "Dan Schmidt"],
+        "hltb": 26
+    },
+    "Ultima VII: Part Two - Serpent Isle (1993)":
+    {
+        "id": 85,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Origin"],
+        "publishers": ["Origin"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Bill Armintrout"],
+        "composer": ["Dana Karl Glover", "Marc Schaefgen"],
+        "hltb": 59
+    },
+    "Ultima VIII: Pagan (1994)":
+    {
+        "id": 86,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Origin"],
+        "publishers": ["Origin"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Andrew P. Morris", "John Watson"],
+        "composer": ["Nenad Vugrinec"],
+        "hltb": 33
+    },
+    "Dragon Quest (1986)":
+    {
+        "id": 87,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["Android", "MSX", "3DS", "PS4", "NES", "iOS", "Mobile", "Switch"],
+        "developers": ["UIEvolution", "Chunsoft", "Armor Project"],
+        "publishers": ["Nintendo", "Enix", "Square"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Historical", "Sandbox"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Koichi Nakamura", "Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+        "hltb": 11
+    },
+    "Dragon Quest II: Luminaries of the Legendary Line (1987)":
+    {
+        "id": 88,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["Android", "MSX2", "MSX", "3DS", "PS4", "NES", "iOS", "Mobile", "Switch"],
+        "developers": ["Chunsoft"],
+        "publishers": ["Square", "Enix"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Koichi Nakamura", "Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+        "hltb": 18
+    },
+    "Dragon Quest III: The Seeds of Salvation (1988)":
+    {
+        "id": 89,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["Android", "3DS", "PS4", "GBC", "NES", "iOS", "SNES", "Mobile", "Switch"],
+        "developers": ["Heartbeat", "Tose", "Chunsoft"],
+        "publishers": ["Square", "Enix"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Historical", "Sandbox"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Koichi Nakamura", "Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+        "hltb": 33
+    },
+    "Dragon Quest IV: Chapters of the Chosen (1990)":
+    {
+        "id": 90,
+        "year": 1990,
+        "country": ["JPN"],
+        "platforms": ["NES"],
+        "developers": ["Chunsoft"],
+        "publishers": ["Enix"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Koichi Nakamura", "Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+        "hltb": 33
+    },
+    "Dragon Quest V: Hand of the Heavenly Bride (1992)":
+    {
+        "id": 91,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["SNES", "PS2", "DS", "Android", "iOS"],
+        "developers": ["Chunsoft"],
+        "publishers": ["Enix"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+        "hltb": 38
+    },
+    "Dragon Quest VI: Realms of Revelation (1995)":
+    {
+        "id": 92,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["SNES", "DS", "iOS", "Android"],
+        "developers": ["Heartbeat"],
+        "publishers": ["Enix"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+        "hltb": 49
+    },
+    "Sega Rally Championship (1994)":
+    {
+        "id": 93,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "PS2", "GBA", "N-Gage", "Arcade", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Motorsports"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Kenji Sasaki"],
+        "composer": ["Takenobu Mitsuyoshi"],
+        "hltb": 5
+    },
+    "Star Wars (1983)":
+    {
+        "id": 94,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "Amstrad CPC", "Amiga", "Mac", "ZX Spectrum", "Atari 2600", "DOS", "C64/128", "Atari 5200", "ColecoVision", "BBC", "Acorn Electron", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Parker Brothers", "Atari", "Brøderbund", "Domark"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Mike Hally"],
+        "composer": ["Earl Vickers"],
+        "hltb": 2
+    },
+    "Super Sprint (1986)":
+    {
+        "id": 95,
+        "year": 1986,
+        "country": ["USA"],
+        "platforms": ["Amstrad CPC", "NES", "ZX Spectrum", "C64/128", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Altron", "The Hit Squad", "Atari", "Tengen", "Electric Dreams Software"],
+        "genre": ["Arcade", "Racing"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Robert Weatherby", "Kelly Turner"],
+        "composer": ["Hal Canon", "Brad Fuller"],
+        "hltb": 1
+    },
+    "Wizardry: Proving Grounds of the Mad Overlord (1981)":
+    {
+        "id": 96,
+        "year": 1981,
+        "country": ["USA"],
+        "platforms": ["MSX", "PC-8801", "GBC", "NES", "Mac", "DOS", "C64/128", "Sharp X1", "FM-7", "Apple II", "PC-98", "WonderSwan"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech", "Bandai", "ASCII"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Andrew C. Greenberg", "Robert Woodhead"],
+        "composer": ["Unknown"],
+        "hltb": 41
+    },
+    "Wizardry II: The Knight of Diamonds (1982)":
+    {
+        "id": 97,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["PC-8801", "GBC", "NES", "Mac", "DOS", "C64/128", "Sharp X1", "FM-7", "Apple II", "PC-98"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech", "ASCII"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Andrew C. Greenberg", "Robert Woodhead"],
+        "composer": ["Unknown"],
+        "hltb": 28
+    },
+    "Wizardry III: Legacy of Llylgamyn (1983)":
+    {
+        "id": 98,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["PC-8801", "GBC", "NES", "DOS", "C64/128", "Sharp X1", "FM-7", "Apple II", "PC-98"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech", "ASCII"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Andrew C. Greenberg", "Robert Woodhead", "Robert Del Favero Jr.", "Joshua Mittleman", "Samuel Pottle"],
+        "composer": ["Unknown"],
+        "hltb": 34
+    },
+    "Wizardry IV: The Return of Werdna (1987)":
+    {
+        "id": 99,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["DOS", "Sharp X1", "Apple II"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["ASCII", "Sir-Tech"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Andrew C. Greenberg", "Robert Woodhead", "Roe. R. Adams III"],
+        "composer": ["Unknown"],
+        "hltb": 25
+    },
+    "Wizardry V: Heart of the Maelstrom (1988)":
+    {
+        "id": 100,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["PC-8801", "TurboGrafx-16", "SNES", "DOS", "C64/128", "FM Towns", "Apple II", "PC-98", "Win"],
+        "developers": ["Sir-Tech", "ASCII"],
+        "publishers": ["Sir-Tech", "Nintendo", "St. GIGA", "Capcom", "ASCII"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Drama", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Andrew C. Greenberg", "David W. Bradley"],
+        "composer": ["Unknown"],
+        "hltb": 61
+    },
+    "Wizardry VI: Bane of the Cosmic Forge (1990)":
+    {
+        "id": 101,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "SNES", "DOS", "FM Towns"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["David W. Bradley"],
+        "composer": ["Unknown"],
+        "hltb": 47
+    },
+    "Wizardry VII: Crusaders of the Dark Savant (1992)":
+    {
+        "id": 102,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "DOS", "Win"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["David W. Bradley"],
+        "composer": ["Unknown"],
+        "hltb": 99
+    },
+    "Ikari Warriors (1986)":
+    {
+        "id": 103,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["MSX", "C16", "PS4", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "PSP", "Atari 2600", "DOS", "C64/128", "Atari 7800", "Apple II", "PS3", "Atari ST", "Arcade", "Switch"],
+        "developers": ["SNK"],
+        "publishers": ["Atari", "SNK", "Elite Systems", "Data East", "Tradewest"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Koji Obada", "Keiko Iju"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "The Bard's Tale (1985)":
+    {
+        "id": 104,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["Amstrad CPC", "Amiga", "NES", "Mac", "ZX Spectrum", "DOS", "C64/128", "Apple II", "Apple IIGS", "Atari ST"],
+        "developers": ["Interplay"],
+        "publishers": ["Pony Canyon", "Electronic Arts"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Michael Cranford"],
+        "composer": ["Unknown"],
+        "hltb": 28
+    },
+    "The Bard's Tale II: The Destiny Knight (1986)":
+    {
+        "id": 105,
+        "year": 1986,
+        "country": ["USA"],
+        "platforms": ["Amiga", "NES", "DOS", "C64/128", "Apple II", "Apple IIGS"],
+        "developers": ["Interplay"],
+        "publishers": ["Pony Canyon", "Electronic Arts"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Michael Cranford"],
+        "composer": ["David Warhol"],
+        "hltb": 22
+    },
+    "The Bard's Tale III: Thief of Fate (1988)":
+    {
+        "id": 106,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS", "C64/128", "Apple II"],
+        "developers": ["Interplay"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Brian Fargo", "Rebecca Heineman", "Bruce Schlickbernd", "Michael A. Stackpole"],
+        "composer": ["Kurt Heiden"],
+        "hltb": 60
+    },
+    "Robotron: 2084 (1982)":
+    {
+        "id": 107,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "Mac", "DOS", "C64/128", "Lynx", "Atari 5200", "Atari 7800", "BBC", "VIC-20", "Apple II", "Acorn Electron", "Atari ST"],
+        "developers": ["Vid Kidz"],
+        "publishers": ["Williams", "Digital Eclipse", "Atari", "Shadowsoft"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Eugene Jarvis", "Larry DeMar"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "The Legend of Zelda (1986)":
+    {
+        "id": 108,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "GBA", "Wii", "GameCube", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Fantasy", "Open world"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Shigeru Miyamoto", "Takashi Tezuka"],
+        "composer": ["Koji Kondo"],
+        "hltb": 9
+    },
+    "Zelda II: The Adventure of Link (1987)":
+    {
+        "id": 109,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "GBA", "GameCube", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Open world"],
+        "perspective": ["Side view"],
+        "designer": ["Tadashi Sugiyama", "Kazunobu Shimizu"],
+        "composer": ["Akito Nakatsuka"],
+        "hltb": 12
+    },
+    "The Legend of Zelda: A Link to the Past (1991)":
+    {
+        "id": 110,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "GBA", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo", "St. GIGA"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Takashi Tezuka"],
+        "composer": ["Koji Kondo"],
+        "hltb": 17
+    },
+    "The Legend of Zelda: Link's Awakening (1994)":
+    {
+        "id": 111,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["GB"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Takashi Tezuka", "Yasuhisa Yamamura"],
+        "composer": ["Kazumi Totaka", "Minako Hamano", "Kozue Ishikawa"],
+        "hltb": 17
+    },
+    "Bump 'n' Jump (1982)":
+    {
+        "id": 112,
+        "year": 1982,
+        "country": ["JPN"],
+        "platforms": ["NES", "Atari 2600", "Intellivision", "ColecoVision", "Sharp X1", "Arcade"],
+        "developers": ["Data East"],
+        "publishers": ["Mattel", "Dempa Shimbunsha", "Vic Tokai", "Coleco"],
+        "genre": ["Arcade", "Racing"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Hiroaki Yoshida", "Azusa Hara"],
+        "hltb": 2
+    },
+    "A Mind Forever Voyaging (1985)":
+    {
+        "id": 113,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "C64/128", "Apple II", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Text"],
+        "designer": ["Steve Meretzky"],
+        "composer": ["Unknown"],
+        "hltb": 6
+    },
+    "F/A-18 Hornet 2.0 (1995)":
+    {
+        "id": 114,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Mac"],
+        "developers": ["Graphic Simulations"],
+        "publishers": ["Graphic Simulations"],
+        "genre": ["Simulator"],
+        "theme": ["Warfare", "Flight"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Trey Smith", "Jeffrey Morgan"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "Pong (1972)":
+    {
+        "id": 115,
+        "year": 1972,
+        "country": ["USA"],
+        "platforms": ["AY-3-8500", "Fairchild Channel F", "AY-3-8610", "Arcade"],
+        "developers": ["Atari", "General Instrument Microelectronic", "Fairchild Semiconductor"],
+        "publishers": ["Atari", "Fairchild Semiconductor"],
+        "genre": ["Arcade", "Simulator", "Sport"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Allan Alcorn"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "Links: The Challenge of Golf (1991)":
+    {
+        "id": 116,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Sega CD", "DOS"],
+        "developers": ["Access Software"],
+        "publishers": ["Virgin", "Access Software"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Golf"],
+        "perspective": ["Third person"],
+        "designer": ["Vance Cook"],
+        "composer": ["Brent Erickson"],
+        "hltb": 15
+    },
+    "Metroid (1986)":
+    {
+        "id": 117,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "Wii", "Arcade", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Satoru Okada"],
+        "composer": ["Hirokazu Tanaka"],
+        "hltb": 7
+    },
+    "Metroid II: Return of Samus (1991)":
+    {
+        "id": 118,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["3DS", "GB"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Hiroji Kiyotake", "Hiroyuki Kimura", "Makoto Kano"],
+        "composer": ["Ryoji Yoshitomi"],
+        "hltb": 5
+    },
+    "Super Metroid (1994)":
+    {
+        "id": 119,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction", "Thriller"],
+        "perspective": ["Side view"],
+        "designer": ["Yoshio Sakamoto"],
+        "composer": ["Kenji Yamamoto", "Minako Hamano"],
+        "hltb": 9
+    },
+    "Doom II: Hell on Earth (1994)":
+    {
+        "id": 120,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "GBA", "DOS", "Tapwave Zodiac", "Win", "Switch"],
+        "developers": ["id Software"],
+        "publishers": ["Imagineer", "Activision", "Virgin", "GT Interactive", "id Software", "Bethesda", "Tapwave"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Sandy Petersen", "John Romero", "Shawn Green", "American McGee"],
+        "composer": ["Robert Prince"],
+        "hltb": 10
+    },
+    "FIFA International Soccer (1993)":
+    {
+        "id": 121,
+        "year": 1993,
+        "country": ["CAN"],
+        "platforms": ["Mega Drive", "Amiga", "DOS", "GB"],
+        "developers": ["Extended Play Productions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jan G. Tian", "Matthew Webster", "Brian Plank", "George Ashcroft", "Kevin P. Pickell", "Bruce E. McMillan", "Joe Della-Savia"],
+        "composer": ["Jeff van Dyck"],
+        "hltb": 29
+    },
+    "Phantasy Star (1987)":
+    {
+        "id": 122,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["Wii", "SMS"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Kotaro Hayashida"],
+        "composer": ["Tokuhiko Uwabo"],
+        "hltb": 18
+    },
+    "Phantasy Star II (1989)":
+    {
+        "id": 123,
+        "year": 1989,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Xbox 360", "Mac", "Wii", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Akinori Nishiyama"],
+        "composer": ["Tokuhiko Uwabo"],
+        "hltb": 34
+    },
+    "Phantasy Star III: Generations of Doom (1990)":
+    {
+        "id": 124,
+        "year": 1990,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Wii", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Hiroto Saeki"],
+        "composer": ["Izuho Numata"],
+        "hltb": 20
+    },
+    "Phantasy Star IV: The End of the Millennium (1993)":
+    {
+        "id": 125,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Wii", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Rieko Kodama", "Toru Yoshida", "Kiyoshi Takeuchi"],
+        "composer": ["Izuho Numata", "Masaki Nakagaki"],
+        "hltb": 23
+    },
+    "AH-64D Longbow (1996)":
+    {
+        "id": 126,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Jane's Combat Simulations", "Origin"],
+        "publishers": ["Electronic Arts", "Jane's Combat Simulations"],
+        "genre": ["Simulator"],
+        "theme": ["Non-fiction", "Flight"],
+        "perspective": ["First person"],
+        "designer": ["Will McBurnett"],
+        "composer": ["Barry Leitch"],
+        "hltb": 20
+    },
+    "Tempest (1981)":
+    {
+        "id": 127,
+        "year": 1981,
+        "country": ["USA"],
+        "platforms": ["Amstrad CPC", "ZX Spectrum", "BBC", "Acorn Electron", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Atari", "Electric Dreams Software", "Superior Software"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Dave Theurer"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "Balance of Power (1985)":
+    {
+        "id": 128,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["DOS", "Amiga", "Apple II", "Atari ST", "Mac", "MSX", "PC-98", "PC-8801"],
+        "developers": ["Chris Crawford"],
+        "publishers": ["Mindscape"],
+        "genre": ["Simulator", "Strategy"],
+        "theme": ["Politics", "Historical", "Cold War"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Crawford"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "NBA Live '96 (1995)":
+    {
+        "id": 129,
+        "year": 1995,
+        "country": ["CAN"],
+        "platforms": ["Mega Drive", "SNES", "PSX", "GB", "Win"],
+        "developers": ["Electronic Arts", "Tiertex", "Hitmen Productions"],
+        "publishers": ["THQ", "Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["Non-fiction", "Basketball"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Mike Kiernan"],
+        "composer": ["Traz Damji", "Steve Royea"],
+        "hltb": 20
+    },
+    "Shining Force (1992)":
+    {
+        "id": 130,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Linux", "Mac", "GBA", "iOS", "Wii", "Win"],
+        "developers": ["Camelot Software Planning", "Climax Entertainment"],
+        "publishers": ["Sega"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yasuhiro Taguchi", "Kenji Orimo", "Hiroyuki Takahashi"],
+        "composer": ["Masahiko Yoshimura"],
+        "hltb": 22
+    },
+    "Shining Force II (1993)":
+    {
+        "id": 131,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Wii", "Win"],
+        "developers": ["Camelot Software Planning"],
+        "publishers": ["Sega"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yasuhiro Taguchi", "Shugo Takahashi"],
+        "composer": ["Motoaki Takenouchi"],
+        "hltb": 31
+    },
+    "Track & Field (1983)":
+    {
+        "id": 132,
+        "year": 1983,
+        "country": ["JPN"],
+        "platforms": ["Atari 8-bit", "MSX", "NES", "ZX Spectrum", "Atari 2600", "C64/128", "Apple II", "Arcade"],
+        "developers": ["Konami"],
+        "publishers": ["Ocean Software", "Atari", "Konami"],
+        "genre": ["Sport"],
+        "theme": ["Party", "Track & Field"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "Hyper Sports (1984)":
+    {
+        "id": 133,
+        "year": 1984,
+        "country": ["JPN"],
+        "platforms": ["MSX", "PC-8801", "Amstrad CPC", "NES", "ZX Spectrum", "C64/128", "Sharp X1", "BBC", "SG-1000", "Arcade"],
+        "developers": ["Konami"],
+        "publishers": ["Konami", "Imagine Software", "Sega", "dB-SOFT"],
+        "genre": ["Arcade", "Sport"],
+        "theme": ["Track & Field"],
+        "perspective": ["Side view"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 15
+    },
+    "'88 Games (1988)":
+    {
+        "id": 134,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["Arcade"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Sport", "Arcade"],
+        "theme": ["Track & Field"],
+        "perspective": ["Third person", "Bird view / Isometric", "Side view"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "Track & Field II (1984)":
+    {
+        "id": 135,
+        "year": 1984,
+        "country": ["JPN"],
+        "platforms": ["MSX", "NES"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Sport"],
+        "theme": ["Track & Field"],
+        "perspective": ["Third person", "Side view", "Bird view / Isometric"],
+        "designer": ["Masahiro Ueno", "Peguchi Kun", "Yoshiaki Yamada"],
+        "composer": ["Jun Funahashi"],
+        "hltb": 1
+    },
+    "King's Quest: Quest for the Crown (1984)":
+    {
+        "id": 136,
+        "year": 1984,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "SMS", "Apple II", "Apple IIGS", "Atari ST", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["IBM", "Activision", "Parker Brothers", "Sierra"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Roberta Williams"],
+        "composer": ["Unknown"],
+        "hltb": 3
+    },
+    "King's Quest II: Romancing the Throne (1985)":
+    {
+        "id": 137,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "Apple II", "Apple IIGS", "Atari ST", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Activision", "Sierra"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Roberta Williams", "Ken Williams", "Scott Murphy"],
+        "composer": ["Al Lowe"],
+        "hltb": 4
+    },
+    "King's Quest III: To Heir Is Human (1986)":
+    {
+        "id": 138,
+        "year": 1986,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "Apple II", "Apple IIGS", "TRS-80", "Atari ST"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Roberta Williams"],
+        "composer": ["Margaret Lowe"],
+        "hltb": 5
+    },
+    "King's Quest IV: The Perils of Rosella (1988)":
+    {
+        "id": 139,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS", "Apple II", "Apple IIGS", "Atari ST", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Roberta Williams"],
+        "composer": ["William Goldstein"],
+        "hltb": 4
+    },
+    "King's Quest V: Absence Makes the Heart Go Yonder! (1990)":
+    {
+        "id": 140,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Amiga", "NES", "Mac", "DOS", "FM Towns", "PC-98", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Konami", "Activision", "Sierra"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Side view"],
+        "designer": ["Roberta Williams"],
+        "composer": ["Ken Allen", "Mark Seibert"],
+        "hltb": 7
+    },
+    "King's Quest VI: Heir Today, Gone Tomorrow (1992)":
+    {
+        "id": 141,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "Win"],
+        "developers": ["Sierra", "Revolution Software"],
+        "publishers": ["Activision", "Sierra"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Jane Jensen", "William D. Skirvin", "Roberta Williams"],
+        "composer": ["Chris Braymen"],
+        "hltb": 9
+    },
+    "King's Quest VII: The Princeless Bride (1994)":
+    {
+        "id": 142,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra", "Activision"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Roberta Williams", "Lorelei Shannon", "Andy Hoyos"],
+        "composer": ["Neal Grandstaff", "Dan Kehler", "Jay D. Usher"],
+        "hltb": 8
+    },
+    "Falcon Gold (1994)":
+    {
+        "id": 143,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Spectrum HoloByte"],
+        "publishers": ["Spectrum HoloByte", "MicroProse"],
+        "genre": ["Simulator"],
+        "theme": ["Flight"],
+        "perspective": ["First person"],
+        "designer": ["Scott Bayless", "Gilman Louie", "Les Watts"],
+        "composer": ["Paul Mogg"],
+        "hltb": 20
+    },
+    "River Raid (1982)":
+    {
+        "id": 144,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "ZX Spectrum", "Atari 2600", "DOS", "C64/128", "Atari 5200", "Intellivision", "ColecoVision"],
+        "developers": ["Activision"],
+        "publishers": ["Pony Canyon", "Activision"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Carol Shaw"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "Virtua Cop (1994)":
+    {
+        "id": 145,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "Arcade", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Yu Suzuki", "Hisato Fukumoto", "Katsufumi Yoshimori", "Yuichi Ide"],
+        "composer": ["Kentaro Koyama", "Tatsuya Kozaki"],
+        "hltb": 2
+    },
+    "Virtua Cop 2 (1996)":
+    {
+        "id": 146,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "Dreamcast", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Wataru Kawashima"],
+        "composer": ["Hideaki Miyamoto"],
+        "hltb": 2
+    },
+    "Joust (1982)":
+    {
+        "id": 147,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "NES", "Mac", "Atari 2600", "DOS", "Lynx", "Atari 5200", "Atari 7800", "Apple II", "PS3", "Atari ST", "Arcade"],
+        "developers": ["Williams"],
+        "publishers": ["Williams", "Atari", "HAL Laboratory", "Digital Eclipse", "Shadowsoft", "Midway"],
+        "genre": ["Arcade", "Fighting", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["John Newcomer"],
+        "composer": ["Tim Murphy"],
+        "hltb": 1
+    },
+    "Centipede (1981)":
+    {
+        "id": 148,
+        "year": 1981,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "TI-99", "GBC", "Atari 2600", "DOS", "C64/128", "GB", "Atari 5200", "Intellivision", "ColecoVision", "Web browser", "Atari 7800", "BBC", "VIC-20", "Apple II", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Sanritsu Denki", "Atari", "Superior Software"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Dona Bailey", "Ed Logg"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "Leisure Suit Larry in the Land of the Lounge Lizards (1987)":
+    {
+        "id": 149,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "Apple II", "Apple IIGS", "TRS-80", "Atari ST"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy", "Erotic"],
+        "perspective": ["Side view", "Text"],
+        "designer": ["Al Lowe", "Mark Crowe"],
+        "composer": ["Al Lowe"],
+        "hltb": 3
+    },
+    "Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) (1988)":
+    {
+        "id": 150,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS", "Atari ST"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Al Lowe"],
+        "composer": ["Al Lowe"],
+        "hltb": 5
+    },
+    "Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals (1989)":
+    {
+        "id": 151,
+        "year": 1989,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS", "Atari ST"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy", "Erotic"],
+        "perspective": ["Side view"],
+        "designer": ["Al Lowe"],
+        "composer": ["Mike Dana"],
+        "hltb": 5
+    },
+    "Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work (1991)":
+    {
+        "id": 152,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Erotic", "Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Al Lowe", "Bill Davis"],
+        "composer": ["Craig Safan"],
+        "hltb": 5
+    },
+    "Leisure Suit Larry 6: Shape Up or Slip Out! (1993)":
+    {
+        "id": 153,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS","Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy", "Erotic"],
+        "perspective": ["Side view"],
+        "designer": ["Al Lowe"],
+        "composer": ["Dan Kehler"],
+        "hltb": 8
+    },
+    "Leisure Suit Larry: Love for Sail! (1996)":
+    {
+        "id": 154,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy", "Erotic"],
+        "perspective": ["Side view"],
+        "designer": ["Al Lowe"],
+        "composer": ["Frank Zottoli"],
+        "hltb": 7
+    },
+    "Jumping Flash! (1995)":
+    {
+        "id": 155,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["PSP", "Vita", "PSX", "PS3"],
+        "developers": ["Exact", "Ultra"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Koji Tada", "Toshimitsu Odaira", "Hiroyuki Saegusa", "Shuji Nomaguchi"],
+        "composer": ["Takeo Miratsu"],
+        "hltb": 3
+    },
+    "Discs of Tron (1983)":
+    {
+        "id": 156,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Arcade"],
+        "developers": ["Digital Eclipse", "Midway"],
+        "publishers": ["Midway", "Disney"],
+        "genre": ["Arcade", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Robert Dinnerman"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Knight Lore (1984)":
+    {
+        "id": 157,
+        "year": 1984,
+        "country": ["GBR"],
+        "platforms": ["MSX", "Amstrad CPC", "ZX Spectrum", "BBC"],
+        "developers": ["Ultimate Play the Game"],
+        "publishers": ["Ultimate Play the Game"],
+        "genre": ["Adventure", "Arcade"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["TIm Stamper", "Chris Stamper"],
+        "composer": ["Unknown"],
+        "hltb": 2
+    },
+    "Summer Games (1984)":
+    {
+        "id": 158,
+        "year": 1984,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "PC-8801", "Amiga", "ZX Spectrum", "Atari 2600", "C64/128", "SMS", "Atari 7800", "Apple II"],
+        "developers": ["Epyx"],
+        "publishers": ["Atari", "U.S. Gold", "Epyx", "Kixx", "Sega", "Pony Canyon"],
+        "genre": ["Sport"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Scott Nelson", "Erin Murphy", "Stephen Mudry", "Brian McGhie", "Stephen Landrum", "Jon Leupp", "Randy Glover"],
+        "composer": ["Randy Glover"],
+        "hltb": 1
+    },
+    "Winter Games (1985)":
+    {
+        "id": 159,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["MSX", "Amstrad CPC", "Amiga", "NES", "Mac", "ZX Spectrum", "Atari 2600", "DOS", "C64/128", "Wii", "Atari 7800", "Apple II", "Apple IIGS", "Atari ST"],
+        "developers": ["Action Graphics"],
+        "publishers": ["U.S. Gold", "Epyx", "Atari", "Pony Canyon", "Acclaim"],
+        "genre": ["Sport"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Richard A. Ditton", "Elaine Hodgson", "Chris Oberth", "Fumiko Murakami"],
+        "composer": ["David Thiel", "Kenichi TOmizawa"],
+        "hltb": 1
+    },
+    "California Games (1987)":
+    {
+        "id": 160,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["MSX", "Mega Drive", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "Atari 2600", "DOS", "C64/128", "Wii", "Lynx", "SMS", "Mobile", "Apple II", "Apple IIGS", "Atari ST", "Win"],
+        "developers": ["Epyx"],
+        "publishers": ["Pixel Games", "Melbourne House", "Commodore", "MFORMA Group", "Tec Toy Indústria de Brinquedos", "Kixx", "Atari", "U.S. Gold", "Epyx", "Sega", "Erbe Software", "Milton Bradley"],
+        "genre": ["Sport"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Chuck Sommerville", "Ken Nicholson", "Kevin Norman", "Kevin Furry", "Jon Leupp"],
+        "composer": ["Chris Grigg", "Gil Freeman", "David Wise"],
+        "hltb": 2
+    },
+    "Xevious (1982)":
+    {
+        "id": 161,
+        "year": 1982,
+        "country": ["JPN"],
+        "platforms": ["Arcade", "Apple II", "Atari 7800", "Atari ST", "NES", "C64/128", "Amstrad CPC", "Sharp X1", "ZX Spectrum", "Mobile", "GBA", "Xbox 360", "Wii U", "PC-8801", "FM-7", "PC-98"],
+        "developers": ["Namco"],
+        "publishers": ["Namco", "Atari", "U.S. Gold", "Nintendo", "Enix", "Mindscape", "Dempa Shimbunsha", "Bandai"],
+        "genre": ["Shooter", "Adventure", "Arcade"],
+        "theme": ["Flight", "Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Masanobu Endō", "Shigeki Toyama", "Hiroshi Ono"],
+        "composer": ["Yuriko Keino"],
+        "hltb": 3
+    },
+    "Resident Evil (1996)":
+    {
+        "id": 162,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["DS", "Saturn", "PSX", "PS3", "Win"],
+        "developers": ["Capcom", "Nextech"],
+        "publishers": ["Virgin", "Capcom"],
+        "genre": ["Adventure"],
+        "theme": ["Fantasy", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Shinji Mikami", "Takahiro Arimitsu", "Isao Ōishi"],
+        "composer": ["Makoto Tomozawa", "Koichi Hiroki", "Masami Ueda"],
+        "hltb": 8
+    },
+    "Hard Hat Mack (1983)":
+    {
+        "id": 163,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "Amstrad CPC", "DOS", "C64/128", "Apple II"],
+        "developers": ["Michael Abbot", "Matthew Alexander"],
+        "publishers": ["Electronic Arts", "Ariolasoft"],
+        "genre": ["Arcade", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Michael Abbot", "Matthew Alexander"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Burning Force (1989)":
+    {
+        "id": 164,
+        "year": 1989,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Arcade", "Wii"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Shooter", "Arcade"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Devil Nakamura"],
+        "composer": ["Yoshinori Kawamoto"],
+        "hltb": 1
+    },
+    "Rave Racer (1995)":
+    {
+        "id": 165,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Arcade", "Racing"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Kenji Wakabayashi", "Fumihiro Tanaka"],
+        "composer": ["Etsuo Ishii", "Shinji Hosoe", "Ayako Sasō", "Yoshikazu Komatsu", "Norifumi Nagaoka"],
+        "hltb": 10
+    },
+    "Desert Strike: Return to the Gulf (1992)":
+    {
+        "id": 166,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Amiga", "GBA", "SNES", "DOS", "GB", "Game Gear", "Lynx", "SMS"],
+        "developers": ["Electronic Arts"],
+        "publishers": ["Electronic Arts", "Domark", "Telegames", "Malibu Games", "Gremlin"],
+        "genre": ["Shooter", "Strategy"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Mike Posehn", "John Manley"],
+        "composer": ["Brian L. Schmidt", "Rob Hubbard"],
+        "hltb": 6
+    },
+    "Jungle Strike (1993)":
+    {
+        "id": 167,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["CD32", "Mega Drive", "Amiga", "SNES", "DOS"],
+        "developers": ["Electronic Arts", "Granite Bay Software"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Fantasy", "Historical", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["John Manley", "Tony Barnes"],
+        "composer": ["Brian L. Schmidt"],
+        "hltb": 8
+    },
+    "Urban Strike (1994)":
+    {
+        "id": 168,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES", "GB", "Game Gear"],
+        "developers": ["Granite Bay Software", "The Edge", "Foley Hi-Tech", "THQ"],
+        "publishers": ["Electronic Arts", "Black Pearl Software"],
+        "genre": ["Shooter", "Simulator"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["John Manley", "Antonio Barnes"],
+        "composer": ["Don Veca"],
+        "hltb": 8
+    },
+    "Soviet Strike (1996)":
+    {
+        "id": 169,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["PSX", "Saturn"],
+        "developers": ["Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "Shooter", "Simulator", "Strategy"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["Third person"],
+        "designer": ["John Manley", "Michael Becker"],
+        "composer": ["Don Veca", "David O'Neal"],
+        "hltb": 8
+    },
+    "Galaga (1981)":
+    {
+        "id": 170,
+        "year": 1981,
+        "country": ["JPN"],
+        "platforms": ["MSX", "Xbox 360", "NES", "SMS", "Sharp X1", "FM-7", "Atari 7800", "SG-1000", "PC-98", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Midway", "Sega", "Namco", "Dempa Shimbunsha", "Atari"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Shigeru Yokoyama", "Hiroshi Ono"],
+        "composer": ["Nobuyuki Ohnogi"],
+        "hltb": 2
+    },
+    "Space Invaders (1978)":
+    {
+        "id": 171,
+        "year": 1978,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "NES", "iOS", "WonderSwan", "Atari 2600", "GB", "Atari 5200", "Mobile", "SG-1000", "Arcade"],
+        "developers": ["Taito"],
+        "publishers": ["Midway", "Taito"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Tomohiro Nishikado"],
+        "composer": ["Unknown"],
+        "hltb": 4
+    },
+    "R-Type (1987)":
+    {
+        "id": 172,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["Android", "MSX", "PC-8801", "Wii U", "Amstrad CPC", "Amiga", "ZX Spectrum", "iOS", "C64/128", "GB", "Wii", "SMS", "TurboGrafx-16", "Sharp X68000","Atari ST", "Arcade"],
+        "developers": ["Konami", "Irem"],
+        "publishers": ["Konami", "Electric Dreams Software", "Hudson Soft", "Sega", "Irem", "DotEmu"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Abiko"],
+        "composer": ["Masato Ishizaki"],
+        "hltb": 2
+    },
+    "NBA Jam (1993)":
+    {
+        "id": 173,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Sega CD", "SNES", "GB", "Game Gear", "Arcade"],
+        "developers": ["Midway"],
+        "publishers": ["Midway"],
+        "genre": ["Sport"],
+        "theme": ["Basketball"],
+        "perspective": ["Side view"],
+        "designer": ["Mark Turmell", "Shawn Liptak", "Jamie Rivett", "Sal Divita", "John Carlton", "Tony Goskie"],
+        "composer": ["Jon Hey", "Rick Fox"],
+        "hltb": 17
+    },
+    "NBA Jam Tournament Edition (1994)":
+    {
+        "id": 174,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Saturn", "Jaguar", "SNES", "PSX"],
+        "developers": ["Torus Games", "High Voltage Software", "Midway", "Iguana"],
+        "publishers": ["Acclaim", "Atari", "Midway"],
+        "genre": ["Arcade", "Sport"],
+        "theme": ["Action", "Basketball"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Mark Turmell", "Shawn Liptak", "Jamie Rivett", "Sal Divita", "John Carlton", "Tony Goskie"],
+        "composer": ["Jon Hey", "Rick Fox"],
+        "hltb": 12
+    },
+    "NBA Jam Extreme (1996)":
+    {
+        "id": 175,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Saturn", "PSX", "Arcade"],
+        "developers": ["Sculptured Software"],
+        "publishers": ["Acclaim"],
+        "genre": ["Arcade", "Sport"],
+        "theme": ["Basketball", "Action"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 4
+    },
+    "Trinity (1986)":
+    {
+        "id": 176,
+        "year": 1986,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "C64/128", "Apple II", "Atari ST"],
+        "developers": ["Infocom"],
+        "publishers": ["Infocom"],
+        "genre": ["Adventure", "Strategy"],
+        "theme": ["Science Fiction", "Thriller"],
+        "perspective": ["Text"],
+        "designer": ["Brian Moriarty"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "The Legend of Zelda: Ocarina of Time (1998)":
+    {
+        "id": 177,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "N64"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Puzzle", "RPG"],
+        "theme": ["Action", "Fantasy", "Sandbox"],
+        "perspective": ["Third person"],
+        "designer": ["Toru Osawa", "Yoichi Yamada", "Eiji Aonuma", "Yoshiaki Koizumi", "Toshio Iwawaki"],
+        "composer": ["Koji Kondo"],
+        "hltb": 31
+    },
+    "Quake II (1997)":
+    {
+        "id": 178,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["PSX", "N64", "Win"],
+        "developers": ["Hammerhead", "id Software", "Logicware", "Raster Productions"],
+        "publishers": ["Macmillan", "Activision", "Hyperion Entertainment"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Kevin Cloud", "American McGee", "Tim Willits"],
+        "composer": ["Sascha Dikiciyan"],
+        "hltb": 10
+    },
+    "Virtua Fighter (1993)":
+    {
+        "id": 179,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "Arcade"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Yu Suzuki", "Seiichi Ishii"],
+        "composer": ["Takayuki Nakamura"],
+        "hltb": 1
+    },
+    "Virtua Fighter 3 (1996)":
+    {
+        "id": 180,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast", "Arcade"],
+        "developers": ["Genki", "Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Arcade", "Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Yu Suzuki", "Daichi Katagiri", "Kazuhiro Izaki"],
+        "composer": ["Takenobu Mitsuyoshi", "Fumio Ito", "Hidenori Syoji"],
+        "hltb": 1
+    },
+    "GoldenEye 007 (1997)":
+    {
+        "id": 181,
+        "year": 1997,
+        "country": ["GBR"],
+        "platforms": ["N64"],
+        "developers": ["Rare"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["First person"],
+        "designer": ["Martin Hollis", "Duncan Botwood"],
+        "composer": ["Graeme Norgate", "Grant Kirkhope", "Robin Beanland"],
+        "hltb": 17
+    },
+    "Ridge Racer (1993)":
+    {
+        "id": 182,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["PSX", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Racing", "Arcade"],
+        "theme": ["Action"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Toru Iwatani"],
+        "composer": ["Shinji Hosoe"],
+        "hltb": 2
+    },
+    "Ridge Racer 2 (1994)":
+    {
+        "id": 183,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Racing", "Arcade"],
+        "theme": ["Action"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Rage Racer (1996)":
+    {
+        "id": 184,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Racing", "Sport", "Arcade"],
+        "theme": ["Action"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Tetsukazu Nakanishi", "Hiroshi Okubo"],
+        "hltb": 9
+    },
+    "Tekken (1994)":
+    {
+        "id": 185,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["PSP", "PSX", "Vita", "PS3", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Sony", "Namco"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Seiichi Ishii"],
+        "composer": ["Yoshie Arakawa", "Yoshie Takayanagi", "Shinji Hosoe", "Nobuyoshi Sano", "Takayuki Aihara", "Hiroto Sasaki"],
+        "hltb": 8
+    },
+    "Tekken 3 (1997)":
+    {
+        "id": 186,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["PS2", "PSX", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco", "Sony"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Masamichi Abe", "Yutaka Kounoe", "Katsuhiro Harada", "Masahiro Kimoto"],
+        "composer": ["Nobuyoshi Sano", "Keiichi Okabe", "Yuu Miyake", "Minamo Takahashi", "Hiroyuki Kawada", "Yoshie Arakawa", "Hideki Tobeta"],
+        "hltb": 12
+    }
+
+}
