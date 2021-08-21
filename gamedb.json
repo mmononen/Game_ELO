@@ -3227,6 +3227,36 @@
         "designer": ["Satoshi Tajiri"],
         "composer": ["Junichi Masuda"],
         "hltb": 44
+    },
+    "Puyo Puyo (1991)":
+    {
+        "id": 216,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["MSX", "NES"],
+        "developers": ["Compile"],
+        "publishers": ["Banpresto", "Compile"],
+        "genre": ["Puzzle"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Masanobu Tsukamoto"],
+        "composer": ["Masanobu Tsukamoto", "Akiyoshi Nagao", "Toshiaki Sakoda", "Masaaki Harada", "Daisuke Fujimoto"],
+        "hltb": 1
+    },
+    "Super Bomberman (1993)":
+    {
+        "id": 217,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["Puzzle", "Strategy"],
+        "developers": ["Produce!"],
+        "publishers": ["Hudson Soft", "Mattel"],
+        "genre": ["Puzzle", "Strategy"],
+        "theme": ["Action", "Party"],
+        "perspective": ["Side view"],
+        "designer": ["Mikio Ueyama", "Kyon Kyon"],
+        "composer": ["Jun Chikuma", "Tomoyuki Hamada"],
+        "hltb": 4
     }
 
 }
