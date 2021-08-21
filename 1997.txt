@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1932   Quake II (1997)                                                                            178    2 
+    1. 1976   Quake II (1997)                                                                            178    2 
                   USA | 10 h | First person
                   On: N64, PSX, Win
                   Developers: Hammerhead, Logicware, Raster Productions, id Software
@@ -10,7 +10,7 @@
                   Designer: American McGee, Kevin Cloud, Tim Willits
                   Composer: Sascha Dikiciyan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1921   GoldenEye 007 (1997)                                                                       181    2 
+    2. 1966   GoldenEye 007 (1997)                                                                       181    2 
                   GBR | 17 h | First person
                   On: N64
                   Developers: Rare
@@ -20,7 +20,7 @@
                   Designer: Duncan Botwood, Martin Hollis
                   Composer: Graeme Norgate, Grant Kirkhope, Robin Beanland
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1869   Gran Turismo (1997)                                                                        189    2 
+    3. 1920   Gran Turismo (1997)                                                                        189    2 
                   JPN | 37 h | First person, Third person
                   On: PSX
                   Developers: Polyphony Digital
@@ -30,17 +30,7 @@
                   Designer: Hirotaka Komiyama, Kazunori Yamauchi, Takeshi Yokouchi
                   Composer: Isamu Ohira, Jason Page, Masahiro Andoh
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1780   Tekken 3 (1997)                                                                            186    1 
-                  JPN | 12 h | Side view
-                  On: Arcade, PS2, PSX
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Genre: Fighting
-                  Theme: Action
-                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
-                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1747   Final Fantasy VII (1997)                                                                   191    1 
+    4. 1849   Final Fantasy VII (1997)                                                                   191    2 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Developers: Square
@@ -49,6 +39,16 @@
                   Theme: Fantasy, Science Fiction
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1841   Tekken 3 (1997)                                                                            186    2 
+                  JPN | 12 h | Side view
+                  On: Arcade, PS2, PSX
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Genre: Fighting
+                  Theme: Action
+                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
+                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1686   Ultima Online (1997)                                                                       192    1 
                   USA | 800 h | Bird view / Isometric
@@ -70,17 +70,7 @@
                   Designer: Justin Chin, Peter Chan
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1369   NFL GameDay 98 (1997)                                                                      207    1 
-                  USA | 20 h | Third person
-                  On: PSX
-                  Developers: Sony
-                  Publishers: Sony
-                  Genre: Sport
-                  Theme: American Football
-                  Designer: Unknown
-                  Composer: Rex Baca, Scott McMahon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1210   Total Annihilation (1997)                                                                  211    1 
+    8. 1570   Total Annihilation (1997)                                                                  211    2 
                   USA | 36 h | Bird view / Isometric
                   On: Mac, Win
                   Developers: Cavedog Entertainment
@@ -89,3 +79,13 @@
                   Theme: Science Fiction
                   Designer: Chris Taylor
                   Composer: Jeremy Soule
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1369   NFL GameDay 98 (1997)                                                                      207    1 
+                  USA | 20 h | Third person
+                  On: PSX
+                  Developers: Sony
+                  Publishers: Sony
+                  Genre: Sport
+                  Theme: American Football
+                  Designer: Unknown
+                  Composer: Rex Baca, Scott McMahon

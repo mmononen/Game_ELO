@@ -3182,6 +3182,51 @@
         "designer": ["Unknown"],
         "composer": ["Unknown"],
         "hltb": 20
+    },
+    "Pokémon Red (1996)":
+    {
+        "id": 213,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["3DS", "GB"],
+        "developers": ["Game Freak"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Kids", "Open world"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Satoshi Tajiri"],
+        "composer": ["Junichi Masuda"],
+        "hltb": 44
+    },
+    "Pokémon Blue (1996)":
+    {
+        "id": 214,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["3DS", "GB"],
+        "developers": ["Game Freak"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Kids", "Open world"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Satoshi Tajiri"],
+        "composer": ["Junichi Masuda"],
+        "hltb": 44
+    },
+    "Pokémon Yellow Version: Special Pikachu Edition (1998)":
+    {
+        "id": 215,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["3DS", "GB", "GBC"],
+        "developers": ["Game Freak"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Kids", "Open world"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Satoshi Tajiri"],
+        "composer": ["Junichi Masuda"],
+        "hltb": 44
     }
 
 }
