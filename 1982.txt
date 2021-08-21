@@ -1,26 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1705   Ms. Pac-Man (1982)                                                                          12    1 
-                  USA | 2 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64/128, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
-                  Developers: General Computer Corporation
-                  Publishers: Atari, Midway, Namco, Tengen, Williams
-                  Genre: Arcade, Puzzle
-                  Theme: Action
-                  Designer: Steve Golson
-                  Composer: Chris Rode
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1633   Zork III: The Dungeon Master (1982)                                                         56    1 
-                  USA | 3 h | Text
-                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64/128, DOS, Plus/4, TRS-80, Tatung Einstein
-                  Developers: Infocom
-                  Publishers: Infocom
-                  Genre: Adventure
-                  Theme: Fantasy
-                  Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1584   Ultima II: The Revenge of the Enchantress (1982)                                            77    1 
+    1. 1814   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric
                   On: Apple II, Atari 8-bit, Atari ST, C64/128, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Developers: Origin
@@ -30,17 +10,17 @@
                   Designer: Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1549   Wizardry II: The Knight of Diamonds (1982)                                                  97    1 
-                  USA | 28 h | First person
-                  On: Apple II, C64/128, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Sir-Tech
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Andrew C. Greenberg, Robert Woodhead
-                  Composer: Unknown
+    2. 1793   Ms. Pac-Man (1982)                                                                          12    2 
+                  USA | 2 h | Bird view / Isometric
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64/128, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
+                  Developers: General Computer Corporation
+                  Publishers: Atari, Midway, Namco, Tengen, Williams
+                  Genre: Arcade, Puzzle
+                  Theme: Action
+                  Designer: Steve Golson
+                  Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1537   Robotron: 2084 (1982)                                                                      107    1 
+    3. 1783   Robotron: 2084 (1982)                                                                      107    2 
                   USA | 10 h | Bird view / Isometric
                   On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64/128, DOS, Lynx, Mac, VIC-20
                   Developers: Vid Kidz
@@ -48,6 +28,26 @@
                   Genre: Shooter
                   Theme: Action, Science Fiction
                   Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1636   Zork III: The Dungeon Master (1982)                                                         56    2 
+                  USA | 3 h | Text
+                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64/128, DOS, Plus/4, TRS-80, Tatung Einstein
+                  Developers: Infocom
+                  Publishers: Infocom
+                  Genre: Adventure
+                  Theme: Fantasy
+                  Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1549   Wizardry II: The Knight of Diamonds (1982)                                                  97    1 
+                  USA | 28 h | First person
+                  On: Apple II, C64/128, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Sir-Tech
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1524   Bump 'n' Jump (1982)                                                                       112    1 

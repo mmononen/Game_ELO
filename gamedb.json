@@ -2792,6 +2792,396 @@
         "designer": ["Masamichi Abe", "Yutaka Kounoe", "Katsuhiro Harada", "Masahiro Kimoto"],
         "composer": ["Nobuyoshi Sano", "Keiichi Okabe", "Yuu Miyake", "Minamo Takahashi", "Hiroyuki Kawada", "Yoshie Arakawa", "Hideki Tobeta"],
         "hltb": 12
+    },
+    "Resident Evil 2 (1998)":
+    {
+        "id": 187,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast", "PSX", "GameCube", "PS3", "N64", "Win"],
+        "developers": ["Capcom", "Sourcenext", "Angel Studios", "Factor 5"],
+        "publishers": ["Nintendo", "Capcom", "Virgin"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Hideki Kamiya"],
+        "composer": ["Masami Ueda", "Shusaku Uchiyama", "Syun Nishigaki"],
+        "hltb": 9       
+    },
+    "Half-Life (1998)":
+    {
+        "id": 188,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["PS2", "Linux", "Mac", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["Valve", "Sierra"],
+        "genre": ["Adventure", "Shooter", "Puzzle"],
+        "theme": ["Action", "Horror", "Science Fiction", "Thriller", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Marc Laidlaw"],
+        "composer": ["Kelly Bailey"],
+        "hltb": 14
+    },
+    "Gran Turismo (1997)":
+    {
+        "id": 189,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Polyphony Digital"],
+        "publishers": ["Sony"],
+        "genre": ["Racing", "Simulator"],
+        "theme": ["Non-fiction", "Motorsports"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Kazunori Yamauchi", "Takeshi Yokouchi", "Hirotaka Komiyama"],
+        "composer": ["Masahiro Andoh", "Isamu Ohira", "Jason Page"],
+        "hltb": 37
+    },
+    "Final Fantasy IV (1991)":
+    {
+        "id": 190,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "SNES", "Wii", "WonderSwan"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Hironobu Sakaguchi", "Takashi Tokita"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 28
+    },
+    "Final Fantasy VII (1997)":
+    {
+        "id": 191,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["PS4", "PSX", "Win", "Switch"],
+        "developers": ["Square"],
+        "publishers": ["Square", "Sony", "Eidos"],
+        "genre": ["RPG", "Adventure"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Yoshinori Kitase"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 51
+    },
+    "Ultima Online (1997)":
+    {
+        "id": 192,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Origin"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Business", "Fantasy", "Open world", "Sandbox"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Starr Long", "Raph Koster"],
+        "composer": ["Kirk Winterrowd", "Joe Basquez", "Hal Milton"],
+        "hltb": 800
+    },
+    "Wave Race 64 (1996)":
+    {
+        "id": 193,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "N64"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Action"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Katsuya Eguchi", "Shinya Takahashi"],
+        "composer": ["Kazumi Totaka"],
+        "hltb": 9
+    },
+    "Tomb Raider (1996)":
+    {
+        "id": 194,
+        "year": 1996,
+        "country": ["GBR"],
+        "platforms": ["Saturn", "PSP", "PSX", "DOS", "N-Gage", "Vita", "PS3", "Win"],
+        "developers": ["Core Design"],
+        "publishers": ["Sony", "Eidos"],
+        "genre": ["Adventure", "Platform", "Puzzle", "Shooter"],
+        "theme": ["Action", "Sandbox", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Vicky Arnold"],
+        "composer": ["Nathan McCree"],
+        "hltb": 18
+    },
+    "Grim Fandango (1998)":
+    {
+        "id": 195,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["LucasArts"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Tim Schafer"],
+        "composer": ["Peter McConnell"],
+        "hltb": 12
+    },
+    "Metal Gear Solid (1998)":
+    {
+        "id": 196,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["PSP", "PSX", "PS3"],
+        "developers": ["Konami"],
+        "publishers": ["Konami", "Microsoft"],
+        "genre": ["Adventure", "Strategy"],
+        "theme": ["Action", "Science Fiction", "Stealth", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Hideo Kojima"],
+        "composer": ["Kazuki Muraoka", "Hiroyuki Togo", "Takanari Ishiyama", "Lee Jeon Myung", "Maki Kirioka"],
+        "hltb": 13
+    },
+    "Star Wars: Jedi Knight – Dark Forces II (1997)":
+    {
+        "id": 197,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["LucasArts"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Justin Chin", "Peter Chan"],
+        "composer": ["Peter McConnell"],
+        "hltb": 11
+    },
+    "Heroes of Might and Magic: A Strategic Quest (1995)":
+    {
+        "id": 198,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Win", "DOS", "Mac"],
+        "developers": ["New World Computing"],
+        "publishers": ["New World Computing", "3DO"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Jon Van Caneghem"],
+        "composer": ["Paul Romero"],
+        "hltb": 29
+    },
+    "Heroes of Might and Magic II: The Succession Wars (1996)":
+    {
+        "id": 199,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Win", "DOS", "Mac"],
+        "developers": ["New World Computing"],
+        "publishers": ["3DO"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jon Van Caneghem", "Phil Steinmeyer"],
+        "composer": ["Paul Romero", "Rob King", "Steve Baca"],
+        "hltb": 63
+    },
+    "Warcraft: Orcs & Humans (1994)":
+    {
+        "id": 200,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["DOS", "Mac"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Blizzard Entertainment", "Interplay", "Electronic Arts"],
+        "genre": ["Strategy", "Real Time Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Patrick Wyatt"],
+        "composer": ["Gregory Alper"],
+        "hltb": 16
+    },
+    "StarCraft (1998)":
+    {
+        "id": 201,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win", "Mac"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Blizzard Entertainment"],
+        "genre": ["Strategy", "Real Time Strategy"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Metzen", "James Phinney"],
+        "composer": ["Derek Duke", "Jason Hayes", "Glenn Stafford", "Tracy W. Bush"],
+        "hltb": 27
+    },
+    "NFL Blitz 99 (1999)":
+    {
+        "id": 202,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Arcade"],
+        "developers": ["Midway"],
+        "publishers": ["Midway"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "PaRappa the Rapper (1996)":
+    {
+        "id": 203,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["PSP", "PSX"],
+        "developers": ["NanaOn-Sha"],
+        "publishers": ["Sony"],
+        "genre": ["Music"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Masaya Matsuura"],
+        "composer": ["Masaya Matsuura", "Yoshihisa Suzuki"],
+        "hltb": 3
+    },
+    "Battlezone (1998)":
+    {
+        "id": 204,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Activision"],
+        "publishers": ["Activision"],
+        "genre": ["Real Time Strategy", "Shooter", "Simulator", "Strategy"],
+        "theme": ["Action", "Fantasy", "Historical", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Andrew Goldman"],
+        "composer": ["Jeehun Hwang"],
+        "hltb": 13
+    },
+    "NHL 99 (1998)":
+    {
+        "id": 205,
+        "year": 1998,
+        "country": ["CAN"],
+        "platforms": ["PSX", "N64", "Win"],
+        "developers": ["Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["Ice Hockey"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Warren Wall"],
+        "composer": ["Robert Bailey", "Jeff van Dyck", "John Jacyna", "Jeff Mair", "Aleksandar Zecevic"],
+        "hltb": 32
+    },
+    "NFL GameDay '97 (1996)":
+    {
+        "id": 206,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["PSX"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "NFL GameDay 98 (1997)":
+    {
+        "id": 207,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["PSX"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Rex Baca", "Scott McMahon"],
+        "hltb": 20
+    },
+    "NFL GameDay 99 (1998)":
+    {
+        "id": 208,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["PSX", "Win"],
+        "developers": ["Red Zone Interactive", "989 Sports"],
+        "publishers": ["Sony"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Third person"],
+        "designer": ["Craig D. Ostrander"],
+        "composer": ["Rex Baca", "Chuck Carr", "Joel H. Copen"],
+        "hltb": 20
+    },
+    "Star Control II: The Ur-Quan Masters (1992)":
+    {
+        "id": 209,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Win", "DOS", "3DO"],
+        "developers": ["Toys for Bob"],
+        "publishers": ["Accolade"],
+        "genre": ["Adventure", "Indie", "Simulator", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Fred Ford ", "Paul Reiche III"],
+        "composer": ["Riku Nuottajärvi", "Dan Nicholson", "Marc Brown", "Aaron J. Grier", "Eric Berge", "Kevin Balivec", "Erol Otus", "Tommy V. Dunbar"],
+        "hltb": 30
+    },
+    "Grand Prix Legends (1998)":
+    {
+        "id": 210,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Papyrus"],
+        "publishers": ["Sierra"],
+        "genre": ["Racing", "Simulator", "Sport"],
+        "theme": ["Non-fiction", "Motorsports"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Matt Sentell", "Randy Cassidy", "David Kaemmer", "Brian C. Mahony", "Richard Yasi"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "Total Annihilation (1997)":
+    {
+        "id": 211,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Win", "Mac"],
+        "developers": ["Cavedog Entertainment"],
+        "publishers": ["GT Interactive"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Taylor"],
+        "composer": ["Jeremy Soule"],
+        "hltb": 36
+    },
+    "International Superstar Soccer ’98 (1998)":
+    {
+        "id": 212,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["N64"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Sport"],
+        "theme": ["Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 20
     }
 
 }

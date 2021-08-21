@@ -132,8 +132,8 @@ groups = []
 groupnames = []
 jsonlist = []
 lists = ["data/1996-09-30 Next_Generation_1996_Top_100_Games_of_All_Time.txt",
-         "data/1999-02-28 Next_Generation_1999_The_50_Best_Games_of_All_Time.txt"
-        #  "data/2000-01-31 Edge Top 100 Games to Play Now.txt",
+         "data/1999-02-28 Next_Generation_1999_The_50_Best_Games_of_All_Time.txt",
+         "data/2000-01-31 Edge Top 100 Games to Play Now.txt"
         #  "data/2001-07-31 GameSpy Top 50 Games of All Time.txt",
         #  "data/2001-08-31 Game_Informer_2001_Top_100_Games_Of_All_Time.txt",
         #  "data/2004-12-31 Retro_Gamer_2004_Reader's_Top_100_Games.txt",
