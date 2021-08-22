@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1948   Super Metroid (1994)                                                                       119    3 
+    1. 1965   Super Metroid (1994)                                                                       119    3 
                   JPN | 9 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -40,17 +40,7 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1848   Super Bomberman 2 (1994)                                                                     3    2 
-                  JPN | 5 h | Bird view / Isometric
-                  On: SNES
-                  Developers: Hudson Soft
-                  Publishers: Hudson Soft
-                  Genre: Arcade, Strategy, Tactical
-                  Theme: Action, Historical, Science Fiction
-                  Designer: Takayuki Hirai
-                  Composer: Yasuhiko Fukuda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1830   Doom II: Hell on Earth (1994)                                                              120    2 
+    5. 1876   Doom II: Hell on Earth (1994)                                                              120    3 
                   USA | 10 h | First person
                   On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
                   Developers: id Software
@@ -60,17 +50,17 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1814   Ultima VIII: Pagan (1994)                                                                   86    2 
-                  USA | 33 h | Third person
-                  On: DOS
-                  Developers: Origin
-                  Publishers: Origin
-                  Genre: RPG
-                  Theme: Action, Fantasy
-                  Designer: Andrew P. Morris, John Watson
-                  Composer: Nenad Vugrinec
+    6. 1848   Super Bomberman 2 (1994)                                                                     3    2 
+                  JPN | 5 h | Bird view / Isometric
+                  On: SNES
+                  Developers: Hudson Soft
+                  Publishers: Hudson Soft
+                  Genre: Arcade, Strategy, Tactical
+                  Theme: Action, Historical, Science Fiction
+                  Designer: Takayuki Hirai
+                  Composer: Yasuhiko Fukuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1803   Sega Rally Championship (1994)                                                              93    2 
+    7. 1844   Sega Rally Championship (1994)                                                              93    3 
                   JPN | 5 h | First person, Third person
                   On: Arcade, GBA, N-Gage, PS2, Saturn, Win
                   Developers: Sega
@@ -79,6 +69,16 @@
                   Theme: Motorsports
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1814   Ultima VIII: Pagan (1994)                                                                   86    2 
+                  USA | 33 h | Third person
+                  On: DOS
+                  Developers: Origin
+                  Publishers: Origin
+                  Genre: RPG
+                  Theme: Action, Fantasy
+                  Designer: Andrew P. Morris, John Watson
+                  Composer: Nenad Vugrinec
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1796   Ridge Racer 2 (1994)                                                                       183    1 
                   JPN | 10 h | First person, Third person
@@ -160,7 +160,7 @@
                   Designer: Charles J. Kroegel Jr., Joel Billings
                   Composer: Doug Brandon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1552   Tempest 2000 (1994)                                                                        221    1 
+   17. 1570   Tempest 2000 (1994)                                                                        221    1 
                   GBR | 12 h | Third person
                   On: DOS, Jaguar, Mac, Saturn, Win
                   Developers: llamasoft

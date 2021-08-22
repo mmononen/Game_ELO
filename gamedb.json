@@ -3377,6 +3377,21 @@
         "designer": ["Satoshi Kushibuchi"],
         "composer": ["Unknown"],
         "hltb": 1
+    },
+    "Pilotwings 64 (1996)":
+    {
+        "id": 226,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["N64"],
+        "developers": ["Paradigm Simulation", "Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Sport", "Racing", "Simulator"],
+        "theme": ["Flight"],
+        "perspective": ["Third person"],
+        "designer": ["Makoto Wada"],
+        "composer": ["Dan Hess"],
+        "hltb": 8
     }
 
 }
