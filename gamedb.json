@@ -3248,7 +3248,7 @@
         "id": 217,
         "year": 1993,
         "country": ["JPN"],
-        "platforms": ["Puzzle", "Strategy"],
+        "platforms": ["SNES"],
         "developers": ["Produce!"],
         "publishers": ["Hudson Soft", "Mattel"],
         "genre": ["Puzzle", "Strategy"],
@@ -3257,6 +3257,96 @@
         "designer": ["Mikio Ueyama", "Kyon Kyon"],
         "composer": ["Jun Chikuma", "Tomoyuki Hamada"],
         "hltb": 4
+    },
+    "X-COM: Terror from the Deep (1995)":
+    {
+        "id": 218,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["PSX", "DOS", "Win"],
+        "developers": ["MicroProse"],
+        "publishers": ["MicroProse", "Hasbro"],
+        "genre": ["Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Action", "Horror", "Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Stephen Goss"],
+        "composer": ["John Broomhall", "Allister Brimble"],
+        "hltb": 55
+    },
+    "Final Fantasy Tactics (1997)":
+    {
+        "id": 219,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["PSX", "PS3"],
+        "developers": ["Square"],
+        "publishers": ["Square", "Sony"],
+        "genre": ["RPG", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yasumi Matsuno", "Hiroyuki Ito"],
+        "composer": ["Hitoshi Sakimoto", "Masaharu Iwata"],
+        "hltb": 57
+    },
+    "Anna Kournikova's Smash Court Tennis (1998)":
+    {
+        "id": 220,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Sport"],
+        "theme": ["Tennis"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Masahito Terazawa", "Yoshiaki Mizukami", "Motoharu Morishita", "Yasuhiro Maruo", "Katsuhiko Ōtani"],
+        "composer": ["Nobuhiro Ōuchi", "Kaori Idaya", "Kenji Matsuo", "Masashi Sugiyama", "Ayako Yamaguchi"],
+        "hltb": 3
+    },
+    "Tempest 2000 (1994)":
+    {
+        "id": 221,
+        "year": 1994,
+        "country": ["GBR"],
+        "platforms": ["Saturn", "Mac", "Jaguar", "DOS", "Win"],
+        "developers": ["llamasoft"],
+        "publishers": ["Mumin Corporation", "Interplay", "Logicware", "Atari"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Dave Theurer"],
+        "composer": ["Alastair Lindsay", "Ian Howe", "Kevin Saville"],
+        "hltb": 12
+    },
+    "SoulCalibur (1998)":
+    {
+        "id": 222,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Android", "Xbox 360", "iOS", "Dreamcast", "Arcade"],
+        "developers": ["Project Soul"],
+        "publishers": ["Namco"],
+        "genre": ["Arcade", "Fighting"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Jin Okubo", "Yoshitaka Tezuka", "Tetsuya Akatsuka", "Tsuyoshi Kiuchi"],
+        "composer": ["Junichi Nakatsuru", "Yoshihito Yano", "Akitaka Tohyama", "Takanori Otsuka"],
+        "hltb": 9
+    },
+    "ISS Pro Evolution (1999)":
+    {
+        "id": 223,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Sport"],
+        "theme": ["Football"],
+        "perspective": ["Side view", "Bird view / Isometric"],
+        "designer": ["Shingo Takatsuka"],
+        "composer": ["Shinji Enomoto"],
+        "hltb": 53
     }
 
 }

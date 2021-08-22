@@ -1,16 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1941   Virtua Fighter 2 (1994)                                                                      6    2 
-                  JPN | 4 h | Side view
-                  On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
-                  Developers: 3D Ages, Sega
-                  Publishers: Sega
-                  Genre: Arcade, Fighting, Simulator
-                  Theme: Action
-                  Designer: Kazuhiro Izaki, Yu Suzuki
-                  Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1938   Super Metroid (1994)                                                                       119    3 
+    1. 1948   Super Metroid (1994)                                                                       119    3 
                   JPN | 9 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -19,6 +9,16 @@
                   Theme: Action, Horror, Science Fiction, Thriller
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 1941   Virtua Fighter 2 (1994)                                                                      6    2 
+                  JPN | 4 h | Side view
+                  On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
+                  Developers: 3D Ages, Sega
+                  Publishers: Sega
+                  Genre: Arcade, Fighting, Simulator
+                  Theme: Action
+                  Designer: Kazuhiro Izaki, Yu Suzuki
+                  Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1928   The Legend of Zelda: Link's Awakening (1994)                                               111    2 
                   JPN | 17 h | Bird view / Isometric
@@ -160,7 +160,17 @@
                   Designer: Charles J. Kroegel Jr., Joel Billings
                   Composer: Doug Brandon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1530   Warcraft: Orcs & Humans (1994)                                                             200    1 
+   17. 1552   Tempest 2000 (1994)                                                                        221    1 
+                  GBR | 12 h | Third person
+                  On: DOS, Jaguar, Mac, Saturn, Win
+                  Developers: llamasoft
+                  Publishers: Atari, Interplay, Logicware, Mumin Corporation
+                  Genre: Arcade, Shooter
+                  Theme: Action
+                  Designer: Dave Theurer
+                  Composer: Alastair Lindsay, Ian Howe, Kevin Saville
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1530   Warcraft: Orcs & Humans (1994)                                                             200    1 
                   USA | 16 h | Bird view / Isometric
                   On: DOS, Mac
                   Developers: Blizzard Entertainment
@@ -170,7 +180,7 @@
                   Designer: Patrick Wyatt
                   Composer: Gregory Alper
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1426   King's Quest VII: The Princeless Bride (1994)                                              142    1 
+   19. 1426   King's Quest VII: The Princeless Bride (1994)                                              142    1 
                   USA | 8 h | Third person
                   On: DOS, Mac, Win
                   Developers: Sierra
@@ -180,7 +190,7 @@
                   Designer: Andy Hoyos, Lorelei Shannon, Roberta Williams
                   Composer: Dan Kehler, Jay D. Usher, Neal Grandstaff
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1421   Falcon Gold (1994)                                                                         143    1 
+   20. 1421   Falcon Gold (1994)                                                                         143    1 
                   USA | 20 h | First person
                   On: DOS
                   Developers: Spectrum HoloByte
@@ -190,7 +200,7 @@
                   Designer: Gilman Louie, Les Watts, Scott Bayless
                   Composer: Paul Mogg
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1408   Virtua Cop (1994)                                                                          145    1 
+   21. 1408   Virtua Cop (1994)                                                                          145    1 
                   JPN | 2 h | First person
                   On: Arcade, Saturn, Win
                   Developers: Sega
@@ -200,7 +210,7 @@
                   Designer: Hisato Fukumoto, Katsufumi Yoshimori, Yu Suzuki, Yuichi Ide
                   Composer: Kentaro Koyama, Tatsuya Kozaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1264   Urban Strike (1994)                                                                        168    1 
+   22. 1264   Urban Strike (1994)                                                                        168    1 
                   USA | 8 h | Bird view / Isometric
                   On: GB, Game Gear, Mega Drive, SNES
                   Developers: Foley Hi-Tech, Granite Bay Software, THQ, The Edge
@@ -210,7 +220,7 @@
                   Designer: Antonio Barnes, John Manley
                   Composer: Don Veca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1210   NBA Jam Tournament Edition (1994)                                                          174    1 
+   23. 1210   NBA Jam Tournament Edition (1994)                                                          174    1 
                   USA | 12 h | Side view, Third person
                   On: Jaguar, Mega Drive, PSX, SNES, Saturn
                   Developers: High Voltage Software, Iguana, Midway, Torus Games

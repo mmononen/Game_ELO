@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2068   Super Mario 64 (1996)                                                                        1    3 
+    1. 2073   Super Mario 64 (1996)                                                                        1    3 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2008   Sid Meier's Civilization II (1996)                                                          30    3 
+    2. 2015   Sid Meier's Civilization II (1996)                                                          30    3 
                   USA | 50 h | Bird view / Isometric
                   On: Mac, PSX, Win
                   Developers: MicroProse
@@ -20,17 +20,7 @@
                   Designer: Brian Reynolds, Chris Taormino, Jason S. Coleman
                   Composer: Jeffery L. Briggs, Kevin Manthei, Roland J. Rizzo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1827   Virtua Fighter 3 (1996)                                                                    180    1 
-                  JPN | 1 h | Side view
-                  On: Arcade, Dreamcast
-                  Developers: Genki, Sega
-                  Publishers: Sega
-                  Genre: Arcade, Fighting
-                  Theme: Action
-                  Designer: Daichi Katagiri, Kazuhiro Izaki, Yu Suzuki
-                  Composer: Fumio Ito, Hidenori Syoji, Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1801   Resident Evil (1996)                                                                       162    2 
+    3. 1838   Resident Evil (1996)                                                                       162    3 
                   JPN | 8 h | Third person
                   On: DS, PS3, PSX, Saturn, Win
                   Developers: Capcom, Nextech
@@ -39,6 +29,16 @@
                   Theme: Fantasy, Horror, Survival
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1827   Virtua Fighter 3 (1996)                                                                    180    1 
+                  JPN | 1 h | Side view
+                  On: Arcade, Dreamcast
+                  Developers: Genki, Sega
+                  Publishers: Sega
+                  Genre: Arcade, Fighting
+                  Theme: Action
+                  Designer: Daichi Katagiri, Kazuhiro Izaki, Yu Suzuki
+                  Composer: Fumio Ito, Hidenori Syoji, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1796   Rage Racer (1996)                                                                          184    1 
                   JPN | 9 h | First person, Third person
@@ -50,7 +50,7 @@
                   Designer: Unknown
                   Composer: Hiroshi Okubo, Tetsukazu Nakanishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1743   Nights into Dreams... (1996)                                                                25    2 
+    6. 1760   Nights into Dreams... (1996)                                                                25    2 
                   JPN | 4 h | Side view, Third person
                   On: PS2, PS3, Saturn, Win, Xbox 360
                   Developers: Sonic Team
@@ -60,7 +60,7 @@
                   Designer: Naoto Ohshima, Takashi Iizuka
                   Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1735   Tomb Raider (1996)                                                                         194    2 
+    7. 1752   Tomb Raider (1996)                                                                         194    2 
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Developers: Core Design
@@ -70,17 +70,7 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1727   NFL GameDay (1996)                                                                          28    2 
-                  USA | 20 h | Bird view / Isometric
-                  On: PSX
-                  Developers: Sony
-                  Publishers: Sony
-                  Genre: Sport
-                  Theme: American Football
-                  Designer: Amir Zbeda, Kelly Walker
-                  Composer: The Pinnacle Group
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1724   Grand Prix II (1996)                                                                        66    2 
+    8. 1741   Grand Prix II (1996)                                                                        66    2 
                   USA | 15 h | First person, Third person
                   On: DOS
                   Developers: MicroProse
@@ -89,6 +79,16 @@
                   Theme: Non-fiction
                   Designer: Geoff Crammond
                   Composer: Andrew Parton, John Broomhall
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1727   NFL GameDay (1996)                                                                          28    2 
+                  USA | 20 h | Bird view / Isometric
+                  On: PSX
+                  Developers: Sony
+                  Publishers: Sony
+                  Genre: Sport
+                  Theme: American Football
+                  Designer: Amir Zbeda, Kelly Walker
+                  Composer: The Pinnacle Group
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1712   Quake (1996)                                                                                 9    1 
                   USA | 7 h | First person
@@ -100,7 +100,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1680   Pokémon Red (1996)                                                                         213    1 
+   11. 1702   Pokémon Red (1996)                                                                         213    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -110,7 +110,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1680   Pokémon Blue (1996)                                                                        214    1
+       1702   Pokémon Blue (1996)                                                                        214    1
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
