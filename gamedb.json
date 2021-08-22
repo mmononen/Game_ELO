@@ -3347,6 +3347,36 @@
         "designer": ["Shingo Takatsuka"],
         "composer": ["Shinji Enomoto"],
         "hltb": 53
+    },
+    "Castlevania: Symphony of the Night (1997)":
+    {
+        "id": 224,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["Android", "Saturn", "Xbox 360", "iOS", "PSX"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Platform", "RPG"],
+        "theme": ["Action", "Horror"],
+        "perspective": ["Side view"],
+        "designer": ["Toru Hagihara"],
+        "composer": ["Michiru Yamane"],
+        "hltb": 12
+    },
+    "International Track & Field (1996)":
+    {
+        "id": 225,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Android", "PSX", "PS3"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Sport"],
+        "theme": ["Track & Field"],
+        "perspective": ["Auditory"],
+        "designer": ["Satoshi Kushibuchi"],
+        "composer": ["Unknown"],
+        "hltb": 1
     }
 
 }
