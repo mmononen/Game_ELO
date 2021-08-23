@@ -437,7 +437,7 @@ for p in platforms:
     olist = []
     printable = make_printable(filter_platform(olist, p))
     if len(printable) > 0:
-        n = f"{p}-txt"
+        n = f"{p}.txt"
         with open(n, 'w', encoding='utf-8') as f_out:
             for p in printable:
                 f_out.write(p+"\n")
