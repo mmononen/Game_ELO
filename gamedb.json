@@ -3452,6 +3452,21 @@
         "designer": ["Michal Bačík", "Radek Bouzek"],
         "composer": ["Jim Rose"],
         "hltb": 18
+    },
+    "1080° Snowboarding (1998)":
+    {
+        "id": 231,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "N64"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Action", "Snowboarding"],
+        "perspective": ["Third person"],
+        "designer": ["Masamichi Abe", "Mitsuhiro Takano"],
+        "composer": ["Kenta Nagata"],
+        "hltb": 7
     }
 
 }
