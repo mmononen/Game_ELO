@@ -1,8 +1,8 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1824   Robotron: 2084 (1982)                                                                      107    3 
+    1. 1860   Robotron: 2084 (1982)                                                                      107    3 
                   USA | 10 h | Bird view / Isometric
-                  On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64/128, DOS, Lynx, Mac, VIC-20
+                  On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
                   Developers: Vid Kidz
                   Publishers: Atari, Digital Eclipse, Shadowsoft, Williams
                   Genre: Shooter
@@ -12,7 +12,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     2. 1814   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric
-                  On: Apple II, Atari 8-bit, Atari ST, C64/128, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
+                  On: Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Developers: Origin
                   Publishers: Pony Canyon, Sierra, StarCraft
                   Genre: RPG
@@ -22,7 +22,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1793   Ms. Pac-Man (1982)                                                                          12    2 
                   USA | 2 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64/128, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Developers: General Computer Corporation
                   Publishers: Atari, Midway, Namco, Tengen, Williams
                   Genre: Arcade, Puzzle
@@ -32,7 +32,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1636   Zork III: The Dungeon Master (1982)                                                         56    2 
                   USA | 3 h | Text
-                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64/128, DOS, Plus/4, TRS-80, Tatung Einstein
+                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Developers: Infocom
                   Publishers: Infocom
                   Genre: Adventure
@@ -42,7 +42,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1549   Wizardry II: The Knight of Diamonds (1982)                                                  97    1 
                   USA | 28 h | First person
-                  On: Apple II, C64/128, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
+                  On: Apple II, C64, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
                   Developers: Sir-Tech
                   Publishers: ASCII, Sir-Tech
                   Genre: RPG
@@ -62,7 +62,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1417   River Raid (1982)                                                                          144    1 
                   USA | 1 h | Bird view / Isometric
-                  On: Atari 2600, Atari 5200, Atari 8-bit, C64/128, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
+                  On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
                   Developers: Activision
                   Publishers: Activision, Pony Canyon
                   Genre: Arcade, Shooter
@@ -82,7 +82,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1324   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
-                  On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64/128, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
+                  On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco
                   Publishers: Atari, Bandai, Dempa Shimbunsha, Enix, Mindscape, Namco, Nintendo, U.S. Gold
                   Genre: Adventure, Arcade, Shooter

@@ -1,6 +1,16 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1830   Doom (1993)                                                                                 19    2 
+    1. 1831   SimCity 2000 (1993)                                                                         48    2 
+                  USA | 25 h | Bird view / Isometric
+                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
+                  Developers: Maxis
+                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
+                  Genre: Simulator, Strategy
+                  Theme: Business, Sandbox
+                  Designer: Fred Haslam, Will Wright
+                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 1830   Doom (1993)                                                                                 19    2 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -10,7 +20,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1826   Virtua Fighter (1993)                                                                      179    1 
+    3. 1826   Virtua Fighter (1993)                                                                      179    1 
                   JPN | 1 h | Side view
                   On: Arcade, Saturn
                   Developers: Sega
@@ -20,7 +30,7 @@
                   Designer: Seiichi Ishii, Yu Suzuki
                   Composer: Takayuki Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1814   Ultima VII: Part Two - Serpent Isle (1993)                                                  85    2 
+    4. 1814   Ultima VII: Part Two - Serpent Isle (1993)                                                  85    2 
                   USA | 59 h | Bird view / Isometric
                   On: DOS
                   Developers: Origin
@@ -40,7 +50,7 @@
                   Designer: Doug Church, Paul Neurath, Tim Stellmach
                   Composer: Dan Schmidt, Jon Blackley
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1796   Ridge Racer (1993)                                                                         182    1 
+    6. 1796   Ridge Racer (1993)                                                                         182    1 
                   JPN | 2 h | First person, Third person
                   On: Arcade, PSX
                   Developers: Namco
@@ -50,27 +60,7 @@
                   Designer: Toru Iwatani
                   Composer: Shinji Hosoe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1792   SimCity 2000 (1993)                                                                         48    2 
-                  USA | 25 h | Bird view / Isometric
-                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
-                  Developers: Maxis
-                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
-                  Genre: Simulator, Strategy
-                  Theme: Business, Sandbox
-                  Designer: Fred Haslam, Will Wright
-                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
-                  USA | 6 h | Side view
-                  On: DOS, Linux, Mac, Win
-                  Developers: LucasArts
-                  Publishers: Activision, LucasArts
-                  Genre: Adventure, Point-and-click
-                  Theme: Comedy, Science Fiction
-                  Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
-                  Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1692   Super Bomberman (1993)                                                                     217    1 
+    7. 1736   Super Bomberman (1993)                                                                     217    1 
                   JPN | 4 h | Side view
                   On: SNES
                   Developers: Produce!
@@ -79,6 +69,16 @@
                   Theme: Action, Party
                   Designer: Kyon Kyon, Mikio Ueyama
                   Composer: Jun Chikuma, Tomoyuki Hamada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
+                  USA | 6 h | Side view
+                  On: DOS, Linux, Mac, Win
+                  Developers: LucasArts
+                  Publishers: Activision, LucasArts
+                  Genre: Adventure, Point-and-click
+                  Theme: Comedy, Science Fiction
+                  Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
+                  Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1668   Star Wars: X-Wing (1993)                                                                    23    1 
                   USA | 24 h | First person
@@ -120,7 +120,7 @@
                   Designer: Howard Shere, Moses Ma
                   Composer: Kyle Johnson, Morey Goldstein, Moses Ma
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1534   Secret of Mana (1993)                                                                      232    1 
+   13. 1570   Secret of Mana (1993)                                                                      232    1 
                   JPN | 29 h | Bird view / Isometric
                   On: Android, SNES, Wii, Wii U, iOS
                   Developers: Square

@@ -1,8 +1,8 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1859   Defender (1981)                                                                             13    2 
+    1. 1876   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64/128, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Developers: Williams
                   Publishers: Atari, Sears, Shockwave, Williams
                   Genre: Shooter, Strategy
@@ -12,7 +12,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     2. 1814   Ultima I: The First Age of Darkness (1981)                                                  75    2 
                   USA | 8 h | Bird view / Isometric, First person
-                  On: Apple II, Apple IIGS, Atari 8-bit, C64/128, DOS, FM Towns, MSX2
+                  On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
                   Developers: Origin
                   Publishers: California Pacific Computer, Electronic Arts, Fujitsu, Origin, Pony Canyon, Sierra, Vitesse
                   Genre: RPG
@@ -32,7 +32,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1636   Zork II: The Wizard of Frobozz (1981)                                                       55    2 
                   USA | 3 h | Text
-                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64/128, DOS, Mac, Plus/4, TRS-80, Tatung Einstein
+                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, Plus4, TRS-80, Tatung Einstein
                   Developers: Infocom
                   Publishers: Infocom
                   Genre: Adventure
@@ -42,7 +42,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1614   Donkey Kong (1981)                                                                          70    1 
                   JPN | 1 h | Side view
-                  On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64/128, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
+                  On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Developers: Nintendo
                   Publishers: Atari, Coleco, Nintendo, Ocean Software
                   Genre: Arcade, Platform
@@ -52,7 +52,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1549   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    1 
                   USA | 41 h | First person
-                  On: Apple II, C64/128, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
+                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Developers: Sir-Tech
                   Publishers: ASCII, Bandai, Sir-Tech
                   Genre: RPG
@@ -72,7 +72,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1398   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64/128, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Developers: Atari
                   Publishers: Atari, Sanritsu Denki, Superior Software
                   Genre: Arcade, Shooter

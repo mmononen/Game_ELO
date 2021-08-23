@@ -235,27 +235,7 @@ def check_year(data, val):
     return data['games'].index(val)['year']
     #return 1996
 
-def filter_year(years):
-    olist = []
-    list1978 = []
-    list1979 = []
-    list1980 = []
-    list1981 = []
-    list1982 = []
-    list1983 = []
-    list1984 = []
-    list1985 = []
-    list1986 = []
-    list1987 = []
-    list1988 = []
-    list1989 = []
-    list1990 = []
-    list1991 = []
-    list1992 = []
-    list1993 = []
-    list1994 = []
-    list1995 = []
-    list1996 = []
+def filter_year(olist, years):    
     a = len(max(groupnames, key=len)) + 4
     for g in groups:
         if g.matches > 0:
@@ -269,9 +249,29 @@ def filter_year(years):
             s += f"{int(round(g.elo))}   {g.name:{a}} {(g.id):4} {len(g.lists):4}"
             if g.year in years:
                 olist.append(s)
+    return olist
 
-    olist.sort(reverse=True)
+def filter_platform(olis, platform):
+    a = len(max(groupnames, key=len)) + 4
+    for g in groups:
+        if g.matches > 0:
+            s = ""
+            if g.elo < 1000:
+                s = "0"
+            s2 = ""
+            if g.highest_elo < 1000:
+                s2 = "0"        
+            
+            s += f"{int(round(g.elo))}   {g.name:{a}} {(g.id):4} {len(g.lists):4}"
+            if platform in g.platforms:
+                olist.append(s)
+    return olist
+
+def make_printable(olist):
+    a = len(max(groupnames, key=len)) + 4
     
+    olist.sort(reverse=True)
+    #print (olist)
     printable = []
     temps = "GAME"
     printable.append(f" RANK   ELO   {temps:{a}}   ID  LST")
@@ -310,9 +310,11 @@ def filter_year(years):
                 j += 1
                 printable.append(f"")
                 printable.append(f"       {o}")        
+            
             bname = o[7:len(max(groupnames, key=len)) + 7].strip()
+            
             band = groups[groupnames.index(bname)]
-
+            #print(f"{band.id} {band.name} ({band.year})")
             # There should be data for all the fields in gamedb.json if there is an entry for the game
             if (band.id) != 0:
                 printable.append(f"                  {band.get_country()} | {band.hltb} h | {band.get_perspective()}")
@@ -414,20 +416,38 @@ for l in lists:
         if g.get_elo() > g.get_highest_elo():
             g.set_highest_elo()
 
+printable = []
 
 for i in range(1900, 2100, 1):
-
-    printable = filter_year([*range(i,i+1,1)])
+    olist = []    
+    printable = make_printable(filter_year(olist, [*range(i,i+1,1)]))
     if len(printable) > 0:
         n = f"{i}.txt"
         with open(n, 'w', encoding='utf-8') as f_out:
             for p in printable:
                 f_out.write(p+"\n")
 
-printable = filter_year([*range(1900,2100,1)])
+platforms = []
+for g in groups:
+    for p in g.platforms:
+        if p not in platforms:
+            platforms.append(p)
+
+for p in platforms:
+    olist = []
+    printable = make_printable(filter_platform(olist, p))
+    if len(printable) > 0:
+        n = f"{p}-txt"
+        with open(n, 'w', encoding='utf-8') as f_out:
+            for p in printable:
+                f_out.write(p+"\n")
+
+printable = []
+olist = []
+printable = make_printable(filter_year(olist, [*range(1900,2100,1)]))
 with open('all.txt', 'w', encoding='utf-8') as f_out:
     for p in printable:
-        print(p)
+        #print(p)
         f_out.write(p+"\n")
 
 gamedb = sorted(gamedb)

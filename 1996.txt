@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2089   Super Mario 64 (1996)                                                                        1    3 
+    1. 2104   Super Mario 64 (1996)                                                                        1    3 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2035   Sid Meier's Civilization II (1996)                                                          30    3 
+    2. 2054   Sid Meier's Civilization II (1996)                                                          30    3 
                   USA | 50 h | Bird view / Isometric
                   On: Mac, PSX, Win
                   Developers: MicroProse
@@ -20,7 +20,7 @@
                   Designer: Brian Reynolds, Chris Taormino, Jason S. Coleman
                   Composer: Jeffery L. Briggs, Kevin Manthei, Roland J. Rizzo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1878   Resident Evil (1996)                                                                       162    3 
+    3. 1910   Resident Evil (1996)                                                                       162    3 
                   JPN | 8 h | Third person
                   On: DS, PS3, PSX, Saturn, Win
                   Developers: Capcom, Nextech
@@ -30,17 +30,7 @@
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1827   Virtua Fighter 3 (1996)                                                                    180    1 
-                  JPN | 1 h | Side view
-                  On: Arcade, Dreamcast
-                  Developers: Genki, Sega
-                  Publishers: Sega
-                  Genre: Arcade, Fighting
-                  Theme: Action
-                  Designer: Daichi Katagiri, Kazuhiro Izaki, Yu Suzuki
-                  Composer: Fumio Ito, Hidenori Syoji, Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1808   Nights into Dreams... (1996)                                                                25    2 
+    4. 1845   Nights into Dreams... (1996)                                                                25    2 
                   JPN | 4 h | Side view, Third person
                   On: PS2, PS3, Saturn, Win, Xbox 360
                   Developers: Sonic Team
@@ -50,7 +40,7 @@
                   Designer: Naoto Ohshima, Takashi Iizuka
                   Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1801   Tomb Raider (1996)                                                                         194    2 
+    5. 1839   Tomb Raider (1996)                                                                         194    2 
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Developers: Core Design
@@ -60,17 +50,7 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1796   Rage Racer (1996)                                                                          184    1 
-                  JPN | 9 h | First person, Third person
-                  On: PSX
-                  Developers: Namco
-                  Publishers: Namco
-                  Genre: Arcade, Racing, Sport
-                  Theme: Action
-                  Designer: Unknown
-                  Composer: Hiroshi Okubo, Tetsukazu Nakanishi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1790   Grand Prix II (1996)                                                                        66    2 
+    6. 1829   Grand Prix II (1996)                                                                        66    2 
                   USA | 15 h | First person, Third person
                   On: DOS
                   Developers: MicroProse
@@ -80,7 +60,27 @@
                   Designer: Geoff Crammond
                   Composer: Andrew Parton, John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1754   Pokémon Red (1996)                                                                         213    1 
+    7. 1827   Virtua Fighter 3 (1996)                                                                    180    1 
+                  JPN | 1 h | Side view
+                  On: Arcade, Dreamcast
+                  Developers: Genki, Sega
+                  Publishers: Sega
+                  Genre: Arcade, Fighting
+                  Theme: Action
+                  Designer: Daichi Katagiri, Kazuhiro Izaki, Yu Suzuki
+                  Composer: Fumio Ito, Hidenori Syoji, Takenobu Mitsuyoshi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1796   Rage Racer (1996)                                                                          184    1 
+                  JPN | 9 h | First person, Third person
+                  On: PSX
+                  Developers: Namco
+                  Publishers: Namco
+                  Genre: Arcade, Racing, Sport
+                  Theme: Action
+                  Designer: Unknown
+                  Composer: Hiroshi Okubo, Tetsukazu Nakanishi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1795   Pokémon Red (1996)                                                                         213    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -90,7 +90,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1754   Pokémon Blue (1996)                                                                        214    1
+       1795   Pokémon Blue (1996)                                                                        214    1
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -100,7 +100,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1736   Wave Race 64 (1996)                                                                        193    2 
+   11. 1778   Wave Race 64 (1996)                                                                        193    2 
                   JPN | 9 h | First person, Third person
                   On: N64, Wii, Wii U
                   Developers: Nintendo
@@ -170,7 +170,7 @@
                   Designer: Toshinori Asai
                   Composer: Jun Senoue, Seirou Okamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1564   International Track & Field (1996)                                                         225    1 
+   18. 1604   International Track & Field (1996)                                                         225    1 
                   JPN | 1 h | Auditory
                   On: Android, PS3, PSX
                   Developers: Konami
@@ -180,7 +180,7 @@
                   Designer: Satoshi Kushibuchi
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1561   Pilotwings 64 (1996)                                                                       226    1 
+   19. 1601   Pilotwings 64 (1996)                                                                       226    1 
                   JPN | 8 h | Third person
                   On: N64
                   Developers: Nintendo, Paradigm Simulation
@@ -190,7 +190,7 @@
                   Designer: Makoto Wada
                   Composer: Dan Hess
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1554   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
+   20. 1593   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
                   JPN | 1 h | Side view
                   On: DOS, GB, Mac, N64, PSX, Saturn, Win
                   Developers: Taito
@@ -220,17 +220,7 @@
                   Designer: Masaya Matsuura
                   Composer: Masaya Matsuura, Yoshihisa Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1486   AH-64D Longbow (1996)                                                                      126    1 
-                  USA | 20 h | First person
-                  On: DOS
-                  Developers: Jane's Combat Simulations, Origin
-                  Publishers: Electronic Arts, Jane's Combat Simulations
-                  Genre: Simulator
-                  Theme: Flight, Non-fiction
-                  Designer: Will McBurnett
-                  Composer: Barry Leitch
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1465   PowerSlave (1996)                                                                          241    1 
+   23. 1488   PowerSlave (1996)                                                                          241    1 
                   USA | 11 h | First person
                   On: DOS, PSX, Saturn
                   Developers: Lobotomy Software
@@ -239,6 +229,16 @@
                   Theme: Action, Educational, Fantasy, Science Fiction
                   Designer: Brian McNeely
                   Composer: Scott Branston
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1486   AH-64D Longbow (1996)                                                                      126    1 
+                  USA | 20 h | First person
+                  On: DOS
+                  Developers: Jane's Combat Simulations, Origin
+                  Publishers: Electronic Arts, Jane's Combat Simulations
+                  Genre: Simulator
+                  Theme: Flight, Non-fiction
+                  Designer: Will McBurnett
+                  Composer: Barry Leitch
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    25. 1408   Virtua Cop 2 (1996)                                                                        146    1 
                   JPN | 2 h | First person
