@@ -3662,6 +3662,51 @@
         "designer": ["Jon Ritman"],
         "composer": ["Guy Stevens"],
         "hltb": 10
+    },
+    "Mercenary (1985)":
+    {
+        "id": 245,
+        "year": 1985,
+        "country": ["GBR"],
+        "platforms": ["Atari 8-bit", "C16", "Amstrad CPC", "ZX Spectrum", "C64", "Plus4", "Atari ST"],
+        "developers": ["Novagen"],
+        "publishers": ["Novagen", "Datasoft"],
+        "genre": ["Puzzle", "Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Paul Woakes", "Bruce Jordan"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Exile (1988)":
+    {
+        "id": 246,
+        "year": 1988,
+        "country": ["GBR"],
+        "platforms": ["CD32", "Amiga", "BBC", "Atari ST"],
+        "developers": ["Superior Software", "Audiogenic"],
+        "publishers": ["Superior Software", "Audiogenic"],
+        "genre": ["Adventure", "Arcade", "Platform"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Peter Irvin", "Jeremy Smith"],
+        "composer": ["Unknown"],
+        "hltb": 4
+    },
+    "Grand Theft Auto (1997)":
+    {
+        "id": 247,
+        "year": 1997,
+        "country": ["GBR"],
+        "platforms": ["PSX", "DOS", "Win"],
+        "developers": ["DMA Design", "Tarantula Studios"],
+        "publishers": ["Rockstar", "BMG", "Take-Two", "ASC Games", "Syscom Entertainment"],
+        "genre": ["Adventure", "Racing", "Shooter"],
+        "theme": ["Action", "Sandbox"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Keith R. Hamilton", "Stephen Banks", "Paul Farley", "Billy Thomson"],
+        "composer": ["Colin Anderson", "Craig Conner", "Grant Middleton"],
+        "hltb": 13
     }
 
 }

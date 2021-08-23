@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2058   Street Fighter II (1991)                                                                     7    3 
+    1. 2059   Street Fighter II (1991)                                                                     7    3 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Developers: Capcom
@@ -30,7 +30,7 @@
                   Designer: Hiroji Kiyotake, Hiroyuki Kimura, Makoto Kano
                   Composer: Ryoji Yoshitomi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1795   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+    4. 1800   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB, GBC
                   Developers: Game Freak
@@ -40,7 +40,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1795   Pokémon Red (1996)                                                                         213    1
+       1800   Pokémon Red (1996)                                                                         213    1
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -50,7 +50,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1795   Pokémon Blue (1996)                                                                        214    1
+       1800   Pokémon Blue (1996)                                                                        214    1
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -100,7 +100,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1593   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
+   11. 1600   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
                   JPN | 1 h | Side view
                   On: DOS, GB, Mac, N64, PSX, Saturn, Win
                   Developers: Taito
@@ -110,7 +110,7 @@
                   Designer: Selichi Nakakuki
                   Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1538   R-Type (1987)                                                                              172    2 
+   12. 1544   R-Type (1987)                                                                              172    2 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Developers: Irem, Konami
@@ -120,7 +120,7 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1514   Bubble Bobble (1986)                                                                       237    1 
+   13. 1520   Bubble Bobble (1986)                                                                       237    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -130,17 +130,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1501   FIFA International Soccer (1993)                                                           121    1 
-                  CAN | 29 h | Bird view / Isometric
-                  On: Amiga, DOS, GB, Mega Drive
-                  Developers: Extended Play Productions
-                  Publishers: Electronic Arts
-                  Genre: Sport
-                  Theme: Football
-                  Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
-                  Composer: Jeff van Dyck
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1497   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+   14. 1503   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -150,7 +140,17 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1476   Sensible Soccer: European Champions (1992)                                                 242    1 
+   15. 1501   FIFA International Soccer (1993)                                                           121    1 
+                  CAN | 29 h | Bird view / Isometric
+                  On: Amiga, DOS, GB, Mega Drive
+                  Developers: Extended Play Productions
+                  Publishers: Electronic Arts
+                  Genre: Sport
+                  Theme: Football
+                  Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
+                  Composer: Jeff van Dyck
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1481   Sensible Soccer: European Champions (1992)                                                 242    1 
                   GBR | 49 h | Bird view / Isometric
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Developers: Sensible Software
@@ -159,8 +159,8 @@
                   Theme: Action, Football
                   Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
                   Composer: Richard Joseph
-
-       1476   NBA Live '96 (1995)                                                                        129    1
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1476   NBA Live '96 (1995)                                                                        129    1 
                   CAN | 20 h | Bird view / Isometric
                   On: GB, Mega Drive, PSX, SNES, Win
                   Developers: Electronic Arts, Hitmen Productions, Tiertex
