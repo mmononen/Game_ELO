@@ -2385,7 +2385,7 @@
         "theme": ["Action"],
         "perspective": ["Third person"],
         "designer": ["Richard A. Ditton", "Elaine Hodgson", "Chris Oberth", "Fumiko Murakami"],
-        "composer": ["David Thiel", "Kenichi TOmizawa"],
+        "composer": ["David Thiel", "Kenichi Tomizawa"],
         "hltb": 1
     },
     "California Games (1987)":
@@ -3467,6 +3467,111 @@
         "designer": ["Masamichi Abe", "Mitsuhiro Takano"],
         "composer": ["Kenta Nagata"],
         "hltb": 7
+    },
+    "Secret of Mana (1993)":
+    {
+        "id": 232,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["Android", "Wii U", "iOS", "SNES", "Wii"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Koichi Ishii", "Hiromichi Tanaka"],
+        "composer": ["Hiroki Kikuta"],
+        "hltb": 29
+    },
+    "Star Fox 64 (1997)":
+    {
+        "id": 233,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "N64"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Takao Shimizu", "Shigeru Miyamoto"],
+        "composer": ["Koji Kondo", "Hajime Wakai"],
+        "hltb": 4
+    },
+    "Ridge Racer Type 4 (1998)":
+    {
+        "id": 234,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["PSP", "PSX", "Vita", "PS3"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Racing"],
+        "theme": ["Motorsports"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Kohta Takahashi", "Hiroshi Okubo", "Asuka Sakai", "Tetsukazu Nakanishi", "Koji Nagakawa"],
+        "hltb": 9
+    },
+    "The Secret of Monkey Island (1990)":
+    {
+        "id": 235,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "Sega CD", "DOS", "FM Towns", "Atari ST"],
+        "developers": ["LucasArts"],
+        "publishers": ["JVC", "LucasArts"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Pirates"],
+        "perspective": ["Side view"],
+        "designer": ["Ron Gilbert", "Dave Grossman", "Tim Schafer"],
+        "composer": ["Michael Z. Land", "Patrick Mundy"],
+        "hltb": 7
+    },
+    "Sonic Adventure (1998)":
+    {
+        "id": 236,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Xbox 360", "Dreamcast", "PS3"],
+        "developers": ["Sonic Team"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Takashi Iizuka", "Takao Miyoshi", "Yojiro Ogawa"],
+        "composer": ["Jun Senoue", "Kenichi Tokoi", "Fumie Kumatani"],
+        "hltb": 14
+    },
+    "Bubble Bobble (1986)":
+    {
+        "id": 237,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["MSX", "3DS", "Wii U", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "DOS", "C64/128", "GB", "Wii", "Game Gear", "SMS", "FM Towns", "Apple II", "Sharp X68000", "Atari ST", "Arcade"],
+        "developers": ["Taito"],
+        "publishers": ["Sega", "Ving", "Firebird", "Micomsoft", "Taito"],
+        "genre": ["Arcade", "Platform", "Puzzle", "Strategy"],
+        "theme": ["Action", "Fantasy", "Kids"],
+        "perspective": ["Side view"],
+        "designer": ["Fukio Mitsuji"],
+        "composer": ["Tadashi Kimijima"],
+        "hltb": 3
+    },
+    "Stunt Car Racer (1989)":
+    {
+        "id": 238,
+        "year": 1989,
+        "country": ["GBR"],
+        "platforms": ["Amstrad CPC", "Amiga", "ZX Spectrum", "DOS", "C64/128", "Atari ST"],
+        "developers": ["MicroStyle", "Ceative Assembly"],
+        "publishers": ["MicroStyle", "MicroPlay"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Geoff Crammond"],
+        "composer": ["Unknown"],
+        "hltb": 3
     }
 
 }
