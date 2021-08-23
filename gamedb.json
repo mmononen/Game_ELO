@@ -3572,6 +3572,51 @@
         "designer": ["Geoff Crammond"],
         "composer": ["Unknown"],
         "hltb": 3
+    },
+    "Speedball 2: Brutal Deluxe (1990)":
+    {
+        "id": 239,
+        "year": 1990,
+        "country": ["GBR"],
+        "platforms": ["Mega Drive", "Acorn Archimedes", "Amiga", "GBA", "DOS", "C64/128", "GB", "SMS", "Mobile", "BlackBerry", "Atari ST"],
+        "developers": ["The Bitmap Brothers"],
+        "publishers": ["Infinite Ventures", "Glu Mobile", "Mirrorsoft", "Amiga", "Konami", "Kixx", "Krisalis", "The Bitmap Brothers", "Arena Entertainment", "CSK Research Institute", "Virgin", "Mindscape", "Image Works", "Renegade Software", "Wanadoo Edition"],
+        "genre": ["Sport", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Eric Matthews"],
+        "composer": ["John Foxx"],
+        "hltb": 10
+    },
+    "Micro Machines 2: Turbo Tournament (1994)":
+    {
+        "id": 240,
+        "year": 1994,
+        "country": ["GBR"],
+        "platforms": ["Mega Drive", "DOS", "Game Gear"],
+        "developers": ["Codemasters", "Supersonic Software"],
+        "publishers": ["Codemasters"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Andrew Fussey", "Jonathan Menzies", "Peter Williamson"],
+        "composer": ["Tim Bartlett"],
+        "hltb": 2
+    },
+    "PowerSlave (1996)":
+    {
+        "id": 241,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Saturn", "PSX", "DOS"],
+        "developers": ["Lobotomy Software"],
+        "publishers": ["BMG", "Playmates Interactive Entertainment"],
+        "genre": ["Shooter", "Strategy"],
+        "theme": ["Action", "Educational", "Fantasy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Brian McNeely"],
+        "composer": ["Scott Branston"],
+        "hltb": 11
     }
 
 }
