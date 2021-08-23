@@ -3392,6 +3392,66 @@
         "designer": ["Makoto Wada"],
         "composer": ["Dan Hess"],
         "hltb": 8
+    },
+    "Colin McRae Rally (1998)":
+    {
+        "id": 227,
+        "year": 1998,
+        "country": ["GBR"],
+        "platforms": ["GBC", "PSX", "Win"],
+        "developers": ["Codemasters"],
+        "publishers": ["Codemasters", "THQ"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Non-fiction", "Motorsports", "Rally"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 11
+    },
+    "Bust-A-Move 2: Arcade Edition (1996)":
+    {
+        "id": 228,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "Mac", "PSX", "DOS", "GB", "N64", "Win"],
+        "developers": ["Taito"],
+        "publishers": ["CyberFront", "Interplay", "Taito", "Acclaim"],
+        "genre": ["Puzzle"],
+        "theme": ["Kids", "Party"],
+        "perspective": ["Side view"],
+        "designer": ["Selichi Nakakuki"],
+        "composer": ["Kazuko Umino", "Norihiro Furukawa", "Shuichiro Nakazawa"],
+        "hltb": 1
+    },
+    "Star Wars: X-Wing vs TIE Fighter (1997)":
+    {
+        "id": 229,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Totally Games"],
+        "publishers": ["LucasArts"],
+        "genre": ["Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Lawrence Holland"],
+        "composer": ["Peter McConnell"],
+        "hltb": 20
+    },
+    "Hidden & Dangerous (1999)":
+    {
+        "id": 230,
+        "year": 1999,
+        "country": ["CZE"],
+        "platforms": ["Dreamcast", "PSX", "Win"],
+        "developers": ["Illusion Softworks", "Tarantula Studios"],
+        "publishers": ["Global Star Software", "TalonSoft", "Take-Two", "Gathering of Developers"],
+        "genre": ["Adventure", "Shooter", "Strategy", "Tactical"],
+        "theme": ["Action", "Historical"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Michal Bačík", "Radek Bouzek"],
+        "composer": ["Jim Rose"],
+        "hltb": 18
     }
 
 }
