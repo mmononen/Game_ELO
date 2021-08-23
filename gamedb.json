@@ -3707,6 +3707,51 @@
         "designer": ["Keith R. Hamilton", "Stephen Banks", "Paul Farley", "Billy Thomson"],
         "composer": ["Colin Anderson", "Craig Conner", "Grant Middleton"],
         "hltb": 13
+    },
+    "Shinobi (1987)":
+    {
+        "id": 248,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["MSX", "3DS", "Xbox 360", "Amiga", "Amstrad CPC", "NES", "ZX Spectrum", "DOS", "C64", "Wii", "Game Gear", "SMS", "TurboGrafx-16", "Atari ST", "Arcade"],
+        "developers": ["Sega"],
+        "publishers": ["Sega", "Asmik Corporation", "Sales Curve Interactive", "Tengen", "Virgin"],
+        "genre": ["Adventure", "Hack and Slash"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Yutaka Sugano"],
+        "composer": ["Yasuhiro Kawakami"],
+        "hltb": 2
+    },
+    "Contra III: The Alien Wars (1992)":
+    {
+        "id": 249,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "GBA", "SNES", "Wii"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Side view", "Third person"],
+        "designer": ["Nobuya Nakazato"],
+        "composer": ["Miki Higashino", "Masanori Adachi", "Tappi Iwase"],
+        "hltb": 2
+    },
+    "Rampart (1990)":
+    {
+        "id": 250,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "GBC", "Amiga", "NES", "SNES", "DOS", "GB", "Lynx", "SMS", "PS3", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Midway", "Tengen", "Electronic Arts", "Jaleco, Domark, Atari"],
+        "genre": ["Arcade", "Puzzle", "Strategy"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["John Salwitz", "Dave Ralston"],
+        "composer": ["Don Diekneite", "Brad FUller"],
+        "hltb": 10
     }
 
 }
