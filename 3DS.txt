@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2065   Super Mario World (1990)                                                                    33    3 
+    1. 2068   Super Mario World (1990)                                                                    33    3 
                   JPN | 8 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2060   The Legend of Zelda: A Link to the Past (1991)                                             110    3 
+    2. 2063   The Legend of Zelda: A Link to the Past (1991)                                             110    3 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -20,7 +20,7 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2013   Super Mario Kart (1992)                                                                     53    3 
+    3. 2017   Super Mario Kart (1992)                                                                     53    3 
                   JPN | 10 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -30,7 +30,7 @@
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2000   Super Metroid (1994)                                                                       119    3 
+    4. 2003   Super Metroid (1994)                                                                       119    3 
                   JPN | 9 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -110,7 +110,7 @@
                   Designer: Satoru Okada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1800   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+   12. 1807   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB, GBC
                   Developers: Game Freak
@@ -120,7 +120,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1800   Pokémon Red (1996)                                                                         213    1
+       1807   Pokémon Red (1996)                                                                         213    1
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -130,7 +130,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1800   Pokémon Blue (1996)                                                                        214    1
+       1807   Pokémon Blue (1996)                                                                        214    1
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -180,7 +180,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1520   Bubble Bobble (1986)                                                                       237    1 
+   19. 1528   Bubble Bobble (1986)                                                                       237    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -189,3 +189,33 @@
                   Theme: Action, Fantasy, Kids
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1408   Shinobi (1987)                                                                             248    1 
+                  JPN | 2 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, NES, SMS, TurboGrafx-16, Wii, Xbox 360, ZX Spectrum
+                  Developers: Sega
+                  Publishers: Asmik Corporation, Sales Curve Interactive, Sega, Tengen, Virgin
+                  Genre: Adventure, Hack and Slash
+                  Theme: Action
+                  Designer: Yutaka Sugano
+                  Composer: Yasuhiro Kawakami
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1403   Contra III: The Alien Wars (1992)                                                          249    1 
+                  JPN | 2 h | Bird view / Isometric, Side view, Third person
+                  On: 3DS, GBA, SNES, Wii, Wii U
+                  Developers: Konami
+                  Publishers: Konami
+                  Genre: Adventure, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Nobuya Nakazato
+                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1393   Pac-Man (1980)                                                                             251    1 
+                  JPN | 2 h | Side view
+                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Survival
+                  Designer: Toru Iwatani
+                  Composer: Shigeichi Ishimura, Toshio Kai

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2105   Tetris (1984)                                                                                2    3 
+    1. 2107   Tetris (1984)                                                                                2    3 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -30,7 +30,7 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1750   Galaga (1981)                                                                              170    2 
+    4. 1769   Galaga (1981)                                                                              170    3 
                   JPN | 2 h | Side view
                   On: Arcade, Atari 7800, FM-7, MSX, NES, PC-98, SG-1000, SMS, Sharp X1, Xbox 360
                   Developers: Namco
@@ -120,7 +120,17 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1324   Xevious (1982)                                                                             161    1 
+   13. 1393   Pac-Man (1980)                                                                             251    1 
+                  JPN | 2 h | Side view
+                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Survival
+                  Designer: Toru Iwatani
+                  Composer: Shigeichi Ishimura, Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1324   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco

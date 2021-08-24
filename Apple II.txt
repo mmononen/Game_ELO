@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2105   Tetris (1984)                                                                                2    3 
+    1. 2107   Tetris (1984)                                                                                2    3 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -10,7 +10,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1880   Defender (1981)                                                                             13    3 
+    2. 1885   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Developers: Williams
@@ -20,7 +20,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1863   Robotron: 2084 (1982)                                                                      107    3 
+    3. 1870   Robotron: 2084 (1982)                                                                      107    3 
                   USA | 10 h | Bird view / Isometric
                   On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
                   Developers: Vid Kidz
@@ -110,7 +110,7 @@
                   Designer: Dave Lebling
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1757   Elite (1984)                                                                                14    2 
+   12. 1766   Elite (1984)                                                                                14    2 
                   GBR | 100 h | First person
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Developers: Acornsoft
@@ -290,17 +290,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1521   A Mind Forever Voyaging (1985)                                                             113    1 
-                  USA | 6 h | Text
-                  On: Amiga, Apple II, Atari ST, C64, DOS, Mac
-                  Developers: Infocom
-                  Publishers: Infocom
-                  Genre: Adventure
-                  Theme: Science Fiction
-                  Designer: Steve Meretzky
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1520   Bubble Bobble (1986)                                                                       237    1 
+   30. 1528   Bubble Bobble (1986)                                                                       237    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -309,6 +299,16 @@
                   Theme: Action, Fantasy, Kids
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   31. 1521   A Mind Forever Voyaging (1985)                                                             113    1 
+                  USA | 6 h | Text
+                  On: Amiga, Apple II, Atari ST, C64, DOS, Mac
+                  Developers: Infocom
+                  Publishers: Infocom
+                  Genre: Adventure
+                  Theme: Science Fiction
+                  Designer: Steve Meretzky
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    32. 1479   Balance of Power (1985)                                                                    128    1 
                   USA | 20 h | Bird view / Isometric
@@ -390,7 +390,17 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
+   40. 1393   Pac-Man (1980)                                                                             251    1 
+                  JPN | 2 h | Side view
+                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Survival
+                  Designer: Toru Iwatani
+                  Composer: Shigeichi Ishimura, Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   41. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
                   USA | 3 h | Side view, Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Developers: Sierra
@@ -400,7 +410,7 @@
                   Designer: Al Lowe, Mark Crowe
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1330   Winter Games (1985)                                                                        159    1 
+   42. 1330   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Developers: Action Graphics
@@ -430,7 +440,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   44. 1324   Xevious (1982)                                                                             161    1 
+   45. 1324   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -440,7 +450,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   45. 1310   Hard Hat Mack (1983)                                                                       163    1 
+   46. 1310   Hard Hat Mack (1983)                                                                       163    1 
                   USA | 10 h | Side view
                   On: Amstrad CPC, Apple II, Atari 8-bit, C64, DOS
                   Developers: Matthew Alexander, Michael Abbot
@@ -450,7 +460,7 @@
                   Designer: Matthew Alexander, Michael Abbot
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   46. 1200   Trinity (1986)                                                                             176    1 
+   47. 1200   Trinity (1986)                                                                             176    1 
                   USA | 10 h | Text
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Developers: Infocom

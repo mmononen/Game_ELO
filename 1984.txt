@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2105   Tetris (1984)                                                                                2    3 
+    1. 2107   Tetris (1984)                                                                                2    3 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -10,7 +10,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1757   Elite (1984)                                                                                14    2 
+    2. 1766   Elite (1984)                                                                                14    2 
                   GBR | 100 h | First person
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Developers: Acornsoft
@@ -70,7 +70,17 @@
                   Designer: Roberta Williams
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1349   Knight Lore (1984)                                                                         157    1 
+    8. 1378   Bomb Jack (1984)                                                                           252    1 
+                  JPN | 1 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, GB, PC-8801, PC-98, Plus4, SG-1000, ZX Spectrum
+                  Developers: Tecmo
+                  Publishers: Elite Systems, Infogrames, Mindware, Sega, Soft Bank, Tecmo
+                  Genre: Arcade, Platform
+                  Theme: Action
+                  Designer: Kazutoshi Ueda, Michitaka Tsuruta
+                  Composer: Alberto José Gonzalez Pedraza, Mark Cooksey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1349   Knight Lore (1984)                                                                         157    1 
                   GBR | 2 h | Third person
                   On: Amstrad CPC, BBC, MSX, ZX Spectrum
                   Developers: Ultimate Play the Game
@@ -80,7 +90,7 @@
                   Designer: Chris Stamper, TIm Stamper
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1330   Summer Games (1984)                                                                        158    1 
+   10. 1330   Summer Games (1984)                                                                        158    1 
                   USA | 1 h | Third person
                   On: Amiga, Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64, PC-8801, SMS, ZX Spectrum
                   Developers: Epyx

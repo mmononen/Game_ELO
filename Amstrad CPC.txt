@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2059   Street Fighter II (1991)                                                                     7    3 
+    1. 2062   Street Fighter II (1991)                                                                     7    3 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Developers: Capcom
@@ -30,7 +30,7 @@
                   Designer: Mike Hally
                   Composer: Earl Vickers
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1757   Elite (1984)                                                                                14    2 
+    4. 1766   Elite (1984)                                                                                14    2 
                   GBR | 100 h | First person
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Developers: Acornsoft
@@ -40,7 +40,7 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1743   OutRun (1986)                                                                               65    2 
+    5. 1751   OutRun (1986)                                                                               65    2 
                   JPN | 2 h | Third person
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Developers: Sega
@@ -60,7 +60,7 @@
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1657   The Sentinel (1986)                                                                         73    2 
+    7. 1667   The Sentinel (1986)                                                                         73    2 
                   GBR | 79 h | First person
                   On: Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, ZX Spectrum
                   Developers: Geoff Crammond
@@ -70,7 +70,17 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1636   Zork III: The Dungeon Master (1982)                                                         56    2 
+    8. 1645   Super Sprint (1986)                                                                         95    2 
+                  USA | 1 h | Bird view / Isometric
+                  On: Amstrad CPC, Arcade, Atari ST, C64, NES, ZX Spectrum
+                  Developers: Atari
+                  Publishers: Altron, Atari, Electric Dreams Software, Tengen, The Hit Squad
+                  Genre: Arcade, Racing
+                  Theme: Action
+                  Designer: Kelly Turner, Robert Weatherby
+                  Composer: Brad Fuller, Hal Canon
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1636   Zork III: The Dungeon Master (1982)                                                         56    2 
                   USA | 3 h | Text
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Developers: Infocom
@@ -100,16 +110,6 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1635   Super Sprint (1986)                                                                         95    2 
-                  USA | 1 h | Bird view / Isometric
-                  On: Amstrad CPC, Arcade, Atari ST, C64, NES, ZX Spectrum
-                  Developers: Atari
-                  Publishers: Altron, Atari, Electric Dreams Software, Tengen, The Hit Squad
-                  Genre: Arcade, Racing
-                  Theme: Action
-                  Designer: Kelly Turner, Robert Weatherby
-                  Composer: Brad Fuller, Hal Canon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    12. 1625   Rolling Thunder (1986)                                                                      63    1 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, NES, Wii, ZX Spectrum
@@ -130,17 +130,7 @@
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1547   Ikari Warriors (1986)                                                                      103    1 
-                  JPN | 1 h | Bird view / Isometric
-                  On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
-                  Developers: SNK
-                  Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
-                  Genre: Arcade, Shooter
-                  Theme: Action, Warfare
-                  Designer: Keiko Iju, Koji Obada
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1544   R-Type (1987)                                                                              172    2 
+   14. 1554   R-Type (1987)                                                                              172    2 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Developers: Irem, Konami
@@ -149,6 +139,16 @@
                   Theme: Action, Science Fiction
                   Designer: Abiko
                   Composer: Masato Ishizaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1547   Ikari Warriors (1986)                                                                      103    1 
+                  JPN | 1 h | Bird view / Isometric
+                  On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
+                  Developers: SNK
+                  Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
+                  Genre: Arcade, Shooter
+                  Theme: Action, Warfare
+                  Designer: Keiko Iju, Koji Obada
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    16. 1540   The Bard's Tale (1985)                                                                     104    1 
                   USA | 28 h | First person
@@ -160,7 +160,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1520   Bubble Bobble (1986)                                                                       237    1 
+   17. 1528   Bubble Bobble (1986)                                                                       237    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -170,7 +170,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1507   Stunt Car Racer (1989)                                                                     238    1 
+   18. 1516   Stunt Car Racer (1989)                                                                     238    1 
                   GBR | 3 h | First person
                   On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
                   Developers: Ceative Assembly, MicroStyle
@@ -200,7 +200,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1437   Head Over Heels (1987)                                                                     244    1 
+   21. 1444   Head Over Heels (1987)                                                                     244    1 
                   GBR | 10 h | Bird view / Isometric, Third person
                   On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
                   Developers: Ocean Software
@@ -210,7 +210,7 @@
                   Designer: Jon Ritman
                   Composer: Guy Stevens
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1425   Mercenary (1985)                                                                           245    1 
+   22. 1431   Mercenary (1985)                                                                           245    1 
                   GBR | 10 h | First person
                   On: Amstrad CPC, Atari 8-bit, Atari ST, C16, C64, Plus4, ZX Spectrum
                   Developers: Novagen
@@ -220,7 +220,27 @@
                   Designer: Bruce Jordan, Paul Woakes
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1349   Knight Lore (1984)                                                                         157    1 
+   23. 1408   Shinobi (1987)                                                                             248    1 
+                  JPN | 2 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, NES, SMS, TurboGrafx-16, Wii, Xbox 360, ZX Spectrum
+                  Developers: Sega
+                  Publishers: Asmik Corporation, Sales Curve Interactive, Sega, Tengen, Virgin
+                  Genre: Adventure, Hack and Slash
+                  Theme: Action
+                  Designer: Yutaka Sugano
+                  Composer: Yasuhiro Kawakami
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1378   Bomb Jack (1984)                                                                           252    1 
+                  JPN | 1 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, GB, PC-8801, PC-98, Plus4, SG-1000, ZX Spectrum
+                  Developers: Tecmo
+                  Publishers: Elite Systems, Infogrames, Mindware, Sega, Soft Bank, Tecmo
+                  Genre: Arcade, Platform
+                  Theme: Action
+                  Designer: Kazutoshi Ueda, Michitaka Tsuruta
+                  Composer: Alberto José Gonzalez Pedraza, Mark Cooksey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1349   Knight Lore (1984)                                                                         157    1 
                   GBR | 2 h | Third person
                   On: Amstrad CPC, BBC, MSX, ZX Spectrum
                   Developers: Ultimate Play the Game
@@ -230,7 +250,7 @@
                   Designer: Chris Stamper, TIm Stamper
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1330   Winter Games (1985)                                                                        159    1 
+   26. 1330   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Developers: Action Graphics
@@ -250,7 +270,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1324   Xevious (1982)                                                                             161    1 
+   28. 1324   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -260,7 +280,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1310   Hard Hat Mack (1983)                                                                       163    1 
+   29. 1310   Hard Hat Mack (1983)                                                                       163    1 
                   USA | 10 h | Side view
                   On: Amstrad CPC, Apple II, Atari 8-bit, C64, DOS
                   Developers: Matthew Alexander, Michael Abbot

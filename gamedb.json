@@ -3752,6 +3752,66 @@
         "designer": ["John Salwitz", "Dave Ralston"],
         "composer": ["Don Diekneite", "Brad FUller"],
         "hltb": 10
+    },
+    "Pac-Man (1980)":
+    {
+        "id": 251,
+        "year": 1980,
+        "country": ["JPN"],
+        "platforms": ["Atari 8-bit", "TI-99", "MSX", "PC-8801", "3DS", "Wii U", "PS4", "Xbox 360", "NES", "ZX Spectrum", "DOS", "C64", "GB", "Wii", "Game Gear", "Atari 5200", "Intellivision", "Sharp X1", "Neo Geo Pocket Color", "FM-7", "Mobile", "VIC-20", "Apple II", "Windows Phone", "Fairchild Channel F", "PC-98", "NEC PC-6000", "Arcade", "Win"],
+        "developers": ["Namco"],
+        "publishers": ["SNK", "Atari", "Dempa Shimbunsha", "Micomsoft", "Namco", "Wiz"],
+        "genre": ["Arcade", "Puzzle", "Strategy"],
+        "theme": ["Action", "Survival"],
+        "perspective": ["Side view"],
+        "designer": ["Toru Iwatani"],
+        "composer": ["Shigeichi Ishimura", "Toshio Kai"],
+        "hltb": 2
+    },
+    "Bomb Jack (1984)":
+    {
+        "id": 252,
+        "year": 1984,
+        "country": ["JPN"],
+        "platforms": ["C16", "PC-8801", "Amstrad CPC", "Amiga", "ZX Spectrum", "C64", "GB", "Plus4", "SG-1000", "PC-98", "Atari ST", "Arcade"],
+        "developers": ["Tecmo"],
+        "publishers": ["Tecmo", "Infogrames", "Soft Bank", "Elite Systems", "Mindware", "Sega"],
+        "genre": ["Arcade", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Michitaka Tsuruta", "Kazutoshi Ueda"],
+        "composer": ["Mark Cooksey", "Alberto José Gonzalez Pedraza"],
+        "hltb": 1
+    },
+    "Return Fire (1995)":
+    {
+        "id": 253,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["PSX", "3DO", "Win"],
+        "developers": ["Silent Software"],
+        "publishers": ["Profilic Publishing", "Time Warner"],
+        "genre": ["Arcade"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Reichart Kurt von Wolfsheild"],
+        "composer": ["Alexis C. Kasperavičius"],
+        "hltb": 50
+    },
+    "ChuChu Rocket! (1999)":
+    {
+        "id": 254,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["Android", "GBA", "iOS", "Dreamcast", "Wii U"],
+        "developers": ["Sonic Team"],
+        "publishers": ["Sega"],
+        "genre": ["Puzzle", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yuji Naka", "Takafumi Kaya"],
+        "composer": ["Tomoya Ohtani"],
+        "hltb": 7
     }
 
 }

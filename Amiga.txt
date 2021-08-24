@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2105   Tetris (1984)                                                                                2    3 
+    1. 2107   Tetris (1984)                                                                                2    3 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -10,7 +10,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2059   Street Fighter II (1991)                                                                     7    3 
+    2. 2062   Street Fighter II (1991)                                                                     7    3 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Developers: Capcom
@@ -30,7 +30,7 @@
                   Designer: Bruce Shelley, Sid Meier
                   Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1834   SimCity 2000 (1993)                                                                         48    2 
+    4. 1841   SimCity 2000 (1993)                                                                         48    2 
                   USA | 25 h | Bird view / Isometric
                   On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
                   Developers: Maxis
@@ -110,7 +110,7 @@
                   Designer: Julian Gollop, Nick Gollop
                   Composer: John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1757   Elite (1984)                                                                                14    2 
+   12. 1766   Elite (1984)                                                                                14    2 
                   GBR | 100 h | First person
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Developers: Acornsoft
@@ -120,17 +120,7 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1746   Populous (1989)                                                                             16    2 
-                  GBR | 36 h | Bird view / Isometric, Third person
-                  On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
-                  Developers: Bullfrog
-                  Publishers: Electronic Arts, Hudson Soft, Imagineer
-                  Genre: Real Time Strategy, Simulator, Strategy
-                  Theme: Business, Fantasy
-                  Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
-                  Composer: David Hanlon, Rob Hubbard
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1743   OutRun (1986)                                                                               65    2 
+   13. 1751   OutRun (1986)                                                                               65    2 
                   JPN | 2 h | Third person
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Developers: Sega
@@ -139,6 +129,16 @@
                   Theme: Action, Non-fiction
                   Designer: Yu Suzuki
                   Composer: Hiroshi Kawaguchi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1746   Populous (1989)                                                                             16    2 
+                  GBR | 36 h | Bird view / Isometric, Third person
+                  On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
+                  Developers: Bullfrog
+                  Publishers: Electronic Arts, Hudson Soft, Imagineer
+                  Genre: Real Time Strategy, Simulator, Strategy
+                  Theme: Business, Fantasy
+                  Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
+                  Composer: David Hanlon, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1714   Lemmings (1991)                                                                              8    1 
                   GBR | 23 h | Side view
@@ -190,17 +190,7 @@
                   Designer: Andrew Graham
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1660   Syndicate (1993)                                                                            29    1 
-                  GBR | 13 h | Bird view / Isometric
-                  On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
-                  Developers: Bullfrog
-                  Publishers: Electronic Arts, Mindscape
-                  Genre: Strategy, Tactical
-                  Theme: Action, Science Fiction
-                  Designer: Sean Cooper
-                  Composer: Russell Shaw
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1657   The Sentinel (1986)                                                                         73    2 
+   20. 1667   The Sentinel (1986)                                                                         73    2 
                   GBR | 79 h | First person
                   On: Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, ZX Spectrum
                   Developers: Geoff Crammond
@@ -209,6 +199,16 @@
                   Theme: Science Fiction
                   Designer: Geoff Crammond
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1660   Syndicate (1993)                                                                            29    1 
+                  GBR | 13 h | Bird view / Isometric
+                  On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
+                  Developers: Bullfrog
+                  Publishers: Electronic Arts, Mindscape
+                  Genre: Strategy, Tactical
+                  Theme: Action, Science Fiction
+                  Designer: Sean Cooper
+                  Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    22. 1649   Wipeout 2097 (1996)                                                                         47    1 
                   GBR | 4 h | First person, Third person
@@ -300,27 +300,7 @@
                   Designer: Joe Williams, Peter Commons
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1549   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1 
-                  USA | 47 h | First person
-                  On: Amiga, DOS, FM Towns, Mac, SNES
-                  Developers: Sir-Tech
-                  Publishers: Sir-Tech
-                  Genre: Adventure, RPG
-                  Theme: Fantasy
-                  Designer: David W. Bradley
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1547   Ikari Warriors (1986)                                                                      103    1 
-                  JPN | 1 h | Bird view / Isometric
-                  On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
-                  Developers: SNK
-                  Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
-                  Genre: Arcade, Shooter
-                  Theme: Action, Warfare
-                  Designer: Keiko Iju, Koji Obada
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1544   R-Type (1987)                                                                              172    2 
+   31. 1554   R-Type (1987)                                                                              172    2 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Developers: Irem, Konami
@@ -330,7 +310,7 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1541   The Secret of Monkey Island (1990)                                                         235    1 
+   32. 1550   The Secret of Monkey Island (1990)                                                         235    1 
                   USA | 7 h | Side view
                   On: Amiga, Atari ST, DOS, FM Towns, Mac, Sega CD
                   Developers: LucasArts
@@ -339,6 +319,26 @@
                   Theme: Pirates
                   Designer: Dave Grossman, Ron Gilbert, Tim Schafer
                   Composer: Michael Z. Land, Patrick Mundy
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   33. 1549   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1 
+                  USA | 47 h | First person
+                  On: Amiga, DOS, FM Towns, Mac, SNES
+                  Developers: Sir-Tech
+                  Publishers: Sir-Tech
+                  Genre: Adventure, RPG
+                  Theme: Fantasy
+                  Designer: David W. Bradley
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   34. 1547   Ikari Warriors (1986)                                                                      103    1 
+                  JPN | 1 h | Bird view / Isometric
+                  On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
+                  Developers: SNK
+                  Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
+                  Genre: Arcade, Shooter
+                  Theme: Action, Warfare
+                  Designer: Keiko Iju, Koji Obada
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    35. 1540   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
                   USA | 60 h | First person
@@ -370,17 +370,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1521   A Mind Forever Voyaging (1985)                                                             113    1 
-                  USA | 6 h | Text
-                  On: Amiga, Apple II, Atari ST, C64, DOS, Mac
-                  Developers: Infocom
-                  Publishers: Infocom
-                  Genre: Adventure
-                  Theme: Science Fiction
-                  Designer: Steve Meretzky
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   39. 1520   Bubble Bobble (1986)                                                                       237    1 
+   38. 1528   Bubble Bobble (1986)                                                                       237    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -390,17 +380,17 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1513   Links: The Challenge of Golf (1991)                                                        116    1 
-                  USA | 15 h | Third person
-                  On: Amiga, DOS, Sega CD
-                  Developers: Access Software
-                  Publishers: Access Software, Virgin
-                  Genre: Simulator, Sport
-                  Theme: Golf
-                  Designer: Vance Cook
-                  Composer: Brent Erickson
+   39. 1521   A Mind Forever Voyaging (1985)                                                             113    1 
+                  USA | 6 h | Text
+                  On: Amiga, Apple II, Atari ST, C64, DOS, Mac
+                  Developers: Infocom
+                  Publishers: Infocom
+                  Genre: Adventure
+                  Theme: Science Fiction
+                  Designer: Steve Meretzky
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1507   Stunt Car Racer (1989)                                                                     238    1 
+   40. 1516   Stunt Car Racer (1989)                                                                     238    1 
                   GBR | 3 h | First person
                   On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
                   Developers: Ceative Assembly, MicroStyle
@@ -410,7 +400,17 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   42. 1503   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+   41. 1513   Links: The Challenge of Golf (1991)                                                        116    1 
+                  USA | 15 h | Third person
+                  On: Amiga, DOS, Sega CD
+                  Developers: Access Software
+                  Publishers: Access Software, Virgin
+                  Genre: Simulator, Sport
+                  Theme: Golf
+                  Designer: Vance Cook
+                  Composer: Brent Erickson
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   42. 1511   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -430,7 +430,7 @@
                   Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
                   Composer: Jeff van Dyck
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   44. 1481   Sensible Soccer: European Champions (1992)                                                 242    1 
+   44. 1489   Sensible Soccer: European Champions (1992)                                                 242    1 
                   GBR | 49 h | Bird view / Isometric
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Developers: Sensible Software
@@ -450,7 +450,7 @@
                   Designer: Chris Crawford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   46. 1437   Head Over Heels (1987)                                                                     244    1 
+   46. 1444   Head Over Heels (1987)                                                                     244    1 
                   GBR | 10 h | Bird view / Isometric, Third person
                   On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
                   Developers: Ocean Software
@@ -520,7 +520,7 @@
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   53. 1412   Exile (1988)                                                                               246    1 
+   53. 1418   Exile (1988)                                                                               246    1 
                   GBR | 4 h | Side view
                   On: Amiga, Atari ST, BBC, CD32
                   Developers: Audiogenic, Superior Software
@@ -530,7 +530,37 @@
                   Designer: Jeremy Smith, Peter Irvin
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   54. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
+   54. 1408   Shinobi (1987)                                                                             248    1 
+                  JPN | 2 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, NES, SMS, TurboGrafx-16, Wii, Xbox 360, ZX Spectrum
+                  Developers: Sega
+                  Publishers: Asmik Corporation, Sales Curve Interactive, Sega, Tengen, Virgin
+                  Genre: Adventure, Hack and Slash
+                  Theme: Action
+                  Designer: Yutaka Sugano
+                  Composer: Yasuhiro Kawakami
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   55. 1398   Rampart (1990)                                                                             250    1 
+                  USA | 10 h | Bird view / Isometric
+                  On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
+                  Developers: Atari
+                  Publishers: Electronic Arts, Jaleco, Domark, Atari, Midway, Tengen
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Fantasy, Historical
+                  Designer: Dave Ralston, John Salwitz
+                  Composer: Brad FUller, Don Diekneite
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   56. 1378   Bomb Jack (1984)                                                                           252    1 
+                  JPN | 1 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, GB, PC-8801, PC-98, Plus4, SG-1000, ZX Spectrum
+                  Developers: Tecmo
+                  Publishers: Elite Systems, Infogrames, Mindware, Sega, Soft Bank, Tecmo
+                  Genre: Arcade, Platform
+                  Theme: Action
+                  Designer: Kazutoshi Ueda, Michitaka Tsuruta
+                  Composer: Alberto José Gonzalez Pedraza, Mark Cooksey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   57. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
                   USA | 3 h | Side view, Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Developers: Sierra
@@ -570,7 +600,7 @@
                   Designer: Al Lowe
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   58. 1330   Winter Games (1985)                                                                        159    1 
+   61. 1330   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Developers: Action Graphics
@@ -600,7 +630,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   61. 1264   Jungle Strike (1993)                                                                       167    1 
+   64. 1264   Jungle Strike (1993)                                                                       167    1 
                   USA | 8 h | Bird view / Isometric
                   On: Amiga, CD32, DOS, Mega Drive, SNES
                   Developers: Electronic Arts, Granite Bay Software
@@ -620,7 +650,7 @@
                   Designer: John Manley, Mike Posehn
                   Composer: Brian L. Schmidt, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   63. 1200   Trinity (1986)                                                                             176    1 
+   66. 1200   Trinity (1986)                                                                             176    1 
                   USA | 10 h | Text
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Developers: Infocom

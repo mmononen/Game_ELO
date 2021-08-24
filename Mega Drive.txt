@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2105   Tetris (1984)                                                                                2    3 
+    1. 2107   Tetris (1984)                                                                                2    3 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -10,7 +10,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1965   Virtua Fighter 2 (1994)                                                                      6    3 
+    2. 1970   Virtua Fighter 2 (1994)                                                                      6    3 
                   JPN | 4 h | Side view
                   On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
                   Developers: 3D Ages, Sega
@@ -30,7 +30,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1819   Sonic the Hedgehog (1991)                                                                   20    3 
+    4. 1827   Sonic the Hedgehog (1991)                                                                   20    3 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -70,17 +70,7 @@
                   Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1746   Populous (1989)                                                                             16    2 
-                  GBR | 36 h | Bird view / Isometric, Third person
-                  On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
-                  Developers: Bullfrog
-                  Publishers: Electronic Arts, Hudson Soft, Imagineer
-                  Genre: Real Time Strategy, Simulator, Strategy
-                  Theme: Business, Fantasy
-                  Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
-                  Composer: David Hanlon, Rob Hubbard
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1743   OutRun (1986)                                                                               65    2 
+    8. 1751   OutRun (1986)                                                                               65    2 
                   JPN | 2 h | Third person
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Developers: Sega
@@ -89,6 +79,16 @@
                   Theme: Action, Non-fiction
                   Designer: Yu Suzuki
                   Composer: Hiroshi Kawaguchi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1746   Populous (1989)                                                                             16    2 
+                  GBR | 36 h | Bird view / Isometric, Third person
+                  On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
+                  Developers: Bullfrog
+                  Publishers: Electronic Arts, Hudson Soft, Imagineer
+                  Genre: Real Time Strategy, Simulator, Strategy
+                  Theme: Business, Fantasy
+                  Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
+                  Composer: David Hanlon, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1736   Sonic the Hedgehog 3 (1994)                                                                 38    2 
                   JPN | 3 h | Side view
@@ -240,7 +240,7 @@
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1503   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+   25. 1511   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -250,17 +250,7 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1501   FIFA International Soccer (1993)                                                           121    1 
-                  CAN | 29 h | Bird view / Isometric
-                  On: Amiga, DOS, GB, Mega Drive
-                  Developers: Extended Play Productions
-                  Publishers: Electronic Arts
-                  Genre: Sport
-                  Theme: Football
-                  Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
-                  Composer: Jeff van Dyck
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1498   Micro Machines 2: Turbo Tournament (1994)                                                  240    1 
+   26. 1507   Micro Machines 2: Turbo Tournament (1994)                                                  240    1 
                   GBR | 2 h | Bird view / Isometric
                   On: DOS, Game Gear, Mega Drive
                   Developers: Codemasters, Supersonic Software
@@ -270,7 +260,27 @@
                   Designer: Andrew Fussey, Jonathan Menzies, Peter Williamson
                   Composer: Tim Bartlett
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1489   Phantasy Star IV: The End of the Millennium (1993)                                         125    1 
+   27. 1501   FIFA International Soccer (1993)                                                           121    1 
+                  CAN | 29 h | Bird view / Isometric
+                  On: Amiga, DOS, GB, Mega Drive
+                  Developers: Extended Play Productions
+                  Publishers: Electronic Arts
+                  Genre: Sport
+                  Theme: Football
+                  Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
+                  Composer: Jeff van Dyck
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   28. 1489   Sensible Soccer: European Champions (1992)                                                 242    1 
+                  GBR | 49 h | Bird view / Isometric
+                  On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
+                  Developers: Sensible Software
+                  Publishers: Sony
+                  Genre: Sport
+                  Theme: Action, Football
+                  Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
+                  Composer: Richard Joseph
+
+       1489   Phantasy Star IV: The End of the Millennium (1993)                                         125    1
                   JPN | 23 h | Bird view / Isometric, Third person
                   On: Mega Drive, Wii, Win
                   Developers: Sega
@@ -299,16 +309,6 @@
                   Theme: Action, Fantasy, Science Fiction
                   Designer: Akinori Nishiyama
                   Composer: Tokuhiko Uwabo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1481   Sensible Soccer: European Champions (1992)                                                 242    1 
-                  GBR | 49 h | Bird view / Isometric
-                  On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
-                  Developers: Sensible Software
-                  Publishers: Sony
-                  Genre: Sport
-                  Theme: Action, Football
-                  Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
-                  Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    32. 1476   NBA Live '96 (1995)                                                                        129    1 
                   CAN | 20 h | Bird view / Isometric
@@ -340,7 +340,17 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1330   California Games (1987)                                                                    160    1 
+   35. 1398   Rampart (1990)                                                                             250    1 
+                  USA | 10 h | Bird view / Isometric
+                  On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
+                  Developers: Atari
+                  Publishers: Electronic Arts, Jaleco, Domark, Atari, Midway, Tengen
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Fantasy, Historical
+                  Designer: Dave Ralston, John Salwitz
+                  Composer: Brad FUller, Don Diekneite
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   36. 1330   California Games (1987)                                                                    160    1 
                   USA | 2 h | Side view
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari ST, C64, DOS, Lynx, MSX, Mega Drive, Mobile, NES, SMS, Wii, Win, ZX Spectrum
                   Developers: Epyx
@@ -350,7 +360,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1303   Burning Force (1989)                                                                       164    1 
+   37. 1303   Burning Force (1989)                                                                       164    1 
                   JPN | 1 h | Third person
                   On: Arcade, Mega Drive, Wii
                   Developers: Namco
@@ -360,7 +370,7 @@
                   Designer: Devil Nakamura
                   Composer: Yoshinori Kawamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1264   Urban Strike (1994)                                                                        168    1 
+   38. 1264   Urban Strike (1994)                                                                        168    1 
                   USA | 8 h | Bird view / Isometric
                   On: GB, Game Gear, Mega Drive, SNES
                   Developers: Foley Hi-Tech, Granite Bay Software, THQ, The Edge
@@ -390,7 +400,7 @@
                   Designer: John Manley, Mike Posehn
                   Composer: Brian L. Schmidt, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1210   NBA Jam Tournament Edition (1994)                                                          174    1 
+   41. 1210   NBA Jam Tournament Edition (1994)                                                          174    1 
                   USA | 12 h | Side view, Third person
                   On: Jaguar, Mega Drive, PSX, SNES, Saturn
                   Developers: High Voltage Software, Iguana, Midway, Torus Games
