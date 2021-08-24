@@ -1,16 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1863   Sonic the Hedgehog (1991)                                                                   20    3 
-                  JPN | 2 h | Side view
-                  On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
-                  Developers: Sonic Team
-                  Publishers: Sega, Tectoy
-                  Genre: Adventure, Platform
-                  Theme: Action, Science Fiction
-                  Designer: Hirokazu Yasuhara
-                  Composer: Masato Nakamura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1830   Doom (1993)                                                                                 19    2 
+    1. 1971   Doom (1993)                                                                                 19    3 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -20,7 +10,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1814   Ultima IV: Quest of the Avatar (1985)                                                       79    2 
+    2. 1919   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
                   USA | 30 h | Bird view / Isometric, First person
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
                   Developers: Origin
@@ -30,17 +20,27 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1698   SoulCalibur (1998)                                                                         222    1 
-                  JPN | 9 h | Third person
-                  On: Android, Arcade, Dreamcast, Xbox 360, iOS
-                  Developers: Project Soul
-                  Publishers: Namco
-                  Genre: Arcade, Fighting
-                  Theme: Action, Fantasy, Historical
-                  Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
-                  Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
+    3. 1863   Sonic the Hedgehog (1991)                                                                   20    3 
+                  JPN | 2 h | Side view
+                  On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
+                  Developers: Sonic Team
+                  Publishers: Sega, Tectoy
+                  Genre: Adventure, Platform
+                  Theme: Action, Science Fiction
+                  Designer: Hirokazu Yasuhara
+                  Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1685   Castlevania: Symphony of the Night (1997)                                                  224    1 
+    4. 1736   Duke Nukem 3D (1996)                                                                        51    2 
+                  USA | 12 h | First person
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Genre: Shooter
+                  Theme: Action, Comedy, Science Fiction
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+
+       1736   Castlevania: Symphony of the Night (1997)                                                  224    2
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Developers: Konami
@@ -50,7 +50,17 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1650   Secret of Mana (1993)                                                                      232    1 
+    6. 1698   SoulCalibur (1998)                                                                         222    1 
+                  JPN | 9 h | Third person
+                  On: Android, Arcade, Dreamcast, Xbox 360, iOS
+                  Developers: Project Soul
+                  Publishers: Namco
+                  Genre: Arcade, Fighting
+                  Theme: Action, Fantasy, Historical
+                  Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
+                  Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1650   Secret of Mana (1993)                                                                      232    1 
                   JPN | 29 h | Bird view / Isometric
                   On: Android, SNES, Wii, Wii U, iOS
                   Developers: Square
@@ -59,16 +69,6 @@
                   Theme: Action, Fantasy
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1643   Duke Nukem 3D (1996)                                                                        51    1 
-                  USA | 12 h | First person
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Genre: Shooter
-                  Theme: Action, Comedy, Science Fiction
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1619   R-Type (1987)                                                                              172    2 
                   JPN | 2 h | Side view

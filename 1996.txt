@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2117   Super Mario 64 (1996)                                                                        1    3 
+    1. 2143   Super Mario 64 (1996)                                                                        1    4 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2071   Sid Meier's Civilization II (1996)                                                          30    3 
+    2. 2075   Sid Meier's Civilization II (1996)                                                          30    4 
                   USA | 50 h | Bird view / Isometric
                   On: Mac, PSX, Win
                   Developers: MicroProse
@@ -60,7 +60,17 @@
                   Designer: Geoff Crammond
                   Composer: Andrew Parton, John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1846   Pokémon Red (1996)                                                                         213    1 
+    7. 1853   Quake (1996)                                                                                 9    2 
+                  USA | 7 h | First person
+                  On: Amiga, DOS, Linux, Mac, Mobile, N64, Sega Saturn, Win, Zeebo
+                  Developers: id Software
+                  Publishers: GT Interactive, MacSoft Games, Midway, PXL computers, Pulse Interactive, R-Comp Interactive, Sega, id Software
+                  Genre: Shooter
+                  Theme: Action, Comedy, Historical, Horror, Science Fiction
+                  Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
+                  Composer: Nine Inch Nails, Trent Reznor
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1846   Pokémon Red (1996)                                                                         213    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -80,7 +90,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1831   Wave Race 64 (1996)                                                                        193    2 
+   10. 1831   Wave Race 64 (1996)                                                                        193    2 
                   JPN | 9 h | First person, Third person
                   On: N64, Wii, Wii U
                   Developers: Nintendo
@@ -90,7 +100,7 @@
                   Designer: Katsuya Eguchi, Shinya Takahashi
                   Composer: Kazumi Totaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1827   Virtua Fighter 3 (1996)                                                                    180    1 
+   11. 1827   Virtua Fighter 3 (1996)                                                                    180    1 
                   JPN | 1 h | Side view
                   On: Arcade, Dreamcast
                   Developers: Genki, Sega
@@ -100,7 +110,7 @@
                   Designer: Daichi Katagiri, Kazuhiro Izaki, Yu Suzuki
                   Composer: Fumio Ito, Hidenori Syoji, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1796   Rage Racer (1996)                                                                          184    1 
+   12. 1796   Rage Racer (1996)                                                                          184    1 
                   JPN | 9 h | First person, Third person
                   On: PSX
                   Developers: Namco
@@ -110,67 +120,7 @@
                   Designer: Unknown
                   Composer: Hiroshi Okubo, Tetsukazu Nakanishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1727   NFL GameDay (1996)                                                                          28    2 
-                  USA | 20 h | Bird view / Isometric
-                  On: PSX
-                  Developers: Sony
-                  Publishers: Sony
-                  Genre: Sport
-                  Theme: American Football
-                  Designer: Amir Zbeda, Kelly Walker
-                  Composer: The Pinnacle Group
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1712   Quake (1996)                                                                                 9    1 
-                  USA | 7 h | First person
-                  On: Amiga, DOS, Linux, Mac, Mobile, N64, Sega Saturn, Win, Zeebo
-                  Developers: id Software
-                  Publishers: GT Interactive, MacSoft Games, Midway, PXL computers, Pulse Interactive, R-Comp Interactive, Sega, id Software
-                  Genre: Shooter
-                  Theme: Action, Comedy, Historical, Horror, Science Fiction
-                  Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
-                  Composer: Nine Inch Nails, Trent Reznor
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1682   International Track & Field (1996)                                                         225    1 
-                  JPN | 1 h | Auditory
-                  On: Android, PS3, PSX
-                  Developers: Konami
-                  Publishers: Konami
-                  Genre: Sport
-                  Theme: Track & Field
-                  Designer: Satoshi Kushibuchi
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1678   Pilotwings 64 (1996)                                                                       226    1 
-                  JPN | 8 h | Third person
-                  On: N64
-                  Developers: Nintendo, Paradigm Simulation
-                  Publishers: Nintendo
-                  Genre: Racing, Simulator, Sport
-                  Theme: Flight
-                  Designer: Makoto Wada
-                  Composer: Dan Hess
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1673   Wipeout 2097 (1996)                                                                         47    2 
-                  GBR | 4 h | First person, Third person
-                  On: Amiga, Mac, PSX, Saturn, Win
-                  Developers: Psygnosis
-                  Publishers: Psygnosis
-                  Genre: Racing
-                  Theme: Action, Science Fiction
-                  Designer: Nick Burcombe
-                  Composer: Tim Wright
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1671   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
-                  JPN | 1 h | Side view
-                  On: DOS, GB, Mac, N64, PSX, Saturn, Win
-                  Developers: Taito
-                  Publishers: Acclaim, CyberFront, Interplay, Taito
-                  Genre: Puzzle
-                  Theme: Kids, Party
-                  Designer: Selichi Nakakuki
-                  Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1643   Duke Nukem 3D (1996)                                                                        51    1 
+   13. 1736   Duke Nukem 3D (1996)                                                                        51    2 
                   USA | 12 h | First person
                   On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
                   Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
@@ -180,7 +130,67 @@
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1630   NHL Powerplay '96 (1996)                                                                    60    1 
+   14. 1727   NFL GameDay (1996)                                                                          28    2 
+                  USA | 20 h | Bird view / Isometric
+                  On: PSX
+                  Developers: Sony
+                  Publishers: Sony
+                  Genre: Sport
+                  Theme: American Football
+                  Designer: Amir Zbeda, Kelly Walker
+                  Composer: The Pinnacle Group
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1682   International Track & Field (1996)                                                         225    1 
+                  JPN | 1 h | Auditory
+                  On: Android, PS3, PSX
+                  Developers: Konami
+                  Publishers: Konami
+                  Genre: Sport
+                  Theme: Track & Field
+                  Designer: Satoshi Kushibuchi
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1678   Pilotwings 64 (1996)                                                                       226    1 
+                  JPN | 8 h | Third person
+                  On: N64
+                  Developers: Nintendo, Paradigm Simulation
+                  Publishers: Nintendo
+                  Genre: Racing, Simulator, Sport
+                  Theme: Flight
+                  Designer: Makoto Wada
+                  Composer: Dan Hess
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1673   Wipeout 2097 (1996)                                                                         47    2 
+                  GBR | 4 h | First person, Third person
+                  On: Amiga, Mac, PSX, Saturn, Win
+                  Developers: Psygnosis
+                  Publishers: Psygnosis
+                  Genre: Racing
+                  Theme: Action, Science Fiction
+                  Designer: Nick Burcombe
+                  Composer: Tim Wright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1671   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
+                  JPN | 1 h | Side view
+                  On: DOS, GB, Mac, N64, PSX, Saturn, Win
+                  Developers: Taito
+                  Publishers: Acclaim, CyberFront, Interplay, Taito
+                  Genre: Puzzle
+                  Theme: Kids, Party
+                  Designer: Selichi Nakakuki
+                  Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1668   Diablo (1996)                                                                              269    1 
+                  USA | 18 h | Bird view / Isometric
+                  On: Mac, PSX, Win
+                  Developers: Blizzard Entertainment, Climax Group
+                  Publishers: Blizzard Entertainment, Electronic Arts, Sourcenext
+                  Genre: RPG, Strategy
+                  Theme: Action, Fantasy, Historical, Horror
+                  Designer: David Brevik, Eric Sexton, Erik Schaefer, Kenneth Williams, Max Schaefer
+                  Composer: Matt Uelmen
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1630   NHL Powerplay '96 (1996)                                                                    60    1 
                   CAN | 20 h | Bird view / Isometric
                   On: PSX, Saturn, Win
                   Developers: Radical Entertainment
@@ -190,7 +200,7 @@
                   Designer: Chris Robertson
                   Composer: Marc Baril
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1619   Sega Worldwide Soccer '97 (1996)                                                            67    1 
+   21. 1619   Sega Worldwide Soccer '97 (1996)                                                            67    1 
                   JPN | 9 h | Bird view / Isometric, Third person
                   On: Saturn
                   Developers: Team Aquila
@@ -200,7 +210,7 @@
                   Designer: Toshinori Asai
                   Composer: Jun Senoue, Seirou Okamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1569   PowerSlave (1996)                                                                          241    1 
+   22. 1569   PowerSlave (1996)                                                                          241    1 
                   USA | 11 h | First person
                   On: DOS, PSX, Saturn
                   Developers: Lobotomy Software
@@ -210,7 +220,7 @@
                   Designer: Brian McNeely
                   Composer: Scott Branston
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1547   Heroes of Might and Magic II: The Succession Wars (1996)                                   199    1 
+   23. 1547   Heroes of Might and Magic II: The Succession Wars (1996)                                   199    1 
                   USA | 63 h | Bird view / Isometric
                   On: DOS, Mac, Win
                   Developers: New World Computing
@@ -220,7 +230,7 @@
                   Designer: Jon Van Caneghem, Phil Steinmeyer
                   Composer: Paul Romero, Rob King, Steve Baca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1489   PaRappa the Rapper (1996)                                                                  203    1 
+   24. 1489   PaRappa the Rapper (1996)                                                                  203    1 
                   JPN | 3 h | Third person
                   On: PSP, PSX
                   Developers: NanaOn-Sha
@@ -230,7 +240,7 @@
                   Designer: Masaya Matsuura
                   Composer: Masaya Matsuura, Yoshihisa Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1486   AH-64D Longbow (1996)                                                                      126    1 
+   25. 1486   AH-64D Longbow (1996)                                                                      126    1 
                   USA | 20 h | First person
                   On: DOS
                   Developers: Jane's Combat Simulations, Origin
@@ -240,7 +250,7 @@
                   Designer: Will McBurnett
                   Composer: Barry Leitch
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1408   Virtua Cop 2 (1996)                                                                        146    1 
+   26. 1408   Virtua Cop 2 (1996)                                                                        146    1 
                   JPN | 2 h | First person
                   On: Dreamcast, Saturn, Win
                   Developers: Sega
@@ -250,7 +260,7 @@
                   Designer: Wataru Kawashima
                   Composer: Hideaki Miyamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1369   NFL GameDay '97 (1996)                                                                     206    1 
+   27. 1369   NFL GameDay '97 (1996)                                                                     206    1 
                   USA | 20 h | Bird view / Isometric
                   On: PSX
                   Developers: Sony
@@ -260,7 +270,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1367   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
+   28. 1367   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
                   USA | 7 h | Side view
                   On: DOS, Mac, Win
                   Developers: Sierra
@@ -270,7 +280,7 @@
                   Designer: Al Lowe
                   Composer: Frank Zottoli
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1264   Soviet Strike (1996)                                                                       169    1 
+   29. 1264   Soviet Strike (1996)                                                                       169    1 
                   USA | 8 h | Third person
                   On: PSX, Saturn
                   Developers: Electronic Arts
@@ -280,7 +290,7 @@
                   Designer: John Manley, Michael Becker
                   Composer: David O'Neal, Don Veca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1210   NBA Jam Extreme (1996)                                                                     175    1 
+   30. 1210   NBA Jam Extreme (1996)                                                                     175    1 
                   USA | 4 h | Side view, Third person
                   On: Arcade, PSX, Saturn
                   Developers: Sculptured Software

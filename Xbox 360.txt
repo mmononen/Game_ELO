@@ -10,7 +10,17 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
+    2. 1971   Doom (1993)                                                                                 19    3 
+                  USA | 7 h | First person
+                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
+                  Developers: id Software
+                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
+                  Genre: Shooter
+                  Theme: Action, Horror, Science Fiction
+                  Designer: John Romero, Sandy Petersen, Tom Hall
+                  Composer: Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
                   USA | 10 h | First person
                   On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
                   Developers: id Software
@@ -20,7 +30,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1888   Nights into Dreams... (1996)                                                                25    2 
+    4. 1888   Nights into Dreams... (1996)                                                                25    2 
                   JPN | 4 h | Side view, Third person
                   On: PS2, PS3, Saturn, Win, Xbox 360
                   Developers: Sonic Team
@@ -30,7 +40,7 @@
                   Designer: Naoto Ohshima, Takashi Iizuka
                   Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1863   Sonic the Hedgehog (1991)                                                                   20    3 
+    5. 1863   Sonic the Hedgehog (1991)                                                                   20    3 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -39,16 +49,6 @@
                   Theme: Action, Science Fiction
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1830   Doom (1993)                                                                                 19    2 
-                  USA | 7 h | First person
-                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
-                  Developers: id Software
-                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
-                  Genre: Shooter
-                  Theme: Action, Horror, Science Fiction
-                  Designer: John Romero, Sandy Petersen, Tom Hall
-                  Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1813   Galaga (1981)                                                                              170    3 
                   JPN | 2 h | Side view
@@ -79,18 +79,18 @@
                   Theme: Action
                   Designer: Hirokazu Yasuhara, Hisayoshi Yoshida, Takashi Iizuka
                   Composer: Bobby Brooks, Brad Buxer, Cirocco Jones, Darryl Ross, Doug Grigsby, Geoff Grace, Jun Senoue, Michael Jackson, Sachio Ogawa, Tatsuyuki Maeda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1698   SoulCalibur (1998)                                                                         222    1 
-                  JPN | 9 h | Third person
-                  On: Android, Arcade, Dreamcast, Xbox 360, iOS
-                  Developers: Project Soul
-                  Publishers: Namco
-                  Genre: Arcade, Fighting
-                  Theme: Action, Fantasy, Historical
-                  Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
-                  Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1685   Castlevania: Symphony of the Night (1997)                                                  224    1 
+
+       1736   Duke Nukem 3D (1996)                                                                        51    2
+                  USA | 12 h | First person
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Genre: Shooter
+                  Theme: Action, Comedy, Science Fiction
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+
+       1736   Castlevania: Symphony of the Night (1997)                                                  224    2
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Developers: Konami
@@ -100,15 +100,15 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1643   Duke Nukem 3D (1996)                                                                        51    1 
-                  USA | 12 h | First person
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Genre: Shooter
-                  Theme: Action, Comedy, Science Fiction
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
+   11. 1698   SoulCalibur (1998)                                                                         222    1 
+                  JPN | 9 h | Third person
+                  On: Android, Arcade, Dreamcast, Xbox 360, iOS
+                  Developers: Project Soul
+                  Publishers: Namco
+                  Genre: Arcade, Fighting
+                  Theme: Action, Fantasy, Historical
+                  Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
+                  Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    12. 1599   Sonic Adventure (1998)                                                                     236    1 
                   JPN | 14 h | Third person

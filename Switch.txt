@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2117   Super Mario 64 (1996)                                                                        1    3 
+    1. 2143   Super Mario 64 (1996)                                                                        1    4 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -50,7 +50,27 @@
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1962   Super Mario Bros. 3 (1988)                                                                  32    2 
+    6. 1987   The Legend of Zelda (1986)                                                                 108    3 
+                  JPN | 9 h | Bird view / Isometric
+                  On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure
+                  Theme: Action, Fantasy, Open world
+                  Designer: Shigeru Miyamoto, Takashi Tezuka
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1971   Doom (1993)                                                                                 19    3 
+                  USA | 7 h | First person
+                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
+                  Developers: id Software
+                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
+                  Genre: Shooter
+                  Theme: Action, Horror, Science Fiction
+                  Designer: John Romero, Sandy Petersen, Tom Hall
+                  Composer: Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1962   Super Mario Bros. 3 (1988)                                                                  32    2 
                   JPN | 6 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -80,7 +100,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1960   Final Fantasy VII (1997)                                                                   191    2 
+   11. 1960   Final Fantasy VII (1997)                                                                   191    2 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Developers: Square
@@ -90,7 +110,7 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
+   12. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
                   USA | 10 h | First person
                   On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
                   Developers: id Software
@@ -100,7 +120,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
+   13. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
                   JPN | 12 h | Side view
                   On: 3DS, GBA, GameCube, NES, Switch, Wii U
                   Developers: Nintendo
@@ -109,18 +129,8 @@
                   Theme: Action, Fantasy, Open world
                   Designer: Kazunobu Shimizu, Tadashi Sugiyama
                   Composer: Akito Nakatsuka
-
-       1928   The Legend of Zelda (1986)                                                                 108    2
-                  JPN | 9 h | Bird view / Isometric
-                  On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure
-                  Theme: Action, Fantasy, Open world
-                  Designer: Shigeru Miyamoto, Takashi Tezuka
-                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1882   Metroid (1986)                                                                             117    2 
+   14. 1882   Metroid (1986)                                                                             117    2 
                   JPN | 7 h | Side view
                   On: 3DS, Arcade, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -129,16 +139,6 @@
                   Theme: Action, Science Fiction
                   Designer: Satoru Okada
                   Composer: Hirokazu Tanaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1830   Doom (1993)                                                                                 19    2 
-                  USA | 7 h | First person
-                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
-                  Developers: id Software
-                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
-                  Genre: Shooter
-                  Theme: Action, Horror, Science Fiction
-                  Designer: John Romero, Sandy Petersen, Tom Hall
-                  Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
                   JPN | 33 h | Bird view / Isometric, First person

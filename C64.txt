@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2118   Tetris (1984)                                                                                2    3 
+    1. 2131   Tetris (1984)                                                                                2    4 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -20,7 +20,17 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1914   Defender (1981)                                                                             13    3 
+    3. 1919   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
+                  USA | 30 h | Bird view / Isometric, First person
+                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
+                  Developers: Origin
+                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Richard Garriott
+                  Composer: Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1914   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Developers: Williams
@@ -30,7 +40,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1900   Robotron: 2084 (1982)                                                                      107    3 
+    5. 1900   Robotron: 2084 (1982)                                                                      107    3 
                   USA | 10 h | Bird view / Isometric
                   On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
                   Developers: Vid Kidz
@@ -40,7 +50,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1814   Ultima VI: The False Prophet (1990)                                                         81    2 
+    6. 1814   Ultima VI: The False Prophet (1990)                                                         81    2 
                   USA | 40 h | Bird view / Isometric
                   On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
                   Developers: Origin
@@ -59,16 +69,6 @@
                   Theme: Fantasy
                   Designer: Richard Garriott
                   Composer: David R. Watson, Kenneth W. Arnold
-
-       1814   Ultima IV: Quest of the Avatar (1985)                                                       79    2
-                  USA | 30 h | Bird view / Isometric, First person
-                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
-                  Developers: Origin
-                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Richard Garriott
-                  Composer: Kenneth W. Arnold
 
        1814   Ultima III: Exodus (1983)                                                                   78    2
                   USA | 27 h | Bird view / Isometric, First person
@@ -180,7 +180,17 @@
                   Designer: Kelly Turner, Robert Weatherby
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1636   Zork III: The Dungeon Master (1982)                                                         56    2 
+   19. 1648   The Bard's Tale (1985)                                                                     104    2 
+                  USA | 28 h | First person
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
+                  Developers: Interplay
+                  Publishers: Electronic Arts, Pony Canyon
+                  Genre: Adventure, RPG
+                  Theme: Fantasy
+                  Designer: Michael Cranford
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1636   Zork III: The Dungeon Master (1982)                                                         56    2 
                   USA | 3 h | Text
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Developers: Infocom
@@ -220,7 +230,7 @@
                   Designer: Brian Moriarty
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1625   Rolling Thunder (1986)                                                                      63    1 
+   24. 1625   Rolling Thunder (1986)                                                                      63    1 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, NES, Wii, ZX Spectrum
                   Developers: Namco
@@ -230,7 +240,17 @@
                   Designer: Unknown
                   Composer: Junko Ozawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1619   R-Type (1987)                                                                              172    2 
+   25. 1621   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+                  USA | 41 h | First person
+                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Bandai, Sir-Tech
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Andrew C. Greenberg, Robert Woodhead
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   26. 1619   R-Type (1987)                                                                              172    2 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Developers: Irem, Konami
@@ -240,7 +260,7 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1614   Donkey Kong (1981)                                                                          70    1 
+   27. 1614   Donkey Kong (1981)                                                                          70    1 
                   JPN | 1 h | Side view
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Developers: Nintendo
@@ -250,7 +270,7 @@
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1595   Bubble Bobble (1986)                                                                       237    1 
+   28. 1595   Bubble Bobble (1986)                                                                       237    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -260,7 +280,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1582   Stunt Car Racer (1989)                                                                     238    1 
+   29. 1582   Stunt Car Racer (1989)                                                                     238    1 
                   GBR | 3 h | First person
                   On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
                   Developers: Ceative Assembly, MicroStyle
@@ -270,7 +290,7 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1578   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+   30. 1578   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -280,17 +300,7 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1549   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    1 
-                  USA | 41 h | First person
-                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Bandai, Sir-Tech
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Andrew C. Greenberg, Robert Woodhead
-                  Composer: Unknown
-
-       1549   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1
+   31. 1549   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1 
                   USA | 61 h | Bird view / Isometric
                   On: Apple II, C64, DOS, FM Towns, PC-8801, PC-98, SNES, TurboGrafx-16, Win
                   Developers: ASCII, Sir-Tech
@@ -320,7 +330,7 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1547   Ikari Warriors (1986)                                                                      103    1 
+   34. 1547   Ikari Warriors (1986)                                                                      103    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Developers: SNK
@@ -330,7 +340,7 @@
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1540   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
+   35. 1540   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
                   USA | 60 h | First person
                   On: Amiga, Apple II, C64, DOS
                   Developers: Interplay
@@ -349,16 +359,6 @@
                   Theme: Fantasy
                   Designer: Michael Cranford
                   Composer: David Warhol
-
-       1540   The Bard's Tale (1985)                                                                     104    1
-                  USA | 28 h | First person
-                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
-                  Developers: Interplay
-                  Publishers: Electronic Arts, Pony Canyon
-                  Genre: Adventure, RPG
-                  Theme: Fantasy
-                  Designer: Michael Cranford
-                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    37. 1521   A Mind Forever Voyaging (1985)                                                             113    1 
                   USA | 6 h | Text

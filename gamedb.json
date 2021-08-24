@@ -4022,6 +4022,96 @@
         "designer": ["Makoto Wada", "Yasuyuki Oyagi"],
         "composer": ["Takashi Kumegawa", "Masaru Sakakibara"],
         "hltb": 4
+    },
+    "Diablo (1996)":
+    {
+        "id": 269,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Mac", "PSX", "Win"],
+        "developers": ["Blizzard Entertainment", "Climax Group"],
+        "publishers": ["Electronic Arts", "Blizzard Entertainment", "Sourcenext"],
+        "genre": ["RPG", "Strategy"],
+        "theme": ["Action", "Fantasy", "Historical", "Horror"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["David Brevik", "Erik Schaefer", "Max Schaefer", "Eric Sexton", "Kenneth Williams"],
+        "composer": ["Matt Uelmen"],
+        "hltb": 18
+    },
+    "System Shock 2 (1999)":
+    {
+        "id": 270,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Looking Glass", "Irrational Games"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction", "Survival"],
+        "perspective": ["First person"],
+        "designer": ["Jonathan Chey", "Ken Levine"],
+        "composer": ["Josh Randall", "Ramin Djawadi", "Eric Brosius"],
+        "hltb": 18
+    },
+    "Age of Empires (1997)":
+    {
+        "id": 271,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Ensemble Studios"],
+        "publishers": ["Microsoft", "MacSoft Games"],
+        "genre": ["Adventure", "Real Time Strategy", "Simulator", "Strategy"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Bruce Shelley", "Brian Sullivan", "Rick Goodman"],
+        "composer": ["Stephen Rippy", "David Rippy"],
+        "hltb": 32
+    },
+    "EverQuest (1999)":
+    {
+        "id": 272,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Verant Interactive", "989 Studios", "Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Sandbox"],
+        "perspective": ["Third person"],
+        "designer": ["Steve Clover", "Brad McQuaid", "William Trost"],
+        "composer": ["Jay Barbeau"],
+        "hltb": 100
+    },
+    "Age of Empires II: The Age of Kings (1999)":
+    {
+        "id": 273,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["PS2","Mac", "Win"],
+        "developers": ["Ensemble Studios"],
+        "publishers": ["Konami", "Microsoft"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Historical", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Bruce Shelley"],
+        "composer": ["Stephen Rippy"],
+        "hltb": 114
+    },
+    "Deus Ex (2000)":
+    {
+        "id": 274,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["PS2","Mac", "PS3","Win"],
+        "developers": ["Westlake Interactive", "Ion Storm"],
+        "publishers": ["Square", "Aspyr", "Eidos"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Stealth"],
+        "perspective": ["First person"],
+        "designer": ["Warren Spector", "Harvey Smith"],
+        "composer": ["Alexander Brandon", "Dan Gardopée", "Michiel van den Bos"],
+        "hltb": 29
     }
 
 }
