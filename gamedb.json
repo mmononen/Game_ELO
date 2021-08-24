@@ -4259,7 +4259,7 @@
         "genre": ["Shooter"],
         "theme": ["Action", "Science Fiction"],
         "perspective": ["First person"],
-        "designer": ["JAson Jones", "Alex Seropian"],
+        "designer": ["Jason Jones", "Alex Seropian"],
         "composer": ["Alex Seropian"],
         "hltb": 8
     },
@@ -4292,6 +4292,36 @@
         "designer": ["Walter Bright"],
         "composer": ["Unknown"],
         "hltb": 30
+    },
+    "Tony Hawk's Pro Skater 2 (2000)":
+    {
+        "id": 287,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["GBC", "Mac", "GBA", "iOS", "Dreamcast", "PSX", "Xbox", "N64", "Win"],
+        "developers": ["Neversoft"],
+        "publishers": ["Activision"],
+        "genre": ["Sport"],
+        "theme": ["Action", "Skateboarding"],
+        "perspective": ["Third person"],
+        "designer": ["Jason Uyeda", "Aaron Cammarata"],
+        "composer": ["Brian Bright"],
+        "hltb": 13
+    },
+    "Contra (1987)":
+    {
+        "id": 288,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["MSX2", "Amstrad CPC", "NES", "DOS", "C64", "Arcade"],
+        "developers": ["Konami"],
+        "publishers": ["Konami", "HAMSTER", "Ocean Software"],
+        "genre": ["Arcade", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Koji Hiroshita", "Shigeharu Umezaki", "Shinji Kitamoto"],
+        "composer": ["Kazuki Muraoka", "Hidenori Maezawa", "Kiyohiro Sada"],
+        "hltb": 2
     }
 
 }

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2088   GoldenEye 007 (1997)                                                                       181    3 
+    1. 2205   GoldenEye 007 (1997)                                                                       181    4 
                   GBR | 17 h | First person
                   On: N64
                   Developers: Rare
@@ -10,27 +10,7 @@
                   Designer: Duncan Botwood, Martin Hollis
                   Composer: Graeme Norgate, Grant Kirkhope, Robin Beanland
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2056   Quake II (1997)                                                                            178    3 
-                  USA | 10 h | First person
-                  On: N64, PSX, Win
-                  Developers: Hammerhead, Logicware, Raster Productions, id Software
-                  Publishers: Activision, Hyperion Entertainment, Macmillan
-                  Genre: Shooter
-                  Theme: Action, Horror, Science Fiction
-                  Designer: American McGee, Kevin Cloud, Tim Willits
-                  Composer: Sascha Dikiciyan
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2008   Gran Turismo (1997)                                                                        189    2 
-                  JPN | 37 h | First person, Third person
-                  On: PSX
-                  Developers: Polyphony Digital
-                  Publishers: Sony
-                  Genre: Racing, Simulator
-                  Theme: Motorsports, Non-fiction
-                  Designer: Hirotaka Komiyama, Kazunori Yamauchi, Takeshi Yokouchi
-                  Composer: Isamu Ohira, Jason Page, Masahiro Andoh
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1960   Final Fantasy VII (1997)                                                                   191    2 
+    2. 2154   Final Fantasy VII (1997)                                                                   191    3 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Developers: Square
@@ -40,17 +20,17 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1954   Tekken 3 (1997)                                                                            186    2 
-                  JPN | 12 h | Side view
-                  On: Arcade, PS2, PSX
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Genre: Fighting
-                  Theme: Action
-                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
-                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
+    3. 2138   Gran Turismo (1997)                                                                        189    3 
+                  JPN | 37 h | First person, Third person
+                  On: PSX
+                  Developers: Polyphony Digital
+                  Publishers: Sony
+                  Genre: Racing, Simulator
+                  Theme: Motorsports, Non-fiction
+                  Designer: Hirotaka Komiyama, Kazunori Yamauchi, Takeshi Yokouchi
+                  Composer: Isamu Ohira, Jason Page, Masahiro Andoh
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1899   Castlevania: Symphony of the Night (1997)                                                  224    2 
+    4. 2085   Castlevania: Symphony of the Night (1997)                                                  224    3 
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Developers: Konami
@@ -60,7 +40,37 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1858   Ultima Online (1997)                                                                       192    3 
+    5. 2056   Quake II (1997)                                                                            178    3 
+                  USA | 10 h | First person
+                  On: N64, PSX, Win
+                  Developers: Hammerhead, Logicware, Raster Productions, id Software
+                  Publishers: Activision, Hyperion Entertainment, Macmillan
+                  Genre: Shooter
+                  Theme: Action, Horror, Science Fiction
+                  Designer: American McGee, Kevin Cloud, Tim Willits
+                  Composer: Sascha Dikiciyan
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1954   Tekken 3 (1997)                                                                            186    2 
+                  JPN | 12 h | Side view
+                  On: Arcade, PS2, PSX
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Genre: Fighting
+                  Theme: Action
+                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
+                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1860   Final Fantasy Tactics (1997)                                                               219    2 
+                  JPN | 57 h | Bird view / Isometric
+                  On: PS3, PSX
+                  Developers: Square
+                  Publishers: Sony, Square
+                  Genre: RPG, Strategy, Tactical, Turn-Based Strategy
+                  Theme: Fantasy, Historical
+                  Designer: Hiroyuki Ito, Yasumi Matsuno
+                  Composer: Hitoshi Sakimoto, Masaharu Iwata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1858   Ultima Online (1997)                                                                       192    3 
                   USA | 800 h | Bird view / Isometric
                   On: Win
                   Developers: Origin
@@ -70,7 +80,7 @@
                   Designer: Raph Koster, Starr Long
                   Composer: Hal Milton, Joe Basquez, Kirk Winterrowd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1767   Age of Empires (1997)                                                                      271    1 
+    9. 1767   Age of Empires (1997)                                                                      271    1 
                   USA | 32 h | Bird view / Isometric
                   On: Mac, Win
                   Developers: Ensemble Studios
@@ -79,16 +89,6 @@
                   Theme: Action, Historical, Warfare
                   Designer: Brian Sullivan, Bruce Shelley, Rick Goodman
                   Composer: David Rippy, Stephen Rippy
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1739   Final Fantasy Tactics (1997)                                                               219    1 
-                  JPN | 57 h | Bird view / Isometric
-                  On: PS3, PSX
-                  Developers: Square
-                  Publishers: Sony, Square
-                  Genre: RPG, Strategy, Tactical, Turn-Based Strategy
-                  Theme: Fantasy, Historical
-                  Designer: Hiroyuki Ito, Yasumi Matsuno
-                  Composer: Hitoshi Sakimoto, Masaharu Iwata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1737   Total Annihilation (1997)                                                                  211    3 
                   USA | 36 h | Bird view / Isometric

@@ -1,46 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2141   The Legend of Zelda: A Link to the Past (1991)                                             110    4 
-                  JPN | 17 h | Bird view / Isometric
-                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo, St. GIGA
-                  Genre: Adventure, RPG
-                  Theme: Action, Fantasy
-                  Designer: Takashi Tezuka
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2132   Street Fighter II (1991)                                                                     7    4 
-                  JPN | 9 h | Side view
-                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
-                  Developers: Capcom
-                  Publishers: Capcom, U.S. Gold
-                  Genre: Arcade, Fighting
-                  Theme: Action, Science Fiction
-                  Designer: Akira Nishitani, Akira Yasuda
-                  Composer: Isao Abe, Yoko Shimomura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2123   Sid Meier's Civilization (1991)                                                              4    3 
-                  USA | 50 h | Bird view / Isometric
-                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
-                  Developers: Koei, MicroProse
-                  Publishers: MicroProse
-                  Genre: Strategy, Turn-Based Strategy
-                  Theme: 4X
-                  Designer: Bruce Shelley, Sid Meier
-                  Composer: Jeffery L. Briggs
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2080   Super Mario World (1990)                                                                    33    3 
-                  JPN | 8 h | Side view
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform
-                  Theme: Action
-                  Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2073   Doom (1993)                                                                                 19    3 
+    1. 2235   Doom (1993)                                                                                 19    4 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -50,27 +10,27 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2040   Super Metroid (1994)                                                                       119    4 
+    2. 2213   Street Fighter II (1991)                                                                     7    5 
                   JPN | 9 h | Side view
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform, Shooter
-                  Theme: Action, Horror, Science Fiction, Thriller
-                  Designer: Yoshio Sakamoto
-                  Composer: Kenji Yamamoto, Minako Hamano
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
+                  Developers: Capcom
+                  Publishers: Capcom, U.S. Gold
+                  Genre: Arcade, Fighting
+                  Theme: Action, Science Fiction
+                  Designer: Akira Nishitani, Akira Yasuda
+                  Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2033   Super Mario Kart (1992)                                                                     53    3 
-                  JPN | 10 h | Third person
-                  On: 3DS, SNES, Switch, Wii, Wii U
+    3. 2212   The Legend of Zelda: A Link to the Past (1991)                                             110    5 
+                  JPN | 17 h | Bird view / Isometric
+                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Arcade, Racing
-                  Theme: Action, Party
-                  Designer: Hideki Konno, Tadashi Sugiyama
-                  Composer: Soyo Oka
+                  Publishers: Nintendo, St. GIGA
+                  Genre: Adventure, RPG
+                  Theme: Action, Fantasy
+                  Designer: Takashi Tezuka
+                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2021   Final Fantasy VI (1994)                                                                     36    3 
+    4. 2199   Final Fantasy VI (1994)                                                                     36    4 
                   JPN | 42 h | Bird view / Isometric, Side view
                   On: PSX, SNES, Wii, Win
                   Developers: Square, Tose
@@ -80,67 +40,47 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1900   Final Fantasy V (1992)                                                                      35    2 
-                  JPN | 37 h | Bird view / Isometric, Side view
-                  On: PSX, SNES, Wii
-                  Developers: Square
-                  Publishers: Square
-                  Genre: Adventure, RPG
-                  Theme: Action, Fantasy, Open world
-                  Designer: Hironobu Sakaguchi, Hiroyuki Ito
-                  Composer: Nobuo Uematsu
-
-       1900   Final Fantasy IV (1991)                                                                    190    2
-                  JPN | 28 h | Bird view / Isometric
-                  On: SNES, Wii, Wii U, WonderSwan
-                  Developers: Square
-                  Publishers: Square
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Hironobu Sakaguchi, Takashi Tokita
-                  Composer: Nobuo Uematsu
+    5. 2128   Super Metroid (1994)                                                                       119    5 
+                  JPN | 9 h | Side view
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform, Shooter
+                  Theme: Action, Horror, Science Fiction, Thriller
+                  Designer: Yoshio Sakamoto
+                  Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1875   SimCity 2000 (1993)                                                                         48    2 
-                  USA | 25 h | Bird view / Isometric
-                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
-                  Developers: Maxis
-                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
-                  Genre: Simulator, Strategy
-                  Theme: Business, Sandbox
-                  Designer: Fred Haslam, Will Wright
-                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+    6. 2126   Sid Meier's Civilization (1991)                                                              4    4 
+                  USA | 50 h | Bird view / Isometric
+                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
+                  Developers: Koei, MicroProse
+                  Publishers: MicroProse
+                  Genre: Strategy, Turn-Based Strategy
+                  Theme: 4X
+                  Designer: Bruce Shelley, Sid Meier
+                  Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1848   Super Bomberman 2 (1994)                                                                     3    2 
-                  JPN | 5 h | Bird view / Isometric
-                  On: SNES
-                  Developers: Hudson Soft
-                  Publishers: Hudson Soft
-                  Genre: Arcade, Strategy, Tactical
-                  Theme: Action, Historical, Science Fiction
-                  Designer: Takayuki Hirai
-                  Composer: Yasuhiko Fukuda
+    7. 2116   Super Mario World (1990)                                                                    33    4 
+                  JPN | 8 h | Side view
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action
+                  Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
+                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1814   Ultima VI: The False Prophet (1990)                                                         81    2 
-                  USA | 40 h | Bird view / Isometric
-                  On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
-                  Developers: Origin
-                  Publishers: Fujitsu, Mindscape, Origin, Pony Canyon
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Richard Garriott, Warren Spector
-                  Composer: Herman Miller, Todd Poster
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1796   Super Bomberman (1993)                                                                     217    1 
-                  JPN | 4 h | Side view
-                  On: SNES
-                  Developers: Produce!
-                  Publishers: Hudson Soft, Mattel
-                  Genre: Puzzle, Strategy
+    8. 2105   Super Mario Kart (1992)                                                                     53    4 
+                  JPN | 10 h | Third person
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Arcade, Racing
                   Theme: Action, Party
-                  Designer: Kyon Kyon, Mikio Ueyama
-                  Composer: Jun Chikuma, Tomoyuki Hamada
+                  Designer: Hideki Konno, Tadashi Sugiyama
+                  Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1793   Ms. Pac-Man (1982)                                                                          12    2 
+    9. 2077   Ms. Pac-Man (1982)                                                                          12    3 
                   USA | 2 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Developers: General Computer Corporation
@@ -150,7 +90,77 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1753   Lemmings (1991)                                                                              8    2 
+   10. 1988   Final Fantasy IV (1991)                                                                    190    3 
+                  JPN | 28 h | Bird view / Isometric
+                  On: SNES, Wii, Wii U, WonderSwan
+                  Developers: Square
+                  Publishers: Square
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Hironobu Sakaguchi, Takashi Tokita
+                  Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1900   Final Fantasy V (1992)                                                                      35    2 
+                  JPN | 37 h | Bird view / Isometric, Side view
+                  On: PSX, SNES, Wii
+                  Developers: Square
+                  Publishers: Square
+                  Genre: Adventure, RPG
+                  Theme: Action, Fantasy, Open world
+                  Designer: Hironobu Sakaguchi, Hiroyuki Ito
+                  Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1875   SimCity 2000 (1993)                                                                         48    2 
+                  USA | 25 h | Bird view / Isometric
+                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
+                  Developers: Maxis
+                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
+                  Genre: Simulator, Strategy
+                  Theme: Business, Sandbox
+                  Designer: Fred Haslam, Will Wright
+                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1848   Super Bomberman 2 (1994)                                                                     3    2 
+                  JPN | 5 h | Bird view / Isometric
+                  On: SNES
+                  Developers: Hudson Soft
+                  Publishers: Hudson Soft
+                  Genre: Arcade, Strategy, Tactical
+                  Theme: Action, Historical, Science Fiction
+                  Designer: Takayuki Hirai
+                  Composer: Yasuhiko Fukuda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1814   Ultima VI: The False Prophet (1990)                                                         81    2 
+                  USA | 40 h | Bird view / Isometric
+                  On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
+                  Developers: Origin
+                  Publishers: Fujitsu, Mindscape, Origin, Pony Canyon
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Richard Garriott, Warren Spector
+                  Composer: Herman Miller, Todd Poster
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1796   Super Bomberman (1993)                                                                     217    1 
+                  JPN | 4 h | Side view
+                  On: SNES
+                  Developers: Produce!
+                  Publishers: Hudson Soft, Mattel
+                  Genre: Puzzle, Strategy
+                  Theme: Action, Party
+                  Designer: Kyon Kyon, Mikio Ueyama
+                  Composer: Jun Chikuma, Tomoyuki Hamada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1765   SimCity (1989)                                                                             279    2 
+                  USA | 25 h | Bird view / Isometric
+                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
+                  Developers: Maxis
+                  Publishers: Fujitsu, Imagineer, Infogrames, Krisalis, Maxis, Nintendo, Superior Interactive
+                  Genre: Simulator, Strategy
+                  Theme: Business, Sandbox
+                  Designer: Jeff Braun, Robert Strobel, Will Wright
+                  Composer: Steve Hales, Will Wright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1753   Lemmings (1991)                                                                              8    2 
                   GBR | 23 h | Side view
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: DMA Design
@@ -160,7 +170,7 @@
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1750   Populous II: Trials of the Olympian Gods (1991)                                             34    2 
+   18. 1750   Populous II: Trials of the Olympian Gods (1991)                                             34    2 
                   GBR | 12 h | Bird view / Isometric
                   On: Amiga, DOS, Mega Drive, SNES
                   Developers: Bullfrog
@@ -170,7 +180,7 @@
                   Designer: Glenn Corpes, Peter Molyneux
                   Composer: Charles Callet
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1746   Populous (1989)                                                                             16    2 
+   19. 1746   Populous (1989)                                                                             16    2 
                   GBR | 36 h | Bird view / Isometric, Third person
                   On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
                   Developers: Bullfrog
@@ -180,7 +190,7 @@
                   Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
                   Composer: David Hanlon, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1684   Micro Machines (1991)                                                                       18    1 
+   20. 1684   Micro Machines (1991)                                                                       18    1 
                   GBR | 8 h | Bird view / Isometric
                   On: Amiga, DOS, GB, Game Gear, Mega Drive, NES, Philips CD-i, SMS, SNES
                   Developers: Codemasters, Mindscape
@@ -190,7 +200,7 @@
                   Designer: Andrew Graham
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1671   Syndicate (1993)                                                                            29    2 
+   21. 1671   Syndicate (1993)                                                                            29    2 
                   GBR | 13 h | Bird view / Isometric
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
                   Developers: Bullfrog
@@ -200,7 +210,7 @@
                   Designer: Sean Cooper
                   Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1652   Madden NFL 96 (1995)                                                                        45    1 
+   22. 1652   Madden NFL 96 (1995)                                                                        45    1 
                   USA | 10 h | Bird view / Isometric
                   On: GB, Game Gear, Mega Drive, SNES, Win
                   Developers: High Score Productions, Tiburon Entertainment
@@ -250,7 +260,7 @@
                   Designer: John Madden
                   Composer: Michael Bartlow
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1650   Secret of Mana (1993)                                                                      232    1 
+   27. 1650   Secret of Mana (1993)                                                                      232    1 
                   JPN | 29 h | Bird view / Isometric
                   On: Android, SNES, Wii, Wii U, iOS
                   Developers: Square
@@ -260,7 +270,7 @@
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1645   Nobunaga's Ambition (1986)                                                                  49    1 
+   28. 1645   Nobunaga's Ambition (1986)                                                                  49    1 
                   JPN | 40 h | Bird view / Isometric
                   On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
                   Developers: Koei
@@ -270,7 +280,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1572   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
+   29. 1572   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
                   JPN | 49 h | Bird view / Isometric, First person
                   On: Android, DS, SNES, iOS
                   Developers: Heartbeat
@@ -300,7 +310,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1555   Sensible Soccer: European Champions (1992)                                                 242    1 
+   32. 1555   Sensible Soccer: European Champions (1992)                                                 242    1 
                   GBR | 49 h | Bird view / Isometric
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Developers: Sensible Software
@@ -310,7 +320,7 @@
                   Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1549   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1 
+   33. 1549   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1 
                   USA | 47 h | First person
                   On: Amiga, DOS, FM Towns, Mac, SNES
                   Developers: Sir-Tech
@@ -330,7 +340,7 @@
                   Designer: Andrew C. Greenberg, David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1476   NBA Live '96 (1995)                                                                        129    1 
+   35. 1476   NBA Live '96 (1995)                                                                        129    1 
                   CAN | 20 h | Bird view / Isometric
                   On: GB, Mega Drive, PSX, SNES, Win
                   Developers: Electronic Arts, Hitmen Productions, Tiertex
@@ -340,7 +350,7 @@
                   Designer: Mike Kiernan
                   Composer: Steve Royea, Traz Damji
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
+   36. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
                   JPN | 2 h | Bird view / Isometric, Side view, Third person
                   On: 3DS, GBA, SNES, Wii, Wii U
                   Developers: Konami
@@ -350,7 +360,7 @@
                   Designer: Nobuya Nakazato
                   Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1458   Rampart (1990)                                                                             250    1 
+   37. 1458   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: Atari
@@ -359,16 +369,6 @@
                   Theme: Action, Fantasy, Historical
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1441   SimCity (1989)                                                                             279    1 
-                  USA | 25 h | Bird view / Isometric
-                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
-                  Developers: Maxis
-                  Publishers: Fujitsu, Imagineer, Infogrames, Krisalis, Maxis, Nintendo, Superior Interactive
-                  Genre: Simulator, Strategy
-                  Theme: Business, Sandbox
-                  Designer: Jeff Braun, Robert Strobel, Will Wright
-                  Composer: Steve Hales, Will Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    38. 1433   Wing Commander (1990)                                                                      280    1 
                   USA | 11 h | First person

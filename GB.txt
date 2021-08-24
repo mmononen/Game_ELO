@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2132   Street Fighter II (1991)                                                                     7    4 
+    1. 2213   Street Fighter II (1991)                                                                     7    5 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Developers: Capcom
@@ -10,7 +10,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1928   The Legend of Zelda: Link's Awakening (1994)                                               111    2 
+    2. 1969   The Legend of Zelda: Link's Awakening (1994)                                               111    3 
                   JPN | 17 h | Bird view / Isometric
                   On: GB
                   Developers: Nintendo
@@ -20,27 +20,7 @@
                   Designer: Takashi Tezuka, Yasuhisa Yamamura
                   Composer: Kazumi Totaka, Kozue Ishikawa, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1882   Metroid II: Return of Samus (1991)                                                         118    2 
-                  JPN | 5 h | Side view
-                  On: 3DS, GB
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Hiroji Kiyotake, Hiroyuki Kimura, Makoto Kano
-                  Composer: Ryoji Yoshitomi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1846   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
-                  JPN | 44 h | Bird view / Isometric, Side view
-                  On: 3DS, GB, GBC
-                  Developers: Game Freak
-                  Publishers: Nintendo
-                  Genre: Adventure, RPG
-                  Theme: Fantasy, Kids, Open world
-                  Designer: Satoshi Tajiri
-                  Composer: Junichi Masuda
-
-       1846   Pokémon Red (1996)                                                                         213    1
+    3. 1957   Pokémon Red (1996)                                                                         213    2 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Developers: Game Freak
@@ -50,9 +30,29 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1846   Pokémon Blue (1996)                                                                        214    1
+       1957   Pokémon Blue (1996)                                                                        214    2
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
+                  Developers: Game Freak
+                  Publishers: Nintendo
+                  Genre: Adventure, RPG
+                  Theme: Fantasy, Kids, Open world
+                  Designer: Satoshi Tajiri
+                  Composer: Junichi Masuda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1882   Metroid II: Return of Samus (1991)                                                         118    2 
+                  JPN | 5 h | Side view
+                  On: 3DS, GB
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Hiroji Kiyotake, Hiroyuki Kimura, Makoto Kano
+                  Composer: Ryoji Yoshitomi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1846   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+                  JPN | 44 h | Bird view / Isometric, Side view
+                  On: 3DS, GB, GBC
                   Developers: Game Freak
                   Publishers: Nintendo
                   Genre: Adventure, RPG

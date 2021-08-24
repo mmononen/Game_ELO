@@ -1,4 +1,4 @@
-# Calculates ELO rankings for artists based on their success in Finnish top40
+# Calculates ELO ranking for games based on various curated top-lists.
 
 import sys, json
 
@@ -128,14 +128,39 @@ class Game:
             s += sg + ", "
         return s[:len(s)-2]
 
+class Developer:
+    def __init__(self, name):
+        self.name = name
+        self.elo = 1200
+        self.highest_elo = 1200
+        self.wins = 0
+        self.draws = 0
+        self.loses = 0
+        self.matches = 0
+        self.k = 40
+        self.games = []
+
+class Publisher:
+    def __init__(self):
+        pass
+
+class Designer:
+    def __init__(self):
+        pass
+
+class Composer:
+    def __init__(self):
+        pass
+
+
 groups = []
 groupnames = []
 jsonlist = []
 lists = ["data/1996-09-30 Next_Generation_1996_Top_100_Games_of_All_Time.txt",
          "data/1999-02-28 Next_Generation_1999_The_50_Best_Games_of_All_Time.txt",
          "data/2000-01-31 Edge Top 100 Games to Play Now.txt",
-         "data/2001-07-31 GameSpy Top 50 Games of All Time.txt"
-        #  "data/2001-08-31 Game_Informer_2001_Top_100_Games_Of_All_Time.txt",
+         "data/2001-07-31 GameSpy Top 50 Games of All Time.txt",
+         "data/2001-08-31 Game_Informer_2001_Top_100_Games_Of_All_Time.txt"
         #  "data/2004-12-31 Retro_Gamer_2004_Reader's_Top_100_Games.txt",
         #  "data/2008-08-09 Pelaajalehti_2008_Kymmenen_kaikkien_aikojen_parasta_peliä.txt",
         #  "data/2009-02-27 Guinness_2009_top_50_games_of_all_time.txt",
@@ -233,7 +258,6 @@ def check_name(data, val):
 
 def check_year(data, val):
     return data['games'].index(val)['year']
-    #return 1996
 
 def filter_year(olist, years):    
     a = len(max(groupnames, key=len)) + 4
@@ -241,26 +265,20 @@ def filter_year(olist, years):
         if g.matches > 0:
             s = ""
             if g.elo < 1000:
-                s = "0"
-            s2 = ""
-            if g.highest_elo < 1000:
-                s2 = "0"        
+                s = "0"     
             
             s += f"{int(round(g.elo))}   {g.name:{a}} {(g.id):4} {len(g.lists):4}"
             if g.year in years:
                 olist.append(s)
     return olist
 
-def filter_platform(olis, platform):
+def filter_platform(olist, platform):
     a = len(max(groupnames, key=len)) + 4
     for g in groups:
         if g.matches > 0:
             s = ""
             if g.elo < 1000:
-                s = "0"
-            s2 = ""
-            if g.highest_elo < 1000:
-                s2 = "0"        
+                s = "0"      
             
             s += f"{int(round(g.elo))}   {g.name:{a}} {(g.id):4} {len(g.lists):4}"
             if platform in g.platforms:
@@ -337,6 +355,8 @@ with open('gamedb.json', 'r', encoding='utf-8') as f:
     gamedb = json.load(f)
 
 unlisted = []
+developers = []
+dev_names = []
 
 for l in lists:
     list_groups = []
@@ -375,12 +395,18 @@ for l in lists:
                             g.designer = gamedb[x[1]]['designer']
                             g.composer = gamedb[x[1]]['composer']
                             g.hltb = gamedb[x[1]]['hltb']
+
+                            for d in g.developers:
+                                if d not in dev_names:
+                                    dev_names.append(d)
+                                    developers.append(Developer(d))
                         g.add_list(l)                    
                     if x[1] not in list_groups:
                         list_groups.append(x[1])
                 except:                    
                     pass
         f.close()
+        
     except:
         
         print(f"{l} is missing!")
@@ -418,6 +444,8 @@ for l in lists:
 
 printable = []
 
+# for d in dev_names:
+#     print(d)
 for i in range(1900, 2100, 1):
     olist = []    
     printable = make_printable(filter_year(olist, [*range(i,i+1,1)]))

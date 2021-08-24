@@ -1,16 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2040   Super Metroid (1994)                                                                       119    4 
-                  JPN | 9 h | Side view
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform, Shooter
-                  Theme: Action, Horror, Science Fiction, Thriller
-                  Designer: Yoshio Sakamoto
-                  Composer: Kenji Yamamoto, Minako Hamano
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2021   Final Fantasy VI (1994)                                                                     36    3 
+    1. 2199   Final Fantasy VI (1994)                                                                     36    4 
                   JPN | 42 h | Bird view / Isometric, Side view
                   On: PSX, SNES, Wii, Win
                   Developers: Square, Tose
@@ -19,6 +9,16 @@
                   Theme: Fantasy, Open world, Sandbox
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2128   Super Metroid (1994)                                                                       119    5 
+                  JPN | 9 h | Side view
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform, Shooter
+                  Theme: Action, Horror, Science Fiction, Thriller
+                  Designer: Yoshio Sakamoto
+                  Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1990   Virtua Fighter 2 (1994)                                                                      6    3 
                   JPN | 4 h | Side view
@@ -30,7 +30,17 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
+    4. 1969   The Legend of Zelda: Link's Awakening (1994)                                               111    3 
+                  JPN | 17 h | Bird view / Isometric
+                  On: GB
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure
+                  Theme: Action, Fantasy
+                  Designer: Takashi Tezuka, Yasuhisa Yamamura
+                  Composer: Kazumi Totaka, Kozue Ishikawa, Minako Hamano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
                   USA | 10 h | First person
                   On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
                   Developers: id Software
@@ -40,17 +50,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1928   The Legend of Zelda: Link's Awakening (1994)                                               111    2 
-                  JPN | 17 h | Bird view / Isometric
-                  On: GB
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure
-                  Theme: Action, Fantasy
-                  Designer: Takashi Tezuka, Yasuhisa Yamamura
-                  Composer: Kazumi Totaka, Kozue Ishikawa, Minako Hamano
-
-       1928   Sega Rally Championship (1994)                                                              93    3
+    6. 1928   Sega Rally Championship (1994)                                                              93    3 
                   JPN | 5 h | First person, Third person
                   On: Arcade, GBA, N-Gage, PS2, Saturn, Win
                   Developers: Sega
@@ -100,7 +100,17 @@
                   Designer: Andrew P. Morris, John Watson
                   Composer: Nenad Vugrinec
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1796   Ridge Racer 2 (1994)                                                                       183    1 
+   11. 1798   Tempest 2000 (1994)                                                                        221    2 
+                  GBR | 12 h | Third person
+                  On: DOS, Jaguar, Mac, Saturn, Win
+                  Developers: llamasoft
+                  Publishers: Atari, Interplay, Logicware, Mumin Corporation
+                  Genre: Arcade, Shooter
+                  Theme: Action
+                  Designer: Dave Theurer
+                  Composer: Alastair Lindsay, Ian Howe, Kevin Saville
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1796   Ridge Racer 2 (1994)                                                                       183    1 
                   JPN | 10 h | First person, Third person
                   On: Arcade
                   Developers: Namco
@@ -110,7 +120,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1779   Tekken (1994)                                                                              185    1 
+   13. 1779   Tekken (1994)                                                                              185    1 
                   JPN | 8 h | Side view
                   On: Arcade, PS3, PSP, PSX, Vita
                   Developers: Namco
@@ -120,7 +130,7 @@
                   Designer: Seiichi Ishii
                   Composer: Hiroto Sasaki, Nobuyoshi Sano, Shinji Hosoe, Takayuki Aihara, Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1736   Sonic the Hedgehog 3 (1994)                                                                 38    2 
+   14. 1736   Sonic the Hedgehog 3 (1994)                                                                 38    2 
                   JPN | 3 h | Side view
                   On: Mega Drive, Wii, Xbox 360
                   Developers: Sonic Team
@@ -129,16 +139,6 @@
                   Theme: Action
                   Designer: Hirokazu Yasuhara, Hisayoshi Yoshida, Takashi Iizuka
                   Composer: Bobby Brooks, Brad Buxer, Cirocco Jones, Darryl Ross, Doug Grigsby, Geoff Grace, Jun Senoue, Michael Jackson, Sachio Ogawa, Tatsuyuki Maeda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1706   Tempest 2000 (1994)                                                                        221    1 
-                  GBR | 12 h | Third person
-                  On: DOS, Jaguar, Mac, Saturn, Win
-                  Developers: llamasoft
-                  Publishers: Atari, Interplay, Logicware, Mumin Corporation
-                  Genre: Arcade, Shooter
-                  Theme: Action
-                  Designer: Dave Theurer
-                  Composer: Alastair Lindsay, Ian Howe, Kevin Saville
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1668   Star Wars: TIE Fighter (1994)                                                               39    1 
                   USA | 23 h | First person
@@ -247,7 +247,7 @@
                   Publishers: Bungie
                   Genre: Shooter
                   Theme: Action, Science Fiction
-                  Designer: Alex Seropian, JAson Jones
+                  Designer: Alex Seropian, Jason Jones
                   Composer: Alex Seropian
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    26. 1264   Urban Strike (1994)                                                                        168    1 
