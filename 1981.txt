@@ -1,5 +1,5 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------
     1. 1914   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
@@ -9,7 +9,7 @@
                   Theme: Action, Science Fiction
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     2. 1814   Ultima I: The First Age of Darkness (1981)                                                  75    2 
                   USA | 8 h | Bird view / Isometric, First person
                   On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
@@ -19,7 +19,7 @@
                   Theme: Action, Fantasy, Open world
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1813   Galaga (1981)                                                                              170    3 
                   JPN | 2 h | Side view
                   On: Arcade, Atari 7800, FM-7, MSX, NES, PC-98, SG-1000, SMS, Sharp X1, Xbox 360
@@ -29,18 +29,8 @@
                   Theme: Science Fiction
                   Designer: Hiroshi Ono, Shigeru Yokoyama
                   Composer: Nobuyuki Ohnogi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1636   Zork II: The Wizard of Frobozz (1981)                                                       55    2 
-                  USA | 3 h | Text
-                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, Plus4, TRS-80, Tatung Einstein
-                  Developers: Infocom
-                  Publishers: Infocom
-                  Genre: Adventure
-                  Theme: Fantasy
-                  Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1621   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1804   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
                   USA | 41 h | First person
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Developers: Sir-Tech
@@ -49,7 +39,17 @@
                   Theme: Fantasy
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1636   Zork II: The Wizard of Frobozz (1981)                                                       55    2 
+                  USA | 3 h | Text
+                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, Plus4, TRS-80, Tatung Einstein
+                  Developers: Infocom
+                  Publishers: Infocom
+                  Genre: Adventure
+                  Theme: Fantasy
+                  Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1614   Donkey Kong (1981)                                                                          70    1 
                   JPN | 1 h | Side view
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
@@ -59,7 +59,7 @@
                   Theme: Action
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1482   Tempest (1981)                                                                             127    1 
                   USA | 1 h | Third person
                   On: Acorn Electron, Amstrad CPC, Arcade, Atari ST, BBC, ZX Spectrum
@@ -69,7 +69,7 @@
                   Theme: Action, Science Fiction
                   Designer: Dave Theurer
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1398   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser

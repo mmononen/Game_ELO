@@ -1,26 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
-    1. 1814   Ultima I: The First Age of Darkness (1981)                                                  75    2 
-                  USA | 8 h | Bird view / Isometric, First person
-                  On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
-                  Developers: Origin
-                  Publishers: California Pacific Computer, Electronic Arts, Fujitsu, Origin, Pony Canyon, Sierra, Vitesse
-                  Genre: RPG
-                  Theme: Action, Fantasy, Open world
-                  Designer: Kenneth W. Arnold, Richard Garriott
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1762   Marble Madness (1984)                                                                       15    2 
-                  USA | 2 h | Bird view / Isometric
-                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
-                  Developers: Atari
-                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
-                  Genre: Arcade, Platform, Puzzle, Racing, Strategy
-                  Theme: Action
-                  Designer: Mark Cerny
-                  Composer: Brad Fuller, Hal Canon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1648   The Bard's Tale (1985)                                                                     104    2 
+-------------------------------------------------------------------------------------------------------------------
+    1. 1828   The Bard's Tale (1985)                                                                     104    2 
                   USA | 28 h | First person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
                   Developers: Interplay
@@ -29,7 +9,27 @@
                   Theme: Fantasy
                   Designer: Michael Cranford
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 1814   Ultima I: The First Age of Darkness (1981)                                                  75    2 
+                  USA | 8 h | Bird view / Isometric, First person
+                  On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
+                  Developers: Origin
+                  Publishers: California Pacific Computer, Electronic Arts, Fujitsu, Origin, Pony Canyon, Sierra, Vitesse
+                  Genre: RPG
+                  Theme: Action, Fantasy, Open world
+                  Designer: Kenneth W. Arnold, Richard Garriott
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1762   Marble Madness (1984)                                                                       15    2 
+                  USA | 2 h | Bird view / Isometric
+                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
+                  Developers: Atari
+                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
+                  Genre: Arcade, Platform, Puzzle, Racing, Strategy
+                  Theme: Action
+                  Designer: Mark Cerny
+                  Composer: Brad Fuller, Hal Canon
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1636   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
                   USA | 14 h | Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac
@@ -39,7 +39,7 @@
                   Theme: Fantasy
                   Designer: Brian Moriarty
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1540   The Bard's Tale II: The Destiny Knight (1986)                                              105    1 
                   USA | 22 h | First person
                   On: Amiga, Apple II, Apple IIGS, C64, DOS, NES
@@ -49,7 +49,7 @@
                   Theme: Fantasy
                   Designer: Michael Cranford
                   Composer: David Warhol
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1426   King's Quest: Quest for the Crown (1984)                                                   136    1 
                   USA | 3 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, SMS, Win
@@ -89,7 +89,7 @@
                   Theme: Fantasy
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
                   USA | 3 h | Side view, Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
@@ -99,7 +99,7 @@
                   Theme: Comedy, Erotic
                   Designer: Al Lowe, Mark Crowe
                   Composer: Al Lowe
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1330   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum

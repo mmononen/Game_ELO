@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
-    1. 2073   Half-Life (1998)                                                                           188    3 
+-------------------------------------------------------------------------------------------------------------------
+    1. 2149   Half-Life (1998)                                                                           188    3 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Developers: Valve
@@ -9,8 +9,8 @@
                   Theme: Action, Horror, Science Fiction, Thriller, Warfare
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1971   Doom (1993)                                                                                 19    3 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2073   Doom (1993)                                                                                 19    3 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -19,8 +19,8 @@
                   Theme: Action, Horror, Science Fiction
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1853   Quake (1996)                                                                                 9    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1987   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
                   On: Amiga, DOS, Linux, Mac, Mobile, N64, Sega Saturn, Win, Zeebo
                   Developers: id Software
@@ -29,7 +29,7 @@
                   Theme: Action, Comedy, Historical, Horror, Science Fiction
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
                   USA | 6 h | Side view
                   On: DOS, Linux, Mac, Win
@@ -39,7 +39,7 @@
                   Theme: Comedy, Science Fiction
                   Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
                   Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1584   Akalabeth: World of Doom (1980)                                                             76    1 
                   USA | 4 h | Bird view / Isometric, First person
                   On: Apple II, DOS, Linux, Mac, Win, iOS
@@ -49,7 +49,7 @@
                   Theme: Fantasy
                   Designer: Richard Garriott
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1549   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
                   USA | 99 h | First person
                   On: DOS, Linux, Mac, Win
@@ -59,8 +59,18 @@
                   Theme: Fantasy
                   Designer: David W. Bradley
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1469   Shining Force (1992)                                                                       130    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1508   Half-Life: Counter-Strike (2000)                                                           278    1 
+                  USA | 206 h | First person
+                  On: Linux, Mac, Win, Xbox
+                  Developers: Valve
+                  Publishers: Microsoft, Sierra, Valve, Vivendi
+                  Genre: Shooter
+                  Theme: Action, Warfare
+                  Designer: Jess Cliffe, Minh Le
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1469   Shining Force (1992)                                                                       130    1 
                   JPN | 22 h | Bird view / Isometric
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Developers: Camelot Software Planning, Climax Entertainment
@@ -69,3 +79,33 @@
                   Theme: Fantasy
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1409   Baldur's Gate (1998)                                                                       281    1 
+                  CAN | 57 h | Bird view / Isometric
+                  On: Linux, Mac, Win, iOS
+                  Developers: BioWare
+                  Publishers: Black Isle, Interplay
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: James Ohlen
+                  Composer: Michael Hoenig
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1400   Baldur's Gate II: Shadows of Amn (2000)                                                    282    1 
+                  CAN | 87 h | Bird view / Isometric
+                  On: Linux, Mac, Win
+                  Developers: BioWare
+                  Publishers: Black Isle, Interplay
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: James Ohlen, Kevin Martens
+                  Composer: Howard Drossin, Michael Hoenig
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1286   Planescape: Torment (1999)                                                                 285    1 
+                  USA | 43 h | Bird view / Isometric
+                  On: Linux, Mac, Win, iOS
+                  Developers: Black Isle
+                  Publishers: Interplay
+                  Genre: RPG
+                  Theme: Drama, Fantasy
+                  Designer: Chris Avellone
+                  Composer: Mark Morgan

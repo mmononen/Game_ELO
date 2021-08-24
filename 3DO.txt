@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
-    1. 1971   Doom (1993)                                                                                 19    3 
+-------------------------------------------------------------------------------------------------------------------
+    1. 2073   Doom (1993)                                                                                 19    3 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -9,7 +9,7 @@
                   Theme: Action, Horror, Science Fiction
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     2. 1753   Lemmings (1991)                                                                              8    2 
                   GBR | 23 h | Side view
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
@@ -19,7 +19,7 @@
                   Theme: Action, Comedy
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1671   Syndicate (1993)                                                                            29    2 
                   GBR | 13 h | Bird view / Isometric
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
@@ -29,7 +29,7 @@
                   Theme: Action, Science Fiction
                   Designer: Sean Cooper
                   Composer: Russell Shaw
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1612   Panzer General (1994)                                                                       71    1 
                   USA | 50 h | Bird view / Isometric
                   On: 3DO, DOS
@@ -39,28 +39,8 @@
                   Theme: Historical, Warfare
                   Designer: Charles J. Kroegel Jr., Joel Billings
                   Composer: Doug Brandon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1531   The Need For Speed (1994)                                                                  243    1 
-                  CAN | 3 h | First person, Third person
-                  On: 3DO, DOS, PSX, Saturn, Win
-                  Developers: Electronic Arts
-                  Publishers: Electronic Arts
-                  Genre: Racing, Simulator
-                  Theme: Action
-                  Designer: Wei Shoong Teh
-                  Composer: Alistair Hirst, Jeff van Dyck, Saki Kaskamanidis
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1429   Return Fire (1995)                                                                         253    1 
-                  USA | 50 h | Bird view / Isometric
-                  On: 3DO, PSX, Win
-                  Developers: Silent Software
-                  Publishers: Profilic Publishing, Time Warner
-                  Genre: Arcade
-                  Theme: Action
-                  Designer: Reichart Kurt von Wolfsheild
-                  Composer: Alexis C. Kasperavičius
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1314   Star Control II: The Ur-Quan Masters (1992)                                                209    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1605   Star Control II: The Ur-Quan Masters (1992)                                                209    2 
                   USA | 30 h | Bird view / Isometric
                   On: 3DO, DOS, Win
                   Developers: Toys for Bob
@@ -69,3 +49,33 @@
                   Theme: Action, Science Fiction
                   Designer: Fred Ford , Paul Reiche III
                   Composer: Aaron J. Grier, Dan Nicholson, Eric Berge, Erol Otus, Kevin Balivec, Marc Brown, Riku Nuottajärvi, Tommy V. Dunbar
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1531   The Need For Speed (1994)                                                                  243    1 
+                  CAN | 3 h | First person, Third person
+                  On: 3DO, DOS, PSX, Saturn, Win
+                  Developers: Electronic Arts
+                  Publishers: Electronic Arts
+                  Genre: Racing, Simulator
+                  Theme: Action
+                  Designer: Wei Shoong Teh
+                  Composer: Alistair Hirst, Jeff van Dyck, Saki Kaskamanidis
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1433   Wing Commander (1990)                                                                      280    1 
+                  USA | 11 h | First person
+                  On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
+                  Developers: Origin
+                  Publishers: ASCII, Fujitsu, GameTap, Mindscape, Origin, Sega
+                  Genre: Shooter, Simulator
+                  Theme: Action, Science Fiction
+                  Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
+                  Composer: David Govett, George Sanger, Mark Knight
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1429   Return Fire (1995)                                                                         253    1 
+                  USA | 50 h | Bird view / Isometric
+                  On: 3DO, PSX, Win
+                  Developers: Silent Software
+                  Publishers: Profilic Publishing, Time Warner
+                  Genre: Arcade
+                  Theme: Action
+                  Designer: Reichart Kurt von Wolfsheild
+                  Composer: Alexis C. Kasperavičius

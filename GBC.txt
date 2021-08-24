@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
-    1. 2131   Tetris (1984)                                                                                2    4 
+-------------------------------------------------------------------------------------------------------------------
+    1. 2193   Tetris (1984)                                                                                2    4 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -9,7 +9,7 @@
                   Theme: Abstract
                   Designer: Alexey Pajitnov
                   Composer: trad.
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     2. 1846   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB, GBC
@@ -19,28 +19,8 @@
                   Theme: Fantasy, Kids, Open world
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1762   Marble Madness (1984)                                                                       15    2 
-                  USA | 2 h | Bird view / Isometric
-                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
-                  Developers: Atari
-                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
-                  Genre: Arcade, Platform, Puzzle, Racing, Strategy
-                  Theme: Action
-                  Designer: Mark Cerny
-                  Composer: Brad Fuller, Hal Canon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1675   Colin McRae Rally (1998)                                                                   227    1 
-                  GBR | 11 h | First person, Third person
-                  On: GBC, PSX, Win
-                  Developers: Codemasters
-                  Publishers: Codemasters, THQ
-                  Genre: Racing, Sport
-                  Theme: Motorsports, Non-fiction, Rally
-                  Designer: Unknown
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1621   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1804   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
                   USA | 41 h | First person
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Developers: Sir-Tech
@@ -49,7 +29,27 @@
                   Theme: Fantasy
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1762   Marble Madness (1984)                                                                       15    2 
+                  USA | 2 h | Bird view / Isometric
+                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
+                  Developers: Atari
+                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
+                  Genre: Arcade, Platform, Puzzle, Racing, Strategy
+                  Theme: Action
+                  Designer: Mark Cerny
+                  Composer: Brad Fuller, Hal Canon
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1675   Colin McRae Rally (1998)                                                                   227    1 
+                  GBR | 11 h | First person, Third person
+                  On: GBC, PSX, Win
+                  Developers: Codemasters
+                  Publishers: Codemasters, THQ
+                  Genre: Racing, Sport
+                  Theme: Motorsports, Non-fiction, Rally
+                  Designer: Unknown
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
                   JPN | 33 h | Bird view / Isometric, First person
                   On: 3DS, Android, GBC, Mobile, NES, PS4, SNES, Switch, iOS
@@ -59,7 +59,7 @@
                   Theme: Fantasy, Historical, Sandbox
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1549   Wizardry III: Legacy of Llylgamyn (1983)                                                    98    1 
                   USA | 34 h | First person
                   On: Apple II, C64, DOS, FM-7, GBC, NES, PC-8801, PC-98, Sharp X1
@@ -79,7 +79,7 @@
                   Theme: Fantasy
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1458   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
@@ -89,7 +89,7 @@
                   Theme: Action, Fantasy, Historical
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1398   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser

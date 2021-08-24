@@ -275,7 +275,7 @@ def make_printable(olist):
     printable = []
     temps = "GAME"
     printable.append(f" RANK   ELO   {temps:{a}}   ID  LST")
-    printable.append("-"*(a+25))
+    printable.append("-"*(a+26))
     i = 0
     j = 0
     tempelo = 0
@@ -300,7 +300,7 @@ def make_printable(olist):
                 j = 0
                 
                 if (line_between_elos):
-                    s = "- "*53
+                    s = "- "*(58)
                     printable.append(f"{s}")
                 printable.append(f"{i:5}. {o} ")
                 line_between_elos = True

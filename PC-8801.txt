@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
-    1. 1919   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
+-------------------------------------------------------------------------------------------------------------------
+    1. 2036   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
                   USA | 30 h | Bird view / Isometric, First person
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
                   Developers: Origin
@@ -9,8 +9,8 @@
                   Theme: Fantasy
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1814   Ultima III: Exodus (1983)                                                                   78    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 1887   Ultima III: Exodus (1983)                                                                   78    3 
                   USA | 27 h | Bird view / Isometric, First person
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX, Mac, NES, PC-8801, PC-98, Sharp X1
                   Developers: Origin
@@ -19,8 +19,8 @@
                   Theme: Fantasy
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
-
-       1814   Ultima II: The Revenge of the Enchantress (1982)                                            77    2
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1814   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric
                   On: Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Developers: Origin
@@ -29,8 +29,18 @@
                   Theme: Fantasy
                   Designer: Richard Garriott
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1645   Nobunaga's Ambition II (1988)                                                               50    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1804   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+                  USA | 41 h | First person
+                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Bandai, Sir-Tech
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Andrew C. Greenberg, Robert Woodhead
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1645   Nobunaga's Ambition II (1988)                                                               50    1 
                   JPN | 40 h | Bird view / Isometric
                   On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
                   Developers: Koei
@@ -49,17 +59,7 @@
                   Theme: Fantasy, Historical, Sandbox, Warfare
                   Designer: Kou Shibusawa
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1621   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
-                  USA | 41 h | First person
-                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Bandai, Sir-Tech
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Andrew C. Greenberg, Robert Woodhead
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1619   R-Type (1987)                                                                              172    2 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
@@ -69,8 +69,18 @@
                   Theme: Action, Science Fiction
                   Designer: Abiko
                   Composer: Masato Ishizaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1549   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1584   M.U.L.E. (1983)                                                                            276    1 
+                  USA | 2 h | Bird view / Isometric
+                  On: Atari 8-bit, C64, DOS, MSX, NES, PC-8801, Sharp X1
+                  Developers: Ozark Softscape
+                  Publishers: Bullet-Proof Software, Electronic Arts, IBM, Mindscape
+                  Genre: Simulator, Strategy, Tactical, Turn-Based Strategy
+                  Theme: Action, Comedy, Science Fiction
+                  Designer: Alan Watson, Bill Bunten, Danielle Bunten Berry, Jim Rushing
+                  Composer: Roy Glover
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1549   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1 
                   USA | 61 h | Bird view / Isometric
                   On: Apple II, C64, DOS, FM Towns, PC-8801, PC-98, SNES, TurboGrafx-16, Win
                   Developers: ASCII, Sir-Tech
@@ -99,8 +109,8 @@
                   Theme: Fantasy
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1479   Balance of Power (1985)                                                                    128    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1479   Balance of Power (1985)                                                                    128    1 
                   USA | 20 h | Bird view / Isometric
                   On: Amiga, Apple II, Atari ST, DOS, MSX, Mac, PC-8801, PC-98
                   Developers: Chris Crawford
@@ -109,8 +119,8 @@
                   Theme: Cold War, Historical, Politics
                   Designer: Chris Crawford
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1454   Hyper Sports (1984)                                                                        133    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1454   Hyper Sports (1984)                                                                        133    1 
                   JPN | 15 h | Side view
                   On: Amstrad CPC, Arcade, BBC, C64, MSX, NES, PC-8801, SG-1000, Sharp X1, ZX Spectrum
                   Developers: Konami
@@ -119,8 +129,8 @@
                   Theme: Track & Field
                   Designer: Unknown
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1452   Pac-Man (1980)                                                                             251    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1452   Pac-Man (1980)                                                                             251    1 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -129,8 +139,8 @@
                   Theme: Action, Survival
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1435   Bomb Jack (1984)                                                                           252    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1435   Bomb Jack (1984)                                                                           252    1 
                   JPN | 1 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, GB, PC-8801, PC-98, Plus4, SG-1000, ZX Spectrum
                   Developers: Tecmo
@@ -139,8 +149,8 @@
                   Theme: Action
                   Designer: Kazutoshi Ueda, Michitaka Tsuruta
                   Composer: Alberto José Gonzalez Pedraza, Mark Cooksey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1330   Summer Games (1984)                                                                        158    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1330   Summer Games (1984)                                                                        158    1 
                   USA | 1 h | Third person
                   On: Amiga, Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64, PC-8801, SMS, ZX Spectrum
                   Developers: Epyx
@@ -149,8 +159,8 @@
                   Theme: Action
                   Designer: Brian McGhie, Erin Murphy, Jon Leupp, Randy Glover, Scott Nelson, Stephen Landrum, Stephen Mudry
                   Composer: Randy Glover
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1324   Xevious (1982)                                                                             161    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1324   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -159,8 +169,8 @@
                   Theme: Action, Flight, Science Fiction
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1229   Choplifter (1982)                                                                          265    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1229   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Developers: Dan Gorlin, Sega

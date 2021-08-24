@@ -4112,6 +4112,186 @@
         "designer": ["Warren Spector", "Harvey Smith"],
         "composer": ["Alexander Brandon", "Dan Gardopée", "Michiel van den Bos"],
         "hltb": 29
+    },
+    "System Shock (1994)":
+    {
+        "id": 275,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS"],
+        "developers": ["Looking Glass"],
+        "publishers": ["Origin"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Doug Church"],
+        "composer": ["Greg LoPiccolo", "Tim Ries"],
+        "hltb": 15
+    },
+    "M.U.L.E. (1983)":
+    {
+        "id": 276,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "PC-8801", "NES", "DOS", "C64", "Sharp X1"],
+        "developers": ["Ozark Softscape"],
+        "publishers": ["IBM", "Bullet-Proof Software", "Electronic Arts", "Mindscape"],
+        "genre": ["Simulator", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Danielle Bunten Berry", "Bill Bunten", "Jim Rushing", "Alan Watson"],
+        "composer": ["Roy Glover"],
+        "hltb": 2
+    },
+    "Asheron's Call (1999)":
+    {
+        "id": 277,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Turbine"],
+        "publishers": ["Microsoft", "Warner Bros", "Turbine"],
+        "genre": ["RPG", "MMO"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Toby Ragaini", "Eri Izawa", "Chris Pierson", "Christopher J. Foster"],
+        "composer": ["Unknown"],
+        "hltb": 100
+    },
+    "Half-Life: Counter-Strike (2000)":
+    {
+        "id": 278,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Xbox", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["Vivendi", "Microsoft", "Valve", "Sierra"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Minh Le", "Jess Cliffe"],
+        "composer": ["Unknown"],
+        "hltb": 206
+    },
+    "SimCity (1989)":
+    {
+        "id": 279,
+        "year": 1989,
+        "country": ["USA"],
+        "platforms": ["Acorn Archimedes", "Amstrad CPC", "Amiga", "Mac", "ZX Spectrum", "SNES", "DOS", "C64", "Wii", "FM Towns", "BBC", "Sharp X68000", "Acorn Electron", "PC-98", "Atari ST", "Win"],
+        "developers": ["Maxis"],
+        "publishers": ["Fujitsu", "Nintendo", "Superior Interactive", "Infogrames", "Maxis", "Krisalis", "Imagineer"],
+        "genre": ["Simulator", "Strategy"],
+        "theme": ["Business", "Sandbox"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Will Wright", "Jeff Braun", "Robert Strobel"],
+        "composer": ["Will Wright", "Steve Hales"],
+        "hltb": 25
+    },
+    "Wing Commander (1990)":
+    {
+        "id": 280,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["CD32", "Amiga", "Mac", "Sega CD", "GBA", "SNES", "PSX", "DOS", "3DO", "Win"],
+        "developers": ["Origin"],
+        "publishers": ["ASCII", "Mindscape", "Sega", "Fujitsu", "GameTap", "Origin"],
+        "genre": ["Shooter", "Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Chris Roberts", "Stephen Beeman", "Erin D. Roberts"],
+        "composer": ["George Sanger", "David Govett", "Mark Knight"],
+        "hltb": 11
+    },
+    "Baldur's Gate (1998)":
+    {
+        "id": 281,
+        "year": 1998,
+        "country": ["CAN"],
+        "platforms": ["Linux", "Mac", "iOS", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Interplay", "Black Isle"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["James Ohlen"],
+        "composer": ["Michael Hoenig"],
+        "hltb": 57
+    },
+    "Baldur's Gate II: Shadows of Amn (2000)":
+    {
+        "id": 282,
+        "year": 2000,
+        "country": ["CAN"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Black Isle", "Interplay"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["James Ohlen", "Kevin Martens"],
+        "composer": ["Michael Hoenig", "Howard Drossin"],
+        "hltb": 87
+    },
+    "Thief: The Dark Project (1998)":
+    {
+        "id": 283,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Looking Glass"],
+        "publishers": ["Eidos", "Square"],
+        "genre": ["Shooter", "Sport"],
+        "theme": ["Action", "Fantasy", "Stealth"],
+        "perspective": ["First person"],
+        "designer": ["Tim Stellmach", "Greg LoPiccolo"],
+        "composer": ["Eric Brosius"],
+        "hltb": 21
+    },
+    "Marathon (1994)":
+    {
+        "id": 284,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mac", "iOS"],
+        "developers": ["Bungie"],
+        "publishers": ["Bungie"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["JAson Jones", "Alex Seropian"],
+        "composer": ["Alex Seropian"],
+        "hltb": 8
+    },
+    "Planescape: Torment (1999)":
+    {
+        "id": 285,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "iOS", "Win"],
+        "developers": ["Black Isle"],
+        "publishers": ["Interplay"],
+        "genre": ["RPG"],
+        "theme": ["Drama", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Avellone"],
+        "composer": ["Mark Morgan"],
+        "hltb": 43
+    },
+    "Empire: Wargame of the Century (1987)":
+    {
+        "id": 286,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS", "C64", "Apple II", "Atari ST"],
+        "developers": ["Northwest Software"],
+        "publishers": ["Interstel"],
+        "genre": ["Strategy", "Tactical"],
+        "theme": ["Fantasy", "Historical", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Walter Bright"],
+        "composer": ["Unknown"],
+        "hltb": 30
     }
 
 }

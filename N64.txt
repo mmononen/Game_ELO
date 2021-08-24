@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
-------------------------------------------------------------------------------------------------------------------
-    1. 2143   Super Mario 64 (1996)                                                                        1    4 
+-------------------------------------------------------------------------------------------------------------------
+    1. 2202   Super Mario 64 (1996)                                                                        1    4 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -9,8 +9,8 @@
                   Theme: Action
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2102   The Legend of Zelda: Ocarina of Time (1998)                                                177    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2124   The Legend of Zelda: Ocarina of Time (1998)                                                177    3 
                   JPN | 31 h | Third person
                   On: N64, Wii, Wii U
                   Developers: Nintendo
@@ -19,18 +19,8 @@
                   Theme: Action, Fantasy, Sandbox
                   Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2048   Quake II (1997)                                                                            178    2 
-                  USA | 10 h | First person
-                  On: N64, PSX, Win
-                  Developers: Hammerhead, Logicware, Raster Productions, id Software
-                  Publishers: Activision, Hyperion Entertainment, Macmillan
-                  Genre: Shooter
-                  Theme: Action, Horror, Science Fiction
-                  Designer: American McGee, Kevin Cloud, Tim Willits
-                  Composer: Sascha Dikiciyan
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2041   GoldenEye 007 (1997)                                                                       181    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2088   GoldenEye 007 (1997)                                                                       181    3 
                   GBR | 17 h | First person
                   On: N64
                   Developers: Rare
@@ -39,18 +29,18 @@
                   Theme: Action, Stealth
                   Designer: Duncan Botwood, Martin Hollis
                   Composer: Graeme Norgate, Grant Kirkhope, Robin Beanland
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1875   SimCity 2000 (1993)                                                                         48    2 
-                  USA | 25 h | Bird view / Isometric
-                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
-                  Developers: Maxis
-                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
-                  Genre: Simulator, Strategy
-                  Theme: Business, Sandbox
-                  Designer: Fred Haslam, Will Wright
-                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1853   Quake (1996)                                                                                 9    2 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 2056   Quake II (1997)                                                                            178    3 
+                  USA | 10 h | First person
+                  On: N64, PSX, Win
+                  Developers: Hammerhead, Logicware, Raster Productions, id Software
+                  Publishers: Activision, Hyperion Entertainment, Macmillan
+                  Genre: Shooter
+                  Theme: Action, Horror, Science Fiction
+                  Designer: American McGee, Kevin Cloud, Tim Willits
+                  Composer: Sascha Dikiciyan
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1987   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
                   On: Amiga, DOS, Linux, Mac, Mobile, N64, Sega Saturn, Win, Zeebo
                   Developers: id Software
@@ -59,7 +49,17 @@
                   Theme: Action, Comedy, Historical, Horror, Science Fiction
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1875   SimCity 2000 (1993)                                                                         48    2 
+                  USA | 25 h | Bird view / Isometric
+                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
+                  Developers: Maxis
+                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
+                  Genre: Simulator, Strategy
+                  Theme: Business, Sandbox
+                  Designer: Fred Haslam, Will Wright
+                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1831   Wave Race 64 (1996)                                                                        193    2 
                   JPN | 9 h | First person, Third person
                   On: N64, Wii, Wii U
@@ -69,58 +69,8 @@
                   Theme: Action
                   Designer: Katsuya Eguchi, Shinya Takahashi
                   Composer: Kazumi Totaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1769   Resident Evil 2 (1998)                                                                     187    1 
-                  JPN | 9 h | Third person
-                  On: Dreamcast, GameCube, N64, PS3, PSX, Win
-                  Developers: Angel Studios, Capcom, Factor 5, Sourcenext
-                  Publishers: Capcom, Nintendo, Virgin
-                  Genre: Adventure, Shooter
-                  Theme: Action, Horror, Survival
-                  Designer: Hideki Kamiya
-                  Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1678   Pilotwings 64 (1996)                                                                       226    1 
-                  JPN | 8 h | Third person
-                  On: N64
-                  Developers: Nintendo, Paradigm Simulation
-                  Publishers: Nintendo
-                  Genre: Racing, Simulator, Sport
-                  Theme: Flight
-                  Designer: Makoto Wada
-                  Composer: Dan Hess
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1671   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
-                  JPN | 1 h | Side view
-                  On: DOS, GB, Mac, N64, PSX, Saturn, Win
-                  Developers: Taito
-                  Publishers: Acclaim, CyberFront, Interplay, Taito
-                  Genre: Puzzle
-                  Theme: Kids, Party
-                  Designer: Selichi Nakakuki
-                  Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1654   1080° Snowboarding (1998)                                                                  231    1 
-                  JPN | 7 h | Third person
-                  On: N64, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Racing, Sport
-                  Theme: Action, Snowboarding
-                  Designer: Masamichi Abe, Mitsuhiro Takano
-                  Composer: Kenta Nagata
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1638   Star Fox 64 (1997)                                                                         233    1 
-                  JPN | 4 h | First person, Third person
-                  On: N64, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Shigeru Miyamoto, Takao Shimizu
-                  Composer: Hajime Wakai, Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1615   Command & Conquer (1995)                                                                    69    1 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1783   Command & Conquer (1995)                                                                    69    2 
                   USA | 23 h | Bird view / Isometric
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Developers: Westwood Studios
@@ -129,7 +79,57 @@
                   Theme: Science Fiction, Warfare
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1769   Resident Evil 2 (1998)                                                                     187    1 
+                  JPN | 9 h | Third person
+                  On: Dreamcast, GameCube, N64, PS3, PSX, Win
+                  Developers: Angel Studios, Capcom, Factor 5, Sourcenext
+                  Publishers: Capcom, Nintendo, Virgin
+                  Genre: Adventure, Shooter
+                  Theme: Action, Horror, Survival
+                  Designer: Hideki Kamiya
+                  Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1678   Pilotwings 64 (1996)                                                                       226    1 
+                  JPN | 8 h | Third person
+                  On: N64
+                  Developers: Nintendo, Paradigm Simulation
+                  Publishers: Nintendo
+                  Genre: Racing, Simulator, Sport
+                  Theme: Flight
+                  Designer: Makoto Wada
+                  Composer: Dan Hess
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1671   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
+                  JPN | 1 h | Side view
+                  On: DOS, GB, Mac, N64, PSX, Saturn, Win
+                  Developers: Taito
+                  Publishers: Acclaim, CyberFront, Interplay, Taito
+                  Genre: Puzzle
+                  Theme: Kids, Party
+                  Designer: Selichi Nakakuki
+                  Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1654   1080° Snowboarding (1998)                                                                  231    1 
+                  JPN | 7 h | Third person
+                  On: N64, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Racing, Sport
+                  Theme: Action, Snowboarding
+                  Designer: Masamichi Abe, Mitsuhiro Takano
+                  Composer: Kenta Nagata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1638   Star Fox 64 (1997)                                                                         233    1 
+                  JPN | 4 h | First person, Third person
+                  On: N64, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Shigeru Miyamoto, Takao Shimizu
+                  Composer: Hajime Wakai, Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1449   NHL 99 (1998)                                                                              205    1 
                   CAN | 32 h | Bird view / Isometric
                   On: N64, PSX, Win
@@ -139,7 +139,7 @@
                   Theme: Ice Hockey
                   Designer: Warren Wall
                   Composer: Aleksandar Zecevic, Jeff Mair, Jeff van Dyck, John Jacyna, Robert Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1200   International Superstar Soccer ’98 (1998)                                                  212    1 
                   USA | 20 h | Bird view / Isometric
                   On: N64
