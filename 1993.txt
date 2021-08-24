@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1841   SimCity 2000 (1993)                                                                         48    2 
+    1. 1875   SimCity 2000 (1993)                                                                         48    2 
                   USA | 25 h | Bird view / Isometric
                   On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
                   Developers: Maxis
@@ -50,17 +50,7 @@
                   Designer: Doug Church, Paul Neurath, Tim Stellmach
                   Composer: Dan Schmidt, Jon Blackley
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1796   Ridge Racer (1993)                                                                         182    1 
-                  JPN | 2 h | First person, Third person
-                  On: Arcade, PSX
-                  Developers: Namco
-                  Publishers: Namco
-                  Genre: Arcade, Racing
-                  Theme: Action
-                  Designer: Toru Iwatani
-                  Composer: Shinji Hosoe
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1751   Super Bomberman (1993)                                                                     217    1 
+    6. 1796   Super Bomberman (1993)                                                                     217    1 
                   JPN | 4 h | Side view
                   On: SNES
                   Developers: Produce!
@@ -69,6 +59,16 @@
                   Theme: Action, Party
                   Designer: Kyon Kyon, Mikio Ueyama
                   Composer: Jun Chikuma, Tomoyuki Hamada
+
+       1796   Ridge Racer (1993)                                                                         182    1
+                  JPN | 2 h | First person, Third person
+                  On: Arcade, PSX
+                  Developers: Namco
+                  Publishers: Namco
+                  Genre: Arcade, Racing
+                  Theme: Action
+                  Designer: Toru Iwatani
+                  Composer: Shinji Hosoe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
                   USA | 6 h | Side view
@@ -80,17 +80,7 @@
                   Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
                   Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1668   Star Wars: X-Wing (1993)                                                                    23    1 
-                  USA | 24 h | First person
-                  On: DOS, Mac
-                  Developers: Totally Games
-                  Publishers: LucasArts
-                  Genre: Shooter, Simulator
-                  Theme: Action, Science Fiction
-                  Designer: Edard Kilham, Lawrence Holland
-                  Composer: Peter McConnell
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1660   Syndicate (1993)                                                                            29    1 
+    9. 1671   Syndicate (1993)                                                                            29    2 
                   GBR | 13 h | Bird view / Isometric
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
                   Developers: Bullfrog
@@ -99,6 +89,16 @@
                   Theme: Action, Science Fiction
                   Designer: Sean Cooper
                   Composer: Russell Shaw
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1668   Star Wars: X-Wing (1993)                                                                    23    1 
+                  USA | 24 h | First person
+                  On: DOS, Mac
+                  Developers: Totally Games
+                  Publishers: LucasArts
+                  Genre: Shooter, Simulator
+                  Theme: Action, Science Fiction
+                  Designer: Edard Kilham, Lawrence Holland
+                  Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1652   Madden NFL '94 (1993)                                                                       43    1 
                   USA | 10 h | Bird view / Isometric, Third person
@@ -110,17 +110,7 @@
                   Designer: Happy Keller, Michael Kosaka
                   Composer: Brian L. Schmidt
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1623   Spectre VR (1993)                                                                           64    1 
-                  USA | 10 h | First person
-                  On: DOS, Mac, Win
-                  Developers: Green Dragon Creations, Velocity
-                  Publishers: Velocity
-                  Genre: Racing
-                  Theme: Action
-                  Designer: Howard Shere, Moses Ma
-                  Composer: Kyle Johnson, Morey Goldstein, Moses Ma
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1586   Secret of Mana (1993)                                                                      232    1 
+   12. 1650   Secret of Mana (1993)                                                                      232    1 
                   JPN | 29 h | Bird view / Isometric
                   On: Android, SNES, Wii, Wii U, iOS
                   Developers: Square
@@ -129,6 +119,16 @@
                   Theme: Action, Fantasy
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1623   Spectre VR (1993)                                                                           64    1 
+                  USA | 10 h | First person
+                  On: DOS, Mac, Win
+                  Developers: Green Dragon Creations, Velocity
+                  Publishers: Velocity
+                  Genre: Racing
+                  Theme: Action
+                  Designer: Howard Shere, Moses Ma
+                  Composer: Kyle Johnson, Morey Goldstein, Moses Ma
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1501   FIFA International Soccer (1993)                                                           121    1 
                   CAN | 29 h | Bird view / Isometric
@@ -170,17 +170,7 @@
                   Designer: Al Lowe
                   Composer: Dan Kehler
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1264   Jungle Strike (1993)                                                                       167    1 
-                  USA | 8 h | Bird view / Isometric
-                  On: Amiga, CD32, DOS, Mega Drive, SNES
-                  Developers: Electronic Arts, Granite Bay Software
-                  Publishers: Electronic Arts
-                  Genre: Shooter
-                  Theme: Action, Fantasy, Historical, Warfare
-                  Designer: John Manley, Tony Barnes
-                  Composer: Brian L. Schmidt
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1210   NBA Jam (1993)                                                                             173    1 
+   18. 1278   NBA Jam (1993)                                                                             173    2 
                   USA | 17 h | Side view
                   On: Arcade, GB, Game Gear, Mega Drive, SNES, Sega CD
                   Developers: Midway
@@ -189,3 +179,13 @@
                   Theme: Basketball
                   Designer: Jamie Rivett, John Carlton, Mark Turmell, Sal Divita, Shawn Liptak, Tony Goskie
                   Composer: Jon Hey, Rick Fox
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1264   Jungle Strike (1993)                                                                       167    1 
+                  USA | 8 h | Bird view / Isometric
+                  On: Amiga, CD32, DOS, Mega Drive, SNES
+                  Developers: Electronic Arts, Granite Bay Software
+                  Publishers: Electronic Arts
+                  Genre: Shooter
+                  Theme: Action, Fantasy, Historical, Warfare
+                  Designer: John Manley, Tony Barnes
+                  Composer: Brian L. Schmidt

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 1885   Defender (1981)                                                                             13    3 
+    1. 1914   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Developers: Williams
@@ -10,7 +10,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1870   Robotron: 2084 (1982)                                                                      107    3 
+    2. 1900   Robotron: 2084 (1982)                                                                      107    3 
                   USA | 10 h | Bird view / Isometric
                   On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
                   Developers: Vid Kidz
@@ -20,7 +20,17 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1814   Ultima IV: Quest of the Avatar (1985)                                                       79    2 
+    3. 1816   Asteroids (1979)                                                                            59    3 
+                  USA | 1 h | Bird view / Isometric
+                  On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
+                  Developers: Atari
+                  Publishers: Adventure International, Atari, Sega, Taito
+                  Genre: Arcade, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Ed Logg, Lyle Rains
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1814   Ultima IV: Quest of the Avatar (1985)                                                       79    2 
                   USA | 30 h | Bird view / Isometric, First person
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
                   Developers: Origin
@@ -58,16 +68,6 @@
                   Genre: RPG
                   Theme: Action, Fantasy, Open world
                   Designer: Kenneth W. Arnold, Richard Garriott
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1796   Asteroids (1979)                                                                            59    2 
-                  USA | 1 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
-                  Developers: Atari
-                  Publishers: Adventure International, Atari, Sega, Taito
-                  Genre: Arcade, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Ed Logg, Lyle Rains
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1793   Ms. Pac-Man (1982)                                                                          12    2 
@@ -140,17 +140,7 @@
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1454   Track & Field (1983)                                                                       132    1 
-                  JPN | 1 h | Bird view / Isometric, Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, MSX, NES, ZX Spectrum
-                  Developers: Konami
-                  Publishers: Atari, Konami, Ocean Software
-                  Genre: Sport
-                  Theme: Party, Track & Field
-                  Designer: Unknown
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1444   Head Over Heels (1987)                                                                     244    1 
+   15. 1508   Head Over Heels (1987)                                                                     244    1 
                   GBR | 10 h | Bird view / Isometric, Third person
                   On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
                   Developers: Ocean Software
@@ -160,7 +150,7 @@
                   Designer: Jon Ritman
                   Composer: Guy Stevens
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1431   Mercenary (1985)                                                                           245    1 
+   16. 1494   Mercenary (1985)                                                                           245    1 
                   GBR | 10 h | First person
                   On: Amstrad CPC, Atari 8-bit, Atari ST, C16, C64, Plus4, ZX Spectrum
                   Developers: Novagen
@@ -170,37 +160,17 @@
                   Designer: Bruce Jordan, Paul Woakes
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1417   River Raid (1982)                                                                          144    1 
-                  USA | 1 h | Bird view / Isometric
-                  On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
-                  Developers: Activision
-                  Publishers: Activision, Pony Canyon
-                  Genre: Arcade, Shooter
-                  Theme: Action
-                  Designer: Carol Shaw
+   17. 1454   Track & Field (1983)                                                                       132    1 
+                  JPN | 1 h | Bird view / Isometric, Side view
+                  On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, MSX, NES, ZX Spectrum
+                  Developers: Konami
+                  Publishers: Atari, Konami, Ocean Software
+                  Genre: Sport
+                  Theme: Party, Track & Field
+                  Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1403   Joust (1982)                                                                               147    1 
-                  USA | 1 h | Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
-                  Developers: Williams
-                  Publishers: Atari, Digital Eclipse, HAL Laboratory, Midway, Shadowsoft, Williams
-                  Genre: Arcade, Fighting, Platform
-                  Theme: Action
-                  Designer: John Newcomer
-                  Composer: Tim Murphy
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1398   Centipede (1981)                                                                           148    1 
-                  USA | 1 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
-                  Developers: Atari
-                  Publishers: Atari, Sanritsu Denki, Superior Software
-                  Genre: Arcade, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Dona Bailey, Ed Logg
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1393   Pac-Man (1980)                                                                             251    1 
+   18. 1452   Pac-Man (1980)                                                                             251    1 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -210,7 +180,47 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1330   Summer Games (1984)                                                                        158    1 
+   19. 1417   River Raid (1982)                                                                          144    1 
+                  USA | 1 h | Bird view / Isometric
+                  On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
+                  Developers: Activision
+                  Publishers: Activision, Pony Canyon
+                  Genre: Arcade, Shooter
+                  Theme: Action
+                  Designer: Carol Shaw
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1403   Joust (1982)                                                                               147    1 
+                  USA | 1 h | Side view
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
+                  Developers: Williams
+                  Publishers: Atari, Digital Eclipse, HAL Laboratory, Midway, Shadowsoft, Williams
+                  Genre: Arcade, Fighting, Platform
+                  Theme: Action
+                  Designer: John Newcomer
+                  Composer: Tim Murphy
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1398   Centipede (1981)                                                                           148    1 
+                  USA | 1 h | Bird view / Isometric
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
+                  Developers: Atari
+                  Publishers: Atari, Sanritsu Denki, Superior Software
+                  Genre: Arcade, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Dona Bailey, Ed Logg
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1370   Thrust (1986)                                                                              258    1 
+                  GBR | 10 h | Side view
+                  On: Acorn Electron, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C16, C64, ZX Spectrum
+                  Developers: Firebird, Superior Software
+                  Publishers: Firebird, Superior Software
+                  Genre: Arcade, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Jeremy Smith
+                  Composer: Rob Hubbard
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   23. 1330   Summer Games (1984)                                                                        158    1 
                   USA | 1 h | Third person
                   On: Amiga, Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64, PC-8801, SMS, ZX Spectrum
                   Developers: Epyx
@@ -220,7 +230,7 @@
                   Designer: Brian McGhie, Erin Murphy, Jon Leupp, Randy Glover, Scott Nelson, Stephen Landrum, Stephen Mudry
                   Composer: Randy Glover
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1310   Hard Hat Mack (1983)                                                                       163    1 
+   24. 1310   Hard Hat Mack (1983)                                                                       163    1 
                   USA | 10 h | Side view
                   On: Amstrad CPC, Apple II, Atari 8-bit, C64, DOS
                   Developers: Matthew Alexander, Michael Abbot
@@ -228,4 +238,24 @@
                   Genre: Arcade, Platform
                   Theme: Action
                   Designer: Matthew Alexander, Michael Abbot
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1302   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
+                  USA | 10 h | Third person
+                  On: Atari 8-bit, C64, DOS, MSX, ZX Spectrum
+                  Developers: First Star Software
+                  Publishers: First Star Software
+                  Genre: Arcade, Puzzle
+                  Theme: Action
+                  Designer: Peter Liepa
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   26. 1229   Choplifter (1982)                                                                          265    1 
+                  USA | 2 h | Side view
+                  On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
+                  Developers: Dan Gorlin, Sega
+                  Publishers: Ariolasoft, Atari, Brøderbund, Coleco, Creative Software, Jaleco, Sega, Soft Pro, Sony, SystemSoft, TO TEK
+                  Genre: Arcade, Shooter
+                  Theme: Action
+                  Designer: Dan Gorlin
                   Composer: Unknown

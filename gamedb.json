@@ -3745,12 +3745,12 @@
         "country": ["USA"],
         "platforms": ["Mega Drive", "GBC", "Amiga", "NES", "SNES", "DOS", "GB", "Lynx", "SMS", "PS3", "Atari ST", "Arcade"],
         "developers": ["Atari"],
-        "publishers": ["Midway", "Tengen", "Electronic Arts", "Jaleco, Domark, Atari"],
+        "publishers": ["Midway", "Tengen", "Electronic Arts", "Jaleco", "Domark", "Atari"],
         "genre": ["Arcade", "Puzzle", "Strategy"],
         "theme": ["Action", "Fantasy", "Historical"],
         "perspective": ["Bird view / Isometric"],
         "designer": ["John Salwitz", "Dave Ralston"],
-        "composer": ["Don Diekneite", "Brad FUller"],
+        "composer": ["Don Diekneite", "Brad Fuller"],
         "hltb": 10
     },
     "Pac-Man (1980)":
@@ -3812,6 +3812,216 @@
         "designer": ["Yuji Naka", "Takafumi Kaya"],
         "composer": ["Tomoya Ohtani"],
         "hltb": 7
+    },
+    "Gauntlet II (1986)":
+    {
+        "id": 255,
+        "year": 1986,
+        "country": ["USA"],
+        "platforms": ["Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "DOS", "C64", "GB", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Atari", "Mindscape", "U.S. Gold"],
+        "genre": ["Adventure", "Arcade", "Hack and Slash"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Ed Logg"],
+        "composer": ["Hal Canon", "Brad Fuller", "Earl Vickers"],
+        "hltb": 5
+    },
+    "NHL 98 (1997)":
+    {
+        "id": 256,
+        "year": 1997,
+        "country": ["CAN"],
+        "platforms": ["Mega Drive", "Saturn", "SNES", "PSX", "Win"],
+        "developers": ["Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport", "Strategy"],
+        "theme": ["Action", "Non-fiction", "Ice Hockey" ],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Thomas L. Fessler"],
+        "composer": ["David Whittaker", "Saki Kaskamanidis", "Jeff van Dyck"],
+        "hltb": 23
+    },
+    "Super Buster Bros. (1990)":
+    {
+        "id": 257,
+        "year": 1990,
+        "country": ["JPN"],
+        "platforms": ["SNES", "Arcade"],
+        "developers": ["Mitchell Corporation", "Capcom"],
+        "publishers": ["Mitchell Corporation", "Capcom"],
+        "genre": ["Puzzle"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Toshihiko Uda", "Futoshi Kuwahara"],
+        "composer": ["Tatsuya Nishimura", "Minae Fujii"],
+        "hltb": 2
+    },
+    "Thrust (1986)":
+    {
+        "id": 258,
+        "year": 1986,
+        "country": ["GBR"],
+        "platforms": ["Atari 8-bit", "C16", "Amstrad CPC", "ZX Spectrum", "C64", "BBC", "Acorn Electron", "Atari ST"],
+        "developers": ["Superior Software", "Firebird"],
+        "publishers": ["Superior Software", "Firebird"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Jeremy Smith"],
+        "composer": ["Rob Hubbard"],
+        "hltb": 10
+    },
+    "The Legend of the Mystical Ninja (1991)":
+    {
+        "id": 259,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "GBA", "SNES", "Wii"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Hack and Slash", "Platform"],
+        "theme": ["Action", "Comedy", "Fantasy", "Historical"],
+        "perspective": ["Side view"],
+        "designer": ["Unknown"],
+        "composer": ["Kazuhiko Uehara", "Harumi Ueko"],
+        "hltb": 5
+    },
+    "Xenogears (1998)":
+    {
+        "id": 260,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["PSX", "PS3"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Tetsuya Takahashi"],
+        "composer": ["Yasunori Mitsuda"],
+        "hltb": 65
+    },
+    "Gradius (1985)":
+    {
+        "id": 261,
+        "year": 1985,
+        "country": ["JPN"],
+        "platforms": ["MSX", "3DS", "Wii U", "Amstrad CPC", "NES", "ZX Spectrum", "C64", "Sharp X1", "TurboGrafx-16", "Sharp X68000", "Arcade"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Arcade", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Hiroyasu Machiguchi"],
+        "composer": ["Miki Higashino"],
+        "hltb": 3
+    },
+    "Paradroid (1985)":
+    {
+        "id": 262,
+        "year": 1985,
+        "country": ["GBR"],
+        "platforms": ["C64", "Wii"],
+        "developers": ["Graftgold"],
+        "publishers": ["Hewson"],
+        "genre": ["Puzzle", "Shooter", "Strategy", "Tactical"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Andrew Braybrook"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Boulder Dash II: Rockford's Revenge (1985)":
+    {
+        "id": 263,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "ZX Spectrum", "DOS", "C64"],
+        "developers": ["First Star Software"],
+        "publishers": ["First Star Software"],
+        "genre": ["Puzzle", "Arcade"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Peter Liepa"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Strider (1989)":
+    {
+        "id": 264,
+        "year": 1989,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Wii U", "Amstrad CPC", "Amiga", "ZX Spectrum", "DOS", "C64", "Wii", "SMS", "TurboGrafx-16", "Sharp X68000", "Atari ST", "Arcade"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom", "NEC Avenue", "U.S. Gold", "Sega"],
+        "genre": ["Arcade", "Platform"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Kouichi Yotsui", "Tokuro Fujiwara", "Shinichi Yoshimoto"],
+        "composer": ["Junko Tamiya"],
+        "hltb": 8
+    },
+    "Choplifter (1982)":
+    {
+        "id": 265,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "PC-8801", "NES", "C64", "SMS", "Atari 5200", "ColecoVision", "Sharp X1", "FM-7", "Atari 7800", "VIC-20", "Apple II", "SG-1000", "Thomson MO5", "NEC PC-6000", "Arcade"],
+        "developers": ["Dan Gorlin", "Sega"],
+        "publishers": ["Brøderbund", "Ariolasoft", "Atari", "Sega", "Creative Software", "Sony", "Coleco", "TO TEK", "Soft Pro", "SystemSoft", "Jaleco"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Dan Gorlin"],
+        "composer": ["Unknown"],
+        "hltb": 2
+    },
+    "Time Crisis (1995)":
+    {
+        "id": 266,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["PSX", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Hirofuki Kami", "Takashi Satsukawa"],
+        "composer": ["Kazuhiro Nakamura"],
+        "hltb": 2
+    },
+    "Solomon’s Key (1986)":
+    {
+        "id": 267,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "Amstrad CPC", "NES", "ZX Spectrum", "DOS", "C64", "Wii", "SMS", "Atari ST", "Arcade"],
+        "developers": ["Tecmo"],
+        "publishers": ["Tecmo", "Koei", "U.S. Gold"],
+        "genre": ["Arcade", "Platform", "Puzzle", "Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Michitaka Tsuruta"],
+        "composer": ["Michiharu Hasuya"],
+        "hltb": 10
+    },
+    "Super Punch-Out!! (1994)":
+    {
+        "id": 268,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Action", "Comedy", "Boxing"],
+        "perspective": ["Third person"],
+        "designer": ["Makoto Wada", "Yasuyuki Oyagi"],
+        "composer": ["Takashi Kumegawa", "Masaru Sakakibara"],
+        "hltb": 4
     }
 
 }

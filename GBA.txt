@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 ------------------------------------------------------------------------------------------------------------------
-    1. 2063   The Legend of Zelda: A Link to the Past (1991)                                             110    3 
+    1. 2076   The Legend of Zelda: A Link to the Past (1991)                                             110    3 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,17 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
+    2. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
+                  USA | 10 h | First person
+                  On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
+                  Developers: id Software
+                  Publishers: Activision, Bethesda, GT Interactive, Imagineer, Tapwave, Virgin, id Software
+                  Genre: Shooter
+                  Theme: Action, Horror, Science Fiction
+                  Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
+                  Composer: Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
                   JPN | 12 h | Side view
                   On: 3DS, GBA, GameCube, NES, Switch, Wii U
                   Developers: Nintendo
@@ -30,17 +40,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 
-       1928   Doom II: Hell on Earth (1994)                                                              120    3
-                  USA | 10 h | First person
-                  On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
-                  Developers: id Software
-                  Publishers: Activision, Bethesda, GT Interactive, Imagineer, Tapwave, Virgin, id Software
-                  Genre: Shooter
-                  Theme: Action, Horror, Science Fiction
-                  Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
-                  Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1901   Sega Rally Championship (1994)                                                              93    3 
+       1928   Sega Rally Championship (1994)                                                              93    3
                   JPN | 5 h | First person, Third person
                   On: Arcade, GBA, N-Gage, PS2, Saturn, Win
                   Developers: Sega
@@ -60,7 +60,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1511   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+    7. 1578   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -80,7 +80,7 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1403   Contra III: The Alien Wars (1992)                                                          249    1 
+    9. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
                   JPN | 2 h | Bird view / Isometric, Side view, Third person
                   On: 3DS, GBA, SNES, Wii, Wii U
                   Developers: Konami
@@ -90,7 +90,27 @@
                   Designer: Nobuya Nakazato
                   Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1324   Xevious (1982)                                                                             161    1 
+   10. 1423   ChuChu Rocket! (1999)                                                                      254    1 
+                  JPN | 7 h | Bird view / Isometric
+                  On: Android, Dreamcast, GBA, Wii U, iOS
+                  Developers: Sonic Team
+                  Publishers: Sega
+                  Genre: Puzzle, Strategy
+                  Theme: Action, Science Fiction
+                  Designer: Takafumi Kaya, Yuji Naka
+                  Composer: Tomoya Ohtani
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1363   The Legend of the Mystical Ninja (1991)                                                    259    1 
+                  JPN | 5 h | Side view
+                  On: 3DS, GBA, SNES, Wii, Wii U
+                  Developers: Konami
+                  Publishers: Konami
+                  Genre: Adventure, Hack and Slash, Platform
+                  Theme: Action, Comedy, Fantasy, Historical
+                  Designer: Unknown
+                  Composer: Harumi Ueko, Kazuhiko Uehara
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1324   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -100,7 +120,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1264   Desert Strike: Return to the Gulf (1992)                                                   166    1 
+   13. 1264   Desert Strike: Return to the Gulf (1992)                                                   166    1 
                   USA | 6 h | Bird view / Isometric
                   On: Amiga, DOS, GB, GBA, Game Gear, Lynx, Mega Drive, SMS, SNES
                   Developers: Electronic Arts
