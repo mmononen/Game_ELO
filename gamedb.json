@@ -4322,6 +4322,81 @@
         "designer": ["Koji Hiroshita", "Shigeharu Umezaki", "Shinji Kitamoto"],
         "composer": ["Kazuki Muraoka", "Hidenori Maezawa", "Kiyohiro Sada"],
         "hltb": 2
+    },
+    "Punch-Out!! (1987)":
+    {
+        "id": 289,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["NES", "Arcade"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Fighting", "Sport"],
+        "theme": ["Action", "Comedy", "Boxing"],
+        "perspective": ["Third person"],
+        "designer": ["Genyo Takeda", "Kazuo Yoneyama", "Mayumi Hirota"],
+        "composer": ["Yukio Kaneoka", "Akito Nakatsuka", "Kenji Yamamoto"],
+        "hltb": 3
+    },
+    "Chrono Trigger (1995)":
+    {
+        "id": 290,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["Android", "DS", "iOS", "SNES", "PSX", "Wii", "Win"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Takashi Tokita", "Yoshinori Kitase", "Akihiko Matsui", "Hironobu Sakaguchi"],
+        "composer": ["Yasunori Mitsuda", "Nobuo Uematsu"],
+        "hltb": 27
+    },
+    "NHLPA Hockey 93 (1992)":
+    {
+        "id": 291,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "SNES"],
+        "developers": ["Park Place Productions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["Ice Hockey"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Michael Brook", "Scott Orr", "Richard Hilleman"],
+        "composer": ["Jim Simmons"],
+        "hltb": 13
+    },
+    "Warlords (1990)":
+    {
+        "id": 292,
+        "year": 1990,
+        "country": ["AUS"],
+        "platforms": ["DOS", "Amiga", "Mac"],
+        "developers": ["Strategic Studies Group"],
+        "publishers": ["Strategic Studies Group"],
+        "genre": ["Strategy", "Turn-Based Strategy"],
+        "theme": ["Warfare", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Steve Fawkner", "Roger Keating"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Crash Bandicoot: Warped (1998)":
+    {
+        "id": 293,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["PSP", "PSX", "PS3"],
+        "developers": ["Naughty Dog"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Fantasy", "Historical", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Jason Rubin", "Evan Wells"],
+        "composer": ["Josh Mancell"],
+        "hltb": 8
     }
 
 }
