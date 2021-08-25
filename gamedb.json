@@ -4397,6 +4397,159 @@
         "designer": ["Jason Rubin", "Evan Wells"],
         "composer": ["Josh Mancell"],
         "hltb": 8
+    },
+    "Madden NFL 2001 (2000)":
+    {
+        "id": 294,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["GBC", "PS2", "PSX", "N64", "Win"],
+        "developers": ["Electronic Arts", "3d6 Games"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Action", "American Football"],
+        "perspective": ["Third person"],
+        "designer": ["Dale Jackson", "Graeme Bayless"],
+        "composer": ["Ken Felton", "David Whittaker", "Charles Stockley", "Don Veca", "Randy Eckhart"],
+        "hltb": 20
+    },
+    "Mega Man 2 (1988)":
+    {
+        "id": 295,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "iOS", "PSX", "Wii"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Akira Kitamura"],
+        "composer": ["Takashi Tateishi"],
+        "hltb": 3
+    },
+    "Tony Hawk's Pro Skater (1999)":
+    {
+        "id": 296,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["GBC", "Dreamcast", "PSX", "N-Gage", "N64"],
+        "developers": ["Neversoft"],
+        "publishers": ["Activision", "Crave Entertainment", "Nokia"],
+        "genre": ["Sport"],
+        "theme": ["Skateboarding", "Action"],
+        "perspective": ["Third person"],
+        "designer": ["Aaron Cammarata", "Chris Rausch"],
+        "composer": ["Brian Bright"],
+        "hltb": 9
+    },
+    "Tecmo Bowl (1987)":
+    {
+        "id": 297,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "PS4", "NES", "GB", "Wii", "Arcade", "Switch"],
+        "developers": ["Koei", "Tecmo"],
+        "publishers": ["Koei", "Tecmo", "HAMSTER"],
+        "genre": ["Sport"],
+        "theme": ["Action", "American Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Moritaka Nakamine", "Ichiro Tomie", "Chizuo Kinjo", "Kazunori Takafuji"],
+        "composer": ["Keiji Yamagishi", "Mikio Saitou"],
+        "hltb": 5
+    },
+    "Pitfall! (1982)":
+    {
+        "id": 298,
+        "year": 1982,
+        "country": ["USA"],
+        "platforms": ["Android", "Atari 8-bit", "MSX", "Xbox 360", "NES", "iOS", "Atari 2600", "C64", "Atari 5200", "Intellivision", "ColecoVision", "Apple II", "Windows Phone", "Win"],
+        "developers": ["Activision"],
+        "publishers": ["Activision"],
+        "genre": ["Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["David Crane"],
+        "composer": ["Unknown"],
+        "hltb": 3
+    },
+    "Final Fantasy IX (2000)":
+    {
+        "id": 299,
+        "year": 2000,
+        "country": ["JPN"],
+        "platforms": ["PSX", "PS3"],
+        "developers": ["Square"],
+        "publishers": ["Square", "Infogrames"],
+        "genre": ["Adventure", "RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Open world"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Hiroyuki Ito"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 54
+    },
+    "Excitebike (1984)":
+    {
+        "id": 300,
+        "year": 1984,
+        "country": ["JPN"],
+        "platforms": ["PC-8801", "Wii U", "NES", "GBA", "Wii", "Sharp X1", "Arcade"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo", "Hudson Soft"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Action", "Motorsports", "Motocross"],
+        "perspective": ["Side view"],
+        "designer": ["Shigeru Miyamoto"],
+        "composer": ["Akito Nakatsuka", "Soyo Oka"],
+        "hltb": 1
+    },
+    "Adventure (1980)":
+    {
+        "id": 301,
+        "year": 1980,
+        "country": ["USA"],
+        "platforms": ["Atari 2600"],
+        "developers": ["Atari"],
+        "publishers": ["Sears"],
+        "genre": ["Adventure"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Warren Robinett"],
+        "composer": ["Unknown"],
+        "hltb": 1,
+        "urls": [ 
+                    {"GDC Classic Postmortem: Warren Robinett's Adventure": "https://youtu.be/yINb5Huh0C4"}
+                ]
+    },
+    "Castlevania (1986)":
+    {
+        "id": 302,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "Amiga", "NES", "GBA", "DOS", "C64", "Arcade"],
+        "developers": ["Konami"],
+        "publishers": ["Konami", "Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Horror"],
+        "perspective": ["Side view"],
+        "designer": ["Akihiko Nagata"],
+        "composer": ["Kinuyo Yamashita", "Satoe Terashima"],
+        "hltb": 6
+    },
+    "Virtua Tennis (1999)":
+    {
+        "id": 303,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast", "N-Gage", "Arcade", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega", "Activision", "Empire"],
+        "genre": ["Sport"],
+        "theme": ["Tennis"],
+        "perspective": ["Third person"],
+        "designer": ["Kazuko Noguchi", "Takahiro Kajimoto", "Harumi Azuma", "Kenji Shimizu", "Yasuhito Tanaka", "Akira Fujiki", "Yuko Nishimura"],
+        "composer": ["Chiho Kobayashi"],
+        "hltb": 19
     }
 
 }

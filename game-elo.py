@@ -450,7 +450,7 @@ for i in range(1900, 2100, 1):
     olist = []    
     printable = make_printable(filter_year(olist, [*range(i,i+1,1)]))
     if len(printable) > 0:
-        n = f"{i}.txt"
+        n = f"output/year/{i}.txt"
         with open(n, 'w', encoding='utf-8') as f_out:
             for p in printable:
                 f_out.write(p+"\n")
@@ -465,9 +465,9 @@ for p in platforms:
     olist = []
     printable = make_printable(filter_platform(olist, p))
     if len(printable) > 0:
-        n = f"{p}.txt"
+        n = f"output/platform/{p}.txt"
         with open(n, 'w', encoding='utf-8') as f_out:
-            for p in printable:
+            for p in printable:                
                 f_out.write(p+"\n")
 
 printable = []
