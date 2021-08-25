@@ -4550,6 +4550,21 @@
         "designer": ["Kazuko Noguchi", "Takahiro Kajimoto", "Harumi Azuma", "Kenji Shimizu", "Yasuhito Tanaka", "Akira Fujiki", "Yuko Nishimura"],
         "composer": ["Chiho Kobayashi"],
         "hltb": 19
+    },
+    "Lode Runner (1983)":
+    {
+        "id": 304,
+        "year": 1983,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "PC-8801", "Amstrad CPC", "NES", "Mac", "ZX Spectrum", "WonderSwan", "DOS", "C64", "Sharp X1", "FM-7", "BBC", "VIC-20", "Apple II", "Windows Phone", "SG-1000", "PC-98", "NEC PC-6000", "Atari ST", "Arcade"],
+        "developers": ["Brøderbund", "Irem"],
+        "publishers": ["Brøderbund", "Banpresto", "Microsoft", "Hudson Soft", "Sony", "SystemSoft", "Soft Pro", "Software Projects", "Irem", "Sega"],
+        "genre": ["Platform", "Puzzle"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Doug Smith"],
+        "composer": ["Isamu Hirano"],
+        "hltb": 3
     }
 
 }
