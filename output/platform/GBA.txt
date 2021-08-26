@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2145   Doom (1993)                                                                                 19    5 
+    1. 2163   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2104   The Legend of Zelda: A Link to the Past (1991)                                             110    6 
+    2. 2125   The Legend of Zelda: A Link to the Past (1991)                                             110    6 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -63,7 +63,7 @@
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1499   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+    8. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Genre: Sport, Strategy | Theme: Action, Science Fiction
@@ -90,16 +90,7 @@
                   Designer: Akihiko Nagata
                   Composer: Kinuyo Yamashita, Satoe Terashima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
-                  GBR | 7 h | Side view
-                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
-                  Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
-                  Developers: Rare
-                  Publishers: Nintendo
-                  Designer: Andrew Collard, Gregg Mayles, Tim Stamper
-                  Composer: David Wise
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1269   Shining Force (1992)                                                                       130    1 
+   11. 1387   Shining Force (1992)                                                                       130    2 
                   JPN | 22 h | Bird view / Isometric
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
@@ -108,16 +99,7 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
-                  JPN | 2 h | Bird view / Isometric, Side view, Third person
-                  On: 3DS, GBA, SNES, Wii, Wii U
-                  Genre: Adventure, Shooter | Theme: Action, Science Fiction
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Nobuya Nakazato
-                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1239   Double Dragon (1987)                                                                       318    1 
+   12. 1338   Double Dragon (1987)                                                                       318    2 
                   JPN | 2 h | Side view, Third person
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -125,6 +107,24 @@
                   Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
+                  GBR | 7 h | Side view
+                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
+                  Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
+                  Developers: Rare
+                  Publishers: Nintendo
+                  Designer: Andrew Collard, Gregg Mayles, Tim Stamper
+                  Composer: David Wise
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
+                  JPN | 2 h | Bird view / Isometric, Side view, Third person
+                  On: 3DS, GBA, SNES, Wii, Wii U
+                  Genre: Adventure, Shooter | Theme: Action, Science Fiction
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Nobuya Nakazato
+                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1233   Wing Commander (1990)                                                                      280    1 
                   USA | 11 h | First person

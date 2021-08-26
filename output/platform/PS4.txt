@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2145   Doom (1993)                                                                                 19    5 
+    1. 2163   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2112   Final Fantasy VII (1997)                                                                   191    4 
+    2. 2132   Final Fantasy VII (1997)                                                                   191    4 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -18,25 +18,7 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1699   Duke Nukem 3D (1996)                                                                        51    2 
-                  USA | 12 h | First person
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1671   Dragon Quest (1986)                                                                         87    2 
-                  JPN | 11 h | Bird view / Isometric, First person
-                  On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
-                  Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
-                  Developers: Armor Project, Chunsoft, UIEvolution
-                  Publishers: Enix, Nintendo, Square
-                  Designer: Koichi Nakamura, Yuji Horii
-                  Composer: Koichi Sugiyama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1647   Pac-Man (1980)                                                                             251    2 
+    3. 1741   Pac-Man (1980)                                                                             251    2 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -45,7 +27,16 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1584   Grand Theft Auto: Vice City (2002)                                                         339    1 
+    4. 1699   Duke Nukem 3D (1996)                                                                        51    2 
+                  USA | 12 h | First person
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1690   Grand Theft Auto: Vice City (2002)                                                         339    1 
                   GBR | 28 h | Third person
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
@@ -53,6 +44,15 @@
                   Publishers: Rockstar, Take-Two
                   Designer: Leslie Benzies
                   Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1671   Dragon Quest (1986)                                                                         87    2 
+                  JPN | 11 h | Bird view / Isometric, First person
+                  On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
+                  Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
+                  Developers: Armor Project, Chunsoft, UIEvolution
+                  Publishers: Enix, Nintendo, Square
+                  Designer: Koichi Nakamura, Yuji Horii
+                  Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1498   Tecmo Bowl (1987)                                                                          297    1 
                   JPN | 5 h | Bird view / Isometric
@@ -90,7 +90,16 @@
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1239   Double Dragon (1987)                                                                       318    1 
+   11. 1341   Shenmue II (2001)                                                                          369    1 
+                  JPN | 29 h | Third person
+                  On: Dreamcast, PS4, Win, Xbox, Xbox One
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
+                  Developers: Rutubo Games, Sega
+                  Publishers: Microsoft, Sega
+                  Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
+                  Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1338   Double Dragon (1987)                                                                       318    2 
                   JPN | 2 h | Side view, Third person
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -98,3 +107,12 @@
                   Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1066   Grand Theft Auto III (2001)                                                                387    1 
+                  GBR | 22 h | Bird view / Isometric, Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
+                  Developers: DMA Design
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Craig Conner, Stuart Ross

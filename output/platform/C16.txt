@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1765   Manic Miner (1983)                                                                         337    1 
+    1. 1835   Manic Miner (1983)                                                                         337    1 
                   GBR | 10 h | Side view
                   On: Amiga, Amstrad CPC, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
                   Genre: Platform | Theme: Action, Survival
@@ -9,7 +9,7 @@
                   Designer: Matthew Smith
                   Composer: Matthew Smith
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1712   Jet Set Willy (1984)                                                                       338    1 
+    2. 1792   Jet Set Willy (1984)                                                                       338    1 
                   GBR | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action
@@ -27,7 +27,16 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1436   Zork III: The Dungeon Master (1982)                                                         56    2 
+    4. 1474   Ghosts 'n Goblins (1985)                                                                   347    1 
+                  JPN | 4 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
+                  Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
+                  Developers: Capcom
+                  Publishers: Capcom, Elite Systems
+                  Designer: Tokuro Fujiwara
+                  Composer: Ayako Mori
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1436   Zork III: The Dungeon Master (1982)                                                         56    2 
                   USA | 3 h | Text
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
@@ -45,7 +54,7 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1347   Ikari Warriors (1986)                                                                      103    1 
+    7. 1347   Ikari Warriors (1986)                                                                      103    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Warfare
@@ -53,15 +62,6 @@
                   Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1342   Ghosts 'n Goblins (1985)                                                                   347    1 
-                  JPN | 4 h | Side view
-                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
-                  Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
-                  Developers: Capcom
-                  Publishers: Capcom, Elite Systems
-                  Designer: Tokuro Fujiwara
-                  Composer: Ayako Mori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1294   Mercenary (1985)                                                                           245    1 
                   GBR | 10 h | First person
@@ -81,7 +81,16 @@
                   Designer: Kazutoshi Ueda, Michitaka Tsuruta
                   Composer: Alberto José Gonzalez Pedraza, Mark Cooksey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1170   Thrust (1986)                                                                              258    1 
+   10. 1234   Jet Set Willy II: The Final Frontier (1985)                                                377    1 
+                  GBR | 10 h | Side view
+                  On: Acorn Electron, Amiga, BBC, C16, C64, MSX, ZX Spectrum
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Software Projects
+                  Publishers: Software Projects, Tynesoft
+                  Designer: Matthew Smith
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1170   Thrust (1986)                                                                              258    1 
                   GBR | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C16, C64, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction

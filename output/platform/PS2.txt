@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1968   Half-Life (1998)                                                                           188    4 
+    1. 2004   Half-Life (1998)                                                                           188    4 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -45,7 +45,16 @@
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1688   Nights into Dreams... (1996)                                                                25    2 
+    6. 1690   Grand Theft Auto: Vice City (2002)                                                         339    1 
+                  GBR | 28 h | Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1688   Nights into Dreams... (1996)                                                                25    2 
                   JPN | 4 h | Side view, Third person
                   On: PS2, PS3, Saturn, Win, Xbox 360
                   Genre: Adventure, Platform | Theme: Action
@@ -54,7 +63,7 @@
                   Designer: Naoto Ohshima, Takashi Iizuka
                   Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1595   Madden NFL 2001 (2000)                                                                     294    1 
+    8. 1595   Madden NFL 2001 (2000)                                                                     294    1 
                   USA | 20 h | Third person
                   On: GBC, N64, PS2, PSX, Win
                   Genre: Simulator, Sport | Theme: Action, American Football
@@ -62,15 +71,6 @@
                   Publishers: Electronic Arts
                   Designer: Dale Jackson, Graeme Bayless
                   Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1584   Grand Theft Auto: Vice City (2002)                                                         339    1 
-                  GBR | 28 h | Third person
-                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
-                  Developers: Rockstar
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Lex Horton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1547   Age of Empires II: The Age of Kings (1999)                                                 273    1 
                   USA | 114 h | Bird view / Isometric
@@ -116,3 +116,21 @@
                   Publishers: Aspyr, Electronic Arts, TransGaming Technologies
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1075   Gran Turismo 3: A-Spec (2001)                                                              386    1 
+                  JPN | 64 h | First person, Third person
+                  On: PS2
+                  Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
+                  Developers: Sony
+                  Publishers: Sony
+                  Designer: Kazunori Yamauchi
+                  Composer: Daiki Kasho, Isamu Ohira
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1066   Grand Theft Auto III (2001)                                                                387    1 
+                  GBR | 22 h | Bird view / Isometric, Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
+                  Developers: DMA Design
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Craig Conner, Stuart Ross

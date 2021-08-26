@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2149   Super Mario 64 (1996)                                                                        1    6 
+    1. 2166   Super Mario 64 (1996)                                                                        1    6 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Genre: Platform | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Brian Reynolds, Chris Taormino, Jason S. Coleman
                   Composer: Jeffery L. Briggs, Kevin Manthei, Roland J. Rizzo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1859   Tomb Raider (1996)                                                                         194    4 
+    3. 1912   Tomb Raider (1996)                                                                         194    4 
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
@@ -27,7 +27,16 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1803   Pokémon Red (1996)                                                                         213    2 
+    4. 1864   Resident Evil (1996)                                                                       162    4 
+                  JPN | 8 h | Third person
+                  On: DS, PS3, PSX, Saturn, Win
+                  Genre: Adventure | Theme: Fantasy, Horror, Survival
+                  Developers: Capcom, Nextech
+                  Publishers: Capcom, Virgin
+                  Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
+                  Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1803   Pokémon Red (1996)                                                                         213    2 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Kids, Open world
@@ -44,15 +53,6 @@
                   Publishers: Nintendo
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1800   Resident Evil (1996)                                                                       162    4 
-                  JPN | 8 h | Third person
-                  On: DS, PS3, PSX, Saturn, Win
-                  Genre: Adventure | Theme: Fantasy, Horror, Survival
-                  Developers: Capcom, Nextech
-                  Publishers: Capcom, Virgin
-                  Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
-                  Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1787   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
@@ -234,7 +234,16 @@
                   Designer: David Jaffe
                   Composer: Chuck E. Myers, Lance Lenhart, Tom Hopkins
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1208   Virtua Cop 2 (1996)                                                                        146    1 
+   27. 1227   Mario Kart 64 (1996)                                                                       378    1 
+                  JPN | 11 h | Third person
+                  On: N64, Wii, Wii U
+                  Genre: Racing, Sport | Theme: Action, Kids
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hideki Konno
+                  Composer: Kenta Nagata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   28. 1208   Virtua Cop 2 (1996)                                                                        146    1 
                   JPN | 2 h | First person
                   On: Dreamcast, Saturn, Win
                   Genre: Shooter | Theme: Action
@@ -243,7 +252,7 @@
                   Designer: Wataru Kawashima
                   Composer: Hideaki Miyamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1169   NFL GameDay '97 (1996)                                                                     206    1 
+   29. 1169   NFL GameDay '97 (1996)                                                                     206    1 
                   USA | 20 h | Bird view / Isometric
                   On: PSX
                   Genre: Sport | Theme: American Football
@@ -252,7 +261,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1167   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
+   30. 1167   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
                   USA | 7 h | Side view
                   On: DOS, Mac, Win
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
@@ -261,7 +270,7 @@
                   Designer: Al Lowe
                   Composer: Frank Zottoli
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1064   Soviet Strike (1996)                                                                       169    1 
+   31. 1064   Soviet Strike (1996)                                                                       169    1 
                   USA | 8 h | Third person
                   On: PSX, Saturn
                   Genre: Adventure, Shooter, Simulator, Strategy | Theme: Action, Warfare
@@ -270,7 +279,7 @@
                   Designer: John Manley, Michael Becker
                   Composer: David O'Neal, Don Veca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1048   Tetris Attack (1996)                                                                       333    1 
+   32. 1048   Tetris Attack (1996)                                                                       333    1 
                   JPN | 4 h | Side view
                   On: GB, SNES
                   Genre: Puzzle | Theme: Action, Kids
@@ -279,7 +288,7 @@
                   Designer: Hitoshi Yamagami, Masao Yamamoto, Toshitaka Muramatsu
                   Composer: Masaru Tajima, Masaya Kuzume, Yuka Tsujiyoko
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1010   NBA Jam Extreme (1996)                                                                     175    1 
+   33. 1010   NBA Jam Extreme (1996)                                                                     175    1 
                   USA | 4 h | Side view, Third person
                   On: Arcade, PSX, Saturn
                   Genre: Arcade, Sport | Theme: Action, Basketball

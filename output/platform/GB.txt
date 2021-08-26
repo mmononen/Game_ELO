@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2068   Street Fighter II (1991)                                                                     7    6 
+    1. 2092   Street Fighter II (1991)                                                                     7    6 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Genre: Arcade, Fighting | Theme: Action, Science Fiction
@@ -36,7 +36,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1721   Sensible Soccer: European Champions (1992)                                                 242    2 
+    5. 1799   Sensible Soccer: European Champions (1992)                                                 242    2 
                   GBR | 49 h | Bird view / Isometric
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Genre: Sport | Theme: Action, Football
@@ -45,7 +45,7 @@
                   Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1712   Bubble Bobble (1986)                                                                       237    2 
+    6. 1792   Bubble Bobble (1986)                                                                       237    2 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform, Puzzle, Strategy | Theme: Action, Fantasy, Kids
@@ -54,16 +54,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1682   Metroid II: Return of Samus (1991)                                                         118    2 
-                  JPN | 5 h | Side view
-                  On: 3DS, GB
-                  Genre: Adventure, Platform, Shooter | Theme: Action, Science Fiction
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Hiroji Kiyotake, Hiroyuki Kimura, Makoto Kano
-                  Composer: Ryoji Yoshitomi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1647   Pac-Man (1980)                                                                             251    2 
+    7. 1741   Pac-Man (1980)                                                                             251    2 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -72,16 +63,7 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1646   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
-                  JPN | 44 h | Bird view / Isometric, Side view
-                  On: 3DS, GB, GBC
-                  Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
-                  Developers: Game Freak
-                  Publishers: Nintendo
-                  Designer: Satoshi Tajiri
-                  Composer: Junichi Masuda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1595   R-Type (1987)                                                                              172    3 
+    8. 1698   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -90,7 +72,16 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1572   Space Invaders (1978)                                                                      171    2 
+    9. 1682   Metroid II: Return of Samus (1991)                                                         118    2 
+                  JPN | 5 h | Side view
+                  On: 3DS, GB
+                  Genre: Adventure, Platform, Shooter | Theme: Action, Science Fiction
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hiroji Kiyotake, Hiroyuki Kimura, Makoto Kano
+                  Composer: Ryoji Yoshitomi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1680   Space Invaders (1978)                                                                      171    2 
                   JPN | 4 h | Side view
                   On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -99,16 +90,16 @@
                   Designer: Tomohiro Nishikado
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1562   Marble Madness (1984)                                                                       15    2 
-                  USA | 2 h | Bird view / Isometric
-                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
-                  Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
-                  Developers: Atari
-                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
-                  Designer: Mark Cerny
-                  Composer: Brad Fuller, Hal Canon
+   11. 1646   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+                  JPN | 44 h | Bird view / Isometric, Side view
+                  On: 3DS, GB, GBC
+                  Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
+                  Developers: Game Freak
+                  Publishers: Nintendo
+                  Designer: Satoshi Tajiri
+                  Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1499   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+   12. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Genre: Sport, Strategy | Theme: Action, Science Fiction
@@ -117,52 +108,16 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1498   Tecmo Bowl (1987)                                                                          297    1 
-                  JPN | 5 h | Bird view / Isometric
-                  On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
-                  Genre: Sport | Theme: Action, American Football
-                  Developers: Koei, Tecmo
-                  Publishers: HAMSTER, Koei, Tecmo
-                  Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
-                  Composer: Keiji Yamagishi, Mikio Saitou
+   13. 1562   Marble Madness (1984)                                                                       15    2 
+                  USA | 2 h | Bird view / Isometric
+                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
+                  Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
+                  Developers: Atari
+                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
+                  Designer: Mark Cerny
+                  Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1484   Micro Machines (1991)                                                                       18    1 
-                  GBR | 8 h | Bird view / Isometric
-                  On: Amiga, DOS, GB, Game Gear, Mega Drive, NES, Philips CD-i, SMS, SNES
-                  Genre: Racing | Theme: Action
-                  Developers: Codemasters, Mindscape
-                  Publishers: Camerica, Ocean Software
-                  Designer: Andrew Graham
-                  Composer: Matt Gray
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1471   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
-                  JPN | 1 h | Side view
-                  On: DOS, GB, Mac, N64, PSX, Saturn, Win
-                  Genre: Puzzle | Theme: Kids, Party
-                  Developers: Taito
-                  Publishers: Acclaim, CyberFront, Interplay, Taito
-                  Designer: Selichi Nakakuki
-                  Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1452   Madden NFL 96 (1995)                                                                        45    1 
-                  USA | 10 h | Bird view / Isometric
-                  On: GB, Game Gear, Mega Drive, SNES, Win
-                  Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
-                  Developers: High Score Productions, Tiburon Entertainment
-                  Publishers: Electronic Arts
-                  Designer: Gordon Bellamy, Michael Rubinelli
-                  Composer: Tommy Tallarico
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1445   Nobunaga's Ambition (1986)                                                                  49    1 
-                  JPN | 40 h | Bird view / Isometric
-                  On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
-                  Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
-                  Developers: Koei
-                  Publishers: Koei
-                  Designer: Kou Shibusawa
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1389   Boulder Dash (1984)                                                                        345    1 
+   14. 1521   Boulder Dash (1984)                                                                        345    1 
                   USA | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Android, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, FM-7, GB, MSX, NES, PC-8801, Wii, Win, ZX Spectrum, iOS
                   Genre: Arcade, Platform, Puzzle | Theme: Action
@@ -171,16 +126,52 @@
                   Designer: Chris Gray, Peter Liepa
                   Composer: Ian Waugh, Peter Liepa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1301   FIFA International Soccer (1993)                                                           121    1 
-                  CAN | 29 h | Bird view / Isometric
-                  On: Amiga, DOS, GB, Mega Drive
-                  Genre: Sport | Theme: Football
-                  Developers: Extended Play Productions
-                  Publishers: Electronic Arts
-                  Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
-                  Composer: Jeff van Dyck
+   15. 1498   Tecmo Bowl (1987)                                                                          297    1 
+                  JPN | 5 h | Bird view / Isometric
+                  On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
+                  Genre: Sport | Theme: Action, American Football
+                  Developers: Koei, Tecmo
+                  Publishers: HAMSTER, Koei, Tecmo
+                  Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
+                  Composer: Keiji Yamagishi, Mikio Saitou
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1277   Mortal Kombat (1992)                                                                       360    1 
+   16. 1484   Micro Machines (1991)                                                                       18    1 
+                  GBR | 8 h | Bird view / Isometric
+                  On: Amiga, DOS, GB, Game Gear, Mega Drive, NES, Philips CD-i, SMS, SNES
+                  Genre: Racing | Theme: Action
+                  Developers: Codemasters, Mindscape
+                  Publishers: Camerica, Ocean Software
+                  Designer: Andrew Graham
+                  Composer: Matt Gray
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1471   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
+                  JPN | 1 h | Side view
+                  On: DOS, GB, Mac, N64, PSX, Saturn, Win
+                  Genre: Puzzle | Theme: Kids, Party
+                  Developers: Taito
+                  Publishers: Acclaim, CyberFront, Interplay, Taito
+                  Designer: Selichi Nakakuki
+                  Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1452   Madden NFL 96 (1995)                                                                        45    1 
+                  USA | 10 h | Bird view / Isometric
+                  On: GB, Game Gear, Mega Drive, SNES, Win
+                  Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
+                  Developers: High Score Productions, Tiburon Entertainment
+                  Publishers: Electronic Arts
+                  Designer: Gordon Bellamy, Michael Rubinelli
+                  Composer: Tommy Tallarico
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1445   Nobunaga's Ambition (1986)                                                                  49    1 
+                  JPN | 40 h | Bird view / Isometric
+                  On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
+                  Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
+                  Developers: Koei
+                  Publishers: Koei
+                  Designer: Kou Shibusawa
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1403   Mortal Kombat (1992)                                                                       360    1 
                   USA | 6 h | Side view
                   On: Amiga, Arcade, DOS, GB, Game Gear, Mega Drive, SNES, Sega CD
                   Genre: Fighting | Theme: Action
@@ -188,6 +179,15 @@
                   Publishers: Acclaim, Arena Entertainment, Midway, Virgin
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1301   FIFA International Soccer (1993)                                                           121    1 
+                  CAN | 29 h | Bird view / Isometric
+                  On: Amiga, DOS, GB, Mega Drive
+                  Genre: Sport | Theme: Football
+                  Developers: Extended Play Productions
+                  Publishers: Electronic Arts
+                  Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
+                  Composer: Jeff van Dyck
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    22. 1276   NBA Live '96 (1995)                                                                        129    1 
                   CAN | 20 h | Bird view / Isometric
@@ -305,3 +305,12 @@
                   Publishers: Acclaim, Midway
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden, Matt Furniss
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   35. 1000   Turrican (1990)                                                                            390    1 
+                  GER | 3 h | Side view
+                  On: Amiga, Amstrad CPC, C64, GB, Mega Drive, TurboGrafx-16, ZX Spectrum
+                  Genre: Platform, Shooter | Theme: Action, Science Fiction
+                  Developers: Factor 5, Probe, Rainbow Arts, The Code Monkeys
+                  Publishers: Accolade, Ballistic, Rainbow Arts
+                  Designer: Manfred Trenz
+                  Composer: Chris Huelsbeck, Jochen Hippel

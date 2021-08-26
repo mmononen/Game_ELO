@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2069   Super Mario Bros. (1985)                                                                     5    4 
+    1. 2094   Super Mario Bros. (1985)                                                                     5    4 
                   JPN | 2 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -27,7 +27,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1483   Paradroid (1985)                                                                           262    2 
+    4. 1606   Paradroid (1985)                                                                           262    2 
                   GBR | 10 h | Bird view / Isometric
                   On: C64, Wii
                   Genre: Puzzle, Shooter, Strategy, Tactical | Theme: Action, Science Fiction
@@ -36,7 +36,7 @@
                   Designer: Andrew Braybrook
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1342   Ghosts 'n Goblins (1985)                                                                   347    1 
+    5. 1474   Ghosts 'n Goblins (1985)                                                                   347    1 
                   JPN | 4 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
                   Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
@@ -45,7 +45,7 @@
                   Designer: Tokuro Fujiwara
                   Composer: Ayako Mori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1338   Skool Daze (1985)                                                                          348    1 
+    6. 1470   Skool Daze (1985)                                                                          348    1 
                   GBR | 10 h | Third person
                   On: C64, ZX Spectrum
                   Genre: Adventure, Platform, Puzzle | Theme: Action
@@ -54,7 +54,7 @@
                   Designer: David Reidy
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1335   Chaos: The Battle of Wizards (1985)                                                        349    1 
+    7. 1467   Chaos: The Battle of Wizards (1985)                                                        349    1 
                   GBR | 20 h | Bird view / Isometric
                   On: ZX Spectrum
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Fantasy
@@ -81,7 +81,16 @@
                   Designer: Ed Logg
                   Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1294   Mercenary (1985)                                                                           245    1 
+   10. 1294   Repton (1985)                                                                              375    1 
+                  GBR | 10 h | Bird view / Isometric
+                  On: Acorn Electron, BBC
+                  Genre: Arcade, Platform, Puzzle, RPG | Theme: Action, Sandbox
+                  Developers: Tim Tyler
+                  Publishers: Superior Software
+                  Designer: Tim Tyler
+                  Composer: George Botsford
+
+       1294   Mercenary (1985)                                                                           245    1
                   GBR | 10 h | First person
                   On: Amstrad CPC, Atari 8-bit, Atari ST, C16, C64, Plus4, ZX Spectrum
                   Genre: Puzzle, Simulator | Theme: Action, Science Fiction
@@ -90,7 +99,7 @@
                   Designer: Bruce Jordan, Paul Woakes
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1279   Balance of Power (1985)                                                                    128    1 
+   12. 1279   Balance of Power (1985)                                                                    128    1 
                   USA | 20 h | Bird view / Isometric
                   On: Amiga, Apple II, Atari ST, DOS, MSX, Mac, PC-8801, PC-98
                   Genre: Simulator, Strategy | Theme: Cold War, Historical, Politics
@@ -99,7 +108,16 @@
                   Designer: Chris Crawford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1226   King's Quest II: Romancing the Throne (1985)                                               137    1 
+   13. 1234   Jet Set Willy II: The Final Frontier (1985)                                                377    1 
+                  GBR | 10 h | Side view
+                  On: Acorn Electron, Amiga, BBC, C16, C64, MSX, ZX Spectrum
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Software Projects
+                  Publishers: Software Projects, Tynesoft
+                  Designer: Matthew Smith
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1226   King's Quest II: Romancing the Throne (1985)                                               137    1 
                   USA | 4 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
@@ -108,7 +126,7 @@
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1148   Gradius (1985)                                                                             261    1 
+   15. 1148   Gradius (1985)                                                                             261    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amstrad CPC, Arcade, C64, MSX, NES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii U, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Science Fiction
@@ -117,7 +135,7 @@
                   Designer: Hiroyasu Machiguchi
                   Composer: Miki Higashino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1130   Winter Games (1985)                                                                        159    1 
+   16. 1130   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Genre: Sport | Theme: Action
@@ -126,7 +144,7 @@
                   Designer: Chris Oberth, Elaine Hodgson, Fumiko Murakami, Richard A. Ditton
                   Composer: David Thiel, Kenichi Tomizawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
+   17. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
                   USA | 10 h | Third person
                   On: Atari 8-bit, C64, DOS, MSX, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action

@@ -18,16 +18,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1714   Defender (1981)                                                                             13    3 
-                  USA | 2 h | Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
-                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
-                  Developers: Williams
-                  Publishers: Atari, Sears, Shockwave, Williams
-                  Designer: Eugene Jarvis, Larry DeMar
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1647   Pac-Man (1980)                                                                             251    2 
+    3. 1741   Pac-Man (1980)                                                                             251    2 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -36,16 +27,16 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1584   Star Wars (1983)                                                                            94    2 
-                  USA | 2 h | First person
-                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Atari
-                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
-                  Designer: Mike Hally
-                  Composer: Earl Vickers
+    4. 1714   Defender (1981)                                                                             13    3 
+                  USA | 2 h | Side view
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
+                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
+                  Developers: Williams
+                  Publishers: Atari, Sears, Shockwave, Williams
+                  Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1572   Space Invaders (1978)                                                                      171    2 
+    5. 1680   Space Invaders (1978)                                                                      171    2 
                   JPN | 4 h | Side view
                   On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -54,7 +45,16 @@
                   Designer: Tomohiro Nishikado
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1469   Pitfall! (1982)                                                                            298    1 
+    6. 1646   Star Wars (1983)                                                                            94    3 
+                  USA | 2 h | First person
+                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Atari
+                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
+                  Designer: Mike Hally
+                  Composer: Earl Vickers
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1561   Pitfall! (1982)                                                                            298    2 
                   USA | 3 h | Side view
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Genre: Platform | Theme: Action
@@ -63,7 +63,7 @@
                   Designer: David Crane
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1299   Galaxian (1979)                                                                            354    1 
+    8. 1428   Galaxian (1979)                                                                            354    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -99,7 +99,16 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1029   Choplifter (1982)                                                                          265    1 
+   12. 1057   Missile Command (1980)                                                                     388    1 
+                  USA | 1 h | Side view
+                  On: Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction, Warfare
+                  Developers: Atari
+                  Publishers: Atari, Polyvox, Sears, Sega, Taito
+                  Designer: Dave Theurer
+                  Composer: Rich Adam
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1029   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Genre: Arcade, Shooter | Theme: Action

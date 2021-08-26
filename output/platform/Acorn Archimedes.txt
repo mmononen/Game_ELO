@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1909   Elite (1984)                                                                                14    3 
+    1. 1954   Elite (1984)                                                                                14    3 
                   GBR | 100 h | First person
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1643   SimCity (1989)                                                                             279    2 
+    2. 1644   SimCity (1989)                                                                             279    3 
                   USA | 25 h | Bird view / Isometric
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
@@ -18,16 +18,7 @@
                   Designer: Jeff Braun, Robert Strobel, Will Wright
                   Composer: Steve Hales, Will Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1546   Populous (1989)                                                                             16    2 
-                  GBR | 36 h | Bird view / Isometric, Third person
-                  On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
-                  Genre: Real Time Strategy, Simulator, Strategy | Theme: Business, Fantasy
-                  Developers: Bullfrog
-                  Publishers: Electronic Arts, Hudson Soft, Imagineer
-                  Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
-                  Composer: David Hanlon, Rob Hubbard
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1499   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+    3. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Genre: Sport, Strategy | Theme: Action, Science Fiction
@@ -36,7 +27,16 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1250   Cannon Fodder (1993)                                                                       365    1 
+    4. 1546   Populous (1989)                                                                             16    2 
+                  GBR | 36 h | Bird view / Isometric, Third person
+                  On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
+                  Genre: Real Time Strategy, Simulator, Strategy | Theme: Business, Fantasy
+                  Developers: Bullfrog
+                  Publishers: Electronic Arts, Hudson Soft, Imagineer
+                  Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
+                  Composer: David Hanlon, Rob Hubbard
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1371   Cannon Fodder (1993)                                                                       365    1 
                   GBR | 13 h | Bird view / Isometric
                   On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
                   Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
@@ -44,3 +44,21 @@
                   Publishers: Codemasters, Krisalis, Kuju Wireless, Sold Out Sales & Marketing, The Hit Squad, Virgin
                   Designer: Jon Hare
                   Composer: Allister Brimble, Richard Joseph
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1346   Flashback (1992)                                                                           368    1 
+                  FRA | 6 h | Side view
+                  On: 3DO, Acorn Archimedes, Amiga, DOS, Jaguar, Mac, Mega Drive, Philips CD-i, SNES, Sega CD
+                  Genre: Adventure, Platform | Theme: Action, Science Fiction
+                  Developers: Delphine Software, Tiertex
+                  Publishers: U.S. Gold
+                  Designer: Paul Cuisset
+                  Composer: Fabrice Visserot, Jean Baudlot, Raphaël Gesqua
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1118   The Last Ninja (1987)                                                                      383    1 
+                  GBR | 3 h | Bird view / Isometric, Third person
+                  On: Acorn Archimedes, Acorn Electron, Amiga, Apple II, Apple IIGS, Atari ST, BBC, C64, DOS, Wii
+                  Genre: Adventure, Arcade | Theme: Action
+                  Developers: System 3
+                  Publishers: Activision, Superior Software, System 3
+                  Designer: Mark Cale, Tim Best
+                  Composer: Anthony Lees, Ben Daglish, Jochen Hippel, Russell Lieblich

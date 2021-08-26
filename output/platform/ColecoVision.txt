@@ -9,16 +9,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1584   Star Wars (1983)                                                                            94    2 
-                  USA | 2 h | First person
-                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Atari
-                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
-                  Designer: Mike Hally
-                  Composer: Earl Vickers
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1582   Donkey Kong (1981)                                                                          70    2 
+    2. 1667   Donkey Kong (1981)                                                                          70    3 
                   JPN | 1 h | Side view
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action
@@ -27,7 +18,16 @@
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1469   Pitfall! (1982)                                                                            298    1 
+    3. 1646   Star Wars (1983)                                                                            94    3 
+                  USA | 2 h | First person
+                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Atari
+                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
+                  Designer: Mike Hally
+                  Composer: Earl Vickers
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1561   Pitfall! (1982)                                                                            298    2 
                   USA | 3 h | Side view
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Genre: Platform | Theme: Action
@@ -36,7 +36,7 @@
                   Designer: David Crane
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1389   Boulder Dash (1984)                                                                        345    1 
+    5. 1521   Boulder Dash (1984)                                                                        345    1 
                   USA | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Android, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, FM-7, GB, MSX, NES, PC-8801, Wii, Win, ZX Spectrum, iOS
                   Genre: Arcade, Platform, Puzzle | Theme: Action
@@ -45,16 +45,7 @@
                   Designer: Chris Gray, Peter Liepa
                   Composer: Ian Waugh, Peter Liepa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1324   Bump 'n' Jump (1982)                                                                       112    1 
-                  JPN | 2 h | Bird view / Isometric
-                  On: Arcade, Atari 2600, ColecoVision, Intellivision, NES, Sharp X1
-                  Genre: Arcade, Racing | Theme: Action
-                  Developers: Data East
-                  Publishers: Coleco, Dempa Shimbunsha, Mattel, Vic Tokai
-                  Designer: Unknown
-                  Composer: Azusa Hara, Hiroaki Yoshida
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1299   Galaxian (1979)                                                                            354    1 
+    6. 1428   Galaxian (1979)                                                                            354    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -62,6 +53,15 @@
                   Publishers: Atari, Dempa Shimbunsha, Midway, Namco
                   Designer: Kazunori Sawano, Shigeichi Ishimura
                   Composer: Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1324   Bump 'n' Jump (1982)                                                                       112    1 
+                  JPN | 2 h | Bird view / Isometric
+                  On: Arcade, Atari 2600, ColecoVision, Intellivision, NES, Sharp X1
+                  Genre: Arcade, Racing | Theme: Action
+                  Developers: Data East
+                  Publishers: Coleco, Dempa Shimbunsha, Mattel, Vic Tokai
+                  Designer: Unknown
+                  Composer: Azusa Hara, Hiroaki Yoshida
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1217   River Raid (1982)                                                                          144    1 
                   USA | 1 h | Bird view / Isometric
@@ -72,7 +72,16 @@
                   Designer: Carol Shaw
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1198   Centipede (1981)                                                                           148    1 
+    9. 1212   Mr. DO! (1982)                                                                             380    1 
+                  JPN | 1 h | Bird view / Isometric
+                  On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, ColecoVision
+                  Genre: Adventure, Arcade | Theme: Action
+                  Developers: Universal Games
+                  Publishers: Coleco, Datasoft
+                  Designer: Kazutoshi Ueda
+                  Composer: Junichi Saito
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1198   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -81,7 +90,7 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1029   Choplifter (1982)                                                                          265    1 
+   11. 1029   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Genre: Arcade, Shooter | Theme: Action
@@ -89,3 +98,12 @@
                   Publishers: Ariolasoft, Atari, Brøderbund, Coleco, Creative Software, Jaleco, Sega, Soft Pro, Sony, SystemSoft, TO TEK
                   Designer: Dan Gorlin
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1010   Spy Hunter (1982)                                                                          389    1 
+                  USA | 1 h | Bird view / Isometric
+                  On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
+                  Genre: Racing, Shooter | Theme: Action
+                  Developers: Bally
+                  Publishers: Bally, Coleco, Sega, Sun Corporation
+                  Designer: George Gomez
+                  Composer: Bob Libbe, Michael Bartlow, Naoki Kodaka, Neil Falconer

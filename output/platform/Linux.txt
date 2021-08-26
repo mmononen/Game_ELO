@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2145   Doom (1993)                                                                                 19    5 
+    1. 2163   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1968   Half-Life (1998)                                                                           188    4 
+    2. 2004   Half-Life (1998)                                                                           188    4 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -45,25 +45,7 @@
                   Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
                   Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1384   Akalabeth: World of Doom (1980)                                                             76    1 
-                  USA | 4 h | Bird view / Isometric, First person
-                  On: Apple II, DOS, Linux, Mac, Win, iOS
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Richard Garriott
-                  Publishers: California Pacific Computer, Quantum Toast
-                  Designer: Richard Garriott
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
-                  USA | 99 h | First person
-                  On: DOS, Linux, Mac, Win
-                  Genre: Adventure, RPG | Theme: Fantasy
-                  Developers: Sir-Tech
-                  Publishers: Sir-Tech
-                  Designer: David W. Bradley
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1296   Gunstar Heroes (1993)                                                                      355    1 
+    6. 1424   Gunstar Heroes (1993)                                                                      355    1 
                   JPN | 2 h | Side view
                   On: Game Gear, Linux, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Genre: Arcade, Platform, Shooter | Theme: Action, Science Fiction, Warfare
@@ -72,16 +54,7 @@
                   Designer: Masato Maegawa
                   Composer: Norio Hanzawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1281   Baldur's Gate II: Shadows of Amn (2000)                                                    282    2 
-                  CAN | 87 h | Bird view / Isometric
-                  On: Linux, Mac, Win
-                  Genre: RPG | Theme: Fantasy
-                  Developers: BioWare
-                  Publishers: Black Isle, Interplay
-                  Designer: James Ohlen, Kevin Martens
-                  Composer: Howard Drossin, Michael Hoenig
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1269   Shining Force (1992)                                                                       130    1 
+    7. 1387   Shining Force (1992)                                                                       130    2 
                   JPN | 22 h | Bird view / Isometric
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
@@ -90,7 +63,16 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1250   Cannon Fodder (1993)                                                                       365    1 
+    8. 1384   Akalabeth: World of Doom (1980)                                                             76    1 
+                  USA | 4 h | Bird view / Isometric, First person
+                  On: Apple II, DOS, Linux, Mac, Win, iOS
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Richard Garriott
+                  Publishers: California Pacific Computer, Quantum Toast
+                  Designer: Richard Garriott
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1371   Cannon Fodder (1993)                                                                       365    1 
                   GBR | 13 h | Bird view / Isometric
                   On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
                   Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
@@ -99,7 +81,7 @@
                   Designer: Jon Hare
                   Composer: Allister Brimble, Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1234   Streets of Rage 2 (1992)                                                                   367    1 
+   10. 1351   Streets of Rage 2 (1992)                                                                   367    1 
                   JPN | 3 h | Side view
                   On: Linux, Mega Drive, PS3, Wii, Win
                   Genre: Arcade, Hack and Slash | Theme: Action
@@ -107,6 +89,24 @@
                   Publishers: Sega
                   Designer: Ayano Koshiro, Kataru Uchimura, Mikito Ichikawa
                   Composer: Motohiro Kawashima, Yuo Koshiro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
+                  USA | 99 h | First person
+                  On: DOS, Linux, Mac, Win
+                  Genre: Adventure, RPG | Theme: Fantasy
+                  Developers: Sir-Tech
+                  Publishers: Sir-Tech
+                  Designer: David W. Bradley
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1281   Baldur's Gate II: Shadows of Amn (2000)                                                    282    2 
+                  CAN | 87 h | Bird view / Isometric
+                  On: Linux, Mac, Win
+                  Genre: RPG | Theme: Fantasy
+                  Developers: BioWare
+                  Publishers: Black Isle, Interplay
+                  Designer: James Ohlen, Kevin Martens
+                  Composer: Howard Drossin, Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1209   Baldur's Gate (1998)                                                                       281    1 
                   CAN | 57 h | Bird view / Isometric
