@@ -5,8 +5,8 @@ import sys, json
 class Game:
     def __init__(self, name):
         self.name = name
-        self.elo = 1200
-        self.highest_elo = 1200
+        self.elo = 1000
+        self.highest_elo = 1000
         self.wins = 0
         self.draws = 0
         self.loses = 0
@@ -489,3 +489,98 @@ with open('missing.txt', 'w', encoding='utf-8') as f_out:
     for l in unlisted:
         print(l)
         f_out.write(l+"\n")
+i = 0
+countries = {}
+platforms = {}
+for g in gamedb:
+    s = groups[groupnames.index(g)]
+    for x in s.country:
+        if x not in countries:
+            countries[x] = 1
+        else:            
+            a = countries[x]
+            a = a + 1
+            countries[x] = a
+    for x in s.platforms:
+        if x not in platforms:
+            platforms[x] = 1
+        else:            
+            a = platforms[x]
+            a = a + 1
+            platforms[x] = a
+
+
+#countries = (countries.values().values())
+#sorted(data.keys(), key=data.get)
+#sorted(data.items(), key=lambda x:x[1])
+#countries = sorted(countries.values())
+print_countries = []
+for i in countries:
+    a = countries[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_countries.append(s)
+
+
+print_platforms = []
+for i in platforms:
+    a = platforms[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_platforms.append(s)
+
+
+with open('statistics.txt', 'w', encoding='utf-8') as f_out:
+    f_out.write(f"Games in database: {len(gamedb)}\n")
+    f_out.write("\n")
+    f_out.write("Countries:\n")
+    f_out.write("----------\n")
+    print_countries.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_countries:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        f_out.write(f"{s} {j[0]}: {int(i[0]):3} ({j[1]:3}\n")
+    f_out.write("\n")
+    f_out.write("Platforms:\n")
+    f_out.write("----------\n")
+    print_platforms.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_platforms:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")

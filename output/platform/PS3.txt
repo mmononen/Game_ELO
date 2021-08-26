@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2181   Sonic the Hedgehog (1991)                                                                   20    5 
+    1. 2008   Sonic the Hedgehog (1991)                                                                   20    5 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -10,7 +10,7 @@
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2156   Metal Gear Solid (1998)                                                                    196    4 
+    2. 1956   Metal Gear Solid (1998)                                                                    196    4 
                   JPN | 13 h | Third person
                   On: PS3, PSP, PSX
                   Developers: Konami
@@ -20,7 +20,7 @@
                   Designer: Hideo Kojima
                   Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2001   Tomb Raider (1996)                                                                         194    4 
+    3. 1847   Tomb Raider (1996)                                                                         194    4 
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Developers: Core Design
@@ -30,7 +30,7 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1995   Tekken 2 (1995)                                                                             22    3 
+    4. 1795   Tekken 2 (1995)                                                                             22    3 
                   JPN | 6 h | Side view
                   On: Arcade, PS2, PS3, PSP, PSX, Vita
                   Developers: Namco
@@ -40,7 +40,7 @@
                   Designer: Seiichi Ishii
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1990   Virtua Fighter 2 (1994)                                                                      6    3 
+    5. 1790   Virtua Fighter 2 (1994)                                                                      6    3 
                   JPN | 4 h | Side view
                   On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
                   Developers: 3D Ages, Sega
@@ -50,17 +50,7 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1984   Resident Evil 2 (1998)                                                                     187    2 
-                  JPN | 9 h | Third person
-                  On: Dreamcast, GameCube, N64, PS3, PSX, Win
-                  Developers: Angel Studios, Capcom, Factor 5, Sourcenext
-                  Publishers: Capcom, Nintendo, Virgin
-                  Genre: Adventure, Shooter
-                  Theme: Action, Horror, Survival
-                  Designer: Hideki Kamiya
-                  Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1943   Resident Evil (1996)                                                                       162    3 
+    6. 1786   Resident Evil (1996)                                                                       162    4 
                   JPN | 8 h | Third person
                   On: DS, PS3, PSX, Saturn, Win
                   Developers: Capcom, Nextech
@@ -70,47 +60,17 @@
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1922   Final Fantasy Tactics (1997)                                                               219    2 
-                  JPN | 57 h | Bird view / Isometric
-                  On: PS3, PSX
-                  Developers: Square
-                  Publishers: Sony, Square
-                  Genre: RPG, Strategy, Tactical, Turn-Based Strategy
-                  Theme: Fantasy, Historical
-                  Designer: Hiroyuki Ito, Yasumi Matsuno
-                  Composer: Hitoshi Sakimoto, Masaharu Iwata
+    7. 1784   Resident Evil 2 (1998)                                                                     187    2 
+                  JPN | 9 h | Third person
+                  On: Dreamcast, GameCube, N64, PS3, PSX, Win
+                  Developers: Angel Studios, Capcom, Factor 5, Sourcenext
+                  Publishers: Capcom, Nintendo, Virgin
+                  Genre: Adventure, Shooter
+                  Theme: Action, Horror, Survival
+                  Designer: Hideki Kamiya
+                  Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1899   Duke Nukem 3D (1996)                                                                        51    2 
-                  USA | 12 h | First person
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Genre: Shooter
-                  Theme: Action, Comedy, Science Fiction
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1888   Nights into Dreams... (1996)                                                                25    2 
-                  JPN | 4 h | Side view, Third person
-                  On: PS2, PS3, Saturn, Win, Xbox 360
-                  Developers: Sonic Team
-                  Publishers: Sega
-                  Genre: Adventure, Platform
-                  Theme: Action
-                  Designer: Naoto Ohshima, Takashi Iizuka
-                  Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1870   Sonic the Hedgehog 2 (1992)                                                                 37    3 
-                  USA | 3 h | Side view
-                  On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
-                  Developers: Sega
-                  Publishers: Sega
-                  Genre: Adventure, Platform
-                  Theme: Action, Science Fiction
-                  Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
-                  Composer: Masato Nakamura
-
-       1870   Lemmings (1991)                                                                              8    3
+    8. 1728   Lemmings (1991)                                                                              8    3 
                   GBR | 23 h | Side view
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: DMA Design
@@ -120,7 +80,47 @@
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1817   Daytona USA (1994)                                                                          21    2 
+    9. 1722   Final Fantasy Tactics (1997)                                                               219    2 
+                  JPN | 57 h | Bird view / Isometric
+                  On: PS3, PSX
+                  Developers: Square
+                  Publishers: Sony, Square
+                  Genre: RPG, Strategy, Tactical, Turn-Based Strategy
+                  Theme: Fantasy, Historical
+                  Designer: Hiroyuki Ito, Yasumi Matsuno
+                  Composer: Hitoshi Sakimoto, Masaharu Iwata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1702   Sonic the Hedgehog 2 (1992)                                                                 37    4 
+                  USA | 3 h | Side view
+                  On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
+                  Developers: Sega
+                  Publishers: Sega
+                  Genre: Adventure, Platform
+                  Theme: Action, Science Fiction
+                  Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
+                  Composer: Masato Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1699   Duke Nukem 3D (1996)                                                                        51    2 
+                  USA | 12 h | First person
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Genre: Shooter
+                  Theme: Action, Comedy, Science Fiction
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1688   Nights into Dreams... (1996)                                                                25    2 
+                  JPN | 4 h | Side view, Third person
+                  On: PS2, PS3, Saturn, Win, Xbox 360
+                  Developers: Sonic Team
+                  Publishers: Sega
+                  Genre: Adventure, Platform
+                  Theme: Action
+                  Designer: Naoto Ohshima, Takashi Iizuka
+                  Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1617   Daytona USA (1994)                                                                          21    2 
                   JPN | 2 h | First person, Third person
                   On: Arcade, PS3, Saturn, Win
                   Developers: Sega
@@ -130,7 +130,7 @@
                   Designer: Makoto Osaki, Toshihiro Nagoshi, Yukinobu Arikawa
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1804   Crash Bandicoot: Warped (1998)                                                             293    1 
+   14. 1604   Crash Bandicoot: Warped (1998)                                                             293    1 
                   USA | 8 h | Bird view / Isometric, Third person
                   On: PS3, PSP, PSX
                   Developers: Naughty Dog
@@ -140,7 +140,7 @@
                   Designer: Evan Wells, Jason Rubin
                   Composer: Josh Mancell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1779   Tekken (1994)                                                                              185    1 
+   15. 1579   Tekken (1994)                                                                              185    1 
                   JPN | 8 h | Side view
                   On: Arcade, PS3, PSP, PSX, Vita
                   Developers: Namco
@@ -150,7 +150,7 @@
                   Designer: Seiichi Ishii
                   Composer: Hiroto Sasaki, Nobuyoshi Sano, Shinji Hosoe, Takayuki Aihara, Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1717   Deus Ex (2000)                                                                             274    1 
+   16. 1517   Deus Ex (2000)                                                                             274    1 
                   USA | 29 h | First person
                   On: Mac, PS2, PS3, Win
                   Developers: Ion Storm, Westlake Interactive
@@ -160,7 +160,7 @@
                   Designer: Harvey Smith, Warren Spector
                   Composer: Alexander Brandon, Dan Gardopée, Michiel van den Bos
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1682   International Track & Field (1996)                                                         225    1 
+   17. 1482   International Track & Field (1996)                                                         225    1 
                   JPN | 1 h | Auditory
                   On: Android, PS3, PSX
                   Developers: Konami
@@ -170,7 +170,7 @@
                   Designer: Satoshi Kushibuchi
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1657   Final Fantasy IX (2000)                                                                    299    1 
+   18. 1457   Final Fantasy IX (2000)                                                                    299    1 
                   JPN | 54 h | Bird view / Isometric, Third person
                   On: PS3, PSX
                   Developers: Square
@@ -180,7 +180,7 @@
                   Designer: Hiroyuki Ito
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1627   Ridge Racer Type 4 (1998)                                                                  234    1 
+   19. 1427   Ridge Racer Type 4 (1998)                                                                  234    1 
                   JPN | 9 h | First person, Third person
                   On: PS3, PSP, PSX, Vita
                   Developers: Namco
@@ -190,7 +190,7 @@
                   Designer: Unknown
                   Composer: Asuka Sakai, Hiroshi Okubo, Kohta Takahashi, Koji Nagakawa, Tetsukazu Nakanishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1599   Sonic Adventure (1998)                                                                     236    1 
+   20. 1399   Sonic Adventure (1998)                                                                     236    1 
                   JPN | 14 h | Third person
                   On: Dreamcast, PS3, Xbox 360
                   Developers: Sonic Team
@@ -200,7 +200,7 @@
                   Designer: Takao Miyoshi, Takashi Iizuka, Yojiro Ogawa
                   Composer: Fumie Kumatani, Jun Senoue, Kenichi Tokoi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1597   Metal Gear (1987)                                                                          305    1 
+   21. 1397   Metal Gear (1987)                                                                          305    1 
                   JPN | 5 h | Bird view / Isometric
                   On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
                   Developers: Konami
@@ -210,7 +210,7 @@
                   Designer: Hideo Kojima
                   Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1587   Chrono Cross (1999)                                                                        307    1 
+   22. 1387   Chrono Cross (1999)                                                                        307    1 
                   JPN | 43 h | Third person
                   On: PS3, PSX
                   Developers: Square
@@ -220,7 +220,7 @@
                   Designer: Hiromichi Tanaka, Masato Kato
                   Composer: Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1547   Ikari Warriors (1986)                                                                      103    1 
+   23. 1347   Ikari Warriors (1986)                                                                      103    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Developers: SNK
@@ -230,7 +230,7 @@
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1458   Rampart (1990)                                                                             250    1 
+   24. 1258   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: Atari
@@ -240,7 +240,7 @@
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1455   Twisted Metal 2 (1996)                                                                     317    1 
+   25. 1255   Twisted Metal 2 (1996)                                                                     317    1 
                   USA | 10 h | Third person
                   On: PS3, PSX, Win
                   Developers: SingleTrac
@@ -250,7 +250,7 @@
                   Designer: David Jaffe
                   Composer: Chuck E. Myers, Lance Lenhart, Tom Hopkins
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1403   Joust (1982)                                                                               147    1 
+   26. 1203   Joust (1982)                                                                               147    1 
                   USA | 1 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
                   Developers: Williams
@@ -260,7 +260,7 @@
                   Designer: John Newcomer
                   Composer: Tim Murphy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1361   Jumping Flash! (1995)                                                                      155    1 
+   27. 1161   Jumping Flash! (1995)                                                                      155    1 
                   JPN | 3 h | First person
                   On: PS3, PSP, PSX, Vita
                   Developers: Exact, Ultra
@@ -270,7 +270,7 @@
                   Designer: Hiroyuki Saegusa, Koji Tada, Shuji Nomaguchi, Toshimitsu Odaira
                   Composer: Takeo Miratsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1356   Xenogears (1998)                                                                           260    1 
+   28. 1156   Xenogears (1998)                                                                           260    1 
                   JPN | 65 h | Bird view / Isometric, Third person
                   On: PS3, PSX
                   Developers: Square
@@ -280,7 +280,7 @@
                   Designer: Tetsuya Takahashi
                   Composer: Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1238   Mortal Kombat II (1993)                                                                    334    1 
+   29. 1038   Mortal Kombat II (1993)                                                                    334    1 
                   USA | 8 h | Side view
                   On: Amiga, Arcade, DOS, GB, Mega Drive, PS3, PSX, SMS, SNES, Saturn
                   Developers: Midway

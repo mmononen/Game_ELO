@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2326   Doom (1993)                                                                                 19    5 
+    1. 2142   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -10,7 +10,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2281   The Legend of Zelda: A Link to the Past (1991)                                             110    6 
+    2. 2100   The Legend of Zelda: A Link to the Past (1991)                                             110    6 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -20,7 +20,7 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2269   The Legend of Zelda (1986)                                                                 108    4 
+    3. 2069   The Legend of Zelda (1986)                                                                 108    4 
                   JPN | 9 h | Bird view / Isometric
                   On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -30,7 +30,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2054   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
+    4. 1854   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
                   USA | 13 h | Third person
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Developers: Neversoft
@@ -40,7 +40,7 @@
                   Designer: Aaron Cammarata, Jason Uyeda
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1952   Doom II: Hell on Earth (1994)                                                              120    3 
+    5. 1752   Doom II: Hell on Earth (1994)                                                              120    3 
                   USA | 10 h | First person
                   On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
                   Developers: id Software
@@ -50,7 +50,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
+    6. 1728   Zelda II: The Adventure of Link (1987)                                                     109    2 
                   JPN | 12 h | Side view
                   On: 3DS, GBA, GameCube, NES, Switch, Wii U
                   Developers: Nintendo
@@ -60,7 +60,7 @@
                   Designer: Kazunobu Shimizu, Tadashi Sugiyama
                   Composer: Akito Nakatsuka
 
-       1928   Sega Rally Championship (1994)                                                              93    3
+       1728   Sega Rally Championship (1994)                                                              93    3
                   JPN | 5 h | First person, Third person
                   On: Arcade, GBA, N-Gage, PS2, Saturn, Win
                   Developers: Sega
@@ -70,27 +70,7 @@
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1653   Excitebike (1984)                                                                          300    1 
-                  JPN | 1 h | Side view
-                  On: Arcade, GBA, NES, PC-8801, Sharp X1, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Hudson Soft, Nintendo
-                  Genre: Racing, Sport
-                  Theme: Action, Motocross, Motorsports
-                  Designer: Shigeru Miyamoto
-                  Composer: Akito Nakatsuka, Soyo Oka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1627   Castlevania (1986)                                                                         302    1 
-                  JPN | 6 h | Side view
-                  On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
-                  Developers: Konami
-                  Publishers: Konami, Nintendo
-                  Genre: Adventure, Platform
-                  Theme: Action, Horror
-                  Designer: Akihiko Nagata
-                  Composer: Kinuyo Yamashita, Satoe Terashima
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1578   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+    8. 1477   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -100,7 +80,27 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1510   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
+    9. 1453   Excitebike (1984)                                                                          300    1 
+                  JPN | 1 h | Side view
+                  On: Arcade, GBA, NES, PC-8801, Sharp X1, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Hudson Soft, Nintendo
+                  Genre: Racing, Sport
+                  Theme: Action, Motocross, Motorsports
+                  Designer: Shigeru Miyamoto
+                  Composer: Akito Nakatsuka, Soyo Oka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1427   Castlevania (1986)                                                                         302    1 
+                  JPN | 6 h | Side view
+                  On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
+                  Developers: Konami
+                  Publishers: Konami, Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action, Horror
+                  Designer: Akihiko Nagata
+                  Composer: Kinuyo Yamashita, Satoe Terashima
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
                   GBR | 7 h | Side view
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Rare
@@ -110,7 +110,7 @@
                   Designer: Andrew Collard, Gregg Mayles, Tim Stamper
                   Composer: David Wise
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1469   Shining Force (1992)                                                                       130    1 
+   12. 1269   Shining Force (1992)                                                                       130    1 
                   JPN | 22 h | Bird view / Isometric
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Developers: Camelot Software Planning, Climax Entertainment
@@ -120,7 +120,7 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
+   13. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
                   JPN | 2 h | Bird view / Isometric, Side view, Third person
                   On: 3DS, GBA, SNES, Wii, Wii U
                   Developers: Konami
@@ -130,7 +130,7 @@
                   Designer: Nobuya Nakazato
                   Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1439   Double Dragon (1987)                                                                       318    1 
+   14. 1239   Double Dragon (1987)                                                                       318    1 
                   JPN | 2 h | Side view, Third person
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Developers: Arc System Works, Technos
@@ -140,7 +140,7 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1433   Wing Commander (1990)                                                                      280    1 
+   15. 1233   Wing Commander (1990)                                                                      280    1 
                   USA | 11 h | First person
                   On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
                   Developers: Origin
@@ -150,7 +150,7 @@
                   Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
                   Composer: David Govett, George Sanger, Mark Knight
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1432   Dr. Mario (1990)                                                                           319    1 
+   16. 1232   Dr. Mario (1990)                                                                           319    1 
                   JPN | 4 h | Side view
                   On: 3DS, GB, GBA, NES, Switch, Wii U
                   Developers: Nintendo
@@ -160,7 +160,7 @@
                   Designer: Takahiro Harada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1423   ChuChu Rocket! (1999)                                                                      254    1 
+   17. 1223   ChuChu Rocket! (1999)                                                                      254    1 
                   JPN | 7 h | Bird view / Isometric
                   On: Android, Dreamcast, GBA, Wii U, iOS
                   Developers: Sonic Team
@@ -170,7 +170,7 @@
                   Designer: Takafumi Kaya, Yuji Naka
                   Composer: Tomoya Ohtani
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1376   Kid Icarus (1986)                                                                          324    1 
+   18. 1176   Kid Icarus (1986)                                                                          324    1 
                   JPN | 4 h | Side view
                   On: Arcade, GBA, NES, Wii, Wii U
                   Developers: Nintendo
@@ -180,7 +180,7 @@
                   Designer: Satoru Okada, Toru Osawa, Yoshio Sakamoto
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1363   The Legend of the Mystical Ninja (1991)                                                    259    1 
+   19. 1163   The Legend of the Mystical Ninja (1991)                                                    259    1 
                   JPN | 5 h | Side view
                   On: 3DS, GBA, SNES, Wii, Wii U
                   Developers: Konami
@@ -190,7 +190,7 @@
                   Designer: Unknown
                   Composer: Harumi Ueko, Kazuhiko Uehara
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1324   Xevious (1982)                                                                             161    1 
+   20. 1124   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Developers: Namco
@@ -200,7 +200,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1264   Desert Strike: Return to the Gulf (1992)                                                   166    1 
+   21. 1064   Desert Strike: Return to the Gulf (1992)                                                   166    1 
                   USA | 6 h | Bird view / Isometric
                   On: Amiga, DOS, GB, GBA, Game Gear, Lynx, Mega Drive, SMS, SNES
                   Developers: Electronic Arts

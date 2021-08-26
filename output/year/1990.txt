@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2274   Super Mario World (1990)                                                                    33    5 
+    1. 2093   Super Mario World (1990)                                                                    33    5 
                   JPN | 8 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1814   Ultima VI: The False Prophet (1990)                                                         81    2 
+    2. 1614   Ultima VI: The False Prophet (1990)                                                         81    2 
                   USA | 40 h | Bird view / Isometric
                   On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
                   Developers: Origin
@@ -20,7 +20,7 @@
                   Designer: Richard Garriott, Warren Spector
                   Composer: Herman Miller, Todd Poster
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1811   Warlords (1990)                                                                            292    1 
+    3. 1611   Warlords (1990)                                                                            292    1 
                   AUS | 10 h | Bird view / Isometric
                   On: Amiga, DOS, Mac
                   Developers: Strategic Studies Group
@@ -30,7 +30,7 @@
                   Designer: Roger Keating, Steve Fawkner
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1704   The Secret of Monkey Island (1990)                                                         235    2 
+    4. 1565   The Secret of Monkey Island (1990)                                                         235    2 
                   USA | 7 h | Side view
                   On: Amiga, Atari ST, DOS, FM Towns, Mac, Sega CD
                   Developers: LucasArts
@@ -40,27 +40,7 @@
                   Designer: Dave Grossman, Ron Gilbert, Tim Schafer
                   Composer: Michael Z. Land, Patrick Mundy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1652   John Madden Football (1990)                                                                 40    1 
-                  USA | 10 h | Bird view / Isometric
-                  On: Mega Drive
-                  Developers: Park Place Productions
-                  Publishers: Electronic Arts
-                  Genre: Sport
-                  Theme: American Football
-                  Designer: Jim Simmons, Michael Knox, Richard Hilleman, Scott Orr, Troy Lyndon
-                  Composer: Rob Hubbard
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1610   Spaceward Ho! (1990)                                                                        72    1 
-                  USA | 10 h | Bird view / Isometric
-                  On: Amiga, DOS, Mac, Win
-                  Developers: Delta Tao Software
-                  Publishers: New World Computing
-                  Genre: Simulator, Strategy, Tactical
-                  Theme: 4X, Business
-                  Designer: Joe Williams, Peter Commons
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1578   Speedball 2: Brutal Deluxe (1990)                                                          239    1 
+    5. 1477   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Developers: The Bitmap Brothers
@@ -70,7 +50,27 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1572   Dragon Quest IV: Chapters of the Chosen (1990)                                              90    1 
+    6. 1452   John Madden Football (1990)                                                                 40    1 
+                  USA | 10 h | Bird view / Isometric
+                  On: Mega Drive
+                  Developers: Park Place Productions
+                  Publishers: Electronic Arts
+                  Genre: Sport
+                  Theme: American Football
+                  Designer: Jim Simmons, Michael Knox, Richard Hilleman, Scott Orr, Troy Lyndon
+                  Composer: Rob Hubbard
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1410   Spaceward Ho! (1990)                                                                        72    1 
+                  USA | 10 h | Bird view / Isometric
+                  On: Amiga, DOS, Mac, Win
+                  Developers: Delta Tao Software
+                  Publishers: New World Computing
+                  Genre: Simulator, Strategy, Tactical
+                  Theme: 4X, Business
+                  Designer: Joe Williams, Peter Commons
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1372   Dragon Quest IV: Chapters of the Chosen (1990)                                              90    1 
                   JPN | 33 h | Bird view / Isometric
                   On: NES
                   Developers: Chunsoft
@@ -80,7 +80,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1549   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1 
+    9. 1349   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1 
                   USA | 47 h | First person
                   On: Amiga, DOS, FM Towns, Mac, SNES
                   Developers: Sir-Tech
@@ -90,7 +90,7 @@
                   Designer: David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1501   Phantasy Star III: Generations of Doom (1990)                                              124    2 
+   10. 1301   Phantasy Star III: Generations of Doom (1990)                                              124    2 
                   JPN | 20 h | Bird view / Isometric, Third person
                   On: Mega Drive, Wii, Win
                   Developers: Sega
@@ -100,7 +100,7 @@
                   Designer: Hiroto Saeki
                   Composer: Izuho Numata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1458   Rampart (1990)                                                                             250    1 
+   11. 1258   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: Atari
@@ -110,7 +110,7 @@
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1433   Wing Commander (1990)                                                                      280    1 
+   12. 1233   Wing Commander (1990)                                                                      280    1 
                   USA | 11 h | First person
                   On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
                   Developers: Origin
@@ -120,7 +120,7 @@
                   Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
                   Composer: David Govett, George Sanger, Mark Knight
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1432   Dr. Mario (1990)                                                                           319    1 
+   13. 1232   Dr. Mario (1990)                                                                           319    1 
                   JPN | 4 h | Side view
                   On: 3DS, GB, GBA, NES, Switch, Wii U
                   Developers: Nintendo
@@ -130,7 +130,7 @@
                   Designer: Takahiro Harada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1426   King's Quest V: Absence Makes the Heart Go Yonder! (1990)                                  140    1 
+   14. 1226   King's Quest V: Absence Makes the Heart Go Yonder! (1990)                                  140    1 
                   USA | 7 h | Side view
                   On: Amiga, DOS, FM Towns, Mac, NES, PC-98, Win
                   Developers: Sierra
@@ -140,7 +140,7 @@
                   Designer: Roberta Williams
                   Composer: Ken Allen, Mark Seibert
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1377   Super Buster Bros. (1990)                                                                  257    1 
+   15. 1177   Super Buster Bros. (1990)                                                                  257    1 
                   JPN | 2 h | Side view
                   On: Arcade, SNES
                   Developers: Capcom, Mitchell Corporation

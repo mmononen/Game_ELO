@@ -5180,6 +5180,96 @@
         "designer": ["Peter Liepa", "Chris Gray"],
         "composer": ["Ian Waugh", "Peter Liepa"],
         "hltb": 10
+    },
+    "Dungeon Master (1987)":
+    {
+        "id": 346,
+        "year": 1987,
+        "country": ["USA"],
+        "platforms": ["Amiga", "SNES", "DOS", "FM Towns", "Apple IIGS", "Sharp X68000", "Atari ST"],
+        "developers": ["FTL Games"],
+        "publishers": ["Psygnosis", "JVC", "FTL Games", "Victor"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Doug Bell"],
+        "composer": ["Wayne Holder"],
+        "hltb": 18
+    },
+    "Ghosts 'n Goblins (1985)":
+    {
+        "id": 347,
+        "year": 1985,
+        "country": ["JPN"],
+        "platforms": ["C16", "3DS", "GBC", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "DOS", "C64", "Atari ST", "Arcade", "Switch"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom", "Elite Systems"],
+        "genre": ["Adventure", "Arcade", "Platform", "Shooter"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Tokuro Fujiwara"],
+        "composer": ["Ayako Mori"],
+        "hltb": 4
+    },
+    "Skool Daze (1985)":
+    {
+        "id": 348,
+        "year": 1985,
+        "country": ["GBR"],
+        "platforms": ["ZX Spectrum", "C64"],
+        "developers": ["Microsphere"],
+        "publishers": ["Microsphere"],
+        "genre": ["Adventure", "Platform", "Puzzle"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["David Reidy"],
+        "composer": ["Unknown"],
+        "hltb": 10
+    },
+    "Chaos: The Battle of Wizards (1985)":
+    {
+        "id": 349,
+        "year": 1985,
+        "country": ["GBR"],
+        "platforms": ["ZX Spectrum"],
+        "developers": ["Julian Gollop"],
+        "publishers": ["Games Workshop"],
+        "genre": ["Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Julian Gollop"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "Impossible Mission (1984)":
+    {
+        "id": 350,
+        "year": 1984,
+        "country": ["USA"],
+        "platforms": ["PC-8801", "Amstrad CPC", "ZX Spectrum", "PSP", "C64", "Wii", "SMS", "Sharp X1", "Atari 7800", "BBC", "Apple II", "Acorn Electron", "Switch"],
+        "developers": ["Epyx"],
+        "publishers": ["Comptiq"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Science Fiction", "Stealth"],
+        "perspective": ["Side view"],
+        "designer": ["Dennis Caswell"],
+        "composer": ["Unknown"],
+        "hltb": 3
+    },
+    "Sabre Wulf (1984)":
+    {
+        "id": 351,
+        "year": 1984,
+        "country": ["GBR"],
+        "platforms": ["Amstrad CPC", "ZX Spectrum", "C64", "BBC"],
+        "developers": ["Ultimate Play the Game"],
+        "publishers": ["Ultimate Play the Game", "Firebird"],
+        "genre": ["Adventure", "Arcade", "Puzzle"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Stamper", "Tim Stamper"],
+        "composer": ["Unknown"],
+        "hltb": 1
     }
 
 }

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2224   Super Mario Kart (1992)                                                                     53    5 
+    1. 2047   Super Mario Kart (1992)                                                                     53    5 
                   JPN | 10 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2030   Ultima Underworld: The Stygian Abyss (1992)                                                 82    3 
+    2. 1830   Ultima Underworld: The Stygian Abyss (1992)                                                 82    3 
                   USA | 31 h | First person
                   On: DOS
                   Developers: Looking Glass
@@ -20,37 +20,7 @@
                   Designer: Paul Neurath
                   Composer: Dave Govett, George Sanger
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1900   Final Fantasy V (1992)                                                                      35    2 
-                  JPN | 37 h | Bird view / Isometric, Side view
-                  On: PSX, SNES, Wii
-                  Developers: Square
-                  Publishers: Square
-                  Genre: Adventure, RPG
-                  Theme: Action, Fantasy, Open world
-                  Designer: Hironobu Sakaguchi, Hiroyuki Ito
-                  Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1874   NHLPA Hockey 93 (1992)                                                                     291    1 
-                  USA | 13 h | Bird view / Isometric
-                  On: Mega Drive, SNES
-                  Developers: Park Place Productions
-                  Publishers: Electronic Arts
-                  Genre: Sport
-                  Theme: Ice Hockey
-                  Designer: Michael Brook, Richard Hilleman, Scott Orr
-                  Composer: Jim Simmons
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1870   Sonic the Hedgehog 2 (1992)                                                                 37    3 
-                  USA | 3 h | Side view
-                  On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
-                  Developers: Sega
-                  Publishers: Sega
-                  Genre: Adventure, Platform
-                  Theme: Action, Science Fiction
-                  Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
-                  Composer: Masato Nakamura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1844   Sensible Soccer: European Champions (1992)                                                 242    2 
+    3. 1703   Sensible Soccer: European Champions (1992)                                                 242    2 
                   GBR | 49 h | Bird view / Isometric
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Developers: Sensible Software
@@ -60,7 +30,37 @@
                   Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1814   Ultima VII: The Black Gate (1992)                                                           83    2 
+    4. 1702   Sonic the Hedgehog 2 (1992)                                                                 37    4 
+                  USA | 3 h | Side view
+                  On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
+                  Developers: Sega
+                  Publishers: Sega
+                  Genre: Adventure, Platform
+                  Theme: Action, Science Fiction
+                  Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
+                  Composer: Masato Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1700   Final Fantasy V (1992)                                                                      35    2 
+                  JPN | 37 h | Bird view / Isometric, Side view
+                  On: PSX, SNES, Wii
+                  Developers: Square
+                  Publishers: Square
+                  Genre: Adventure, RPG
+                  Theme: Action, Fantasy, Open world
+                  Designer: Hironobu Sakaguchi, Hiroyuki Ito
+                  Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1674   NHLPA Hockey 93 (1992)                                                                     291    1 
+                  USA | 13 h | Bird view / Isometric
+                  On: Mega Drive, SNES
+                  Developers: Park Place Productions
+                  Publishers: Electronic Arts
+                  Genre: Sport
+                  Theme: Ice Hockey
+                  Designer: Michael Brook, Richard Hilleman, Scott Orr
+                  Composer: Jim Simmons
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1614   Ultima VII: The Black Gate (1992)                                                           83    2 
                   USA | 60 h | Bird view / Isometric, Third person
                   On: DOS
                   Developers: Origin
@@ -70,7 +70,7 @@
                   Designer: Richard Garriott
                   Composer: Dana Karl Glover, Herman Miller, Kirk Winterrowd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1708   Virtua Racing (1992)                                                                        11    1 
+    8. 1508   Virtua Racing (1992)                                                                        11    1 
                   JPN | 4 h | Third person
                   On: Arcade, Mega Drive
                   Developers: Sega
@@ -80,7 +80,7 @@
                   Designer: Yu Suzuki
                   Composer: Naofumi Hataya, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1652   John Madden Football '93 (1992)                                                             42    1 
+    9. 1452   John Madden Football '93 (1992)                                                             42    1 
                   USA | 10 h | Bird view / Isometric, Third person
                   On: Mega Drive, SNES
                   Developers: Blue Sky Productions, Electronic Arts
@@ -90,7 +90,7 @@
                   Designer: Scott Orr
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1605   Star Control II: The Ur-Quan Masters (1992)                                                209    2 
+   10. 1405   Star Control II: The Ur-Quan Masters (1992)                                                209    2 
                   USA | 30 h | Bird view / Isometric
                   On: 3DO, DOS, Win
                   Developers: Toys for Bob
@@ -100,7 +100,7 @@
                   Designer: Fred Ford , Paul Reiche III
                   Composer: Aaron J. Grier, Dan Nicholson, Eric Berge, Erol Otus, Kevin Balivec, Marc Brown, Riku Nuottajärvi, Tommy V. Dunbar
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1572   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1 
+   11. 1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1 
                   JPN | 38 h | Bird view / Isometric
                   On: Android, DS, PS2, SNES, iOS
                   Developers: Chunsoft
@@ -110,7 +110,7 @@
                   Designer: Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1549   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
+   12. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
                   USA | 99 h | First person
                   On: DOS, Linux, Mac, Win
                   Developers: Sir-Tech
@@ -120,7 +120,7 @@
                   Designer: David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1469   Shining Force (1992)                                                                       130    1 
+   13. 1269   Shining Force (1992)                                                                       130    1 
                   JPN | 22 h | Bird view / Isometric
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Developers: Camelot Software Planning, Climax Entertainment
@@ -130,7 +130,7 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
+   14. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
                   JPN | 2 h | Bird view / Isometric, Side view, Third person
                   On: 3DS, GBA, SNES, Wii, Wii U
                   Developers: Konami
@@ -140,7 +140,7 @@
                   Designer: Nobuya Nakazato
                   Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1426   King's Quest VI: Heir Today, Gone Tomorrow (1992)                                          141    1 
+   15. 1226   King's Quest VI: Heir Today, Gone Tomorrow (1992)                                          141    1 
                   USA | 9 h | Third person
                   On: Amiga, DOS, Mac, Win
                   Developers: Revolution Software, Sierra
@@ -150,7 +150,7 @@
                   Designer: Jane Jensen, Roberta Williams, William D. Skirvin
                   Composer: Chris Braymen
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1264   Desert Strike: Return to the Gulf (1992)                                                   166    1 
+   16. 1064   Desert Strike: Return to the Gulf (1992)                                                   166    1 
                   USA | 6 h | Bird view / Isometric
                   On: Amiga, DOS, GB, GBA, Game Gear, Lynx, Mega Drive, SMS, SNES
                   Developers: Electronic Arts

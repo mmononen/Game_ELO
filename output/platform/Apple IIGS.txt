@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1828   The Bard's Tale (1985)                                                                     104    2 
+    1. 1628   The Bard's Tale (1985)                                                                     104    2 
                   USA | 28 h | First person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
                   Developers: Interplay
@@ -10,7 +10,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1814   Ultima I: The First Age of Darkness (1981)                                                  75    2 
+    2. 1614   Ultima I: The First Age of Darkness (1981)                                                  75    2 
                   USA | 8 h | Bird view / Isometric, First person
                   On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
                   Developers: Origin
@@ -20,7 +20,7 @@
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1762   Marble Madness (1984)                                                                       15    2 
+    3. 1562   Marble Madness (1984)                                                                       15    2 
                   USA | 2 h | Bird view / Isometric
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Developers: Atari
@@ -30,7 +30,7 @@
                   Designer: Mark Cerny
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1636   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
+    4. 1436   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
                   USA | 14 h | Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac
                   Developers: Infocom
@@ -40,7 +40,7 @@
                   Designer: Brian Moriarty
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1572   Arkanoid (1986)                                                                            308    1 
+    5. 1372   Arkanoid (1986)                                                                            308    1 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Developers: Taito
@@ -50,7 +50,17 @@
                   Designer: Akira Fujita, Hiroshi Tsujino
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1540   The Bard's Tale II: The Destiny Knight (1986)                                              105    1 
+    6. 1356   Dungeon Master (1987)                                                                      346    1 
+                  USA | 18 h | First person
+                  On: Amiga, Apple IIGS, Atari ST, DOS, FM Towns, SNES, Sharp X68000
+                  Developers: FTL Games
+                  Publishers: FTL Games, JVC, Psygnosis, Victor
+                  Genre: RPG
+                  Theme: Action, Fantasy
+                  Designer: Doug Bell
+                  Composer: Wayne Holder
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1340   The Bard's Tale II: The Destiny Knight (1986)                                              105    1 
                   USA | 22 h | First person
                   On: Amiga, Apple II, Apple IIGS, C64, DOS, NES
                   Developers: Interplay
@@ -60,7 +70,7 @@
                   Designer: Michael Cranford
                   Composer: David Warhol
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1515   Gauntlet (1985)                                                                            310    1 
+    8. 1315   Gauntlet (1985)                                                                            310    1 
                   USA | 10 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
                   Developers: Atari
@@ -70,7 +80,7 @@
                   Designer: Ed Logg
                   Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1426   King's Quest: Quest for the Crown (1984)                                                   136    1 
+    9. 1226   King's Quest: Quest for the Crown (1984)                                                   136    1 
                   USA | 3 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, SMS, Win
                   Developers: Sierra
@@ -80,7 +90,7 @@
                   Designer: Roberta Williams
                   Composer: Unknown
 
-       1426   King's Quest IV: The Perils of Rosella (1988)                                              139    1
+       1226   King's Quest IV: The Perils of Rosella (1988)                                              139    1
                   USA | 4 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Win
                   Developers: Sierra
@@ -90,7 +100,7 @@
                   Designer: Roberta Williams
                   Composer: William Goldstein
 
-       1426   King's Quest III: To Heir Is Human (1986)                                                  138    1
+       1226   King's Quest III: To Heir Is Human (1986)                                                  138    1
                   USA | 5 h | Bird view / Isometric, Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Developers: Sierra
@@ -100,7 +110,7 @@
                   Designer: Roberta Williams
                   Composer: Margaret Lowe
 
-       1426   King's Quest II: Romancing the Throne (1985)                                               137    1
+       1226   King's Quest II: Romancing the Throne (1985)                                               137    1
                   USA | 4 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, Win
                   Developers: Sierra
@@ -110,7 +120,7 @@
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
+   13. 1167   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
                   USA | 3 h | Side view, Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Developers: Sierra
@@ -120,7 +130,7 @@
                   Designer: Al Lowe, Mark Crowe
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1330   Winter Games (1985)                                                                        159    1 
+   14. 1130   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Developers: Action Graphics
@@ -130,7 +140,7 @@
                   Designer: Chris Oberth, Elaine Hodgson, Fumiko Murakami, Richard A. Ditton
                   Composer: David Thiel, Kenichi Tomizawa
 
-       1330   California Games (1987)                                                                    160    1
+       1130   California Games (1987)                                                                    160    1
                   USA | 2 h | Side view
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari ST, C64, DOS, Lynx, MSX, Mega Drive, Mobile, NES, SMS, Wii, Win, ZX Spectrum
                   Developers: Epyx

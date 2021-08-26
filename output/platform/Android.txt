@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2181   Sonic the Hedgehog (1991)                                                                   20    5 
+    1. 2008   Sonic the Hedgehog (1991)                                                                   20    5 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -10,7 +10,7 @@
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2114   Castlevania: Symphony of the Night (1997)                                                  224    3 
+    2. 1914   Castlevania: Symphony of the Night (1997)                                                  224    3 
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Developers: Konami
@@ -20,7 +20,7 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1936   Chrono Trigger (1995)                                                                      290    1 
+    3. 1736   Chrono Trigger (1995)                                                                      290    1 
                   JPN | 27 h | Bird view / Isometric
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Developers: Square
@@ -30,7 +30,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1871   Dragon Quest (1986)                                                                         87    2 
+    4. 1671   Dragon Quest (1986)                                                                         87    2 
                   JPN | 11 h | Bird view / Isometric, First person
                   On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
                   Developers: Armor Project, Chunsoft, UIEvolution
@@ -40,7 +40,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1782   SoulCalibur (1998)                                                                         222    2 
+    5. 1582   SoulCalibur (1998)                                                                         222    2 
                   JPN | 9 h | Third person
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Developers: Project Soul
@@ -50,17 +50,7 @@
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1735   Secret of Mana (1993)                                                                      232    2 
-                  JPN | 29 h | Bird view / Isometric
-                  On: Android, SNES, Wii, Wii U, iOS
-                  Developers: Square
-                  Publishers: Square
-                  Genre: RPG
-                  Theme: Action, Fantasy
-                  Designer: Hiromichi Tanaka, Koichi Ishii
-                  Composer: Hiroki Kikuta
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1712   R-Type (1987)                                                                              172    3 
+    6. 1574   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Developers: Irem, Konami
@@ -70,7 +60,7 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1702   Grand Theft Auto: Vice City (2002)                                                         339    1 
+    7. 1563   Grand Theft Auto: Vice City (2002)                                                         339    1 
                   GBR | 28 h | Third person
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Developers: Rockstar
@@ -80,7 +70,17 @@
                   Designer: Leslie Benzies
                   Composer: Lex Horton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1682   International Track & Field (1996)                                                         225    1 
+    8. 1535   Secret of Mana (1993)                                                                      232    2 
+                  JPN | 29 h | Bird view / Isometric
+                  On: Android, SNES, Wii, Wii U, iOS
+                  Developers: Square
+                  Publishers: Square
+                  Genre: RPG
+                  Theme: Action, Fantasy
+                  Designer: Hiromichi Tanaka, Koichi Ishii
+                  Composer: Hiroki Kikuta
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1482   International Track & Field (1996)                                                         225    1 
                   JPN | 1 h | Auditory
                   On: Android, PS3, PSX
                   Developers: Konami
@@ -90,7 +90,7 @@
                   Designer: Satoshi Kushibuchi
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1669   Pitfall! (1982)                                                                            298    1 
+   10. 1469   Pitfall! (1982)                                                                            298    1 
                   USA | 3 h | Side view
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Developers: Activision
@@ -100,7 +100,7 @@
                   Designer: David Crane
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1572   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
+   11. 1372   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
                   JPN | 49 h | Bird view / Isometric, First person
                   On: Android, DS, SNES, iOS
                   Developers: Heartbeat
@@ -110,7 +110,7 @@
                   Designer: Yuji Horii
                   Composer: Koichi Sugiyama
 
-       1572   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1
+       1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1
                   JPN | 38 h | Bird view / Isometric
                   On: Android, DS, PS2, SNES, iOS
                   Developers: Chunsoft
@@ -120,7 +120,7 @@
                   Designer: Yuji Horii
                   Composer: Koichi Sugiyama
 
-       1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1
+       1372   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1
                   JPN | 33 h | Bird view / Isometric, First person
                   On: 3DS, Android, GBC, Mobile, NES, PS4, SNES, Switch, iOS
                   Developers: Chunsoft, Heartbeat, Tose
@@ -130,7 +130,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 
-       1572   Dragon Quest II: Luminaries of the Legendary Line (1987)                                    88    1
+       1372   Dragon Quest II: Luminaries of the Legendary Line (1987)                                    88    1
                   JPN | 18 h | Bird view / Isometric, First person
                   On: 3DS, Android, MSX, MSX2, Mobile, NES, PS4, Switch, iOS
                   Developers: Chunsoft
@@ -139,8 +139,8 @@
                   Theme: Fantasy
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1544   Boulder Dash (1984)                                                                        345    1 
+
+       1372   Boulder Dash (1984)                                                                        345    1
                   USA | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Android, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, FM-7, GB, MSX, NES, PC-8801, Wii, Win, ZX Spectrum, iOS
                   Developers: First Star Software, TapStar Interactive
@@ -150,7 +150,7 @@
                   Designer: Chris Gray, Peter Liepa
                   Composer: Ian Waugh, Peter Liepa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1423   ChuChu Rocket! (1999)                                                                      254    1 
+   16. 1223   ChuChu Rocket! (1999)                                                                      254    1 
                   JPN | 7 h | Bird view / Isometric
                   On: Android, Dreamcast, GBA, Wii U, iOS
                   Developers: Sonic Team
@@ -160,7 +160,7 @@
                   Designer: Takafumi Kaya, Yuji Naka
                   Composer: Tomoya Ohtani
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1289   Cool Boarders 2 (1997)                                                                     330    1 
+   17. 1089   Cool Boarders 2 (1997)                                                                     330    1 
                   JPN | 5 h | Third person
                   On: Android, PSX
                   Developers: UEP Systems

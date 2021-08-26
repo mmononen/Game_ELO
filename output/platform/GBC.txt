@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2363   Tetris (1984)                                                                                2    6 
+    1. 2176   Tetris (1984)                                                                                2    6 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -10,7 +10,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2054   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
+    2. 1854   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
                   USA | 13 h | Third person
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Developers: Neversoft
@@ -20,7 +20,7 @@
                   Designer: Aaron Cammarata, Jason Uyeda
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1846   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+    3. 1646   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB, GBC
                   Developers: Game Freak
@@ -30,7 +30,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1804   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+    4. 1604   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
                   USA | 41 h | First person
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Developers: Sir-Tech
@@ -40,7 +40,7 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1795   Madden NFL 2001 (2000)                                                                     294    1 
+    5. 1595   Madden NFL 2001 (2000)                                                                     294    1 
                   USA | 20 h | Third person
                   On: GBC, N64, PS2, PSX, Win
                   Developers: 3d6 Games, Electronic Arts
@@ -50,7 +50,7 @@
                   Designer: Dale Jackson, Graeme Bayless
                   Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1762   Marble Madness (1984)                                                                       15    2 
+    6. 1562   Marble Madness (1984)                                                                       15    2 
                   USA | 2 h | Bird view / Isometric
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Developers: Atari
@@ -60,7 +60,7 @@
                   Designer: Mark Cerny
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1709   Tony Hawk's Pro Skater (1999)                                                              296    1 
+    7. 1509   Tony Hawk's Pro Skater (1999)                                                              296    1 
                   USA | 9 h | Third person
                   On: Dreamcast, GBC, N-Gage, N64, PSX
                   Developers: Neversoft
@@ -70,7 +70,7 @@
                   Designer: Aaron Cammarata, Chris Rausch
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1675   Colin McRae Rally (1998)                                                                   227    1 
+    8. 1475   Colin McRae Rally (1998)                                                                   227    1 
                   GBR | 11 h | First person, Third person
                   On: GBC, PSX, Win
                   Developers: Codemasters
@@ -80,37 +80,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
-                  JPN | 33 h | Bird view / Isometric, First person
-                  On: 3DS, Android, GBC, Mobile, NES, PS4, SNES, Switch, iOS
-                  Developers: Chunsoft, Heartbeat, Tose
-                  Publishers: Enix, Square
-                  Genre: RPG
-                  Theme: Fantasy, Historical, Sandbox
-                  Designer: Koichi Nakamura, Yuji Horii
-                  Composer: Koichi Sugiyama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1549   Wizardry III: Legacy of Llylgamyn (1983)                                                    98    1 
-                  USA | 34 h | First person
-                  On: Apple II, C64, DOS, FM-7, GBC, NES, PC-8801, PC-98, Sharp X1
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Sir-Tech
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Andrew C. Greenberg, Joshua Mittleman, Robert Del Favero Jr., Robert Woodhead, Samuel Pottle
-                  Composer: Unknown
-
-       1549   Wizardry II: The Knight of Diamonds (1982)                                                  97    1
-                  USA | 28 h | First person
-                  On: Apple II, C64, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Sir-Tech
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Andrew C. Greenberg, Robert Woodhead
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1547   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
+    9. 1376   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
                   JPN | 7 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBC, NES, SMS, TurboGrafx-16, Win, ZX Spectrum
                   Developers: Taito
@@ -120,7 +90,47 @@
                   Designer: Fukio Mitsuji
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1458   Rampart (1990)                                                                             250    1 
+   10. 1372   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
+                  JPN | 33 h | Bird view / Isometric, First person
+                  On: 3DS, Android, GBC, Mobile, NES, PS4, SNES, Switch, iOS
+                  Developers: Chunsoft, Heartbeat, Tose
+                  Publishers: Enix, Square
+                  Genre: RPG
+                  Theme: Fantasy, Historical, Sandbox
+                  Designer: Koichi Nakamura, Yuji Horii
+                  Composer: Koichi Sugiyama
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1349   Wizardry III: Legacy of Llylgamyn (1983)                                                    98    1 
+                  USA | 34 h | First person
+                  On: Apple II, C64, DOS, FM-7, GBC, NES, PC-8801, PC-98, Sharp X1
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Sir-Tech
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Andrew C. Greenberg, Joshua Mittleman, Robert Del Favero Jr., Robert Woodhead, Samuel Pottle
+                  Composer: Unknown
+
+       1349   Wizardry II: The Knight of Diamonds (1982)                                                  97    1
+                  USA | 28 h | First person
+                  On: Apple II, C64, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Sir-Tech
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Andrew C. Greenberg, Robert Woodhead
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1328   Ghosts 'n Goblins (1985)                                                                   347    1 
+                  JPN | 4 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
+                  Developers: Capcom
+                  Publishers: Capcom, Elite Systems
+                  Genre: Adventure, Arcade, Platform, Shooter
+                  Theme: Action, Fantasy
+                  Designer: Tokuro Fujiwara
+                  Composer: Ayako Mori
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1258   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: Atari
@@ -130,7 +140,7 @@
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1398   Centipede (1981)                                                                           148    1 
+   15. 1198   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Developers: Atari
@@ -140,7 +150,7 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1332   Road Rash (1991)                                                                           328    1 
+   16. 1132   Road Rash (1991)                                                                           328    1 
                   USA | 7 h | Third person
                   On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
                   Developers: Peakstar Software
