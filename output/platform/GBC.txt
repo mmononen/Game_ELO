@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2307   Tetris (1984)                                                                                2    5 
+    1. 2317   Tetris (1984)                                                                                2    5 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -10,7 +10,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2017   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
+    2. 2054   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
                   USA | 13 h | Third person
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Developers: Neversoft
@@ -40,17 +40,7 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1762   Marble Madness (1984)                                                                       15    2 
-                  USA | 2 h | Bird view / Isometric
-                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
-                  Developers: Atari
-                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
-                  Genre: Arcade, Platform, Puzzle, Racing, Strategy
-                  Theme: Action
-                  Designer: Mark Cerny
-                  Composer: Brad Fuller, Hal Canon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1709   Madden NFL 2001 (2000)                                                                     294    1 
+    5. 1795   Madden NFL 2001 (2000)                                                                     294    1 
                   USA | 20 h | Third person
                   On: GBC, N64, PS2, PSX, Win
                   Developers: 3d6 Games, Electronic Arts
@@ -60,17 +50,17 @@
                   Designer: Dale Jackson, Graeme Bayless
                   Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1675   Colin McRae Rally (1998)                                                                   227    1 
-                  GBR | 11 h | First person, Third person
-                  On: GBC, PSX, Win
-                  Developers: Codemasters
-                  Publishers: Codemasters, THQ
-                  Genre: Racing, Sport
-                  Theme: Motorsports, Non-fiction, Rally
-                  Designer: Unknown
-                  Composer: Unknown
+    6. 1762   Marble Madness (1984)                                                                       15    2 
+                  USA | 2 h | Bird view / Isometric
+                  On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
+                  Developers: Atari
+                  Publishers: Atari, Electronic Arts, Home Data, Midway, Milton Bradley, Mindscape, Tengen, Virgin
+                  Genre: Arcade, Platform, Puzzle, Racing, Strategy
+                  Theme: Action
+                  Designer: Mark Cerny
+                  Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1614   Tony Hawk's Pro Skater (1999)                                                              296    1 
+    7. 1709   Tony Hawk's Pro Skater (1999)                                                              296    1 
                   USA | 9 h | Third person
                   On: Dreamcast, GBC, N-Gage, N64, PSX
                   Developers: Neversoft
@@ -79,6 +69,16 @@
                   Theme: Action, Skateboarding
                   Designer: Aaron Cammarata, Chris Rausch
                   Composer: Brian Bright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1675   Colin McRae Rally (1998)                                                                   227    1 
+                  GBR | 11 h | First person, Third person
+                  On: GBC, PSX, Win
+                  Developers: Codemasters
+                  Publishers: Codemasters, THQ
+                  Genre: Racing, Sport
+                  Theme: Motorsports, Non-fiction, Rally
+                  Designer: Unknown
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
                   JPN | 33 h | Bird view / Isometric, First person
@@ -129,3 +129,13 @@
                   Theme: Action, Science Fiction
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1332   Road Rash (1991)                                                                           328    1 
+                  USA | 7 h | Third person
+                  On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
+                  Developers: Peakstar Software
+                  Publishers: Electronic Arts, Ocean Software, U.S. Gold
+                  Genre: Fighting, Racing
+                  Theme: Action
+                  Designer: Carl Mey, Dan Geisler, Randy Breen, Walter Stein
+                  Composer: Greg Michael, Jason A.S. Whitely, Rob Hubbard

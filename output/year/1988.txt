@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2164   Super Mario Bros. 3 (1988)                                                                  32    3 
+    1. 2184   Super Mario Bros. 3 (1988)                                                                  32    3 
                   JPN | 6 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2069   Super Mario Bros. 2 (1988)                                                                  31    3 
+    2. 2099   Super Mario Bros. 2 (1988)                                                                  31    3 
                   JPN | 4 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -30,17 +30,7 @@
                   Designer: Richard Garriott
                   Composer: David R. Watson, Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1645   Nobunaga's Ambition II (1988)                                                               50    1 
-                  JPN | 40 h | Bird view / Isometric
-                  On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
-                  Developers: Koei
-                  Publishers: Koei
-                  Genre: Simulator, Strategy, Turn-Based Strategy
-                  Theme: Fantasy, Historical, Warfare
-                  Designer: Kou Shibusawa
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1644   Mega Man 2 (1988)                                                                          295    1 
+    4. 1737   Mega Man 2 (1988)                                                                          295    1 
                   JPN | 3 h | Side view
                   On: 3DS, NES, PSX, Wii, Wii U, iOS
                   Developers: Capcom
@@ -49,6 +39,16 @@
                   Theme: Action, Science Fiction
                   Designer: Akira Kitamura
                   Composer: Takashi Tateishi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1645   Nobunaga's Ambition II (1988)                                                               50    1 
+                  JPN | 40 h | Bird view / Isometric
+                  On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
+                  Developers: Koei
+                  Publishers: Koei
+                  Genre: Simulator, Strategy, Turn-Based Strategy
+                  Theme: Fantasy, Historical, Warfare
+                  Designer: Kou Shibusawa
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1636   Zork Zero: The Revenge of Megaboz (1988)                                                    58    2 
                   USA | 5 h | Text
@@ -90,7 +90,27 @@
                   Designer: Brian Fargo, Bruce Schlickbernd, Michael A. Stackpole, Rebecca Heineman
                   Composer: Kurt Heiden
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1480   Exile (1988)                                                                               246    1 
+   10. 1505   Bionic Commando (1988)                                                                     312    1 
+                  JPN | 4 h | Side view
+                  On: NES
+                  Developers: Capcom
+                  Publishers: Capcom
+                  Genre: Platform, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Tokuro Fujiwara
+                  Composer: Junko Tamiya
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1500   Ghouls 'n Ghosts (1988)                                                                    313    1 
+                  JPN | 3 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, Mega Drive, PC Engine SuperGrafx, SMS, Sharp X68000, ZX Spectrum
+                  Developers: Capcom
+                  Publishers: Capcom, NEC Avenue, Sega, U.S. Gold
+                  Genre: Arcade, Platform
+                  Theme: Action, Fantasy, Horror
+                  Designer: Hisashi Yamamoto, Shinichi Yoshimoto, Tokuro Fujiwara
+                  Composer: Tamayo Kawamoto, Tim Follin
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1480   Exile (1988)                                                                               246    1 
                   GBR | 4 h | Side view
                   On: Amiga, Atari ST, BBC, CD32
                   Developers: Audiogenic, Superior Software
@@ -100,7 +120,7 @@
                   Designer: Jeremy Smith, Peter Irvin
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1454   '88 Games (1988)                                                                           134    1 
+   13. 1454   '88 Games (1988)                                                                           134    1 
                   JPN | 1 h | Bird view / Isometric, Side view, Third person
                   On: Arcade
                   Developers: Konami
@@ -110,7 +130,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1426   King's Quest IV: The Perils of Rosella (1988)                                              139    1 
+   14. 1426   King's Quest IV: The Perils of Rosella (1988)                                              139    1 
                   USA | 4 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Win
                   Developers: Sierra
@@ -120,7 +140,17 @@
                   Designer: Roberta Williams
                   Composer: William Goldstein
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1367   Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) (1988)               150    1 
+   15. 1369   R.C. Pro-Am (1988)                                                                         325    1 
+                  GBR | 2 h | Bird view / Isometric
+                  On: Arcade, Mega Drive, NES
+                  Developers: Rare
+                  Publishers: Nintendo, Tradewest
+                  Genre: Racing
+                  Theme: Action
+                  Designer: Chris Stamper, Tim Stamper
+                  Composer: David Wise
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1367   Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) (1988)               150    1 
                   USA | 5 h | Side view
                   On: Amiga, Atari ST, DOS
                   Developers: Sierra
@@ -129,3 +159,13 @@
                   Theme: Comedy
                   Designer: Al Lowe
                   Composer: Al Lowe
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1280   Ninja Gaiden (1988)                                                                        331    1 
+                  JPN | 3 h | Side view
+                  On: 3DS, Arcade, NES, Switch, TurboGrafx-16, Wii, Wii U
+                  Developers: Tecmo
+                  Publishers: Hudson Soft, Nintendo, Tecmo
+                  Genre: Adventure, Arcade, Hack and Slash, Platform
+                  Theme: Action, Fantasy, Ninjas
+                  Designer: Hideo Yoshizawa
+                  Composer: Keiji Yamagishi, Ryuichi Nitta

@@ -128,7 +128,7 @@
         "id": 9,
         "year": 1996,
         "country": ["USA"],
-        "platforms": ["Sega Saturn", "Linux", "Amiga", "Mac", "DOS", "Mobile", "N64", "Win", "Zeebo"],
+        "platforms": ["Saturn", "Linux", "Amiga", "Mac", "DOS", "Mobile", "N64", "Win", "Zeebo"],
         "developers": ["id Software"],
         "publishers": ["MacSoft Games", "Sega", "id Software", "Midway", "GT Interactive", "Pulse Interactive", "PXL computers", "R-Comp Interactive"],
         "genre": ["Shooter"],
@@ -2354,7 +2354,7 @@
         "genre": ["Adventure", "Arcade"],
         "theme": ["Action", "Fantasy"],
         "perspective": ["Third person"],
-        "designer": ["TIm Stamper", "Chris Stamper"],
+        "designer": ["Tim Stamper", "Chris Stamper"],
         "composer": ["Unknown"],
         "hltb": 2
     },
@@ -3882,7 +3882,7 @@
         "developers": ["Konami"],
         "publishers": ["Konami"],
         "genre": ["Adventure", "Hack and Slash", "Platform"],
-        "theme": ["Action", "Comedy", "Fantasy", "Historical"],
+        "theme": ["Action", "Comedy", "Fantasy", "Historical", "Ninjas"],
         "perspective": ["Side view"],
         "designer": ["Unknown"],
         "composer": ["Kazuhiko Uehara", "Harumi Ueko"],
@@ -4565,6 +4565,486 @@
         "designer": ["Doug Smith"],
         "composer": ["Isamu Hirano"],
         "hltb": 3
+    },
+    "Metal Gear (1987)":
+    {
+        "id": 305,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["MSX2", "Xbox 360", "PS2", "DOS", "C64", "GameCube", "Vita", "Mobile", "PS3"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Stealth", "Survival"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Hideo Kojima"],
+        "composer": ["Iku Mizutani", "Shigehiro Takenouchi", "Motoaki Furugawa", "Kazuki Muraoka"],
+        "hltb": 5
+    },
+    "Tenchu: Stealth Assassins (1998)":
+    {
+        "id": 306,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Acquire"],
+        "publishers": ["Activision", "Sony"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Fantasy", "Historical", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Takuma Endo"],
+        "composer": ["Noriyuki Asakura"],
+        "hltb": 10
+    },
+    "Chrono Cross (1999)":
+    {
+        "id": 307,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["PSX", "PS3"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Masato Kato", "Hiromichi Tanaka"],
+        "composer": ["Yasunori Mitsuda"],
+        "hltb": 43
+    },
+    "Arkanoid (1986)":
+    {
+        "id": 308,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["Atari 8-bit", "MSX", "Amstrad CPC", "Amiga", "NES", "Mac", "ZX Spectrum", "DOS", "C64", "BBC", "Apple II", "Apple IIGS", "TRS-80", "Atari ST", "Arcade"],
+        "developers": ["Taito"],
+        "publishers": ["Imagine Software", "Tandy", "Discovery Software International", "Taito"],
+        "genre": ["Arcade"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Akira Fujita", "Hiroshi Tsujino"],
+        "composer": ["Hisayoshi Ogura"],
+        "hltb": 2
+    },
+    "Baseball Stars (1989)":
+    {
+        "id": 309,
+        "year": 1989,
+        "country": ["JPN"],
+        "platforms": ["NES", "Neo Geo Pocket", "Arcade"],
+        "developers": ["SNK"],
+        "publishers": ["SNK"],
+        "genre": ["Sport"],
+        "theme": ["Action", "Baseball"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 22
+    },
+    "Gauntlet (1985)":
+    {
+        "id": 310,
+        "year": 1985,
+        "country": ["USA"],
+        "platforms": ["Atari 8-bit", "MSX", "Amstrad CPC", "Mac", "ZX Spectrum", "DOS", "C64", "SMS", "Apple II", "Apple IIGS", "Atari ST", "Arcade"],
+        "developers": ["Atari"],
+        "publishers": ["Atari", "Mindscape", "U.S. Gold"],
+        "genre": ["Arcade", "Hack and Slash"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Ed Logg"],
+        "composer": ["Hal Canon", "Earl Vickers", "Ben Daglish"],
+        "hltb": 10
+    },
+    "Donkey Kong Country 2: Diddy's Kong Quest (1995)":
+    {
+        "id": 311,
+        "year": 1995,
+        "country": ["GBR"],
+        "platforms": ["3DS", "Wii U", "GBA", "SNES", "Wii", "Switch"],
+        "developers": ["Rare"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Comedy", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Tim Stamper", "Gregg Mayles", "Andrew Collard"],
+        "composer": ["David Wise"],
+        "hltb": 7
+    },
+    "Bionic Commando (1988)":
+    {
+        "id": 312,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["NES"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Tokuro Fujiwara"],
+        "composer": ["Junko Tamiya"],
+        "hltb": 4
+    },
+    "Ghouls 'n Ghosts (1988)":
+    {
+        "id": 313,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Amstrad CPC", "Amiga", "ZX Spectrum", "C64", "SMS", "Sharp X68000", "PC Engine SuperGrafx", "Atari ST", "Arcade"],
+        "developers": ["Capcom"],
+        "publishers": ["NEC Avenue", "U.S. Gold", "Sega", "Capcom"],
+        "genre": ["Arcade", "Platform"],
+        "theme": ["Action", "Fantasy", "Horror"],
+        "perspective": ["Side view"],
+        "designer": ["Tokuro Fujiwara", "Shinichi Yoshimoto", "Hisashi Yamamoto"],
+        "composer": ["Tamayo Kawamoto", "Tim Follin"],
+        "hltb": 3
+    },
+    "The Legend of Zelda: Majora's Mask (2000)":
+    {
+        "id": 314,
+        "year": 2000,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "GameCube", "N64"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Fantasy", "Horror", "Open world"],
+        "perspective": ["Third person"],
+        "designer": ["Eiji Aonuma", "Yoshiaki Koizumi"],
+        "composer": ["Koji Kondo"],
+        "hltb": 30
+    },
+    "Resident Evil: Code: Veronica (2000)":
+    {
+        "id": 315,
+        "year": 2000,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast"],
+        "developers": ["Sega", "Capcom"],
+        "publishers": ["Eidos", "Capcom"],
+        "genre": ["Adventure", "Puzzle", "Shooter"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Hiroki Kato"],
+        "composer": ["Takeshi Miura", "Hijiri Anze", "Sanae Kasahara"],
+        "hltb": 15
+    },
+    "Banjo-Kazooie (1998)":
+    {
+        "id": 316,
+        "year": 1998,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "N64"],
+        "developers": ["Rare"],
+        "publishers": ["Nintendo", "Microsoft"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Comedy", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Gregg Mayles", "George Andreas"],
+        "composer": ["Grant Kirkhope"],
+        "hltb": 15
+    },
+    "Twisted Metal 2 (1996)":
+    {
+        "id": 317,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["PSX", "PS3", "Win"],
+        "developers": ["SingleTrac"],
+        "publishers": ["Sony"],
+        "genre": ["Fighting", "Racing", "Shooter"],
+        "theme": ["Action", "Comedy", "Horror", "Survival", "Thriller"],
+        "perspective": ["Third person"],
+        "designer": ["David Jaffe"],
+        "composer": ["Chuck E. Myers", "Lance Lenhart", "Tom Hopkins"],
+        "hltb": 10
+    },
+    "Double Dragon (1987)":
+    {
+        "id": 318,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["MSX", "Mega Drive", "Neo Geo AES", "3DS", "Wii U", "PS4", "Xbox 360", "Amstrad CPC", "Amiga", "NES", "GBA", "ZX Spectrum", "Atari 2600", "DOS", "C64", "Game Gear", "Lynx", "SMS", "Atari 7800", "Neo Geo MVS", "Neo Geo CD", "Atari ST", "Arcade", "Switch"],
+        "developers": ["Arc System Works", "Technos"],
+        "publishers": ["Ocean Software", "Arc System Works", "Technos", "Atlus", "Zemina", "Telegames", "Activision", "Virgin", "Melbourne House", "Ballistic", "Arcadia Systems", "Empire", "Sega", "Tradewest"],
+        "genre": ["Adventure", "Arcade", "Fighting", "Hack and Slash", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Yoshihisa Kishimoto", "Shinichi Saito", "Koji Kai"],
+        "composer": ["Kazunaka Yamane"],
+        "hltb": 2
+    },
+    "Dr. Mario (1990)":
+    {
+        "id": 319,
+        "year": 1990,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "GBA", "GB", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Puzzle", "Strategy"],
+        "theme": ["Healthcare"],
+        "perspective": ["Side view"],
+        "designer": ["Takahiro Harada"],
+        "composer": ["Hirokazu Tanaka"],
+        "hltb": 4
+    },
+    "Panzer Dragoon Saga (1998)":
+    {
+        "id": 320,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Saturn"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Yukio Futatsugi", "Manabu Kusunoki"],
+        "composer": ["Saori Kobayashi", "Mariko Nanba"],
+        "hltb": 16
+    },
+    "Pro Wrestling (1986)":
+    {
+        "id": 321,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["Arcade", "NES", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Sport", "Fighting"],
+        "theme": ["Wrestling", "Action"],
+        "perspective": ["Side view"],
+        "designer": ["Masato Masuda"],
+        "composer": ["Unknown"],
+        "hltb": 1
+    },
+    "The Sims (2000)":
+    {
+        "id": 322,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["PS2", "Linux", "Mac", "GameCube", "Xbox", "Win"],
+        "developers": ["Maxis"],
+        "publishers": ["Aspyr", "TransGaming Technologies", "Electronic Arts"],
+        "genre": ["Adventure", "RPG", "Simulator", "Strategy"],
+        "theme": ["Comedy", "Fantasy", "Romance", "Sandbox"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Will Wright"],
+        "composer": ["Jerry Martin", "Marc Russo"],
+        "hltb": 32
+    },
+    "Suikoden (1995)":
+    {
+        "id": 323,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "PSX", "Win"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yoshitaka Murayama"],
+        "composer": ["Miki Higashino", "Tappi Iwase", "Hiroshi Tamawari", "Hirofumi Taniguchi", "Mayuko Kageshita"],
+        "hltb": 25
+    },
+    "Kid Icarus (1986)":
+    {
+        "id": 324,
+        "year": 1986,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "NES", "GBA", "Wii", "Arcade"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Satoru Okada", "Toru Osawa", "Yoshio Sakamoto"],
+        "composer": ["Hirokazu Tanaka"],
+        "hltb": 4
+    },
+    "R.C. Pro-Am (1988)":
+    {
+        "id": 325,
+        "year": 1988,
+        "country": ["GBR"],
+        "platforms": ["Mega Drive", "NES", "Arcade"],
+        "developers": ["Rare"],
+        "publishers": ["Tradewest", "Nintendo"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Tim Stamper", "Chris Stamper"],
+        "composer": ["David Wise"],
+        "hltb": 2
+    },
+    "NFL 2K1 (2000)":
+    {
+        "id": 326,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Dreamcast"],
+        "developers": ["Visual Concepts"],
+        "publishers": ["Sega"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Non-fiction", "American Football"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Tim Walter", "Christopher Larson"],
+        "composer": ["Brian Luzietti", "Larry Peacock"],
+        "hltb": 20
+    },
+    "Everybody's Golf (1997)":
+    {
+        "id": 327,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Camelot Software Planning"],
+        "publishers": ["Sony"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Comedy", "Golf"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Masashi Muramori"],
+        "composer": ["Motoi Sakuraba"],
+        "hltb": 5
+    },
+    "Road Rash (1991)":
+    {
+        "id": 328,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Saturn", "GBC", "Amiga", "Sega CD", "PSX", "GB", "Game Gear", "3DO", "SMS", "Win"],
+        "developers": ["Peakstar Software"],
+        "publishers": ["Electronic Arts", "U.S. Gold", "Ocean Software"],
+        "genre": ["Racing", "Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Carl Mey", "Randy Breen", "Dan Geisler", "Walter Stein"],
+        "composer": ["Rob Hubbard", "Jason A.S. Whitely", "Greg Michael"],
+        "hltb": 7
+    },
+    "Mario's Picross (1995)":
+    {
+        "id": 329,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["3DS", "GB"],
+        "developers": ["Jupiter"],
+        "publishers": ["Nintendo"],
+        "genre": ["Puzzle"],
+        "theme": ["Nonogram"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "Cool Boarders 2 (1997)":
+    {
+        "id": 330,
+        "year": 1997,
+        "country": ["JPN"],
+        "platforms": ["Android", "PSX"],
+        "developers": ["UEP Systems"],
+        "publishers": ["Sony", "UEP Systems"],
+        "genre": ["Racing", "Sport"],
+        "theme": ["Snowboarding"],
+        "perspective": ["Third person"],
+        "designer": ["Masaya Kobayashi", "Tadayuki Konno"],
+        "composer": ["Atsunori Namba", "Yoshichika Shimamura"],
+        "hltb": 5
+    },
+    "Ninja Gaiden (1988)":
+    {
+        "id": 331,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "NES", "Wii", "TurboGrafx-16", "Arcade", "Switch"],
+        "developers": ["Tecmo"],
+        "publishers": ["Nintendo", "Tecmo", "Hudson Soft"],
+        "genre": ["Adventure", "Arcade", "Hack and Slash", "Platform"],
+        "theme": ["Action", "Fantasy", "Ninjas"],
+        "perspective": ["Side view"],
+        "designer": ["Hideo Yoshizawa"],
+        "composer": ["Keiji Yamagishi", "Ryuichi Nitta"],
+        "hltb": 3
+    },
+    "NBA 2K1 (2000)":
+    {
+        "id": 332,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Dreamcast"],
+        "developers": ["Visual Concepts"],
+        "publishers": ["Sega"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Action", "Non-fiction", "Basketball"],
+        "perspective": ["Third person"],
+        "designer": ["Andrew H. Marrinson"],
+        "composer": ["Brian Luzietti"],
+        "hltb": 20
+    },
+    "Tetris Attack (1996)":
+    {
+        "id": 333,
+        "year": 1996,
+        "country": ["JPN"],
+        "platforms": ["SNES", "GB"],
+        "developers": ["Nintendo", "Intelligent Systems"],
+        "publishers": ["Nintendo"],
+        "genre": ["Puzzle"],
+        "theme": ["Action", "Kids"],
+        "perspective": ["Side view"],
+        "designer": ["Masao Yamamoto", "Hitoshi Yamagami", "Toshitaka Muramatsu"],
+        "composer": ["Masaya Kuzume", "Masaru Tajima", "Yuka Tsujiyoko"],
+        "hltb": 4
+    },
+    "Mortal Kombat II (1993)":
+    {
+        "id": 334,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Saturn", "Amiga", "SNES", "PSX", "DOS", "GB", "SMS", "PS3", "Arcade"],
+        "developers": ["Midway"],
+        "publishers": ["Acclaim", "Midway"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Ed Boon", "John Tobias"],
+        "composer": ["Dan Forden", "Matt Furniss"],
+        "hltb": 8
+    },
+    "The House of the Dead 2 (1998)":
+    {
+        "id": 335,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast", "Arcade", "Win"],
+        "developers": ["WOW Entertainment"],
+        "publishers": ["Sega"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Takashi Oda"],
+        "composer": ["Tetsuya Kawauchi", "Haruyoshi Tomita"],
+        "hltb": 2
+    },
+    "Ape Escape (1999)":
+    {
+        "id": 336,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["PSP", "PSX"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Masamichi Seki", "Kenkichi Shimooka", "Shingo Matsumoto", "Katsuyuki Kanetaka", "Kenji Kaido", "Hidekuni Sakai"],
+        "composer": ["Soichi Terada"],
+        "hltb": 11
     }
 
 }

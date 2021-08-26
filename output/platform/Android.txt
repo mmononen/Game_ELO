@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2085   Castlevania: Symphony of the Night (1997)                                                  224    3 
+    1. 2114   Castlevania: Symphony of the Night (1997)                                                  224    3 
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Developers: Konami
@@ -10,7 +10,7 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2027   Sonic the Hedgehog (1991)                                                                   20    4 
+    2. 2063   Sonic the Hedgehog (1991)                                                                   20    4 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -20,7 +20,7 @@
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1877   Chrono Trigger (1995)                                                                      290    1 
+    3. 1936   Chrono Trigger (1995)                                                                      290    1 
                   JPN | 27 h | Bird view / Isometric
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Developers: Square
@@ -30,7 +30,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1799   Dragon Quest (1986)                                                                         87    2 
+    4. 1871   Dragon Quest (1986)                                                                         87    2 
                   JPN | 11 h | Bird view / Isometric, First person
                   On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
                   Developers: Armor Project, Chunsoft, UIEvolution
@@ -40,7 +40,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1698   SoulCalibur (1998)                                                                         222    1 
+    5. 1782   SoulCalibur (1998)                                                                         222    2 
                   JPN | 9 h | Third person
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Developers: Project Soul
@@ -50,17 +50,7 @@
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1682   International Track & Field (1996)                                                         225    1 
-                  JPN | 1 h | Auditory
-                  On: Android, PS3, PSX
-                  Developers: Konami
-                  Publishers: Konami
-                  Genre: Sport
-                  Theme: Track & Field
-                  Designer: Satoshi Kushibuchi
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1650   Secret of Mana (1993)                                                                      232    1 
+    6. 1735   Secret of Mana (1993)                                                                      232    2 
                   JPN | 29 h | Bird view / Isometric
                   On: Android, SNES, Wii, Wii U, iOS
                   Developers: Square
@@ -70,17 +60,17 @@
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1619   R-Type (1987)                                                                              172    2 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
-                  Developers: Irem, Konami
-                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
-                  Genre: Arcade, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Abiko
-                  Composer: Masato Ishizaki
+    7. 1682   International Track & Field (1996)                                                         225    1 
+                  JPN | 1 h | Auditory
+                  On: Android, PS3, PSX
+                  Developers: Konami
+                  Publishers: Konami
+                  Genre: Sport
+                  Theme: Track & Field
+                  Designer: Satoshi Kushibuchi
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1573   Pitfall! (1982)                                                                            298    1 
+    8. 1669   Pitfall! (1982)                                                                            298    1 
                   USA | 3 h | Side view
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Developers: Activision
@@ -89,6 +79,16 @@
                   Theme: Action
                   Designer: David Crane
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1619   R-Type (1987)                                                                              172    2 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
+                  Developers: Irem, Konami
+                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
+                  Genre: Arcade, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Abiko
+                  Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1572   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
                   JPN | 49 h | Bird view / Isometric, First person
@@ -139,3 +139,13 @@
                   Theme: Action, Science Fiction
                   Designer: Takafumi Kaya, Yuji Naka
                   Composer: Tomoya Ohtani
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1289   Cool Boarders 2 (1997)                                                                     330    1 
+                  JPN | 5 h | Third person
+                  On: Android, PSX
+                  Developers: UEP Systems
+                  Publishers: Sony, UEP Systems
+                  Genre: Racing, Sport
+                  Theme: Snowboarding
+                  Designer: Masaya Kobayashi, Tadayuki Konno
+                  Composer: Atsunori Namba, Yoshichika Shimamura

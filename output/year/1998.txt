@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2241   The Legend of Zelda: Ocarina of Time (1998)                                                177    4 
+    1. 2255   The Legend of Zelda: Ocarina of Time (1998)                                                177    4 
                   JPN | 31 h | Third person
                   On: N64, Wii, Wii U
                   Developers: Nintendo
@@ -10,17 +10,7 @@
                   Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2149   Half-Life (1998)                                                                           188    3 
-                  USA | 14 h | First person
-                  On: Linux, Mac, PS2, Win
-                  Developers: Valve
-                  Publishers: Sierra, Valve
-                  Genre: Adventure, Puzzle, Shooter
-                  Theme: Action, Horror, Science Fiction, Thriller, Warfare
-                  Designer: Marc Laidlaw
-                  Composer: Kelly Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2133   Metal Gear Solid (1998)                                                                    196    4 
+    2. 2156   Metal Gear Solid (1998)                                                                    196    4 
                   JPN | 13 h | Third person
                   On: PS3, PSP, PSX
                   Developers: Konami
@@ -30,7 +20,17 @@
                   Designer: Hideo Kojima
                   Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2027   StarCraft (1998)                                                                           201    3 
+    3. 2149   Half-Life (1998)                                                                           188    3 
+                  USA | 14 h | First person
+                  On: Linux, Mac, PS2, Win
+                  Developers: Valve
+                  Publishers: Sierra, Valve
+                  Genre: Adventure, Puzzle, Shooter
+                  Theme: Action, Horror, Science Fiction, Thriller, Warfare
+                  Designer: Marc Laidlaw
+                  Composer: Kelly Bailey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 2027   StarCraft (1998)                                                                           201    4 
                   USA | 27 h | Bird view / Isometric
                   On: Mac, Win
                   Developers: Blizzard Entertainment
@@ -40,7 +40,7 @@
                   Designer: Chris Metzen, James Phinney
                   Composer: Derek Duke, Glenn Stafford, Jason Hayes, Tracy W. Bush
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1935   Resident Evil 2 (1998)                                                                     187    2 
+    5. 1984   Resident Evil 2 (1998)                                                                     187    2 
                   JPN | 9 h | Third person
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Developers: Angel Studios, Capcom, Factor 5, Sourcenext
@@ -60,7 +60,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1719   Crash Bandicoot: Warped (1998)                                                             293    1 
+    7. 1804   Crash Bandicoot: Warped (1998)                                                             293    1 
                   USA | 8 h | Bird view / Isometric, Third person
                   On: PS3, PSP, PSX
                   Developers: Naughty Dog
@@ -70,17 +70,7 @@
                   Designer: Evan Wells, Jason Rubin
                   Composer: Josh Mancell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1712   Anna Kournikova's Smash Court Tennis (1998)                                                220    1 
-                  JPN | 3 h | Bird view / Isometric
-                  On: PSX
-                  Developers: Namco
-                  Publishers: Namco
-                  Genre: Sport
-                  Theme: Tennis
-                  Designer: Katsuhiko Ōtani, Masahito Terazawa, Motoharu Morishita, Yasuhiro Maruo, Yoshiaki Mizukami
-                  Composer: Ayako Yamaguchi, Kaori Idaya, Kenji Matsuo, Masashi Sugiyama, Nobuhiro Ōuchi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1698   SoulCalibur (1998)                                                                         222    1 
+    8. 1782   SoulCalibur (1998)                                                                         222    2 
                   JPN | 9 h | Third person
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Developers: Project Soul
@@ -89,6 +79,16 @@
                   Theme: Action, Fantasy, Historical
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1712   Anna Kournikova's Smash Court Tennis (1998)                                                220    1 
+                  JPN | 3 h | Bird view / Isometric
+                  On: PSX
+                  Developers: Namco
+                  Publishers: Namco
+                  Genre: Sport
+                  Theme: Tennis
+                  Designer: Katsuhiko Ōtani, Masahito Terazawa, Motoharu Morishita, Yasuhiro Maruo, Yoshiaki Mizukami
+                  Composer: Ayako Yamaguchi, Kaori Idaya, Kenji Matsuo, Masashi Sugiyama, Nobuhiro Ōuchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1675   Colin McRae Rally (1998)                                                                   227    1 
                   GBR | 11 h | First person, Third person
@@ -130,7 +130,17 @@
                   Designer: Takao Miyoshi, Takashi Iizuka, Yojiro Ogawa
                   Composer: Fumie Kumatani, Jun Senoue, Kenichi Tokoi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1588   Grim Fandango (1998)                                                                       195    1 
+   14. 1592   Tenchu: Stealth Assassins (1998)                                                           306    1 
+                  JPN | 10 h | Third person
+                  On: PSX
+                  Developers: Acquire
+                  Publishers: Activision, Sony
+                  Genre: Adventure
+                  Theme: Action, Fantasy, Historical, Stealth
+                  Designer: Takuma Endo
+                  Composer: Noriyuki Asakura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1588   Grim Fandango (1998)                                                                       195    1 
                   USA | 12 h | Side view
                   On: Win
                   Developers: LucasArts
@@ -140,7 +150,17 @@
                   Designer: Tim Schafer
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1469   Battlezone (1998)                                                                          204    1 
+   16. 1472   Banjo-Kazooie (1998)                                                                       316    1 
+                  GBR | 15 h | Third person
+                  On: N64, Xbox 360
+                  Developers: Rare
+                  Publishers: Microsoft, Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action, Comedy, Fantasy
+                  Designer: George Andreas, Gregg Mayles
+                  Composer: Grant Kirkhope
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1469   Battlezone (1998)                                                                          204    1 
                   USA | 13 h | First person
                   On: Win
                   Developers: Activision
@@ -150,7 +170,7 @@
                   Designer: Andrew Goldman
                   Composer: Jeehun Hwang
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1449   NHL 99 (1998)                                                                              205    1 
+   18. 1449   NHL 99 (1998)                                                                              205    1 
                   CAN | 32 h | Bird view / Isometric
                   On: N64, PSX, Win
                   Developers: Electronic Arts
@@ -160,7 +180,17 @@
                   Designer: Warren Wall
                   Composer: Aleksandar Zecevic, Jeff Mair, Jeff van Dyck, John Jacyna, Robert Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1409   Baldur's Gate (1998)                                                                       281    1 
+   19. 1415   Panzer Dragoon Saga (1998)                                                                 320    1 
+                  JPN | 16 h | Third person
+                  On: Saturn
+                  Developers: Sega
+                  Publishers: Sega
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Manabu Kusunoki, Yukio Futatsugi
+                  Composer: Mariko Nanba, Saori Kobayashi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1409   Baldur's Gate (1998)                                                                       281    1 
                   CAN | 57 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Developers: BioWare
@@ -170,7 +200,7 @@
                   Designer: James Ohlen
                   Composer: Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1369   NFL GameDay 99 (1998)                                                                      208    1 
+   21. 1369   NFL GameDay 99 (1998)                                                                      208    1 
                   USA | 20 h | Third person
                   On: PSX, Win
                   Developers: 989 Sports, Red Zone Interactive
@@ -180,7 +210,7 @@
                   Designer: Craig D. Ostrander
                   Composer: Chuck Carr, Joel H. Copen, Rex Baca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1358   Thief: The Dark Project (1998)                                                             283    1 
+   22. 1358   Thief: The Dark Project (1998)                                                             283    1 
                   USA | 21 h | First person
                   On: Win
                   Developers: Looking Glass
@@ -190,7 +220,7 @@
                   Designer: Greg LoPiccolo, Tim Stellmach
                   Composer: Eric Brosius
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1356   Xenogears (1998)                                                                           260    1 
+   23. 1356   Xenogears (1998)                                                                           260    1 
                   JPN | 65 h | Bird view / Isometric, Third person
                   On: PS3, PSX
                   Developers: Square
@@ -200,7 +230,7 @@
                   Designer: Tetsuya Takahashi
                   Composer: Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1305   Grand Prix Legends (1998)                                                                  210    1 
+   24. 1305   Grand Prix Legends (1998)                                                                  210    1 
                   USA | 20 h | First person, Third person
                   On: Win
                   Developers: Papyrus
@@ -210,7 +240,17 @@
                   Designer: Brian C. Mahony, David Kaemmer, Matt Sentell, Randy Cassidy, Richard Yasi
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1200   International Superstar Soccer ’98 (1998)                                                  212    1 
+   25. 1210   The House of the Dead 2 (1998)                                                             335    1 
+                  JPN | 2 h | First person
+                  On: Arcade, Dreamcast, Win
+                  Developers: WOW Entertainment
+                  Publishers: Sega
+                  Genre: Shooter
+                  Theme: Action, Horror, Science Fiction
+                  Designer: Takashi Oda
+                  Composer: Haruyoshi Tomita, Tetsuya Kawauchi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   26. 1200   International Superstar Soccer ’98 (1998)                                                  212    1 
                   USA | 20 h | Bird view / Isometric
                   On: N64
                   Developers: Konami

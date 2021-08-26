@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2256   The Legend of Zelda (1986)                                                                 108    4 
+    1. 2269   The Legend of Zelda (1986)                                                                 108    4 
                   JPN | 9 h | Bird view / Isometric
                   On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -10,7 +10,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2137   Metroid (1986)                                                                             117    3 
+    2. 2159   Metroid (1986)                                                                             117    3 
                   JPN | 7 h | Side view
                   On: 3DS, Arcade, NES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -20,7 +20,7 @@
                   Designer: Satoru Okada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1799   Dragon Quest (1986)                                                                         87    2 
+    3. 1871   Dragon Quest (1986)                                                                         87    2 
                   JPN | 11 h | Bird view / Isometric, First person
                   On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
                   Developers: Armor Project, Chunsoft, UIEvolution
@@ -70,47 +70,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1625   Rolling Thunder (1986)                                                                      63    1 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, NES, Wii, ZX Spectrum
-                  Developers: Namco
-                  Publishers: Namco, Tengen, U.S. Gold
-                  Genre: Platform, Shooter
-                  Theme: Action
-                  Designer: Unknown
-                  Composer: Junko Ozawa
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1595   Bubble Bobble (1986)                                                                       237    1 
-                  JPN | 3 h | Side view
-                  On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
-                  Developers: Taito
-                  Publishers: Firebird, Micomsoft, Sega, Taito, Ving
-                  Genre: Arcade, Platform, Puzzle, Strategy
-                  Theme: Action, Fantasy, Kids
-                  Designer: Fukio Mitsuji
-                  Composer: Tadashi Kimijima
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1547   Ikari Warriors (1986)                                                                      103    1 
-                  JPN | 1 h | Bird view / Isometric
-                  On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
-                  Developers: SNK
-                  Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
-                  Genre: Arcade, Shooter
-                  Theme: Action, Warfare
-                  Designer: Keiko Iju, Koji Obada
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1540   The Bard's Tale II: The Destiny Knight (1986)                                              105    1 
-                  USA | 22 h | First person
-                  On: Amiga, Apple II, Apple IIGS, C64, DOS, NES
-                  Developers: Interplay
-                  Publishers: Electronic Arts, Pony Canyon
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: Michael Cranford
-                  Composer: David Warhol
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1532   Castlevania (1986)                                                                         302    1 
+    8. 1627   Castlevania (1986)                                                                         302    1 
                   JPN | 6 h | Side view
                   On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
                   Developers: Konami
@@ -120,7 +80,57 @@
                   Designer: Akihiko Nagata
                   Composer: Kinuyo Yamashita, Satoe Terashima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1426   King's Quest III: To Heir Is Human (1986)                                                  138    1 
+    9. 1625   Rolling Thunder (1986)                                                                      63    1 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, NES, Wii, ZX Spectrum
+                  Developers: Namco
+                  Publishers: Namco, Tengen, U.S. Gold
+                  Genre: Platform, Shooter
+                  Theme: Action
+                  Designer: Unknown
+                  Composer: Junko Ozawa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1595   Bubble Bobble (1986)                                                                       237    1 
+                  JPN | 3 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
+                  Developers: Taito
+                  Publishers: Firebird, Micomsoft, Sega, Taito, Ving
+                  Genre: Arcade, Platform, Puzzle, Strategy
+                  Theme: Action, Fantasy, Kids
+                  Designer: Fukio Mitsuji
+                  Composer: Tadashi Kimijima
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1572   Arkanoid (1986)                                                                            308    1 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
+                  Developers: Taito
+                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
+                  Genre: Arcade
+                  Theme: Action, Science Fiction
+                  Designer: Akira Fujita, Hiroshi Tsujino
+                  Composer: Hisayoshi Ogura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1547   Ikari Warriors (1986)                                                                      103    1 
+                  JPN | 1 h | Bird view / Isometric
+                  On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
+                  Developers: SNK
+                  Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
+                  Genre: Arcade, Shooter
+                  Theme: Action, Warfare
+                  Designer: Keiko Iju, Koji Obada
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1540   The Bard's Tale II: The Destiny Knight (1986)                                              105    1 
+                  USA | 22 h | First person
+                  On: Amiga, Apple II, Apple IIGS, C64, DOS, NES
+                  Developers: Interplay
+                  Publishers: Electronic Arts, Pony Canyon
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: Michael Cranford
+                  Composer: David Warhol
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1426   King's Quest III: To Heir Is Human (1986)                                                  138    1 
                   USA | 5 h | Bird view / Isometric, Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Developers: Sierra
@@ -130,7 +140,7 @@
                   Designer: Roberta Williams
                   Composer: Margaret Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1416   Gauntlet II (1986)                                                                         255    1 
+   15. 1416   Gauntlet II (1986)                                                                         255    1 
                   USA | 5 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, NES, ZX Spectrum
                   Developers: Atari
@@ -140,7 +150,27 @@
                   Designer: Ed Logg
                   Composer: Brad Fuller, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1370   Thrust (1986)                                                                              258    1 
+   16. 1409   Pro Wrestling (1986)                                                                       321    1 
+                  JPN | 1 h | Side view
+                  On: Arcade, NES, Switch
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Fighting, Sport
+                  Theme: Action, Wrestling
+                  Designer: Masato Masuda
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1376   Kid Icarus (1986)                                                                          324    1 
+                  JPN | 4 h | Side view
+                  On: Arcade, GBA, NES, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform, Shooter
+                  Theme: Action, Fantasy
+                  Designer: Satoru Okada, Toru Osawa, Yoshio Sakamoto
+                  Composer: Hirokazu Tanaka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1370   Thrust (1986)                                                                              258    1 
                   GBR | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C16, C64, ZX Spectrum
                   Developers: Firebird, Superior Software
@@ -150,7 +180,7 @@
                   Designer: Jeremy Smith
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1210   Solomon’s Key (1986)                                                                       267    1 
+   19. 1210   Solomon’s Key (1986)                                                                       267    1 
                   JPN | 10 h | Side view
                   On: 3DS, Amstrad CPC, Arcade, Atari ST, C64, DOS, NES, SMS, Wii, Wii U, ZX Spectrum
                   Developers: Tecmo
@@ -160,7 +190,7 @@
                   Designer: Michitaka Tsuruta
                   Composer: Michiharu Hasuya
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1200   Trinity (1986)                                                                             176    1 
+   20. 1200   Trinity (1986)                                                                             176    1 
                   USA | 10 h | Text
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Developers: Infocom

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2235   Doom (1993)                                                                                 19    4 
+    1. 2249   Doom (1993)                                                                                 19    4 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -22,7 +22,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1987   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
-                  On: Amiga, DOS, Linux, Mac, Mobile, N64, Sega Saturn, Win, Zeebo
+                  On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
                   Developers: id Software
                   Publishers: GT Interactive, MacSoft Games, Midway, PXL computers, Pulse Interactive, R-Comp Interactive, Sega, id Software
                   Genre: Shooter
@@ -30,17 +30,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
-                  USA | 6 h | Side view
-                  On: DOS, Linux, Mac, Win
-                  Developers: LucasArts
-                  Publishers: Activision, LucasArts
-                  Genre: Adventure, Point-and-click
-                  Theme: Comedy, Science Fiction
-                  Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
-                  Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1685   Half-Life: Counter-Strike (2000)                                                           278    2 
+    4. 1774   Half-Life: Counter-Strike (2000)                                                           278    2 
                   USA | 206 h | First person
                   On: Linux, Mac, Win, Xbox
                   Developers: Valve
@@ -49,6 +39,16 @@
                   Theme: Action, Warfare
                   Designer: Jess Cliffe, Minh Le
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
+                  USA | 6 h | Side view
+                  On: DOS, Linux, Mac, Win
+                  Developers: LucasArts
+                  Publishers: Activision, LucasArts
+                  Genre: Adventure, Point-and-click
+                  Theme: Comedy, Science Fiction
+                  Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
+                  Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1584   Akalabeth: World of Doom (1980)                                                             76    1 
                   USA | 4 h | Bird view / Isometric, First person
@@ -70,27 +70,7 @@
                   Designer: David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1469   Shining Force (1992)                                                                       130    1 
-                  JPN | 22 h | Bird view / Isometric
-                  On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
-                  Developers: Camelot Software Planning, Climax Entertainment
-                  Publishers: Sega
-                  Genre: RPG, Strategy, Turn-Based Strategy
-                  Theme: Fantasy
-                  Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
-                  Composer: Masahiko Yoshimura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1409   Baldur's Gate (1998)                                                                       281    1 
-                  CAN | 57 h | Bird view / Isometric
-                  On: Linux, Mac, Win, iOS
-                  Developers: BioWare
-                  Publishers: Black Isle, Interplay
-                  Genre: RPG
-                  Theme: Fantasy
-                  Designer: James Ohlen
-                  Composer: Michael Hoenig
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1400   Baldur's Gate II: Shadows of Amn (2000)                                                    282    1 
+    8. 1481   Baldur's Gate II: Shadows of Amn (2000)                                                    282    2 
                   CAN | 87 h | Bird view / Isometric
                   On: Linux, Mac, Win
                   Developers: BioWare
@@ -100,7 +80,37 @@
                   Designer: James Ohlen, Kevin Martens
                   Composer: Howard Drossin, Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1286   Planescape: Torment (1999)                                                                 285    1 
+    9. 1469   Shining Force (1992)                                                                       130    1 
+                  JPN | 22 h | Bird view / Isometric
+                  On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
+                  Developers: Camelot Software Planning, Climax Entertainment
+                  Publishers: Sega
+                  Genre: RPG, Strategy, Turn-Based Strategy
+                  Theme: Fantasy
+                  Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
+                  Composer: Masahiko Yoshimura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1409   Baldur's Gate (1998)                                                                       281    1 
+                  CAN | 57 h | Bird view / Isometric
+                  On: Linux, Mac, Win, iOS
+                  Developers: BioWare
+                  Publishers: Black Isle, Interplay
+                  Genre: RPG
+                  Theme: Fantasy
+                  Designer: James Ohlen
+                  Composer: Michael Hoenig
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1402   The Sims (2000)                                                                            322    1 
+                  USA | 32 h | Bird view / Isometric
+                  On: GameCube, Linux, Mac, PS2, Win, Xbox
+                  Developers: Maxis
+                  Publishers: Aspyr, Electronic Arts, TransGaming Technologies
+                  Genre: Adventure, RPG, Simulator, Strategy
+                  Theme: Comedy, Fantasy, Romance, Sandbox
+                  Designer: Will Wright
+                  Composer: Jerry Martin, Marc Russo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1286   Planescape: Torment (1999)                                                                 285    1 
                   USA | 43 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Developers: Black Isle

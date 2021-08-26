@@ -1,26 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
-                  JPN | 12 h | Side view
-                  On: 3DS, GBA, GameCube, NES, Switch, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, RPG
-                  Theme: Action, Fantasy, Open world
-                  Designer: Kazunobu Shimizu, Tadashi Sugiyama
-                  Composer: Akito Nakatsuka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1900   Final Fantasy (1987)                                                                        17    2 
-                  JPN | 23 h | Bird view / Isometric, Side view
-                  On: MSX2, NES, Wii
-                  Developers: Square
-                  Publishers: Microcabin, Nintendo, Square
-                  Genre: Adventure, RPG
-                  Theme: Action, Fantasy
-                  Designer: Akitoshi Kawazu, Hiromichi Tanaka, Hironobu Sakaguchi, Koichi Ishii
-                  Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1893   Contra (1987)                                                                              288    1 
+    1. 1950   Contra (1987)                                                                              288    1 
                   JPN | 2 h | Side view, Third person
                   On: Amstrad CPC, Arcade, C64, DOS, MSX2, NES
                   Developers: Konami
@@ -30,7 +10,7 @@
                   Designer: Koji Hiroshita, Shigeharu Umezaki, Shinji Kitamoto
                   Composer: Hidenori Maezawa, Kazuki Muraoka, Kiyohiro Sada
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1885   Punch-Out!! (1987)                                                                         289    1 
+    2. 1943   Punch-Out!! (1987)                                                                         289    1 
                   JPN | 3 h | Third person
                   On: Arcade, NES
                   Developers: Nintendo
@@ -39,6 +19,26 @@
                   Theme: Action, Boxing, Comedy
                   Designer: Genyo Takeda, Kazuo Yoneyama, Mayumi Hirota
                   Composer: Akito Nakatsuka, Kenji Yamamoto, Yukio Kaneoka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1928   Zelda II: The Adventure of Link (1987)                                                     109    2 
+                  JPN | 12 h | Side view
+                  On: 3DS, GBA, GameCube, NES, Switch, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, RPG
+                  Theme: Action, Fantasy, Open world
+                  Designer: Kazunobu Shimizu, Tadashi Sugiyama
+                  Composer: Akito Nakatsuka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1900   Final Fantasy (1987)                                                                        17    2 
+                  JPN | 23 h | Bird view / Isometric, Side view
+                  On: MSX2, NES, Wii
+                  Developers: Square
+                  Publishers: Microcabin, Nintendo, Square
+                  Genre: Adventure, RPG
+                  Theme: Action, Fantasy
+                  Designer: Akitoshi Kawazu, Hiromichi Tanaka, Hironobu Sakaguchi, Koichi Ishii
+                  Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1788   The Lurking Horror (1987)                                                                   24    2 
                   USA | 9 h | Text
@@ -50,27 +50,7 @@
                   Designer: Dave Lebling
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1636   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
-                  USA | 14 h | Text
-                  On: Amiga, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac
-                  Developers: Infocom
-                  Publishers: Infocom
-                  Genre: Adventure, RPG
-                  Theme: Fantasy
-                  Designer: Brian Moriarty
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1619   R-Type (1987)                                                                              172    2 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
-                  Developers: Irem, Konami
-                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
-                  Genre: Arcade, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Abiko
-                  Composer: Masato Ishizaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1602   Tecmo Bowl (1987)                                                                          297    1 
+    6. 1698   Tecmo Bowl (1987)                                                                          297    1 
                   JPN | 5 h | Bird view / Isometric
                   On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
                   Developers: Koei, Tecmo
@@ -80,7 +60,37 @@
                   Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
                   Composer: Keiji Yamagishi, Mikio Saitou
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1572   Dragon Quest II: Luminaries of the Legendary Line (1987)                                    88    1 
+    7. 1636   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
+                  USA | 14 h | Text
+                  On: Amiga, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac
+                  Developers: Infocom
+                  Publishers: Infocom
+                  Genre: Adventure, RPG
+                  Theme: Fantasy
+                  Designer: Brian Moriarty
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1619   R-Type (1987)                                                                              172    2 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
+                  Developers: Irem, Konami
+                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
+                  Genre: Arcade, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Abiko
+                  Composer: Masato Ishizaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1597   Metal Gear (1987)                                                                          305    1 
+                  JPN | 5 h | Bird view / Isometric
+                  On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
+                  Developers: Konami
+                  Publishers: Konami
+                  Genre: Adventure, Shooter
+                  Theme: Action, Science Fiction, Stealth, Survival
+                  Designer: Hideo Kojima
+                  Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1572   Dragon Quest II: Luminaries of the Legendary Line (1987)                                    88    1 
                   JPN | 18 h | Bird view / Isometric, First person
                   On: 3DS, Android, MSX, MSX2, Mobile, NES, PS4, Switch, iOS
                   Developers: Chunsoft
@@ -90,7 +100,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1549   Wizardry IV: The Return of Werdna (1987)                                                    99    1 
+   11. 1549   Wizardry IV: The Return of Werdna (1987)                                                    99    1 
                   USA | 25 h | First person
                   On: Apple II, DOS, Sharp X1
                   Developers: Sir-Tech
@@ -100,17 +110,7 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead, Roe. R. Adams III
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1508   Head Over Heels (1987)                                                                     244    1 
-                  GBR | 10 h | Bird view / Isometric, Third person
-                  On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
-                  Developers: Ocean Software
-                  Publishers: Ocean Software
-                  Genre: Adventure, Platform, Puzzle
-                  Theme: Action, Science Fiction
-                  Designer: Jon Ritman
-                  Composer: Guy Stevens
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1489   Phantasy Star (1987)                                                                       122    1 
+   12. 1523   Phantasy Star (1987)                                                                       122    2 
                   JPN | 18 h | Bird view / Isometric, First person
                   On: SMS, Wii
                   Developers: Sega
@@ -120,7 +120,17 @@
                   Designer: Kotaro Hayashida
                   Composer: Tokuhiko Uwabo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1469   Shinobi (1987)                                                                             248    1 
+   13. 1508   Head Over Heels (1987)                                                                     244    1 
+                  GBR | 10 h | Bird view / Isometric, Third person
+                  On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
+                  Developers: Ocean Software
+                  Publishers: Ocean Software
+                  Genre: Adventure, Platform, Puzzle
+                  Theme: Action, Science Fiction
+                  Designer: Jon Ritman
+                  Composer: Guy Stevens
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1469   Shinobi (1987)                                                                             248    1 
                   JPN | 2 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, NES, SMS, TurboGrafx-16, Wii, Xbox 360, ZX Spectrum
                   Developers: Sega
@@ -130,7 +140,17 @@
                   Designer: Yutaka Sugano
                   Composer: Yasuhiro Kawakami
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
+   15. 1439   Double Dragon (1987)                                                                       318    1 
+                  JPN | 2 h | Side view, Third person
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
+                  Developers: Arc System Works, Technos
+                  Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
+                  Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform
+                  Theme: Action
+                  Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
+                  Composer: Kazunaka Yamane
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1367   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1 
                   USA | 3 h | Side view, Text
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Developers: Sierra
@@ -140,7 +160,7 @@
                   Designer: Al Lowe, Mark Crowe
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1330   California Games (1987)                                                                    160    1 
+   17. 1330   California Games (1987)                                                                    160    1 
                   USA | 2 h | Side view
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari ST, C64, DOS, Lynx, MSX, Mega Drive, Mobile, NES, SMS, Wii, Win, ZX Spectrum
                   Developers: Epyx
@@ -150,7 +170,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1219   Empire: Wargame of the Century (1987)                                                      286    1 
+   18. 1219   Empire: Wargame of the Century (1987)                                                      286    1 
                   USA | 30 h | Bird view / Isometric
                   On: Amiga, Apple II, Atari ST, C64, DOS
                   Developers: Northwest Software

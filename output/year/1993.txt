@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2235   Doom (1993)                                                                                 19    4 
+    1. 2249   Doom (1993)                                                                                 19    4 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -10,7 +10,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1877   Ridge Racer (1993)                                                                         182    2 
+    2. 1936   Ridge Racer (1993)                                                                         182    2 
                   JPN | 2 h | First person, Third person
                   On: Arcade, PSX
                   Developers: Namco
@@ -20,27 +20,7 @@
                   Designer: Toru Iwatani
                   Composer: Shinji Hosoe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1875   SimCity 2000 (1993)                                                                         48    2 
-                  USA | 25 h | Bird view / Isometric
-                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
-                  Developers: Maxis
-                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
-                  Genre: Simulator, Strategy
-                  Theme: Business, Sandbox
-                  Designer: Fred Haslam, Will Wright
-                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1826   Virtua Fighter (1993)                                                                      179    1 
-                  JPN | 1 h | Side view
-                  On: Arcade, Saturn
-                  Developers: Sega
-                  Publishers: Sega
-                  Genre: Fighting
-                  Theme: Action
-                  Designer: Seiichi Ishii, Yu Suzuki
-                  Composer: Takayuki Nakamura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1820   Star Wars: X-Wing (1993)                                                                    23    2 
+    3. 1889   Star Wars: X-Wing (1993)                                                                    23    2 
                   USA | 24 h | First person
                   On: DOS, Mac
                   Developers: Totally Games
@@ -50,7 +30,37 @@
                   Designer: Edard Kilham, Lawrence Holland
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1814   Ultima VII: Part Two - Serpent Isle (1993)                                                  85    2 
+    4. 1875   SimCity 2000 (1993)                                                                         48    2 
+                  USA | 25 h | Bird view / Isometric
+                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
+                  Developers: Maxis
+                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
+                  Genre: Simulator, Strategy
+                  Theme: Business, Sandbox
+                  Designer: Fred Haslam, Will Wright
+                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1826   Virtua Fighter (1993)                                                                      179    1 
+                  JPN | 1 h | Side view
+                  On: Arcade, Saturn
+                  Developers: Sega
+                  Publishers: Sega
+                  Genre: Fighting
+                  Theme: Action
+                  Designer: Seiichi Ishii, Yu Suzuki
+                  Composer: Takayuki Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1820   Super Bomberman (1993)                                                                     217    2 
+                  JPN | 4 h | Side view
+                  On: SNES
+                  Developers: Produce!
+                  Publishers: Hudson Soft, Mattel
+                  Genre: Puzzle, Strategy
+                  Theme: Action, Party
+                  Designer: Kyon Kyon, Mikio Ueyama
+                  Composer: Jun Chikuma, Tomoyuki Hamada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1814   Ultima VII: Part Two - Serpent Isle (1993)                                                  85    2 
                   USA | 59 h | Bird view / Isometric
                   On: DOS
                   Developers: Origin
@@ -70,17 +80,17 @@
                   Designer: Doug Church, Paul Neurath, Tim Stellmach
                   Composer: Dan Schmidt, Jon Blackley
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1796   Super Bomberman (1993)                                                                     217    1 
-                  JPN | 4 h | Side view
-                  On: SNES
-                  Developers: Produce!
-                  Publishers: Hudson Soft, Mattel
-                  Genre: Puzzle, Strategy
-                  Theme: Action, Party
-                  Designer: Kyon Kyon, Mikio Ueyama
-                  Composer: Jun Chikuma, Tomoyuki Hamada
+    9. 1735   Secret of Mana (1993)                                                                      232    2 
+                  JPN | 29 h | Bird view / Isometric
+                  On: Android, SNES, Wii, Wii U, iOS
+                  Developers: Square
+                  Publishers: Square
+                  Genre: RPG
+                  Theme: Action, Fantasy
+                  Designer: Hiromichi Tanaka, Koichi Ishii
+                  Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
+   10. 1710   Sam & Max Hit the Road (1993)                                                               27    2 
                   USA | 6 h | Side view
                   On: DOS, Linux, Mac, Win
                   Developers: LucasArts
@@ -90,7 +100,7 @@
                   Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
                   Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1671   Syndicate (1993)                                                                            29    2 
+   11. 1671   Syndicate (1993)                                                                            29    2 
                   GBR | 13 h | Bird view / Isometric
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
                   Developers: Bullfrog
@@ -100,7 +110,7 @@
                   Designer: Sean Cooper
                   Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1652   Madden NFL '94 (1993)                                                                       43    1 
+   12. 1652   Madden NFL '94 (1993)                                                                       43    1 
                   USA | 10 h | Bird view / Isometric, Third person
                   On: Mega Drive, SNES
                   Developers: Visual Concepts
@@ -109,16 +119,6 @@
                   Theme: Action, American Football, Non-fiction
                   Designer: Happy Keller, Michael Kosaka
                   Composer: Brian L. Schmidt
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1650   Secret of Mana (1993)                                                                      232    1 
-                  JPN | 29 h | Bird view / Isometric
-                  On: Android, SNES, Wii, Wii U, iOS
-                  Developers: Square
-                  Publishers: Square
-                  Genre: RPG
-                  Theme: Action, Fantasy
-                  Designer: Hiromichi Tanaka, Koichi Ishii
-                  Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1623   Spectre VR (1993)                                                                           64    1 
                   USA | 10 h | First person
@@ -189,3 +189,13 @@
                   Theme: Action, Fantasy, Historical, Warfare
                   Designer: John Manley, Tony Barnes
                   Composer: Brian L. Schmidt
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1238   Mortal Kombat II (1993)                                                                    334    1 
+                  USA | 8 h | Side view
+                  On: Amiga, Arcade, DOS, GB, Mega Drive, PS3, PSX, SMS, SNES, Saturn
+                  Developers: Midway
+                  Publishers: Acclaim, Midway
+                  Genre: Fighting
+                  Theme: Action
+                  Designer: Ed Boon, John Tobias
+                  Composer: Dan Forden, Matt Furniss
