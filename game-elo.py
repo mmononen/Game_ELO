@@ -161,49 +161,49 @@ lists = ["data/1996-09-30 Next_Generation_1996_Top_100_Games_of_All_Time.txt",
          "data/2000-01-31 Edge Top 100 Games to Play Now.txt",
          "data/2001-07-31 GameSpy Top 50 Games of All Time.txt",
          "data/2001-08-31 Game_Informer_2001_Top_100_Games_Of_All_Time.txt",
-         "data/2004-12-31 Retro_Gamer_2004_Reader's_Top_100_Games.txt"
-        #  "data/2008-08-09 Pelaajalehti_2008_Kymmenen_kaikkien_aikojen_parasta_peliä.txt",
-        #  "data/2009-02-27 Guinness_2009_top_50_games_of_all_time.txt",
-        #  "data/2009-11-21 Game_Informer_2009_Top_200_Games_of_All_Time.txt",
-        #  "data/2010-01-08 MuroBBS_2010_Maailman_Kaikkien_Aikojen_Paras_Peli.txt",
-        #  "data/2011-12-31 PC_Gamer_2011_The_100_best_PC_games_of_all_time.txt",
-        #  "data/2014-05-10 RPG_Codex_2014_Top_70_PC_RPGs.txt",
-        #  "data/2014-06-09 Slant_2014_The_100_Greatest_Video_Games_of_All_Time.txt",
-        #  "data/2014-12-31 Popular_Mechanics_2014_The_100_Greatest_Video_Games_of_All_Time.txt",
-        #  "data/2015-02-25 GamesRadar_2015_The_100_best_games_ever.txt",
-        #  "data/2015-06-12 Rock_Paper_Shotgun_2015_The_25_Best_Adventure_Games_Ever_Made.txt",
-        #  "data/2015-12-31 Empire_2015_The_100_Greatest_Video_Games.txt",
-        #  "data/2016-01-10 Retro Gamer 150 Greatest Games Ever.txt",
-        #  "data/2016-08-23 Time_2016_The_50_Best_Video_Games_of_All_Time.txt",
-        #  "data/2017-03-13 The_Wrap_2017_The_30_Best_Video_Games_of_All_Time.txt",
-        #  "data/2017-08-30 Edge_Magazine_2017_The_100_Greatest_Videogames_2017_Edition.txt",
-        #  "data/2017-09-01 WhatCulture_2017_30_Best_Video_Games_Of_All_Time.txt",
-        #  "data/2017-10-06 Stuff_Best_Games_Ever_The_16_best_driving_games_of_all_time.txt",
-        #  "data/2017-11-27 Polygon_2017_The_500_best_games_of_all_time.txt",
-        #  "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_25_best_Nintendo_games_of_all_time.txt",
-        #  "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_25_best_PlayStation_games_of_all_time.txt",
-        #  "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_25_best_Xbox_games_of_all_time.txt",
-        #  "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_50_greatest_games_of_all_time.txt",
-        #  "data/2018-01-23 Comicbook_2018_10_Best_Video_Games_of_ALL_Time.txt",
-        #  "data/2018-03-19 Game_Informer_2018_Reader's_Choice_Top_300_Games_Of_All_Time.txt",
-        #  "data/2018-05-11 The_Indie_Game_Website_2018_The_100_Best_Indie_Games_of_All_Time.txt",
-        #  "data/2018-06-08 Slant_2018_The_100_Greatest_Video_Games_of_All_Time.txt",
-        #  "data/2018-08-07 VG247_2018_The_50_best_RPGs_EVER.txt",
-        #  "data/2018-09-12 PC_Gamer_2018_The_PC_Gamer_Top_100.txt",
-        #  "data/2018-10-30 Complex_2018_The_100_Best_Video_Games_of_the_2000s.txt",
-        #  "data/2018-12-31 IGN_2018_Top_100_RPGs_of_All_Time.txt",
-        #  "data/2018-12-31 IGN_2018_Top_100_Video_Games_of_All_Time.txt",
-        #  "data/2018-12-31 Videogamer_2018_Top_PC_Games_of_All_Time.txt",
-        #  "data/2019-03-21 The 100 Greatest Video Games of All Time (Popular Mechanics).txt",
-        #  "data/2019-07-01 Hiconsumption_2019_The_100_Best_Video_Games_of_All_Time.txt",
-        #  "data/2019-09-19 Guardian The 50 best video games of the 21st century.txt",
-        #  "data/2020-03-30 Esquire The 15 Best Video Games of All Time, Ranked.txt",
-        #  "data/2020-04-13 Slant_2020_The_100_Best_Video_Games_of_All_Time.txt",
-        #  "data/2020-09-07 The PC Gamer Top 100 (2020).txt",
-        #  "data/2020-12-02 Gaming Bible The Greatest Games Of All Time.txt",
-        #  "data/2021-06-10 Howchoo The 30 Best Video Games of All Time.txt",
-        #  "data/2021-08-13 CRPG_Addict_2021_Top_100.txt",
-        #  "data/2021-08-14 Shphhd_2021_top_100.txt"
+         "data/2004-12-31 Retro_Gamer_2004_Reader's_Top_100_Games.txt",
+         "data/2008-08-09 Pelaajalehti_2008_Kymmenen_kaikkien_aikojen_parasta_peliä.txt",
+         "data/2009-02-27 Guinness_2009_top_50_games_of_all_time.txt",
+         "data/2009-11-21 Game_Informer_2009_Top_200_Games_of_All_Time.txt",
+         "data/2010-01-08 MuroBBS_2010_Maailman_Kaikkien_Aikojen_Paras_Peli.txt",
+         "data/2011-12-31 PC_Gamer_2011_The_100_best_PC_games_of_all_time.txt",
+         "data/2014-05-10 RPG_Codex_2014_Top_70_PC_RPGs.txt",
+         "data/2014-06-09 Slant_2014_The_100_Greatest_Video_Games_of_All_Time.txt",
+         "data/2014-12-31 Popular_Mechanics_2014_The_100_Greatest_Video_Games_of_All_Time.txt",
+         "data/2015-02-25 GamesRadar_2015_The_100_best_games_ever.txt",
+         "data/2015-06-12 Rock_Paper_Shotgun_2015_The_25_Best_Adventure_Games_Ever_Made.txt",
+         "data/2015-12-31 Empire_2015_The_100_Greatest_Video_Games.txt",
+         "data/2016-01-10 Retro Gamer 150 Greatest Games Ever.txt",
+         "data/2016-08-23 Time_2016_The_50_Best_Video_Games_of_All_Time.txt",
+         "data/2017-03-13 The_Wrap_2017_The_30_Best_Video_Games_of_All_Time.txt",
+         "data/2017-08-30 Edge_Magazine_2017_The_100_Greatest_Videogames_2017_Edition.txt",
+         "data/2017-09-01 WhatCulture_2017_30_Best_Video_Games_Of_All_Time.txt",
+         "data/2017-10-06 Stuff_Best_Games_Ever_The_16_best_driving_games_of_all_time.txt",
+         "data/2017-11-27 Polygon_2017_The_500_best_games_of_all_time.txt",
+         "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_25_best_Nintendo_games_of_all_time.txt",
+         "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_25_best_PlayStation_games_of_all_time.txt",
+         "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_25_best_Xbox_games_of_all_time.txt",
+         "data/2017-12-27 Stuff_2017_Best_Games_Ever_The_50_greatest_games_of_all_time.txt",
+         "data/2018-01-23 Comicbook_2018_10_Best_Video_Games_of_ALL_Time.txt",
+         "data/2018-03-19 Game_Informer_2018_Reader's_Choice_Top_300_Games_Of_All_Time.txt",
+         "data/2018-05-11 The_Indie_Game_Website_2018_The_100_Best_Indie_Games_of_All_Time.txt",
+         "data/2018-06-08 Slant_2018_The_100_Greatest_Video_Games_of_All_Time.txt",
+         "data/2018-08-07 VG247_2018_The_50_best_RPGs_EVER.txt",
+         "data/2018-09-12 PC_Gamer_2018_The_PC_Gamer_Top_100.txt",
+         "data/2018-10-30 Complex_2018_The_100_Best_Video_Games_of_the_2000s.txt",
+         "data/2018-12-31 IGN_2018_Top_100_RPGs_of_All_Time.txt",
+         "data/2018-12-31 IGN_2018_Top_100_Video_Games_of_All_Time.txt",
+         "data/2018-12-31 Videogamer_2018_Top_PC_Games_of_All_Time.txt",
+         "data/2019-03-21 The 100 Greatest Video Games of All Time (Popular Mechanics).txt",
+         "data/2019-07-01 Hiconsumption_2019_The_100_Best_Video_Games_of_All_Time.txt",
+         "data/2019-09-19 Guardian The 50 best video games of the 21st century.txt",
+         "data/2020-03-30 Esquire The 15 Best Video Games of All Time, Ranked.txt",
+         "data/2020-04-13 Slant_2020_The_100_Best_Video_Games_of_All_Time.txt",
+         "data/2020-09-07 The PC Gamer Top 100 (2020).txt",
+         "data/2020-12-02 Gaming Bible The Greatest Games Of All Time.txt",
+         "data/2021-06-10 Howchoo The 30 Best Video Games of All Time.txt",
+         "data/2021-08-13 CRPG_Addict_2021_Top_100.txt",
+         "data/2021-08-14 Shphhd_2021_top_100.txt"
         ]
 
 
@@ -338,10 +338,11 @@ def make_printable(olist):
             if (band.id) != 0:
                 printable.append(f"                  {band.get_country()} | {band.hltb} h | {band.get_perspective()}")
                 printable.append(f"                  On: {band.get_platforms()}")
+                printable.append(f"                  Genre: {band.get_genre()} | Theme: {band.get_theme()}")
+                #printable.append(f"                  Theme: {band.get_theme()}")
                 printable.append(f"                  Developers: {band.get_developers()}")
                 printable.append(f"                  Publishers: {band.get_publishers()}")
-                printable.append(f"                  Genre: {band.get_genre()}")
-                printable.append(f"                  Theme: {band.get_theme()}")
+
                 printable.append(f"                  Designer: {band.get_designer()}")
                 printable.append(f"                  Composer: {band.get_composer()}")
             else:
@@ -358,7 +359,7 @@ with open('gamedb.json', 'r', encoding='utf-8') as f:
 unlisted = []
 developers = []
 dev_names = []
-
+old_l = ""
 for l in lists:
     list_groups = []
     
@@ -378,10 +379,11 @@ for l in lists:
                         groupnames.append(x[1])
                         g = groups[groupnames.index(x[1])]
                         if x[1] not in gamedb:
-                            if len(unlisted) < 1:
+                            if old_l != l:
                                 unlisted.append("")
-                                unlisted.append(f"Missing from the database:")    
+                                unlisted.append(f"{l}")    
                                 unlisted.append(f"--------------------------")
+                                old_l = l
                             unlisted.append(f"{x[0]}. {x[1]}")
                         else:
                             g.id = gamedb[x[1]]['id']
@@ -406,6 +408,7 @@ for l in lists:
                         list_groups.append(x[1])
                 except:                    
                     pass
+        old_l = l
         f.close()
         
     except:
@@ -492,6 +495,7 @@ with open('missing.txt', 'w', encoding='utf-8') as f_out:
 i = 0
 countries = {}
 platforms = {}
+years = {}
 for g in gamedb:
     s = groups[groupnames.index(g)]
     for x in s.country:
@@ -508,7 +512,12 @@ for g in gamedb:
             a = platforms[x]
             a = a + 1
             platforms[x] = a
-
+    if s.year not in years:
+        years[s.year] = 1
+    else:
+        a = years[s.year]
+        a = a + 1
+        years[s.year] = a
 
 #countries = (countries.values().values())
 #sorted(data.keys(), key=data.get)
@@ -541,12 +550,24 @@ for i in platforms:
     s = f"{a}: {i}  ({b}%)"
     print_platforms.append(s)
 
+print_years = []
+for i in years:
+    a = years[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_years.append(s)
 
 with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     f_out.write(f"Games in database: {len(gamedb)}\n")
     f_out.write("\n")
-    f_out.write("Countries:\n")
-    f_out.write("----------\n")
+    f_out.write("Countries (Top 10):\n")
+    f_out.write("-------------------\n")
     print_countries.sort(reverse=True)
     k = 0
     k2 = 0
@@ -563,10 +584,13 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
             k2 += 1
             s = f"  = "
         temp = int(i[0])
-        f_out.write(f"{s} {j[0]}: {int(i[0]):3} ({j[1]:3}\n")
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:
+            break
     f_out.write("\n")
-    f_out.write("Platforms:\n")
-    f_out.write("----------\n")
+    f_out.write("Platforms (Top 10):\n")
+    f_out.write("-------------------\n")
     print_platforms.sort(reverse=True)
     k = 0
     k2 = 0
@@ -583,4 +607,31 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
             k2 += 1
             s = f"  = "
         temp = int(i[0])
-        f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("Years (Top 10):\n")
+    f_out.write("---------------\n")
+    print_years.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_years:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")

@@ -5270,6 +5270,66 @@
         "designer": ["Chris Stamper", "Tim Stamper"],
         "composer": ["Unknown"],
         "hltb": 1
+    },
+    "Dizzy: The Ultimate Cartoon Adventure (1987)":
+    {
+        "id": 352,
+        "year": 1987,
+        "country": ["GBR"],
+        "platforms": ["Amstrad CPC", "ZX Spectrum", "C64"],
+        "developers": ["Codemasters"],
+        "publishers": ["Codemasters"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Oliver Twins"],
+        "composer": ["Jon Paul Eldridge", "David Whittaker"],
+        "hltb": 3
+    },
+    "Street Fighter II: Hyper Fighting (1992)":
+    {
+        "id": 353,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "Xbox 360", "SNES", "Wii", "Arcade"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Akira Nishitani", "Akira Yasuda"],
+        "composer": ["Yoko Shimomura", "Isao Abe"],
+        "hltb": 4
+    },
+    "Galaxian (1979)":
+    {
+        "id": 354,
+        "year": 1979,
+        "country": ["JPN"],
+        "platforms": ["Atari 8-bit", "MSX", "PC-8801", "NES", "ZX Spectrum", "Atari 2600", "DOS", "C64", "Atari 5200", "ColecoVision", "Sharp X1", "FM-7", "VIC-20", "Apple II", "NEC PC-6000", "Arcade"],
+        "developers": ["Namco"],
+        "publishers": ["Atari", "Midway", "Namco", "Dempa Shimbunsha"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Kazunori Sawano", "Shigeichi Ishimura"],
+        "composer": ["Toshio Kai"],
+        "hltb": 1
+    },
+    "Gunstar Heroes (1993)":
+    {
+        "id": 355,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Xbox 360", "Linux", "iOS", "Wii", "Game Gear", "PS3", "Win"],
+        "developers": ["Treasure"],
+        "publishers": ["Sega"],
+        "genre": ["Arcade", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["Side view"],
+        "designer": ["Masato Maegawa"],
+        "composer": ["Norio Hanzawa"],
+        "hltb": 2
     }
 
 }
