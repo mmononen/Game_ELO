@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2249   Doom (1993)                                                                                 19    4 
+    1. 2326   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -10,7 +10,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2175   Final Fantasy VII (1997)                                                                   191    3 
+    2. 2290   Final Fantasy VII (1997)                                                                   191    4 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Developers: Square
@@ -40,7 +40,27 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1698   Tecmo Bowl (1987)                                                                          297    1 
+    5. 1765   Pac-Man (1980)                                                                             251    2 
+                  JPN | 2 h | Side view
+                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Survival
+                  Designer: Toru Iwatani
+                  Composer: Shigeichi Ishimura, Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1702   Grand Theft Auto: Vice City (2002)                                                         339    1 
+                  GBR | 28 h | Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Genre: Adventure, Racing, Shooter
+                  Theme: Action, Comedy, Open world
+                  Designer: Leslie Benzies
+                  Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1698   Tecmo Bowl (1987)                                                                          297    1 
                   JPN | 5 h | Bird view / Isometric
                   On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
                   Developers: Koei, Tecmo
@@ -50,7 +70,7 @@
                   Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
                   Composer: Keiji Yamagishi, Mikio Saitou
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
+    8. 1572   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
                   JPN | 33 h | Bird view / Isometric, First person
                   On: 3DS, Android, GBC, Mobile, NES, PS4, SNES, Switch, iOS
                   Developers: Chunsoft, Heartbeat, Tose
@@ -70,7 +90,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1547   Ikari Warriors (1986)                                                                      103    1 
+   10. 1547   Ikari Warriors (1986)                                                                      103    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Developers: SNK
@@ -80,17 +100,7 @@
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1452   Pac-Man (1980)                                                                             251    1 
-                  JPN | 2 h | Side view
-                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
-                  Developers: Namco
-                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
-                  Genre: Arcade, Puzzle, Strategy
-                  Theme: Action, Survival
-                  Designer: Toru Iwatani
-                  Composer: Shigeichi Ishimura, Toshio Kai
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1439   Double Dragon (1987)                                                                       318    1 
+   11. 1439   Double Dragon (1987)                                                                       318    1 
                   JPN | 2 h | Side view, Third person
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Developers: Arc System Works, Technos

@@ -1,26 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2296   Super Mario 64 (1996)                                                                        1    5 
-                  JPN | 17 h | Third person
-                  On: N64, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Platform
-                  Theme: Action
-                  Designer: Shigeru Miyamoto
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2269   The Legend of Zelda (1986)                                                                 108    4 
-                  JPN | 9 h | Bird view / Isometric
-                  On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure
-                  Theme: Action, Fantasy, Open world
-                  Designer: Shigeru Miyamoto, Takashi Tezuka
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2255   The Legend of Zelda: Ocarina of Time (1998)                                                177    4 
+    1. 2339   The Legend of Zelda: Ocarina of Time (1998)                                                177    5 
                   JPN | 31 h | Third person
                   On: N64, Wii, Wii U
                   Developers: Nintendo
@@ -30,7 +10,17 @@
                   Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2228   The Legend of Zelda: A Link to the Past (1991)                                             110    5 
+    2. 2330   Super Mario 64 (1996)                                                                        1    6 
+                  JPN | 17 h | Third person
+                  On: N64, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Platform
+                  Theme: Action
+                  Designer: Shigeru Miyamoto
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2281   The Legend of Zelda: A Link to the Past (1991)                                             110    6 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -40,47 +30,7 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2210   Super Mario Bros. (1985)                                                                     5    3 
-                  JPN | 2 h | Side view
-                  On: 3DS, NES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform
-                  Theme: Action
-                  Designer: Shigeru Miyamoto, Takashi Tezuka
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2184   Super Mario Bros. 3 (1988)                                                                  32    3 
-                  JPN | 6 h | Side view
-                  On: 3DS, NES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform
-                  Theme: Action
-                  Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2159   Metroid (1986)                                                                             117    3 
-                  JPN | 7 h | Side view
-                  On: 3DS, Arcade, NES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform
-                  Theme: Action, Science Fiction
-                  Designer: Satoru Okada
-                  Composer: Hirokazu Tanaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2152   Super Metroid (1994)                                                                       119    5 
-                  JPN | 9 h | Side view
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Platform, Shooter
-                  Theme: Action, Horror, Science Fiction, Thriller
-                  Designer: Yoshio Sakamoto
-                  Composer: Kenji Yamamoto, Minako Hamano
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 2141   Super Mario World (1990)                                                                    33    4 
+    4. 2274   Super Mario World (1990)                                                                    33    5 
                   JPN | 8 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -90,7 +40,27 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 2131   Super Mario Kart (1992)                                                                     53    4 
+    5. 2269   The Legend of Zelda (1986)                                                                 108    4 
+                  JPN | 9 h | Bird view / Isometric
+                  On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure
+                  Theme: Action, Fantasy, Open world
+                  Designer: Shigeru Miyamoto, Takashi Tezuka
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2243   Super Mario Bros. (1985)                                                                     5    4 
+                  JPN | 2 h | Side view
+                  On: 3DS, NES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action
+                  Designer: Shigeru Miyamoto, Takashi Tezuka
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 2224   Super Mario Kart (1992)                                                                     53    5 
                   JPN | 10 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -99,6 +69,36 @@
                   Theme: Action, Party
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 2184   Super Mario Bros. 3 (1988)                                                                  32    3 
+                  JPN | 6 h | Side view
+                  On: 3DS, NES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action
+                  Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 2159   Metroid (1986)                                                                             117    3 
+                  JPN | 7 h | Side view
+                  On: 3DS, Arcade, NES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action, Science Fiction
+                  Designer: Satoru Okada
+                  Composer: Hirokazu Tanaka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 2152   Super Metroid (1994)                                                                       119    5 
+                  JPN | 9 h | Side view
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Platform, Shooter
+                  Theme: Action, Horror, Science Fiction, Thriller
+                  Designer: Yoshio Sakamoto
+                  Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 2099   Super Mario Bros. 2 (1988)                                                                  31    3 
                   JPN | 4 h | Side view
@@ -140,107 +140,7 @@
                   Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1831   Wave Race 64 (1996)                                                                        193    2 
-                  JPN | 9 h | First person, Third person
-                  On: N64, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Racing, Sport
-                  Theme: Action
-                  Designer: Katsuya Eguchi, Shinya Takahashi
-                  Composer: Kazumi Totaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1737   Mega Man 2 (1988)                                                                          295    1 
-                  JPN | 3 h | Side view
-                  On: 3DS, NES, PSX, Wii, Wii U, iOS
-                  Developers: Capcom
-                  Publishers: Capcom
-                  Genre: Adventure, Platform
-                  Theme: Action, Science Fiction
-                  Designer: Akira Kitamura
-                  Composer: Takashi Tateishi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1735   Secret of Mana (1993)                                                                      232    2 
-                  JPN | 29 h | Bird view / Isometric
-                  On: Android, SNES, Wii, Wii U, iOS
-                  Developers: Square
-                  Publishers: Square
-                  Genre: RPG
-                  Theme: Action, Fantasy
-                  Designer: Hiromichi Tanaka, Koichi Ishii
-                  Composer: Hiroki Kikuta
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1698   Tecmo Bowl (1987)                                                                          297    1 
-                  JPN | 5 h | Bird view / Isometric
-                  On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
-                  Developers: Koei, Tecmo
-                  Publishers: HAMSTER, Koei, Tecmo
-                  Genre: Sport
-                  Theme: Action, American Football
-                  Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
-                  Composer: Keiji Yamagishi, Mikio Saitou
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1654   1080° Snowboarding (1998)                                                                  231    1 
-                  JPN | 7 h | Third person
-                  On: N64, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Racing, Sport
-                  Theme: Action, Snowboarding
-                  Designer: Masamichi Abe, Mitsuhiro Takano
-                  Composer: Kenta Nagata
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1653   Excitebike (1984)                                                                          300    1 
-                  JPN | 1 h | Side view
-                  On: Arcade, GBA, NES, PC-8801, Sharp X1, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Hudson Soft, Nintendo
-                  Genre: Racing, Sport
-                  Theme: Action, Motocross, Motorsports
-                  Designer: Shigeru Miyamoto
-                  Composer: Akito Nakatsuka, Soyo Oka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1645   Nobunaga's Ambition (1986)                                                                  49    1 
-                  JPN | 40 h | Bird view / Isometric
-                  On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
-                  Developers: Koei
-                  Publishers: Koei
-                  Genre: RPG, Simulator, Strategy, Turn-Based Strategy
-                  Theme: Fantasy, Historical, Sandbox, Warfare
-                  Designer: Kou Shibusawa
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1638   Star Fox 64 (1997)                                                                         233    1 
-                  JPN | 4 h | First person, Third person
-                  On: N64, Wii, Wii U
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Genre: Adventure, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Shigeru Miyamoto, Takao Shimizu
-                  Composer: Hajime Wakai, Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1627   Castlevania (1986)                                                                         302    1 
-                  JPN | 6 h | Side view
-                  On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
-                  Developers: Konami
-                  Publishers: Konami, Nintendo
-                  Genre: Adventure, Platform
-                  Theme: Action, Horror
-                  Designer: Akihiko Nagata
-                  Composer: Kinuyo Yamashita, Satoe Terashima
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1619   R-Type (1987)                                                                              172    2 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
-                  Developers: Irem, Konami
-                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
-                  Genre: Arcade, Shooter
-                  Theme: Action, Science Fiction
-                  Designer: Abiko
-                  Composer: Masato Ishizaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1595   Bubble Bobble (1986)                                                                       237    1 
+   15. 1834   Bubble Bobble (1986)                                                                       237    2 
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Developers: Taito
@@ -250,7 +150,117 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1510   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
+   16. 1831   Wave Race 64 (1996)                                                                        193    2 
+                  JPN | 9 h | First person, Third person
+                  On: N64, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Racing, Sport
+                  Theme: Action
+                  Designer: Katsuya Eguchi, Shinya Takahashi
+                  Composer: Kazumi Totaka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1765   Pac-Man (1980)                                                                             251    2 
+                  JPN | 2 h | Side view
+                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
+                  Genre: Arcade, Puzzle, Strategy
+                  Theme: Action, Survival
+                  Designer: Toru Iwatani
+                  Composer: Shigeichi Ishimura, Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1737   Mega Man 2 (1988)                                                                          295    1 
+                  JPN | 3 h | Side view
+                  On: 3DS, NES, PSX, Wii, Wii U, iOS
+                  Developers: Capcom
+                  Publishers: Capcom
+                  Genre: Adventure, Platform
+                  Theme: Action, Science Fiction
+                  Designer: Akira Kitamura
+                  Composer: Takashi Tateishi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1735   Secret of Mana (1993)                                                                      232    2 
+                  JPN | 29 h | Bird view / Isometric
+                  On: Android, SNES, Wii, Wii U, iOS
+                  Developers: Square
+                  Publishers: Square
+                  Genre: RPG
+                  Theme: Action, Fantasy
+                  Designer: Hiromichi Tanaka, Koichi Ishii
+                  Composer: Hiroki Kikuta
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1712   R-Type (1987)                                                                              172    3 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
+                  Developers: Irem, Konami
+                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
+                  Genre: Arcade, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Abiko
+                  Composer: Masato Ishizaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1698   Tecmo Bowl (1987)                                                                          297    1 
+                  JPN | 5 h | Bird view / Isometric
+                  On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
+                  Developers: Koei, Tecmo
+                  Publishers: HAMSTER, Koei, Tecmo
+                  Genre: Sport
+                  Theme: Action, American Football
+                  Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
+                  Composer: Keiji Yamagishi, Mikio Saitou
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1654   1080° Snowboarding (1998)                                                                  231    1 
+                  JPN | 7 h | Third person
+                  On: N64, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Racing, Sport
+                  Theme: Action, Snowboarding
+                  Designer: Masamichi Abe, Mitsuhiro Takano
+                  Composer: Kenta Nagata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   23. 1653   Excitebike (1984)                                                                          300    1 
+                  JPN | 1 h | Side view
+                  On: Arcade, GBA, NES, PC-8801, Sharp X1, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Hudson Soft, Nintendo
+                  Genre: Racing, Sport
+                  Theme: Action, Motocross, Motorsports
+                  Designer: Shigeru Miyamoto
+                  Composer: Akito Nakatsuka, Soyo Oka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1645   Nobunaga's Ambition (1986)                                                                  49    1 
+                  JPN | 40 h | Bird view / Isometric
+                  On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
+                  Developers: Koei
+                  Publishers: Koei
+                  Genre: RPG, Simulator, Strategy, Turn-Based Strategy
+                  Theme: Fantasy, Historical, Sandbox, Warfare
+                  Designer: Kou Shibusawa
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1638   Star Fox 64 (1997)                                                                         233    1 
+                  JPN | 4 h | First person, Third person
+                  On: N64, Wii, Wii U
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Genre: Adventure, Shooter
+                  Theme: Action, Science Fiction
+                  Designer: Shigeru Miyamoto, Takao Shimizu
+                  Composer: Hajime Wakai, Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   26. 1627   Castlevania (1986)                                                                         302    1 
+                  JPN | 6 h | Side view
+                  On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
+                  Developers: Konami
+                  Publishers: Konami, Nintendo
+                  Genre: Adventure, Platform
+                  Theme: Action, Horror
+                  Designer: Akihiko Nagata
+                  Composer: Kinuyo Yamashita, Satoe Terashima
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   27. 1510   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
                   GBR | 7 h | Side view
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Rare
@@ -260,7 +270,7 @@
                   Designer: Andrew Collard, Gregg Mayles, Tim Stamper
                   Composer: David Wise
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1494   The Legend of Zelda: Majora's Mask (2000)                                                  314    1 
+   28. 1494   The Legend of Zelda: Majora's Mask (2000)                                                  314    1 
                   JPN | 30 h | Third person
                   On: GameCube, N64, Wii, Wii U
                   Developers: Nintendo
@@ -270,7 +280,7 @@
                   Designer: Eiji Aonuma, Yoshiaki Koizumi
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
+   29. 1464   Contra III: The Alien Wars (1992)                                                          249    1 
                   JPN | 2 h | Bird view / Isometric, Side view, Third person
                   On: 3DS, GBA, SNES, Wii, Wii U
                   Developers: Konami
@@ -279,16 +289,6 @@
                   Theme: Action, Science Fiction
                   Designer: Nobuya Nakazato
                   Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1452   Pac-Man (1980)                                                                             251    1 
-                  JPN | 2 h | Side view
-                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
-                  Developers: Namco
-                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
-                  Genre: Arcade, Puzzle, Strategy
-                  Theme: Action, Survival
-                  Designer: Toru Iwatani
-                  Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    30. 1439   Double Dragon (1987)                                                                       318    1 
                   JPN | 2 h | Side view, Third person

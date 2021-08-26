@@ -1,16 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2229   Street Fighter II (1991)                                                                     7    5 
-                  JPN | 9 h | Side view
-                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
-                  Developers: Capcom
-                  Publishers: Capcom, U.S. Gold
-                  Genre: Arcade, Fighting
-                  Theme: Action, Science Fiction
-                  Designer: Akira Nishitani, Akira Yasuda
-                  Composer: Isao Abe, Yoko Shimomura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2228   The Legend of Zelda: A Link to the Past (1991)                                             110    5 
+    1. 2281   The Legend of Zelda: A Link to the Past (1991)                                             110    6 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Developers: Nintendo
@@ -20,17 +10,17 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2150   Sid Meier's Civilization (1991)                                                              4    4 
-                  USA | 50 h | Bird view / Isometric
-                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
-                  Developers: Koei, MicroProse
-                  Publishers: MicroProse
-                  Genre: Strategy, Turn-Based Strategy
-                  Theme: 4X
-                  Designer: Bruce Shelley, Sid Meier
-                  Composer: Jeffery L. Briggs
+    2. 2241   Street Fighter II (1991)                                                                     7    6 
+                  JPN | 9 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
+                  Developers: Capcom
+                  Publishers: Capcom, U.S. Gold
+                  Genre: Arcade, Fighting
+                  Theme: Action, Science Fiction
+                  Designer: Akira Nishitani, Akira Yasuda
+                  Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2063   Sonic the Hedgehog (1991)                                                                   20    4 
+    3. 2181   Sonic the Hedgehog (1991)                                                                   20    5 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -39,6 +29,16 @@
                   Theme: Action, Science Fiction
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 2158   Sid Meier's Civilization (1991)                                                              4    5 
+                  USA | 50 h | Bird view / Isometric
+                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
+                  Developers: Koei, MicroProse
+                  Publishers: MicroProse
+                  Genre: Strategy, Turn-Based Strategy
+                  Theme: 4X
+                  Designer: Bruce Shelley, Sid Meier
+                  Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 2029   Final Fantasy IV (1991)                                                                    190    3 
                   JPN | 28 h | Bird view / Isometric
@@ -60,17 +60,7 @@
                   Designer: Hiroji Kiyotake, Hiroyuki Kimura, Makoto Kano
                   Composer: Ryoji Yoshitomi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1811   Puyo Puyo (1991)                                                                           216    1 
-                  JPN | 1 h | Side view
-                  On: MSX, NES
-                  Developers: Compile
-                  Publishers: Banpresto, Compile
-                  Genre: Puzzle
-                  Theme: Action
-                  Designer: Masanobu Tsukamoto
-                  Composer: Akiyoshi Nagao, Daisuke Fujimoto, Masaaki Harada, Masanobu Tsukamoto, Toshiaki Sakoda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1753   Lemmings (1991)                                                                              8    2 
+    7. 1870   Lemmings (1991)                                                                              8    3 
                   GBR | 23 h | Side view
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Developers: DMA Design
@@ -79,6 +69,16 @@
                   Theme: Action, Comedy
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1811   Puyo Puyo (1991)                                                                           216    1 
+                  JPN | 1 h | Side view
+                  On: MSX, NES
+                  Developers: Compile
+                  Publishers: Banpresto, Compile
+                  Genre: Puzzle
+                  Theme: Action
+                  Designer: Masanobu Tsukamoto
+                  Composer: Akiyoshi Nagao, Daisuke Fujimoto, Masaaki Harada, Masanobu Tsukamoto, Toshiaki Sakoda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1750   Populous II: Trials of the Olympian Gods (1991)                                             34    2 
                   GBR | 12 h | Bird view / Isometric

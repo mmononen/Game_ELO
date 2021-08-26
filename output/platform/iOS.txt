@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2249   Doom (1993)                                                                                 19    4 
+    1. 2326   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -10,17 +10,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2114   Castlevania: Symphony of the Night (1997)                                                  224    3 
-                  JPN | 12 h | Side view
-                  On: Android, PSX, Saturn, Xbox 360, iOS
-                  Developers: Konami
-                  Publishers: Konami
-                  Genre: Adventure, Platform, RPG
-                  Theme: Action, Horror
-                  Designer: Toru Hagihara
-                  Composer: Michiru Yamane
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2063   Sonic the Hedgehog (1991)                                                                   20    4 
+    2. 2181   Sonic the Hedgehog (1991)                                                                   20    5 
                   JPN | 2 h | Side view
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Developers: Sonic Team
@@ -29,6 +19,16 @@
                   Theme: Action, Science Fiction
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2114   Castlevania: Symphony of the Night (1997)                                                  224    3 
+                  JPN | 12 h | Side view
+                  On: Android, PSX, Saturn, Xbox 360, iOS
+                  Developers: Konami
+                  Publishers: Konami
+                  Genre: Adventure, Platform, RPG
+                  Theme: Action, Horror
+                  Designer: Toru Hagihara
+                  Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 2054   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
                   USA | 13 h | Third person
@@ -110,17 +110,7 @@
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1669   Pitfall! (1982)                                                                            298    1 
-                  USA | 3 h | Side view
-                  On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
-                  Developers: Activision
-                  Publishers: Activision
-                  Genre: Platform
-                  Theme: Action
-                  Designer: David Crane
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1619   R-Type (1987)                                                                              172    2 
+   12. 1712   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Developers: Irem, Konami
@@ -130,7 +120,37 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1584   Akalabeth: World of Doom (1980)                                                             76    1 
+   13. 1702   Grand Theft Auto: Vice City (2002)                                                         339    1 
+                  GBR | 28 h | Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Genre: Adventure, Racing, Shooter
+                  Theme: Action, Comedy, Open world
+                  Designer: Leslie Benzies
+                  Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1691   Space Invaders (1978)                                                                      171    2 
+                  JPN | 4 h | Side view
+                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
+                  Developers: Taito
+                  Publishers: Midway, Taito
+                  Genre: Arcade, Shooter
+                  Theme: Science Fiction
+                  Designer: Tomohiro Nishikado
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1669   Pitfall! (1982)                                                                            298    1 
+                  USA | 3 h | Side view
+                  On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
+                  Developers: Activision
+                  Publishers: Activision
+                  Genre: Platform
+                  Theme: Action
+                  Designer: David Crane
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1584   Akalabeth: World of Doom (1980)                                                             76    1 
                   USA | 4 h | Bird view / Isometric, First person
                   On: Apple II, DOS, Linux, Mac, Win, iOS
                   Developers: Richard Garriott
@@ -140,7 +160,7 @@
                   Designer: Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1572   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
+   17. 1572   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
                   JPN | 49 h | Bird view / Isometric, First person
                   On: Android, DS, SNES, iOS
                   Developers: Heartbeat
@@ -180,7 +200,17 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1469   Shining Force (1992)                                                                       130    1 
+   21. 1544   Boulder Dash (1984)                                                                        345    1 
+                  USA | 10 h | Side view
+                  On: Acorn Electron, Amstrad CPC, Android, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, FM-7, GB, MSX, NES, PC-8801, Wii, Win, ZX Spectrum, iOS
+                  Developers: First Star Software, TapStar Interactive
+                  Publishers: Comptiq, Data East, Electronic Arts, Exidy, First Star Software, K-Tel, Micro Fun, Orpheus, TapStar Interactive, Tynesoft, Victor
+                  Genre: Arcade, Platform, Puzzle
+                  Theme: Action
+                  Designer: Chris Gray, Peter Liepa
+                  Composer: Ian Waugh, Peter Liepa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1469   Shining Force (1992)                                                                       130    1 
                   JPN | 22 h | Bird view / Isometric
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Developers: Camelot Software Planning, Climax Entertainment
@@ -190,7 +220,7 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1423   ChuChu Rocket! (1999)                                                                      254    1 
+   23. 1423   ChuChu Rocket! (1999)                                                                      254    1 
                   JPN | 7 h | Bird view / Isometric
                   On: Android, Dreamcast, GBA, Wii U, iOS
                   Developers: Sonic Team
@@ -200,7 +230,7 @@
                   Designer: Takafumi Kaya, Yuji Naka
                   Composer: Tomoya Ohtani
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1409   Baldur's Gate (1998)                                                                       281    1 
+   24. 1409   Baldur's Gate (1998)                                                                       281    1 
                   CAN | 57 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Developers: BioWare
@@ -210,7 +240,7 @@
                   Designer: James Ohlen
                   Composer: Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1296   Marathon (1994)                                                                            284    1 
+   25. 1296   Marathon (1994)                                                                            284    1 
                   USA | 8 h | First person
                   On: Mac, iOS
                   Developers: Bungie
@@ -220,7 +250,7 @@
                   Designer: Alex Seropian, Jason Jones
                   Composer: Alex Seropian
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1286   Planescape: Torment (1999)                                                                 285    1 
+   26. 1286   Planescape: Torment (1999)                                                                 285    1 
                   USA | 43 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Developers: Black Isle
@@ -229,13 +259,3 @@
                   Theme: Drama, Fantasy
                   Designer: Chris Avellone
                   Composer: Mark Morgan
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1247   Space Invaders (1978)                                                                      171    1 
-                  JPN | 4 h | Side view
-                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
-                  Developers: Taito
-                  Publishers: Midway, Taito
-                  Genre: Arcade, Shooter
-                  Theme: Science Fiction
-                  Designer: Tomohiro Nishikado
-                  Composer: Unknown

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2249   Doom (1993)                                                                                 19    4 
+    1. 2326   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -10,17 +10,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2216   Final Fantasy VI (1994)                                                                     36    4 
-                  JPN | 42 h | Bird view / Isometric, Side view
-                  On: PSX, SNES, Wii, Win
-                  Developers: Square, Tose
-                  Publishers: Nintendo, Sony, Square
-                  Genre: Adventure, RPG
-                  Theme: Fantasy, Open world, Sandbox
-                  Designer: Hiroyuki Ito, Yoshinori Kitase
-                  Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2175   Final Fantasy VII (1997)                                                                   191    3 
+    2. 2290   Final Fantasy VII (1997)                                                                   191    4 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Developers: Square
@@ -28,6 +18,16 @@
                   Genre: Adventure, RPG
                   Theme: Fantasy, Science Fiction
                   Designer: Yoshinori Kitase
+                  Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2216   Final Fantasy VI (1994)                                                                     36    4 
+                  JPN | 42 h | Bird view / Isometric, Side view
+                  On: PSX, SNES, Wii, Win
+                  Developers: Square, Tose
+                  Publishers: Nintendo, Sony, Square
+                  Genre: Adventure, RPG
+                  Theme: Fantasy, Open world, Sandbox
+                  Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 2161   Gran Turismo (1997)                                                                        189    3 
@@ -40,7 +40,17 @@
                   Designer: Hirotaka Komiyama, Kazunori Yamauchi, Takeshi Yokouchi
                   Composer: Isamu Ohira, Jason Page, Masahiro Andoh
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2156   Metal Gear Solid (1998)                                                                    196    4 
+    5. 2158   Sid Meier's Civilization (1991)                                                              4    5 
+                  USA | 50 h | Bird view / Isometric
+                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
+                  Developers: Koei, MicroProse
+                  Publishers: MicroProse
+                  Genre: Strategy, Turn-Based Strategy
+                  Theme: 4X
+                  Designer: Bruce Shelley, Sid Meier
+                  Composer: Jeffery L. Briggs
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2156   Metal Gear Solid (1998)                                                                    196    4 
                   JPN | 13 h | Third person
                   On: PS3, PSP, PSX
                   Developers: Konami
@@ -50,7 +60,7 @@
                   Designer: Hideo Kojima
                   Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2150   Sid Meier's Civilization II (1996)                                                          30    4 
+    7. 2150   Sid Meier's Civilization II (1996)                                                          30    4 
                   USA | 50 h | Bird view / Isometric
                   On: Mac, PSX, Win
                   Developers: MicroProse
@@ -59,16 +69,6 @@
                   Theme: 4X
                   Designer: Brian Reynolds, Chris Taormino, Jason S. Coleman
                   Composer: Jeffery L. Briggs, Kevin Manthei, Roland J. Rizzo
-
-       2150   Sid Meier's Civilization (1991)                                                              4    4
-                  USA | 50 h | Bird view / Isometric
-                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
-                  Developers: Koei, MicroProse
-                  Publishers: MicroProse
-                  Genre: Strategy, Turn-Based Strategy
-                  Theme: 4X
-                  Designer: Bruce Shelley, Sid Meier
-                  Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 2114   Castlevania: Symphony of the Night (1997)                                                  224    3 
                   JPN | 12 h | Side view
@@ -120,7 +120,17 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1995   Tekken 2 (1995)                                                                             22    3 
+   13. 2001   Tomb Raider (1996)                                                                         194    4 
+                  GBR | 18 h | Third person
+                  On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
+                  Developers: Core Design
+                  Publishers: Eidos, Sony
+                  Genre: Adventure, Platform, Puzzle, Shooter
+                  Theme: Action, Sandbox, Survival
+                  Designer: Vicky Arnold
+                  Composer: Nathan McCree
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1995   Tekken 2 (1995)                                                                             22    3 
                   JPN | 6 h | Side view
                   On: Arcade, PS2, PS3, PSP, PSX, Vita
                   Developers: Namco
@@ -130,7 +140,7 @@
                   Designer: Seiichi Ishii
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1984   Resident Evil 2 (1998)                                                                     187    2 
+   15. 1984   Resident Evil 2 (1998)                                                                     187    2 
                   JPN | 9 h | Third person
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Developers: Angel Studios, Capcom, Factor 5, Sourcenext
@@ -140,7 +150,7 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1954   Tekken 3 (1997)                                                                            186    2 
+   16. 1954   Tekken 3 (1997)                                                                            186    2 
                   JPN | 12 h | Side view
                   On: Arcade, PS2, PSX
                   Developers: Namco
@@ -150,7 +160,7 @@
                   Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
                   Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1943   Resident Evil (1996)                                                                       162    3 
+   17. 1943   Resident Evil (1996)                                                                       162    3 
                   JPN | 8 h | Third person
                   On: DS, PS3, PSX, Saturn, Win
                   Developers: Capcom, Nextech
@@ -160,7 +170,7 @@
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1936   Ridge Racer (1993)                                                                         182    2 
+   18. 1936   Ridge Racer (1993)                                                                         182    2 
                   JPN | 2 h | First person, Third person
                   On: Arcade, PSX
                   Developers: Namco
@@ -180,7 +190,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1922   Final Fantasy Tactics (1997)                                                               219    2 
+   20. 1922   Final Fantasy Tactics (1997)                                                               219    2 
                   JPN | 57 h | Bird view / Isometric
                   On: PS3, PSX
                   Developers: Square
@@ -189,16 +199,6 @@
                   Theme: Fantasy, Historical
                   Designer: Hiroyuki Ito, Yasumi Matsuno
                   Composer: Hitoshi Sakimoto, Masaharu Iwata
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1910   Tomb Raider (1996)                                                                         194    3 
-                  GBR | 18 h | Third person
-                  On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
-                  Developers: Core Design
-                  Publishers: Eidos, Sony
-                  Genre: Adventure, Platform, Puzzle, Shooter
-                  Theme: Action, Sandbox, Survival
-                  Designer: Vicky Arnold
-                  Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1900   Final Fantasy V (1992)                                                                      35    2 
                   JPN | 37 h | Bird view / Isometric, Side view

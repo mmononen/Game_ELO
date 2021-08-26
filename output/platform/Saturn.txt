@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2249   Doom (1993)                                                                                 19    4 
+    1. 2326   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Developers: id Software
@@ -40,7 +40,17 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1990   Virtua Fighter 2 (1994)                                                                      6    3 
+    5. 2001   Tomb Raider (1996)                                                                         194    4 
+                  GBR | 18 h | Third person
+                  On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
+                  Developers: Core Design
+                  Publishers: Eidos, Sony
+                  Genre: Adventure, Platform, Puzzle, Shooter
+                  Theme: Action, Sandbox, Survival
+                  Designer: Vicky Arnold
+                  Composer: Nathan McCree
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1990   Virtua Fighter 2 (1994)                                                                      6    3 
                   JPN | 4 h | Side view
                   On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
                   Developers: 3D Ages, Sega
@@ -50,7 +60,7 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1987   Quake (1996)                                                                                 9    2 
+    7. 1987   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
                   On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
                   Developers: id Software
@@ -60,7 +70,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1943   Resident Evil (1996)                                                                       162    3 
+    8. 1943   Resident Evil (1996)                                                                       162    3 
                   JPN | 8 h | Third person
                   On: DS, PS3, PSX, Saturn, Win
                   Developers: Capcom, Nextech
@@ -70,7 +80,7 @@
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1928   Sega Rally Championship (1994)                                                              93    3 
+    9. 1928   Sega Rally Championship (1994)                                                              93    3 
                   JPN | 5 h | First person, Third person
                   On: Arcade, GBA, N-Gage, PS2, Saturn, Win
                   Developers: Sega
@@ -79,16 +89,6 @@
                   Theme: Motorsports
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1910   Tomb Raider (1996)                                                                         194    3 
-                  GBR | 18 h | Third person
-                  On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
-                  Developers: Core Design
-                  Publishers: Eidos, Sony
-                  Genre: Adventure, Platform, Puzzle, Shooter
-                  Theme: Action, Sandbox, Survival
-                  Designer: Vicky Arnold
-                  Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1899   Duke Nukem 3D (1996)                                                                        51    2 
                   USA | 12 h | First person
@@ -160,7 +160,17 @@
                   Designer: Yu Suzuki
                   Composer: Hiroshi Kawaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1673   Wipeout 2097 (1996)                                                                         47    2 
+   17. 1691   Space Invaders (1978)                                                                      171    2 
+                  JPN | 4 h | Side view
+                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
+                  Developers: Taito
+                  Publishers: Midway, Taito
+                  Genre: Arcade, Shooter
+                  Theme: Science Fiction
+                  Designer: Tomohiro Nishikado
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1673   Wipeout 2097 (1996)                                                                         47    2 
                   GBR | 4 h | First person, Third person
                   On: Amiga, Mac, PSX, Saturn, Win
                   Developers: Psygnosis
@@ -170,7 +180,7 @@
                   Designer: Nick Burcombe
                   Composer: Tim Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1671   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
+   19. 1671   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1 
                   JPN | 1 h | Side view
                   On: DOS, GB, Mac, N64, PSX, Saturn, Win
                   Developers: Taito
@@ -180,7 +190,7 @@
                   Designer: Selichi Nakakuki
                   Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1645   Nobunaga's Ambition II (1988)                                                               50    1 
+   20. 1645   Nobunaga's Ambition II (1988)                                                               50    1 
                   JPN | 40 h | Bird view / Isometric
                   On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
                   Developers: Koei
@@ -190,7 +200,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1630   NHL Powerplay '96 (1996)                                                                    60    1 
+   21. 1630   NHL Powerplay '96 (1996)                                                                    60    1 
                   CAN | 20 h | Bird view / Isometric
                   On: PSX, Saturn, Win
                   Developers: Radical Entertainment
@@ -200,7 +210,7 @@
                   Designer: Chris Robertson
                   Composer: Marc Baril
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1619   Sega Worldwide Soccer '97 (1996)                                                            67    1 
+   22. 1619   Sega Worldwide Soccer '97 (1996)                                                            67    1 
                   JPN | 9 h | Bird view / Isometric, Third person
                   On: Saturn
                   Developers: Team Aquila
@@ -210,7 +220,7 @@
                   Designer: Toshinori Asai
                   Composer: Jun Senoue, Seirou Okamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1617   World Series Baseball (1995)                                                                68    1 
+   23. 1617   World Series Baseball (1995)                                                                68    1 
                   JPN | 20 h | Third person
                   On: Saturn
                   Developers: Sega
@@ -220,7 +230,7 @@
                   Designer: Tomoko Hasegawa, Yoshiaki Kitagawa
                   Composer: Katsuyoshi Nitta, Miki Obata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1569   PowerSlave (1996)                                                                          241    1 
+   24. 1569   PowerSlave (1996)                                                                          241    1 
                   USA | 11 h | First person
                   On: DOS, PSX, Saturn
                   Developers: Lobotomy Software
@@ -230,7 +240,7 @@
                   Designer: Brian McNeely
                   Composer: Scott Branston
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1531   The Need For Speed (1994)                                                                  243    1 
+   25. 1531   The Need For Speed (1994)                                                                  243    1 
                   CAN | 3 h | First person, Third person
                   On: 3DO, DOS, PSX, Saturn, Win
                   Developers: Electronic Arts
@@ -240,7 +250,7 @@
                   Designer: Wei Shoong Teh
                   Composer: Alistair Hirst, Jeff van Dyck, Saki Kaskamanidis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1415   Panzer Dragoon Saga (1998)                                                                 320    1 
+   26. 1415   Panzer Dragoon Saga (1998)                                                                 320    1 
                   JPN | 16 h | Third person
                   On: Saturn
                   Developers: Sega
@@ -250,7 +260,7 @@
                   Designer: Manabu Kusunoki, Yukio Futatsugi
                   Composer: Mariko Nanba, Saori Kobayashi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1409   NHL 98 (1997)                                                                              256    1 
+   27. 1409   NHL 98 (1997)                                                                              256    1 
                   CAN | 23 h | Bird view / Isometric
                   On: Mega Drive, PSX, SNES, Saturn, Win
                   Developers: Electronic Arts
@@ -260,7 +270,7 @@
                   Designer: Thomas L. Fessler
                   Composer: David Whittaker, Jeff van Dyck, Saki Kaskamanidis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1408   Virtua Cop 2 (1996)                                                                        146    1 
+   28. 1408   Virtua Cop 2 (1996)                                                                        146    1 
                   JPN | 2 h | First person
                   On: Dreamcast, Saturn, Win
                   Developers: Sega
@@ -280,7 +290,7 @@
                   Designer: Hisato Fukumoto, Katsufumi Yoshimori, Yu Suzuki, Yuichi Ide
                   Composer: Kentaro Koyama, Tatsuya Kozaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1383   Suikoden (1995)                                                                            323    1 
+   30. 1383   Suikoden (1995)                                                                            323    1 
                   JPN | 25 h | Bird view / Isometric
                   On: PSX, Saturn, Win
                   Developers: Konami
@@ -290,7 +300,7 @@
                   Designer: Yoshitaka Murayama
                   Composer: Hirofumi Taniguchi, Hiroshi Tamawari, Mayuko Kageshita, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1332   Road Rash (1991)                                                                           328    1 
+   31. 1332   Road Rash (1991)                                                                           328    1 
                   USA | 7 h | Third person
                   On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
                   Developers: Peakstar Software
@@ -300,7 +310,7 @@
                   Designer: Carl Mey, Dan Geisler, Randy Breen, Walter Stein
                   Composer: Greg Michael, Jason A.S. Whitely, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1264   Soviet Strike (1996)                                                                       169    1 
+   32. 1264   Soviet Strike (1996)                                                                       169    1 
                   USA | 8 h | Third person
                   On: PSX, Saturn
                   Developers: Electronic Arts
@@ -309,16 +319,6 @@
                   Theme: Action, Warfare
                   Designer: John Manley, Michael Becker
                   Composer: David O'Neal, Don Veca
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1247   Space Invaders (1978)                                                                      171    1 
-                  JPN | 4 h | Side view
-                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
-                  Developers: Taito
-                  Publishers: Midway, Taito
-                  Genre: Arcade, Shooter
-                  Theme: Science Fiction
-                  Designer: Tomohiro Nishikado
-                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    33. 1238   Mortal Kombat II (1993)                                                                    334    1 
                   USA | 8 h | Side view

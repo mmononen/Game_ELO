@@ -5045,6 +5045,141 @@
         "designer": ["Masamichi Seki", "Kenkichi Shimooka", "Shingo Matsumoto", "Katsuyuki Kanetaka", "Kenji Kaido", "Hidekuni Sakai"],
         "composer": ["Soichi Terada"],
         "hltb": 11
+    },
+    "Manic Miner (1983)":
+    {
+        "id": 337,
+        "year": 1983,
+        "country": ["GBR"],
+        "platforms": ["MSX", "C16", "Amstrad CPC", "Amiga", "ZX Spectrum", "C64", "BBC", "Plus4","Dragon", "Tatung Einstein"],
+        "developers": ["Matthew Smith"],
+        "publishers": ["Bug Byte", "Software Projects"],
+        "genre": ["Platform"],
+        "theme": ["Action", "Survival"],
+        "perspective": ["Side view"],
+        "designer": ["Matthew Smith"],
+        "composer": ["Matthew Smith"],
+        "hltb": 10
+    },
+    "Jet Set Willy (1984)":
+    {
+        "id": 338,
+        "year": 1984,
+        "country": ["GBR"],
+        "platforms": ["Atari 8-bit", "MSX", "C16", "Amstrad CPC", "ZX Spectrum", "C64", "BBC", "Plus4", "Acorn Electron", "Dragon", "Tatung Einstein"],
+        "developers": ["Software Projects"],
+        "publishers": ["Tynesoft", "Software Projects"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Matthew Smith"],
+        "composer": ["Rob Hubbard"],
+        "hltb": 10
+    },
+    "Grand Theft Auto: Vice City (2002)":
+    {
+        "id": 339,
+        "year": 2002,
+        "country": ["GBR"],
+        "platforms": ["Android", "PS4", "PS2", "Mac", "iOS", "Xbox", "Win"],
+        "developers": ["Rockstar"],
+        "publishers": ["Rockstar", "Take-Two"],
+        "genre": ["Adventure", "Racing", "Shooter"],
+        "theme": ["Action", "Comedy", "Open world"],
+        "perspective": ["Third person"],
+        "designer": ["Leslie Benzies"],
+        "composer": ["Lex Horton"],
+        "hltb": 28
+    },
+    "Halo: Combat Evolved (2001)":
+    {
+        "id": 340,
+        "year": 2001,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "Xbox", "Win"],
+        "developers": ["Bungie"],
+        "publishers": ["Microsoft", "MacSoft Games"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Jason Jones", "John Howard"],
+        "composer": ["Martin O'Donnell", "Michael Salvatori"],
+        "hltb": 11
+    },
+    "Frontier: Elite II (1993)":
+    {
+        "id": 341,
+        "year": 1993,
+        "country": ["GBR"],
+        "platforms": ["CD32", "Amiga", "DOS", "Atari ST"],
+        "developers": ["Frontier Developments"],
+        "publishers": ["Konami", "GameTek"],
+        "genre": ["Adventure", "Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["David Braben"],
+        "composer": ["David Lowe"],
+        "hltb": 100
+    },
+    "Wizball (1987)":
+    {
+        "id": 342,
+        "year": 1987,
+        "country": ["GBR"],
+        "platforms": ["Amstrad CPC", "Amiga", "ZX Spectrum", "DOS", "C64", "Atari ST"],
+        "developers": ["Sensible Software"],
+        "publishers": ["Ocean Software"],
+        "genre": ["Arcade", "Platform", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Jon Hare", "Chris Yates"],
+        "composer": ["Martin Galway"],
+        "hltb": 4
+    },
+    "Chuckie Egg (1983)":
+    {
+        "id": 343,
+        "year": 1983,
+        "country": ["GBR"],
+        "platforms": ["Atari 8-bit", "MSX", "Amstrad CPC", "Amiga", "ZX Spectrum", "DOS", "C64", "BBC", "Acorn Electron", "Dragon", "Tatung Einstein", "Atari ST"],
+        "developers": ["A&F Software"],
+        "publishers": ["Pick & Choose", "Einsoft", "A&F Software"],
+        "genre": ["Platform"],
+        "theme": ["Action", "Kids"],
+        "perspective": ["Side view"],
+        "designer": ["Nigel Alderton"],
+        "composer": ["Unknown"],
+        "hltb": 11
+    },
+    "Rainbow Islands: The Story of Bubble Bobble 2 (1987)":
+    {
+        "id": 344,
+        "year": 1987,
+        "country": ["JPN"],
+        "platforms": ["GBC", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "C64", "SMS", "TurboGrafx-16", "Atari ST", "Arcade", "Win"],
+        "developers": ["Taito"],
+        "publishers": ["Taito"],
+        "genre": ["Arcade", "Platform"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Fukio Mitsuji"],
+        "composer": ["Hisayoshi Ogura"],
+        "hltb": 7
+    },
+    "Boulder Dash (1984)":
+    {
+        "id": 345,
+        "year": 1984,
+        "country": ["USA"],
+        "platforms": ["Android", "Atari 8-bit", "MSX", "PC-8801", "Amstrad CPC", "NES", "ZX Spectrum", "iOS", "DOS", "C64", "GB", "Wii", "ColecoVision", "FM-7", "BBC", "Apple II", "Acorn Electron", "Atari ST", "Arcade", "Win"],
+        "developers": ["TapStar Interactive", "First Star Software"],
+        "publishers": ["Orpheus", "Data East", "Exidy", "Electronic Arts", "TapStar Interactive", "Tynesoft", "First Star Software", "Comptiq", "Micro Fun", "K-Tel", "Victor"],
+        "genre": ["Arcade", "Platform", "Puzzle"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Peter Liepa", "Chris Gray"],
+        "composer": ["Ian Waugh", "Peter Liepa"],
+        "hltb": 10
     }
 
 }
