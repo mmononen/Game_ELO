@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2176   Tetris (1984)                                                                                2    6 
+    1. 2179   Tetris (1984)                                                                                2    6 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2142   Doom (1993)                                                                                 19    5 
+    2. 2145   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -18,7 +18,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1987   Sid Meier's Civilization (1991)                                                              4    5 
+    3. 1994   Sid Meier's Civilization (1991)                                                              4    5 
                   USA | 50 h | Bird view / Isometric
                   On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
                   Genre: Strategy, Turn-Based Strategy | Theme: 4X
@@ -27,7 +27,7 @@
                   Designer: Bruce Shelley, Sid Meier
                   Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1960   Half-Life (1998)                                                                           188    4 
+    4. 1968   Half-Life (1998)                                                                           188    4 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -270,25 +270,7 @@
                   Designer: Dave Lebling
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1584   Star Wars (1983)                                                                            94    2 
-                  USA | 2 h | First person
-                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Atari
-                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
-                  Designer: Mike Hally
-                  Composer: Earl Vickers
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1574   Half-Life: Counter-Strike (2000)                                                           278    2 
-                  USA | 206 h | First person
-                  On: Linux, Mac, Win, Xbox
-                  Genre: Shooter | Theme: Action, Warfare
-                  Developers: Valve
-                  Publishers: Microsoft, Sierra, Valve, Vivendi
-                  Designer: Jess Cliffe, Minh Le
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1565   The Secret of Monkey Island (1990)                                                         235    2 
+   31. 1586   The Secret of Monkey Island (1990)                                                         235    2 
                   USA | 7 h | Side view
                   On: Amiga, Atari ST, DOS, FM Towns, Mac, Sega CD
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Pirates
@@ -297,7 +279,16 @@
                   Designer: Dave Grossman, Ron Gilbert, Tim Schafer
                   Composer: Michael Z. Land, Patrick Mundy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1563   Grand Theft Auto: Vice City (2002)                                                         339    1 
+   32. 1584   Star Wars (1983)                                                                            94    2 
+                  USA | 2 h | First person
+                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Atari
+                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
+                  Designer: Mike Hally
+                  Composer: Earl Vickers
+
+       1584   Grand Theft Auto: Vice City (2002)                                                         339    1
                   GBR | 28 h | Third person
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
@@ -305,6 +296,15 @@
                   Publishers: Rockstar, Take-Two
                   Designer: Leslie Benzies
                   Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   34. 1574   Half-Life: Counter-Strike (2000)                                                           278    2 
+                  USA | 206 h | First person
+                  On: Linux, Mac, Win, Xbox
+                  Genre: Shooter | Theme: Action, Warfare
+                  Developers: Valve
+                  Publishers: Microsoft, Sierra, Valve, Vivendi
+                  Designer: Jess Cliffe, Minh Le
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    35. 1547   Age of Empires II: The Age of Kings (1999)                                                 273    1 
                   USA | 114 h | Bird view / Isometric
@@ -324,16 +324,7 @@
                   Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
                   Composer: David Hanlon, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1537   Total Annihilation (1997)                                                                  211    3 
-                  USA | 36 h | Bird view / Isometric
-                  On: Mac, Win
-                  Genre: Real Time Strategy, Strategy | Theme: Science Fiction
-                  Developers: Cavedog Entertainment
-                  Publishers: GT Interactive
-                  Designer: Chris Taylor
-                  Composer: Jeremy Soule
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1521   Halo: Combat Evolved (2001)                                                                340    1 
+   37. 1543   Halo: Combat Evolved (2001)                                                                340    1 
                   USA | 11 h | First person, Third person
                   On: Mac, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -341,6 +332,15 @@
                   Publishers: MacSoft Games, Microsoft
                   Designer: Jason Jones, John Howard
                   Composer: Martin O'Donnell, Michael Salvatori
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   38. 1537   Total Annihilation (1997)                                                                  211    3 
+                  USA | 36 h | Bird view / Isometric
+                  On: Mac, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Science Fiction
+                  Developers: Cavedog Entertainment
+                  Publishers: GT Interactive
+                  Designer: Chris Taylor
+                  Composer: Jeremy Soule
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    39. 1517   Deus Ex (2000)                                                                             274    1 
                   USA | 29 h | First person
@@ -612,7 +612,25 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   69. 1233   Wing Commander (1990)                                                                      280    1 
+   69. 1254   Worms (1995)                                                                               364    1 
+                  GBR | 7 h | Side view, Third person
+                  On: Amiga, CD32, DOS, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
+                  Genre: Strategy | Theme: Action, Comedy, Warfare
+                  Developers: Team17
+                  Publishers: GT Interactive, Ocean Software, Sold Out Sales & Marketing, Team17, Tec Toy Indústria de Brinquedos, Telegames
+                  Designer: Andy Davidson, Cris Blyth
+                  Composer: Bjørn Lynne
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   70. 1250   Cannon Fodder (1993)                                                                       365    1 
+                  GBR | 13 h | Bird view / Isometric
+                  On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
+                  Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
+                  Developers: Sensible Software
+                  Publishers: Codemasters, Krisalis, Kuju Wireless, Sold Out Sales & Marketing, The Hit Squad, Virgin
+                  Designer: Jon Hare
+                  Composer: Allister Brimble, Richard Joseph
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   71. 1233   Wing Commander (1990)                                                                      280    1 
                   USA | 11 h | First person
                   On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
                   Genre: Shooter, Simulator | Theme: Action, Science Fiction
@@ -621,7 +639,7 @@
                   Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
                   Composer: David Govett, George Sanger, Mark Knight
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   70. 1226   King's Quest: Quest for the Crown (1984)                                                   136    1 
+   72. 1226   King's Quest: Quest for the Crown (1984)                                                   136    1 
                   USA | 3 h | Side view
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, SMS, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
@@ -675,7 +693,7 @@
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   76. 1209   Baldur's Gate (1998)                                                                       281    1 
+   78. 1209   Baldur's Gate (1998)                                                                       281    1 
                   CAN | 57 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Fantasy
@@ -684,7 +702,7 @@
                   Designer: James Ohlen
                   Composer: Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   77. 1203   Joust (1982)                                                                               147    1 
+   79. 1203   Joust (1982)                                                                               147    1 
                   USA | 1 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
                   Genre: Arcade, Fighting, Platform | Theme: Action
@@ -693,7 +711,7 @@
                   Designer: John Newcomer
                   Composer: Tim Murphy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   78. 1202   The Sims (2000)                                                                            322    1 
+   80. 1202   The Sims (2000)                                                                            322    1 
                   USA | 32 h | Bird view / Isometric
                   On: GameCube, Linux, Mac, PS2, Win, Xbox
                   Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
@@ -702,7 +720,7 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   79. 1167   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
+   81. 1167   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
                   USA | 7 h | Side view
                   On: DOS, Mac, Win
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
@@ -738,7 +756,7 @@
                   Designer: Al Lowe, Bill Davis
                   Composer: Craig Safan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   83. 1130   Winter Games (1985)                                                                        159    1 
+   85. 1130   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Genre: Sport | Theme: Action
@@ -747,7 +765,7 @@
                   Designer: Chris Oberth, Elaine Hodgson, Fumiko Murakami, Richard A. Ditton
                   Composer: David Thiel, Kenichi Tomizawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   84. 1096   Marathon (1994)                                                                            284    1 
+   86. 1096   Marathon (1994)                                                                            284    1 
                   USA | 8 h | First person
                   On: Mac, iOS
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -756,7 +774,7 @@
                   Designer: Alex Seropian, Jason Jones
                   Composer: Alex Seropian
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   85. 1086   Planescape: Torment (1999)                                                                 285    1 
+   87. 1086   Planescape: Torment (1999)                                                                 285    1 
                   USA | 43 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Drama, Fantasy
@@ -765,7 +783,7 @@
                   Designer: Chris Avellone
                   Composer: Mark Morgan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   86. 1000   Trinity (1986)                                                                             176    1 
+   88. 1000   Trinity (1986)                                                                             176    1 
                   USA | 10 h | Text
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Genre: Adventure, Strategy | Theme: Science Fiction, Thriller

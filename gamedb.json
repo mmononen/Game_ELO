@@ -5330,6 +5330,186 @@
         "designer": ["Masato Maegawa"],
         "composer": ["Norio Hanzawa"],
         "hltb": 2
+    },
+    "Atic Atac (1983)":
+    {
+        "id": 356,
+        "year": 1983,
+        "country": ["GBR"],
+        "platforms": ["Xbox One", "ZX Spectrum", "BBC"],
+        "developers": ["Ultimate Play the Game"],
+        "publishers": ["Ultimate Play the Game"],
+        "genre": ["Adventure"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Tim Stamper", "Chris Stamper"],
+        "composer": ["Unknown"],
+        "hltb": 2
+    },
+    "Jetpac (1983)":
+    {
+        "id": 357,
+        "year": 1983,
+        "country": ["GBR"],
+        "platforms": ["ZX Spectrum", "BBC", "VIC-20"],
+        "developers": ["Ashby Computers and Graphics"],
+        "publishers": ["Ultimate Play the Game"],
+        "genre": ["Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Tim Stamper", "Chris Stamper"],
+        "composer": ["Unknown"],
+        "hltb": 2
+    },
+    "The Lords of Midnight (1984)":
+    {
+        "id": 358,
+        "year": 1984,
+        "country": ["GBR"],
+        "platforms": ["Android", "Amstrad CPC", "ZX Spectrum", "iOS", "DOS", "C64", "BlackBerry", "Win"],
+        "developers": ["Maelstrom Games"],
+        "publishers": ["Amsoft", "Mindscape", "Beyond", "Domark"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Mike Singleton"],
+        "composer": ["Unknown"],
+        "hltb": 4
+    },
+    "Kick Off 2 (1990)":
+    {
+        "id": 359,
+        "year": 1990,
+        "country": ["GBR"],
+        "platforms": ["Amiga", "SNES", "Game Gear", "SMS", "Atari ST"],
+        "developers": ["Anco", "Tiertex", "Enigma Variations"],
+        "publishers": ["Imagineer", "U.S. Gold", "Misawa Entertainment"],
+        "genre": ["Sport"],
+        "theme": ["Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Dino Dini"],
+        "composer": ["Fredrik Segerfalk", "Kazuo Sawa"],
+        "hltb": 1
+    },
+    "Mortal Kombat (1992)":
+    {
+        "id": 360,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Mega Drive", "Amiga", "Sega CD", "SNES", "DOS", "GB", "Game Gear", "Arcade"],
+        "developers": ["Midway", "Sculptured Software", "Probe"],
+        "publishers": ["Midway", "Virgin", "Acclaim", "Arena Entertainment"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Ed Boon", "John Tobias"],
+        "composer": ["Dan Forden"],
+        "hltb": 6
+    },
+    "Sensible World of Soccer (1994)":
+    {
+        "id": 361,
+        "year": 1994,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "Amiga", "DOS"],
+        "developers": ["Sensible Software"],
+        "publishers": ["Renegade Software"],
+        "genre": ["Sport"],
+        "theme": ["Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jon Hare"],
+        "composer": ["Jon Hare", "Richard Joseph", "Jason Page"],
+        "hltb": 34
+    },
+    "Super Mario World 2: Yoshi's Island (1995)":
+    {
+        "id": 362,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["SNES", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Takashi Tezuka", "Toshihiko Nakago", "Shigefumi Hino", "Hideki Konno"],
+        "composer": ["Koji Kondo"],
+        "hltb": 11
+    },
+    "Football Manager (1982)":
+    {
+        "id": 363,
+        "year": 1982,
+        "country": ["GBR"],
+        "platforms": ["TRS-80", "ZX 80-81", "ZX Spectrum", "BBC", "VIC-20", "C64", "Oric", "Amstrad CPC", "Acorn Electron", "Dragon", "Atari 8-bit", "MSX", "DOS", "Atari ST", "Amiga"],
+        "developers": ["Addictive Games"],
+        "publishers": ["Addictive Games"],
+        "genre": ["Sport"],
+        "theme": ["Business", "Football"],
+        "perspective": ["Side view"],
+        "designer": ["Kevin Toms"],
+        "composer": ["Unknown"],
+        "hltb": 20
+    },
+    "Worms (1995)":
+    {
+        "id": 364,
+        "year": 1995,
+        "country": ["GBR"],
+        "platforms": ["CD32", "Mega Drive", "Saturn", "Xbox 360", "Amiga", "Mac", "PSP", "Jaguar", "SNES", "PSX", "DOS", "PS3", "Win"],
+        "developers": ["Team17"],
+        "publishers": ["Tec Toy Indústria de Brinquedos", "GT Interactive", "Sold Out Sales & Marketing", "Ocean Software", "Team17", "Telegames"],
+        "genre": ["Strategy"],
+        "theme": ["Action", "Comedy", "Warfare"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Andy Davidson", "Cris Blyth"],
+        "composer": ["Bjørn Lynne"],
+        "hltb": 7
+    },
+    "Cannon Fodder (1993)":
+    {
+        "id": 365,
+        "year": 1993,
+        "country": ["GBR"],
+        "platforms": ["CD32", "Mega Drive", "Acorn Archimedes", "Linux", "Amiga", "Mac", "Jaguar", "SNES", "DOS", "3DO", "Mobile", "BlackBerry", "Atari ST", "Win"],
+        "developers": ["Sensible Software"],
+        "publishers": ["Codemasters", "Kuju Wireless", "Sold Out Sales & Marketing", "The Hit Squad", "Krisalis", "Virgin"],
+        "genre": ["Shooter", "Strategy"],
+        "theme": ["Action", "Comedy", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jon Hare"],
+        "composer": ["Richard Joseph", "Allister Brimble"],
+        "hltb": 13
+    },
+    "Laser Squad (1989)":
+    {
+        "id": 366,
+        "year": 1989,
+        "country": ["GBR"],
+        "platforms": ["MSX", "Amstrad CPC", "Amiga", "DOS"],
+        "developers": ["Target Games"],
+        "publishers": ["Blade Software", "MicroLeague"],
+        "genre": ["RPG", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Julian Gollop", "Ian Terry"],
+        "composer": ["Matt Furniss"],
+        "hltb": 20
+    },
+    "Streets of Rage 2 (1992)":
+    {
+        "id": 367,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Linux", "Wii", "PS3", "Win"],
+        "developers": ["Ancient"],
+        "publishers": ["Sega"],
+        "genre": ["Arcade", "Hack and Slash"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Ayano Koshiro", "Kataru Uchimura", "Mikito Ichikawa"],
+        "composer": ["Yuo Koshiro", "Motohiro Kawashima"],
+        "hltb": 3
     }
 
 }

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2176   Tetris (1984)                                                                                2    6 
+    1. 2179   Tetris (1984)                                                                                2    6 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2063   Street Fighter II (1991)                                                                     7    6 
+    2. 2068   Street Fighter II (1991)                                                                     7    6 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Genre: Arcade, Fighting | Theme: Action, Science Fiction
@@ -18,16 +18,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1906   Ms. Pac-Man (1982)                                                                          12    3 
-                  USA | 2 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
-                  Genre: Arcade, Puzzle | Theme: Action
-                  Developers: General Computer Corporation
-                  Publishers: Atari, Midway, Namco, Tengen, Williams
-                  Designer: Steve Golson
-                  Composer: Chris Rode
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1899   Elite (1984)                                                                                14    3 
+    3. 1909   Elite (1984)                                                                                14    3 
                   GBR | 100 h | First person
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
@@ -35,6 +26,15 @@
                   Publishers: Acornsoft, Firebird, Hybrid Technology, Imagineer, Merlin Software
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1906   Ms. Pac-Man (1982)                                                                          12    3 
+                  USA | 2 h | Bird view / Isometric
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
+                  Genre: Arcade, Puzzle | Theme: Action
+                  Developers: General Computer Corporation
+                  Publishers: Atari, Midway, Namco, Tengen, Williams
+                  Designer: Steve Golson
+                  Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
                   USA | 30 h | Bird view / Isometric, First person
@@ -45,7 +45,16 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1751   Robotron: 2084 (1982)                                                                      107    4 
+    6. 1765   Manic Miner (1983)                                                                         337    1 
+                  GBR | 10 h | Side view
+                  On: Amiga, Amstrad CPC, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
+                  Genre: Platform | Theme: Action, Survival
+                  Developers: Matthew Smith
+                  Publishers: Bug Byte, Software Projects
+                  Designer: Matthew Smith
+                  Composer: Matthew Smith
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1751   Robotron: 2084 (1982)                                                                      107    4 
                   USA | 10 h | Bird view / Isometric
                   On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -54,7 +63,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1750   Contra (1987)                                                                              288    1 
+    8. 1750   Contra (1987)                                                                              288    1 
                   JPN | 2 h | Side view, Third person
                   On: Amstrad CPC, Arcade, C64, DOS, MSX2, NES
                   Genre: Arcade, Platform, Shooter | Theme: Action, Science Fiction, Warfare
@@ -62,15 +71,6 @@
                   Publishers: HAMSTER, Konami, Ocean Software
                   Designer: Koji Hiroshita, Shigeharu Umezaki, Shinji Kitamoto
                   Composer: Hidenori Maezawa, Kazuki Muraoka, Kiyohiro Sada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1749   Manic Miner (1983)                                                                         337    1 
-                  GBR | 10 h | Side view
-                  On: Amiga, Amstrad CPC, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
-                  Genre: Platform | Theme: Action, Survival
-                  Developers: Matthew Smith
-                  Publishers: Bug Byte, Software Projects
-                  Designer: Matthew Smith
-                  Composer: Matthew Smith
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1714   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
@@ -81,7 +81,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1694   Jet Set Willy (1984)                                                                       338    1 
+   10. 1712   Jet Set Willy (1984)                                                                       338    1 
                   GBR | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action
@@ -90,7 +90,7 @@
                   Designer: Matthew Smith
                   Composer: Rob Hubbard
 
-       1694   Bubble Bobble (1986)                                                                       237    2
+       1712   Bubble Bobble (1986)                                                                       237    2
                   JPN | 3 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform, Puzzle, Strategy | Theme: Action, Fantasy, Kids
@@ -117,25 +117,7 @@
                   Designer: Richard Garriott
                   Composer: David R. Watson, Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1643   SimCity (1989)                                                                             279    2 
-                  USA | 25 h | Bird view / Isometric
-                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
-                  Genre: Simulator, Strategy | Theme: Business, Sandbox
-                  Developers: Maxis
-                  Publishers: Fujitsu, Imagineer, Infogrames, Krisalis, Maxis, Nintendo, Superior Interactive
-                  Designer: Jeff Braun, Robert Strobel, Will Wright
-                  Composer: Steve Hales, Will Wright
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1640   Zork I: The Great Underground Empire (1980)                                                 54    4 
-                  USA | 4 h | Text
-                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
-                  Genre: Adventure | Theme: Fantasy
-                  Developers: Infocom
-                  Publishers: Commodore, Infocom, Personal Software, SystemSoft
-                  Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1629   OutRun (1986)                                                                               65    3 
+   14. 1649   OutRun (1986)                                                                               65    3 
                   JPN | 2 h | Third person
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Genre: Arcade, Racing | Theme: Action, Non-fiction
@@ -144,16 +126,7 @@
                   Designer: Yu Suzuki
                   Composer: Hiroshi Kawaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1628   The Bard's Tale (1985)                                                                     104    2 
-                  USA | 28 h | First person
-                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
-                  Genre: Adventure, RPG | Theme: Fantasy
-                  Developers: Interplay
-                  Publishers: Electronic Arts, Pony Canyon
-                  Designer: Michael Cranford
-                  Composer: Unknown
-
-       1628   Pac-Man (1980)                                                                             251    2
+   15. 1647   Pac-Man (1980)                                                                             251    2 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -161,6 +134,33 @@
                   Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1643   SimCity (1989)                                                                             279    2 
+                  USA | 25 h | Bird view / Isometric
+                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
+                  Genre: Simulator, Strategy | Theme: Business, Sandbox
+                  Developers: Maxis
+                  Publishers: Fujitsu, Imagineer, Infogrames, Krisalis, Maxis, Nintendo, Superior Interactive
+                  Designer: Jeff Braun, Robert Strobel, Will Wright
+                  Composer: Steve Hales, Will Wright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1640   Zork I: The Great Underground Empire (1980)                                                 54    4 
+                  USA | 4 h | Text
+                  On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
+                  Genre: Adventure | Theme: Fantasy
+                  Developers: Infocom
+                  Publishers: Commodore, Infocom, Personal Software, SystemSoft
+                  Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1628   The Bard's Tale (1985)                                                                     104    2 
+                  USA | 28 h | First person
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
+                  Genre: Adventure, RPG | Theme: Fantasy
+                  Developers: Interplay
+                  Publishers: Electronic Arts, Pony Canyon
+                  Designer: Michael Cranford
+                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1614   Ultima VI: The False Prophet (1990)                                                         81    2 
                   USA | 40 h | Bird view / Isometric
@@ -198,7 +198,16 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1588   The Lurking Horror (1987)                                                                   24    2 
+   23. 1595   R-Type (1987)                                                                              172    3 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Irem, Konami
+                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
+                  Designer: Abiko
+                  Composer: Masato Ishizaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1588   The Lurking Horror (1987)                                                                   24    2 
                   USA | 9 h | Text
                   On: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari ST, C64, DOS, Mac
                   Genre: Adventure | Theme: Horror
@@ -207,7 +216,7 @@
                   Designer: Dave Lebling
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1584   Star Wars (1983)                                                                            94    2 
+   25. 1584   Star Wars (1983)                                                                            94    2 
                   USA | 2 h | First person
                   On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -216,7 +225,7 @@
                   Designer: Mike Hally
                   Composer: Earl Vickers
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1582   Donkey Kong (1981)                                                                          70    2 
+   26. 1582   Donkey Kong (1981)                                                                          70    2 
                   JPN | 1 h | Side view
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action
@@ -224,15 +233,6 @@
                   Publishers: Atari, Coleco, Nintendo, Ocean Software
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1574   R-Type (1987)                                                                              172    3 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Irem, Konami
-                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
-                  Designer: Abiko
-                  Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    27. 1562   Marble Madness (1984)                                                                       15    2 
                   USA | 2 h | Bird view / Isometric
@@ -252,16 +252,7 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1503   Super Sprint (1986)                                                                         95    2 
-                  USA | 1 h | Bird view / Isometric
-                  On: Amstrad CPC, Arcade, Atari ST, C64, NES, ZX Spectrum
-                  Genre: Arcade, Racing | Theme: Action
-                  Developers: Atari
-                  Publishers: Altron, Atari, Electric Dreams Software, Tengen, The Hit Squad
-                  Designer: Kelly Turner, Robert Weatherby
-                  Composer: Brad Fuller, Hal Canon
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1491   Head Over Heels (1987)                                                                     244    2 
+   29. 1512   Head Over Heels (1987)                                                                     244    2 
                   GBR | 10 h | Bird view / Isometric, Third person
                   On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
                   Genre: Adventure, Platform, Puzzle | Theme: Action, Science Fiction
@@ -270,7 +261,16 @@
                   Designer: Jon Ritman
                   Composer: Guy Stevens
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1477   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+   30. 1503   Super Sprint (1986)                                                                         95    2 
+                  USA | 1 h | Bird view / Isometric
+                  On: Amstrad CPC, Arcade, Atari ST, C64, NES, ZX Spectrum
+                  Genre: Arcade, Racing | Theme: Action
+                  Developers: Atari
+                  Publishers: Altron, Atari, Electric Dreams Software, Tengen, The Hit Squad
+                  Designer: Kelly Turner, Robert Weatherby
+                  Composer: Brad Fuller, Hal Canon
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   31. 1499   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Genre: Sport, Strategy | Theme: Action, Science Fiction
@@ -279,16 +279,7 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1469   Pitfall! (1982)                                                                            298    1 
-                  USA | 3 h | Side view
-                  On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
-                  Genre: Platform | Theme: Action
-                  Developers: Activision
-                  Publishers: Activision
-                  Designer: David Crane
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1462   Paradroid (1985)                                                                           262    2 
+   32. 1483   Paradroid (1985)                                                                           262    2 
                   GBR | 10 h | Bird view / Isometric
                   On: C64, Wii
                   Genre: Puzzle, Shooter, Strategy, Tactical | Theme: Action, Science Fiction
@@ -297,7 +288,25 @@
                   Designer: Andrew Braybrook
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1436   Zork III: The Dungeon Master (1982)                                                         56    2 
+   33. 1469   Pitfall! (1982)                                                                            298    1 
+                  USA | 3 h | Side view
+                  On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
+                  Genre: Platform | Theme: Action
+                  Developers: Activision
+                  Publishers: Activision
+                  Designer: David Crane
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   34. 1454   Wizball (1987)                                                                             342    1 
+                  GBR | 4 h | Side view
+                  On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
+                  Genre: Arcade, Platform, Shooter | Theme: Action
+                  Developers: Sensible Software
+                  Publishers: Ocean Software
+                  Designer: Chris Yates, Jon Hare
+                  Composer: Martin Galway
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   35. 1436   Zork III: The Dungeon Master (1982)                                                         56    2 
                   USA | 3 h | Text
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
@@ -324,15 +333,6 @@
                   Designer: Brian Moriarty
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1434   Wizball (1987)                                                                             342    1 
-                  GBR | 4 h | Side view
-                  On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
-                  Genre: Arcade, Platform, Shooter | Theme: Action
-                  Developers: Sensible Software
-                  Publishers: Ocean Software
-                  Designer: Chris Yates, Jon Hare
-                  Composer: Martin Galway
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    38. 1427   Castlevania (1986)                                                                         302    1 
                   JPN | 6 h | Side view
                   On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
@@ -351,25 +351,7 @@
                   Designer: Unknown
                   Composer: Junko Ozawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1401   Lode Runner (1983)                                                                         304    1 
-                  USA | 3 h | Side view
-                  On: Amstrad CPC, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, FM-7, MSX, Mac, NEC PC-6000, NES, PC-8801, PC-98, SG-1000, Sharp X1, VIC-20, Windows Phone, WonderSwan, ZX Spectrum
-                  Genre: Platform, Puzzle | Theme: Action, Science Fiction
-                  Developers: Brøderbund, Irem
-                  Publishers: Banpresto, Brøderbund, Hudson Soft, Irem, Microsoft, Sega, Soft Pro, Software Projects, Sony, SystemSoft
-                  Designer: Doug Smith
-                  Composer: Isamu Hirano
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1397   Metal Gear (1987)                                                                          305    1 
-                  JPN | 5 h | Bird view / Isometric
-                  On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
-                  Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Hideo Kojima
-                  Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
-
-       1397   Chuckie Egg (1983)                                                                         343    1
+   40. 1415   Chuckie Egg (1983)                                                                         343    1 
                   GBR | 11 h | Side view
                   On: Acorn Electron, Amiga, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C64, DOS, Dragon, MSX, Tatung Einstein, ZX Spectrum
                   Genre: Platform | Theme: Action, Kids
@@ -378,25 +360,25 @@
                   Designer: Nigel Alderton
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   43. 1384   M.U.L.E. (1983)                                                                            276    1 
-                  USA | 2 h | Bird view / Isometric
-                  On: Atari 8-bit, C64, DOS, MSX, NES, PC-8801, Sharp X1
-                  Genre: Simulator, Strategy, Tactical, Turn-Based Strategy | Theme: Action, Comedy, Science Fiction
-                  Developers: Ozark Softscape
-                  Publishers: Bullet-Proof Software, Electronic Arts, IBM, Mindscape
-                  Designer: Alan Watson, Bill Bunten, Danielle Bunten Berry, Jim Rushing
-                  Composer: Roy Glover
+   41. 1401   Lode Runner (1983)                                                                         304    1 
+                  USA | 3 h | Side view
+                  On: Amstrad CPC, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, FM-7, MSX, Mac, NEC PC-6000, NES, PC-8801, PC-98, SG-1000, Sharp X1, VIC-20, Windows Phone, WonderSwan, ZX Spectrum
+                  Genre: Platform, Puzzle | Theme: Action, Science Fiction
+                  Developers: Brøderbund, Irem
+                  Publishers: Banpresto, Brøderbund, Hudson Soft, Irem, Microsoft, Sega, Soft Pro, Software Projects, Sony, SystemSoft
+                  Designer: Doug Smith
+                  Composer: Isamu Hirano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   44. 1382   Stunt Car Racer (1989)                                                                     238    1 
-                  GBR | 3 h | First person
-                  On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
-                  Genre: Racing | Theme: Action
-                  Developers: Ceative Assembly, MicroStyle
-                  Publishers: MicroPlay, MicroStyle
-                  Designer: Geoff Crammond
-                  Composer: Unknown
+   42. 1397   Metal Gear (1987)                                                                          305    1 
+                  JPN | 5 h | Bird view / Isometric
+                  On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
+                  Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Hideo Kojima
+                  Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   45. 1376   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
+   43. 1393   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
                   JPN | 7 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBC, NES, SMS, TurboGrafx-16, Win, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Fantasy
@@ -405,7 +387,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   46. 1372   Boulder Dash (1984)                                                                        345    1 
+   44. 1389   Boulder Dash (1984)                                                                        345    1 
                   USA | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Android, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, FM-7, GB, MSX, NES, PC-8801, Wii, Win, ZX Spectrum, iOS
                   Genre: Arcade, Platform, Puzzle | Theme: Action
@@ -413,8 +395,26 @@
                   Publishers: Comptiq, Data East, Electronic Arts, Exidy, First Star Software, K-Tel, Micro Fun, Orpheus, TapStar Interactive, Tynesoft, Victor
                   Designer: Chris Gray, Peter Liepa
                   Composer: Ian Waugh, Peter Liepa
-
-       1372   Arkanoid (1986)                                                                            308    1
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   45. 1384   M.U.L.E. (1983)                                                                            276    1 
+                  USA | 2 h | Bird view / Isometric
+                  On: Atari 8-bit, C64, DOS, MSX, NES, PC-8801, Sharp X1
+                  Genre: Simulator, Strategy, Tactical, Turn-Based Strategy | Theme: Action, Comedy, Science Fiction
+                  Developers: Ozark Softscape
+                  Publishers: Bullet-Proof Software, Electronic Arts, IBM, Mindscape
+                  Designer: Alan Watson, Bill Bunten, Danielle Bunten Berry, Jim Rushing
+                  Composer: Roy Glover
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   46. 1382   Stunt Car Racer (1989)                                                                     238    1 
+                  GBR | 3 h | First person
+                  On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
+                  Genre: Racing | Theme: Action
+                  Developers: Ceative Assembly, MicroStyle
+                  Publishers: MicroPlay, MicroStyle
+                  Designer: Geoff Crammond
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   47. 1372   Arkanoid (1986)                                                                            308    1 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
@@ -459,7 +459,16 @@
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   52. 1340   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
+   52. 1342   Ghosts 'n Goblins (1985)                                                                   347    1 
+                  JPN | 4 h | Side view
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
+                  Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
+                  Developers: Capcom
+                  Publishers: Capcom, Elite Systems
+                  Designer: Tokuro Fujiwara
+                  Composer: Ayako Mori
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   53. 1340   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
                   USA | 60 h | First person
                   On: Amiga, Apple II, C64, DOS
                   Genre: RPG | Theme: Fantasy
@@ -477,16 +486,7 @@
                   Designer: Michael Cranford
                   Composer: David Warhol
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   54. 1328   Ghosts 'n Goblins (1985)                                                                   347    1 
-                  JPN | 4 h | Side view
-                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
-                  Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
-                  Developers: Capcom
-                  Publishers: Capcom, Elite Systems
-                  Designer: Tokuro Fujiwara
-                  Composer: Ayako Mori
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   55. 1325   Skool Daze (1985)                                                                          348    1 
+   55. 1338   Skool Daze (1985)                                                                          348    1 
                   GBR | 10 h | Third person
                   On: C64, ZX Spectrum
                   Genre: Adventure, Platform, Puzzle | Theme: Action
@@ -513,7 +513,7 @@
                   Designer: Ed Logg
                   Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   58. 1301   Impossible Mission (1984)                                                                  350    1 
+   58. 1313   Impossible Mission (1984)                                                                  350    1 
                   USA | 3 h | Side view
                   On: Acorn Electron, Amstrad CPC, Apple II, Atari 7800, BBC, C64, PC-8801, PSP, SMS, Sharp X1, Switch, Wii, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action, Science Fiction, Stealth
@@ -522,16 +522,7 @@
                   Designer: Dennis Caswell
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   59. 1300   Ghouls 'n Ghosts (1988)                                                                    313    1 
-                  JPN | 3 h | Side view
-                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, Mega Drive, PC Engine SuperGrafx, SMS, Sharp X68000, ZX Spectrum
-                  Genre: Arcade, Platform | Theme: Action, Fantasy, Horror
-                  Developers: Capcom
-                  Publishers: Capcom, NEC Avenue, Sega, U.S. Gold
-                  Designer: Hisashi Yamamoto, Shinichi Yoshimoto, Tokuro Fujiwara
-                  Composer: Tamayo Kawamoto, Tim Follin
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   60. 1298   Sabre Wulf (1984)                                                                          351    1 
+   59. 1309   Sabre Wulf (1984)                                                                          351    1 
                   GBR | 1 h | Bird view / Isometric
                   On: Amstrad CPC, BBC, C64, ZX Spectrum
                   Genre: Adventure, Arcade, Puzzle | Theme: Action
@@ -540,7 +531,7 @@
                   Designer: Chris Stamper, Tim Stamper
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   61. 1295   Dizzy: The Ultimate Cartoon Adventure (1987)                                               352    1 
+   60. 1306   Dizzy: The Ultimate Cartoon Adventure (1987)                                               352    1 
                   GBR | 3 h | Side view
                   On: Amstrad CPC, C64, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action, Fantasy
@@ -549,16 +540,16 @@
                   Designer: Oliver Twins
                   Composer: David Whittaker, Jon Paul Eldridge
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   62. 1294   Mercenary (1985)                                                                           245    1 
-                  GBR | 10 h | First person
-                  On: Amstrad CPC, Atari 8-bit, Atari ST, C16, C64, Plus4, ZX Spectrum
-                  Genre: Puzzle, Simulator | Theme: Action, Science Fiction
-                  Developers: Novagen
-                  Publishers: Datasoft, Novagen
-                  Designer: Bruce Jordan, Paul Woakes
-                  Composer: Unknown
+   61. 1300   Ghouls 'n Ghosts (1988)                                                                    313    1 
+                  JPN | 3 h | Side view
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, Mega Drive, PC Engine SuperGrafx, SMS, Sharp X68000, ZX Spectrum
+                  Genre: Arcade, Platform | Theme: Action, Fantasy, Horror
+                  Developers: Capcom
+                  Publishers: Capcom, NEC Avenue, Sega, U.S. Gold
+                  Designer: Hisashi Yamamoto, Shinichi Yoshimoto, Tokuro Fujiwara
+                  Composer: Tamayo Kawamoto, Tim Follin
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   63. 1289   Galaxian (1979)                                                                            354    1 
+   62. 1299   Galaxian (1979)                                                                            354    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -567,7 +558,25 @@
                   Designer: Kazunori Sawano, Shigeichi Ishimura
                   Composer: Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   64. 1269   Shinobi (1987)                                                                             248    1 
+   63. 1294   Mercenary (1985)                                                                           245    1 
+                  GBR | 10 h | First person
+                  On: Amstrad CPC, Atari 8-bit, Atari ST, C16, C64, Plus4, ZX Spectrum
+                  Genre: Puzzle, Simulator | Theme: Action, Science Fiction
+                  Developers: Novagen
+                  Publishers: Datasoft, Novagen
+                  Designer: Bruce Jordan, Paul Woakes
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   64. 1285   The Lords of Midnight (1984)                                                               358    1 
+                  GBR | 4 h | First person
+                  On: Amstrad CPC, Android, BlackBerry, C64, DOS, Win, ZX Spectrum, iOS
+                  Genre: RPG, Turn-Based Strategy | Theme: Fantasy
+                  Developers: Maelstrom Games
+                  Publishers: Amsoft, Beyond, Domark, Mindscape
+                  Designer: Mike Singleton
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   65. 1269   Shinobi (1987)                                                                             248    1 
                   JPN | 2 h | Side view
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, NES, SMS, TurboGrafx-16, Wii, Xbox 360, ZX Spectrum
                   Genre: Adventure, Hack and Slash | Theme: Action
@@ -576,7 +585,16 @@
                   Designer: Yutaka Sugano
                   Composer: Yasuhiro Kawakami
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   65. 1254   Track & Field (1983)                                                                       132    1 
+   66. 1258   Football Manager (1982)                                                                    363    1 
+                  GBR | 20 h | Side view
+                  On: Acorn Electron, Amiga, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C64, DOS, Dragon, MSX, Oric, TRS-80, VIC-20, ZX 80-81, ZX Spectrum
+                  Genre: Sport | Theme: Business, Football
+                  Developers: Addictive Games
+                  Publishers: Addictive Games
+                  Designer: Kevin Toms
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   67. 1254   Track & Field (1983)                                                                       132    1 
                   JPN | 1 h | Bird view / Isometric, Side view
                   On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, MSX, NES, ZX Spectrum
                   Genre: Sport | Theme: Party, Track & Field
@@ -594,7 +612,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   67. 1239   Double Dragon (1987)                                                                       318    1 
+   69. 1239   Double Dragon (1987)                                                                       318    1 
                   JPN | 2 h | Side view, Third person
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -603,7 +621,7 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   68. 1235   Bomb Jack (1984)                                                                           252    1 
+   70. 1235   Bomb Jack (1984)                                                                           252    1 
                   JPN | 1 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, GB, PC-8801, PC-98, Plus4, SG-1000, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action
@@ -612,7 +630,7 @@
                   Designer: Kazutoshi Ueda, Michitaka Tsuruta
                   Composer: Alberto José Gonzalez Pedraza, Mark Cooksey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   69. 1217   River Raid (1982)                                                                          144    1 
+   71. 1217   River Raid (1982)                                                                          144    1 
                   USA | 1 h | Bird view / Isometric
                   On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action
@@ -621,7 +639,7 @@
                   Designer: Carol Shaw
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   70. 1216   Gauntlet II (1986)                                                                         255    1 
+   72. 1216   Gauntlet II (1986)                                                                         255    1 
                   USA | 5 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, NES, ZX Spectrum
                   Genre: Adventure, Arcade, Hack and Slash | Theme: Action, Fantasy
@@ -630,7 +648,7 @@
                   Designer: Ed Logg
                   Composer: Brad Fuller, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   71. 1198   Centipede (1981)                                                                           148    1 
+   73. 1198   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -639,7 +657,7 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   72. 1170   Thrust (1986)                                                                              258    1 
+   74. 1170   Thrust (1986)                                                                              258    1 
                   GBR | 10 h | Side view
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C16, C64, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -648,7 +666,7 @@
                   Designer: Jeremy Smith
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   73. 1148   Gradius (1985)                                                                             261    1 
+   75. 1148   Gradius (1985)                                                                             261    1 
                   JPN | 3 h | Side view
                   On: 3DS, Amstrad CPC, Arcade, C64, MSX, NES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii U, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Science Fiction
@@ -657,7 +675,7 @@
                   Designer: Hiroyasu Machiguchi
                   Composer: Miki Higashino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   74. 1130   Winter Games (1985)                                                                        159    1 
+   76. 1130   Winter Games (1985)                                                                        159    1 
                   USA | 1 h | Third person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Genre: Sport | Theme: Action
@@ -684,7 +702,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   77. 1124   Xevious (1982)                                                                             161    1 
+   79. 1124   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Flight, Science Fiction
@@ -693,7 +711,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   78. 1110   Hard Hat Mack (1983)                                                                       163    1 
+   80. 1110   Hard Hat Mack (1983)                                                                       163    1 
                   USA | 10 h | Side view
                   On: Amstrad CPC, Apple II, Atari 8-bit, C64, DOS
                   Genre: Arcade, Platform | Theme: Action
@@ -702,7 +720,7 @@
                   Designer: Matthew Alexander, Michael Abbot
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   79. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
+   81. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
                   USA | 10 h | Third person
                   On: Atari 8-bit, C64, DOS, MSX, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -711,7 +729,7 @@
                   Designer: Peter Liepa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   80. 1079   Strider (1989)                                                                             264    1 
+   82. 1079   Strider (1989)                                                                             264    1 
                   JPN | 8 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Mega Drive, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Science Fiction
@@ -720,7 +738,7 @@
                   Designer: Kouichi Yotsui, Shinichi Yoshimoto, Tokuro Fujiwara
                   Composer: Junko Tamiya
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   81. 1029   Choplifter (1982)                                                                          265    1 
+   83. 1029   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Genre: Arcade, Shooter | Theme: Action
@@ -729,7 +747,7 @@
                   Designer: Dan Gorlin
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   82. 1019   Empire: Wargame of the Century (1987)                                                      286    1 
+   84. 1019   Empire: Wargame of the Century (1987)                                                      286    1 
                   USA | 30 h | Bird view / Isometric
                   On: Amiga, Apple II, Atari ST, C64, DOS
                   Genre: Strategy, Tactical | Theme: Fantasy, Historical, Warfare
@@ -738,7 +756,7 @@
                   Designer: Walter Bright
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   83. 1010   Solomon’s Key (1986)                                                                       267    1 
+   85. 1010   Solomon’s Key (1986)                                                                       267    1 
                   JPN | 10 h | Side view
                   On: 3DS, Amstrad CPC, Arcade, Atari ST, C64, DOS, NES, SMS, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform, Puzzle, Strategy | Theme: Fantasy
@@ -747,7 +765,7 @@
                   Designer: Michitaka Tsuruta
                   Composer: Michiharu Hasuya
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   84. 1000   Trinity (1986)                                                                             176    1 
+   86. 1000   Trinity (1986)                                                                             176    1 
                   USA | 10 h | Text
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Genre: Adventure, Strategy | Theme: Science Fiction, Thriller

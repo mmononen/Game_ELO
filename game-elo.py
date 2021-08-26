@@ -496,6 +496,14 @@ i = 0
 countries = {}
 platforms = {}
 years = {}
+genres = {}
+themes = {}
+developers = {}
+publishers = {}
+perspectives = {}
+designers = {}
+composers = {}
+
 for g in gamedb:
     s = groups[groupnames.index(g)]
     for x in s.country:
@@ -518,6 +526,57 @@ for g in gamedb:
         a = years[s.year]
         a = a + 1
         years[s.year] = a
+    for x in s.genre:
+        if x not in genres:
+            genres[x] = 1
+        else:            
+            a = genres[x]
+            a = a + 1
+            genres[x] = a
+    for x in s.theme:
+        if x not in themes:
+            themes[x] = 1
+        else:            
+            a = themes[x]
+            a = a + 1
+            themes[x] = a
+    for x in s.developers:
+        if x not in developers:
+            developers[x] = 1
+        else:            
+            a = developers[x]
+            a = a + 1
+            developers[x] = a
+    for x in s.publishers:
+        if x not in publishers:
+            publishers[x] = 1
+        else:            
+            a = publishers[x]
+            a = a + 1
+            publishers[x] = a
+    for x in s.perspective:
+        if x not in perspectives:
+            perspectives[x] = 1
+        else:            
+            a = perspectives[x]
+            a = a + 1
+            perspectives[x] = a
+    for x in s.designer:
+        if x != "Unknown":
+            if x not in designers:
+                designers[x] = 1
+            else:            
+                a = designers[x]
+                a = a + 1
+                designers[x] = a
+    for x in s.composer:
+        if x != "Unknown":
+            if x not in composers:
+                composers[x] = 1
+            else:            
+                a = composers[x]
+                a = a + 1
+                composers[x] = a
 
 #countries = (countries.values().values())
 #sorted(data.keys(), key=data.get)
@@ -562,6 +621,97 @@ for i in years:
         a = f"0{a}"
     s = f"{a}: {i}  ({b}%)"
     print_years.append(s)
+
+print_genres = []
+for i in genres:
+    a = genres[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_genres.append(s)
+
+print_themes = []
+for i in themes:
+    a = themes[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_themes.append(s)
+
+print_developers = []
+for i in developers:
+    a = developers[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_developers.append(s)
+
+print_publishers = []
+for i in publishers:
+    a = publishers[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_publishers.append(s)
+
+print_perspectives = []
+for i in perspectives:
+    a = perspectives[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_perspectives.append(s)
+
+print_designers = []
+for i in designers:
+    a = designers[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_designers.append(s)
+
+print_composers = []
+for i in composers:
+    a = composers[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_composers.append(s)
 
 with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     f_out.write(f"Games in database: {len(gamedb)}\n")
@@ -635,3 +785,164 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
         else:    
             break
     f_out.write("\n")
+    f_out.write("Genres (Top 10):\n")
+    f_out.write("-------------------\n")
+    print_genres.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_genres:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:   
+            break
+            f_out.write("\n")
+    f_out.write("\n")
+    f_out.write("Themes (Top 10):\n")
+    f_out.write("-------------------\n")
+    print_themes.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_themes:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("Developers (Top 10):\n")
+    f_out.write("--------------------\n")
+    print_developers.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_developers:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("Publishers (Top 10):\n")
+    f_out.write("-------------------\n")
+    print_publishers.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_publishers:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("Perspectives:\n")
+    f_out.write("-------------\n")
+    print_perspectives.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_perspectives:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("Designers (Top 10):\n")
+    f_out.write("-------------------\n")
+    print_designers.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_designers:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("Composers (Top 10):\n")
+    f_out.write("-------------------\n")
+    print_composers.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_composers:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break

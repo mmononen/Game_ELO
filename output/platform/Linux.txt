@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2142   Doom (1993)                                                                                 19    5 
+    1. 2145   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1960   Half-Life (1998)                                                                           188    4 
+    2. 1968   Half-Life (1998)                                                                           188    4 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -63,7 +63,7 @@
                   Designer: David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1286   Gunstar Heroes (1993)                                                                      355    1 
+    8. 1296   Gunstar Heroes (1993)                                                                      355    1 
                   JPN | 2 h | Side view
                   On: Game Gear, Linux, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Genre: Arcade, Platform, Shooter | Theme: Action, Science Fiction, Warfare
@@ -90,7 +90,25 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1209   Baldur's Gate (1998)                                                                       281    1 
+   11. 1250   Cannon Fodder (1993)                                                                       365    1 
+                  GBR | 13 h | Bird view / Isometric
+                  On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
+                  Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
+                  Developers: Sensible Software
+                  Publishers: Codemasters, Krisalis, Kuju Wireless, Sold Out Sales & Marketing, The Hit Squad, Virgin
+                  Designer: Jon Hare
+                  Composer: Allister Brimble, Richard Joseph
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1234   Streets of Rage 2 (1992)                                                                   367    1 
+                  JPN | 3 h | Side view
+                  On: Linux, Mega Drive, PS3, Wii, Win
+                  Genre: Arcade, Hack and Slash | Theme: Action
+                  Developers: Ancient
+                  Publishers: Sega
+                  Designer: Ayano Koshiro, Kataru Uchimura, Mikito Ichikawa
+                  Composer: Motohiro Kawashima, Yuo Koshiro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1209   Baldur's Gate (1998)                                                                       281    1 
                   CAN | 57 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Fantasy
@@ -99,7 +117,7 @@
                   Designer: James Ohlen
                   Composer: Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1202   The Sims (2000)                                                                            322    1 
+   14. 1202   The Sims (2000)                                                                            322    1 
                   USA | 32 h | Bird view / Isometric
                   On: GameCube, Linux, Mac, PS2, Win, Xbox
                   Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
@@ -108,7 +126,7 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1086   Planescape: Torment (1999)                                                                 285    1 
+   15. 1086   Planescape: Torment (1999)                                                                 285    1 
                   USA | 43 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Drama, Fantasy

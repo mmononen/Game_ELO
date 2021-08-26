@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2142   Doom (1993)                                                                                 19    5 
+    1. 2145   Doom (1993)                                                                                 19    5 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -26,8 +26,8 @@
                   Publishers: Blizzard Entertainment, Electronic Arts
                   Designer: Ron Millar
                   Composer: Glenn Stafford
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1847   Tomb Raider (1996)                                                                         194    4 
+
+       1859   Tomb Raider (1996)                                                                         194    4
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
@@ -45,7 +45,16 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1790   Virtua Fighter 2 (1994)                                                                      6    3 
+    6. 1800   Resident Evil (1996)                                                                       162    4 
+                  JPN | 8 h | Third person
+                  On: DS, PS3, PSX, Saturn, Win
+                  Genre: Adventure | Theme: Fantasy, Horror, Survival
+                  Developers: Capcom, Nextech
+                  Publishers: Capcom, Virgin
+                  Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
+                  Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1790   Virtua Fighter 2 (1994)                                                                      6    3 
                   JPN | 4 h | Side view
                   On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
                   Genre: Arcade, Fighting, Simulator | Theme: Action
@@ -54,7 +63,7 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1787   Quake (1996)                                                                                 9    2 
+    8. 1787   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
                   On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
                   Genre: Shooter | Theme: Action, Comedy, Historical, Horror, Science Fiction
@@ -62,15 +71,6 @@
                   Publishers: GT Interactive, MacSoft Games, Midway, PXL computers, Pulse Interactive, R-Comp Interactive, Sega, id Software
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1786   Resident Evil (1996)                                                                       162    4 
-                  JPN | 8 h | Third person
-                  On: DS, PS3, PSX, Saturn, Win
-                  Genre: Adventure | Theme: Fantasy, Horror, Survival
-                  Developers: Capcom, Nextech
-                  Publishers: Capcom, Virgin
-                  Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
-                  Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1728   Sega Rally Championship (1994)                                                              93    3 
                   JPN | 5 h | First person, Third person
@@ -117,7 +117,7 @@
                   Designer: Dave Theurer
                   Composer: Alastair Lindsay, Ian Howe, Kevin Saville
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1629   OutRun (1986)                                                                               65    3 
+   14. 1649   OutRun (1986)                                                                               65    3 
                   JPN | 2 h | Third person
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Genre: Arcade, Racing | Theme: Action, Non-fiction
@@ -144,7 +144,7 @@
                   Designer: Makoto Osaki, Toshihiro Nagoshi, Yukinobu Arikawa
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1551   Space Invaders (1978)                                                                      171    2 
+   17. 1572   Space Invaders (1978)                                                                      171    2 
                   JPN | 4 h | Side view
                   On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -225,7 +225,16 @@
                   Designer: Wei Shoong Teh
                   Composer: Alistair Hirst, Jeff van Dyck, Saki Kaskamanidis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1215   Panzer Dragoon Saga (1998)                                                                 320    1 
+   26. 1254   Worms (1995)                                                                               364    1 
+                  GBR | 7 h | Side view, Third person
+                  On: Amiga, CD32, DOS, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
+                  Genre: Strategy | Theme: Action, Comedy, Warfare
+                  Developers: Team17
+                  Publishers: GT Interactive, Ocean Software, Sold Out Sales & Marketing, Team17, Tec Toy Indústria de Brinquedos, Telegames
+                  Designer: Andy Davidson, Cris Blyth
+                  Composer: Bjørn Lynne
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   27. 1215   Panzer Dragoon Saga (1998)                                                                 320    1 
                   JPN | 16 h | Third person
                   On: Saturn
                   Genre: RPG | Theme: Fantasy
@@ -234,7 +243,7 @@
                   Designer: Manabu Kusunoki, Yukio Futatsugi
                   Composer: Mariko Nanba, Saori Kobayashi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1209   NHL 98 (1997)                                                                              256    1 
+   28. 1209   NHL 98 (1997)                                                                              256    1 
                   CAN | 23 h | Bird view / Isometric
                   On: Mega Drive, PSX, SNES, Saturn, Win
                   Genre: Sport, Strategy | Theme: Action, Ice Hockey, Non-fiction
@@ -243,7 +252,7 @@
                   Designer: Thomas L. Fessler
                   Composer: David Whittaker, Jeff van Dyck, Saki Kaskamanidis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1208   Virtua Cop 2 (1996)                                                                        146    1 
+   29. 1208   Virtua Cop 2 (1996)                                                                        146    1 
                   JPN | 2 h | First person
                   On: Dreamcast, Saturn, Win
                   Genre: Shooter | Theme: Action
@@ -261,7 +270,7 @@
                   Designer: Hisato Fukumoto, Katsufumi Yoshimori, Yu Suzuki, Yuichi Ide
                   Composer: Kentaro Koyama, Tatsuya Kozaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1183   Suikoden (1995)                                                                            323    1 
+   31. 1183   Suikoden (1995)                                                                            323    1 
                   JPN | 25 h | Bird view / Isometric
                   On: PSX, Saturn, Win
                   Genre: RPG | Theme: Fantasy
@@ -270,7 +279,7 @@
                   Designer: Yoshitaka Murayama
                   Composer: Hirofumi Taniguchi, Hiroshi Tamawari, Mayuko Kageshita, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1132   Road Rash (1991)                                                                           328    1 
+   32. 1132   Road Rash (1991)                                                                           328    1 
                   USA | 7 h | Third person
                   On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
                   Genre: Fighting, Racing | Theme: Action
@@ -279,7 +288,7 @@
                   Designer: Carl Mey, Dan Geisler, Randy Breen, Walter Stein
                   Composer: Greg Michael, Jason A.S. Whitely, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1064   Soviet Strike (1996)                                                                       169    1 
+   33. 1064   Soviet Strike (1996)                                                                       169    1 
                   USA | 8 h | Third person
                   On: PSX, Saturn
                   Genre: Adventure, Shooter, Simulator, Strategy | Theme: Action, Warfare
@@ -288,7 +297,7 @@
                   Designer: John Manley, Michael Becker
                   Composer: David O'Neal, Don Veca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1038   Mortal Kombat II (1993)                                                                    334    1 
+   34. 1038   Mortal Kombat II (1993)                                                                    334    1 
                   USA | 8 h | Side view
                   On: Amiga, Arcade, DOS, GB, Mega Drive, PS3, PSX, SMS, SNES, Saturn
                   Genre: Fighting | Theme: Action
@@ -297,7 +306,7 @@
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden, Matt Furniss
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1010   NBA Jam Tournament Edition (1994)                                                          174    1 
+   35. 1010   NBA Jam Tournament Edition (1994)                                                          174    1 
                   USA | 12 h | Side view, Third person
                   On: Jaguar, Mega Drive, PSX, SNES, Saturn
                   Genre: Arcade, Sport | Theme: Action, Basketball
