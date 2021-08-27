@@ -1,9 +1,9 @@
-Games in database: 415
+Games in database: 417
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 175 (42%)
-  2. JPN                   : 162 (39%)
+  1. USA                   : 177 (42%)
+  2. JPN                   : 162 (38%)
   3. GBR                   :  62 (14%)
   4. CAN                   :  10 (2%)
   5. GER                   :   2 (0%)
@@ -16,10 +16,10 @@ Countries (Top 10):
 Platforms (Top 10):
 -------------------
   1. DOS                   : 152 (36%)
-  2. Win                   : 127 (30%)
+  2. Win                   : 128 (30%)
   3. Mac                   : 103 (24%)
   4. Amiga                 : 102 (24%)
-  5. C64                   : 100 (24%)
+  5. C64                   : 100 (23%)
   6. Arcade                :  84 (20%)
   7. Atari ST              :  80 (19%)
   8. NES                   :  76 (18%)
@@ -42,29 +42,29 @@ Years (Top 10):
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 123 (29%)
+  1. Adventure             : 125 (29%)
   2. Shooter               :  93 (22%)
-  3. RPG                   :  80 (19%)
+  3. RPG                   :  81 (19%)
   4. Arcade                :  77 (18%)
   5. Platform              :  72 (17%)
   6. Sport                 :  68 (16%)
-  7. Strategy              :  65 (15%)
-  8. Simulator             :  54 (13%)
+  7. Strategy              :  66 (15%)
+  8. Simulator             :  54 (12%)
   9. Puzzle                :  44 (10%)
  10. Racing                :  41 (9%)
 
 Themes (Top 10):
 -------------------
-  1. Action                : 255 (61%)
-  2. Fantasy               : 121 (29%)
+  1. Action                : 257 (61%)
+  2. Fantasy               : 123 (29%)
   3. Science Fiction       : 103 (24%)
-  4. Historical            :  32 (7%)
+  4. Historical            :  34 (8%)
   5. Comedy                :  28 (6%)
-  6. Warfare               :  25 (6%)
+  6. Warfare               :  25 (5%)
   7. Horror                :  24 (5%)
   8. Non-fiction           :  19 (4%)
-  9. Sandbox               :  17 (4%)
- 10. Open world            :  16 (3%)
+  9. Sandbox               :  18 (4%)
+ 10. Open world            :  17 (4%)
 
 Developers (Top 10):
 --------------------
@@ -85,7 +85,7 @@ Publishers (Top 10):
   2. Nintendo              :  51 (12%)
   3. Electronic Arts       :  46 (11%)
   4. Atari                 :  29 (6%)
-  5. Sony                  :  26 (6%)
+  5. Sony                  :  27 (6%)
   6. Konami                :  23 (5%)
   7. Activision            :  21 (5%)
   8. Sierra                :  19 (4%)
@@ -97,8 +97,8 @@ Perspectives:
 -------------
   1. Bird view / Isometric : 153 (36%)
   2. Side view             : 124 (29%)
-  3. Third person          : 118 (28%)
-  4. First person          :  87 (20%)
+  3. Third person          : 120 (28%)
+  4. First person          :  88 (21%)
   5. Text                  :   9 (2%)
   6. Auditory              :   2 (0%)
 

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2279   Tetris (1984)                                                                                2    7 
+    1. 2281   Tetris (1984)                                                                                2    7 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2186   Street Fighter II (1991)                                                                     7    7 
+    2. 2190   Street Fighter II (1991)                                                                     7    7 
                   JPN | 9 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Genre: Arcade, Fighting | Theme: Action, Science Fiction
@@ -27,7 +27,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2036   Tomb Raider (1996)                                                                         194    5 
+    4. 2044   Tomb Raider (1996)                                                                         194    5 
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
@@ -180,7 +180,16 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1714   Defender (1981)                                                                             13    3 
+   21. 1724   Grand Theft Auto (1997)                                                                    247    2 
+                  GBR | 13 h | Bird view / Isometric
+                  On: DOS, PSX, Win
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
+                  Developers: DMA Design, Tarantula Studios
+                  Publishers: ASC Games, BMG, Rockstar, Syscom Entertainment, Take-Two
+                  Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
+                  Composer: Colin Anderson, Craig Conner, Grant Middleton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1714   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Genre: Shooter, Strategy | Theme: Action, Science Fiction
@@ -189,7 +198,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1699   Duke Nukem 3D (1996)                                                                        51    2 
+   23. 1699   Duke Nukem 3D (1996)                                                                        51    2 
                   USA | 12 h | First person
                   On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Comedy, Science Fiction
@@ -197,15 +206,6 @@
                   Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1698   Grand Theft Auto (1997)                                                                    247    2 
-                  GBR | 13 h | Bird view / Isometric
-                  On: DOS, PSX, Win
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
-                  Developers: DMA Design, Tarantula Studios
-                  Publishers: ASC Games, BMG, Rockstar, Syscom Entertainment, Take-Two
-                  Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
-                  Composer: Colin Anderson, Craig Conner, Grant Middleton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    24. 1691   The Secret of Monkey Island (1990)                                                         235    2 
                   USA | 7 h | Side view

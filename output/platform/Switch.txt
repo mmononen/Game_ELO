@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2225   Super Mario 64 (1996)                                                                        1    7 
+    1. 2228   Super Mario 64 (1996)                                                                        1    7 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Genre: Platform | Theme: Action
@@ -9,7 +9,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2221   Super Mario World (1990)                                                                    33    6 
+    2. 2224   Super Mario World (1990)                                                                    33    6 
                   JPN | 8 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2210   Super Mario Kart (1992)                                                                     53    6 
+    3. 2213   Super Mario Kart (1992)                                                                     53    6 
                   JPN | 10 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Arcade, Racing | Theme: Action, Party
@@ -27,7 +27,7 @@
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2175   Final Fantasy VII (1997)                                                                   191    6 
+    4. 2179   Final Fantasy VII (1997)                                                                   191    6 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -36,7 +36,7 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2167   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
+    5. 2171   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -54,7 +54,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2150   Super Mario Bros. (1985)                                                                     5    5 
+    7. 2155   Super Mario Bros. (1985)                                                                     5    5 
                   JPN | 2 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -81,7 +81,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1977   Super Metroid (1994)                                                                       119    7 
+   10. 1987   Super Metroid (1994)                                                                       119    7 
                   JPN | 9 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -216,16 +216,7 @@
                   Designer: Andrew Collard, Gregg Mayles, Tim Stamper
                   Composer: David Wise
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1232   Dr. Mario (1990)                                                                           319    1 
-                  JPN | 4 h | Side view
-                  On: 3DS, GB, GBA, NES, Switch, Wii U
-                  Genre: Puzzle, Strategy | Theme: Healthcare
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Takahiro Harada
-                  Composer: Hirokazu Tanaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1226   Super Mario Galaxy (2007)                                                                  411    1 
+   25. 1261   Super Mario Galaxy (2007)                                                                  411    1 
                   JPN | 23 h | Third person
                   On: Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -233,6 +224,15 @@
                   Publishers: Nintendo
                   Designer: Shigeru Miyamoto, Yoshiaki Koizumi
                   Composer: Koji Kondo, Mahito Yokota
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   26. 1232   Dr. Mario (1990)                                                                           319    1 
+                  JPN | 4 h | Side view
+                  On: 3DS, GB, GBA, NES, Switch, Wii U
+                  Genre: Puzzle, Strategy | Theme: Healthcare
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Takahiro Harada
+                  Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    27. 1209   Pro Wrestling (1986)                                                                       321    1 
                   JPN | 1 h | Side view

@@ -6230,6 +6230,36 @@
         "designer": ["Casey Hudson", "James Ohlen"],
         "composer": ["Jeremy Soule"],
         "hltb": 36
+    },
+    "God of War (2005)":
+    {
+        "id": 416,
+        "year": 2005,
+        "country": ["USA"],
+        "platforms": ["PS2"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Hack and Slash", "Strategy"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["David Jaffe"],
+        "composer": ["Gerard Marino", "Mike Reagan", "Ron Fish", "Winifred Phillips", "Winnie Waldron", "Cris Velasco", "MArcello De Francisci"],
+        "hltb": 10
+    },
+    "The Elder Scrolls IV: Oblivion (2006)":
+    {
+        "id": 417,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["4J Studios", "Bethesda"],
+        "publishers": ["Spike", "2K Games", "Bethesda"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Historical", "Open world", "Sandbox"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Ken Rolston"],
+        "composer": ["Jeremy Soule"],
+        "hltb": 86
     }
 
 }

@@ -18,7 +18,7 @@
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1919   Castlevania: Symphony of the Night (1997)                                                  224    4 
+    3. 1932   Castlevania: Symphony of the Night (1997)                                                  224    4 
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Genre: Adventure, Platform, RPG | Theme: Action, Horror
@@ -45,7 +45,7 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1796   Chrono Trigger (1995)                                                                      290    2 
+    6. 1816   Chrono Trigger (1995)                                                                      290    2 
                   JPN | 27 h | Bird view / Isometric
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
@@ -54,7 +54,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1732   SoulCalibur (1998)                                                                         222    4 
+    7. 1756   SoulCalibur (1998)                                                                         222    4 
                   JPN | 9 h | Third person
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Genre: Arcade, Fighting | Theme: Action, Fantasy, Historical
@@ -63,7 +63,16 @@
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1699   Duke Nukem 3D (1996)                                                                        51    2 
+    8. 1720   Grand Theft Auto: Vice City (2002)                                                         339    2 
+                  GBR | 28 h | Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1699   Duke Nukem 3D (1996)                                                                        51    2 
                   USA | 12 h | First person
                   On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Comedy, Science Fiction
@@ -72,7 +81,7 @@
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1698   R-Type (1987)                                                                              172    3 
+   10. 1698   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -80,15 +89,6 @@
                   Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
                   Designer: Abiko
                   Composer: Masato Ishizaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1694   Grand Theft Auto: Vice City (2002)                                                         339    2 
-                  GBR | 28 h | Third person
-                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
-                  Developers: Rockstar
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Lex Horton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1680   Space Invaders (1978)                                                                      171    2 
                   JPN | 4 h | Side view
@@ -126,16 +126,7 @@
                   Designer: David Crane
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1537   Mega Man 2 (1988)                                                                          295    1 
-                  JPN | 3 h | Side view
-                  On: 3DS, NES, PSX, Wii, Wii U, iOS
-                  Genre: Adventure, Platform | Theme: Action, Science Fiction
-                  Developers: Capcom
-                  Publishers: Capcom
-                  Designer: Akira Kitamura
-                  Composer: Takashi Tateishi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1522   Gunstar Heroes (1993)                                                                      355    2 
+   15. 1557   Gunstar Heroes (1993)                                                                      355    2 
                   JPN | 2 h | Side view
                   On: Game Gear, Linux, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Genre: Arcade, Platform, Shooter | Theme: Action, Science Fiction, Warfare
@@ -143,6 +134,15 @@
                   Publishers: Sega
                   Designer: Masato Maegawa
                   Composer: Norio Hanzawa
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1537   Mega Man 2 (1988)                                                                          295    1 
+                  JPN | 3 h | Side view
+                  On: 3DS, NES, PSX, Wii, Wii U, iOS
+                  Genre: Adventure, Platform | Theme: Action, Science Fiction
+                  Developers: Capcom
+                  Publishers: Capcom
+                  Designer: Akira Kitamura
+                  Composer: Takashi Tateishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    17. 1521   Boulder Dash (1984)                                                                        345    1 
                   USA | 10 h | Side view
@@ -153,7 +153,7 @@
                   Designer: Chris Gray, Peter Liepa
                   Composer: Ian Waugh, Peter Liepa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1484   Grand Theft Auto: San Andreas (2004)                                                       399    1 
+   18. 1520   Grand Theft Auto: San Andreas (2004)                                                       399    1 
                   GBR | 47 h | First person, Third person
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
@@ -243,16 +243,7 @@
                   Designer: James Ohlen
                   Composer: Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1096   Marathon (1994)                                                                            284    1 
-                  USA | 8 h | First person
-                  On: Mac, iOS
-                  Genre: Shooter | Theme: Action, Science Fiction
-                  Developers: Bungie
-                  Publishers: Bungie
-                  Designer: Alex Seropian, Jason Jones
-                  Composer: Alex Seropian
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1088   BioShock (2007)                                                                            414    1 
+   28. 1114   BioShock (2007)                                                                            414    1 
                   AUS, USA | 16 h | First person
                   On: Mac, PS3, Win, Xbox 360, iOS
                   Genre: RPG, Shooter | Theme: Action, Historical, Horror, Science Fiction
@@ -261,16 +252,7 @@
                   Designer: Ken Levine, Paul Hellquist
                   Composer: Garry Schyman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1086   Planescape: Torment (1999)                                                                 285    1 
-                  USA | 43 h | Bird view / Isometric
-                  On: Linux, Mac, Win, iOS
-                  Genre: RPG | Theme: Drama, Fantasy
-                  Developers: Black Isle
-                  Publishers: Interplay
-                  Designer: Chris Avellone
-                  Composer: Mark Morgan
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1080   Star Wars: Knights of the Old Republic (2003)                                              415    1 
+   29. 1105   Star Wars: Knights of the Old Republic (2003)                                              415    1 
                   CAN | 36 h | Third person
                   On: Android, Mac, Win, Xbox, iOS
                   Genre: Adventure, RPG | Theme: Science Fiction
@@ -278,6 +260,24 @@
                   Publishers: Activision, Aspyr, LucasArts
                   Designer: Casey Hudson, James Ohlen
                   Composer: Jeremy Soule
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   30. 1096   Marathon (1994)                                                                            284    1 
+                  USA | 8 h | First person
+                  On: Mac, iOS
+                  Genre: Shooter | Theme: Action, Science Fiction
+                  Developers: Bungie
+                  Publishers: Bungie
+                  Designer: Alex Seropian, Jason Jones
+                  Composer: Alex Seropian
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   31. 1086   Planescape: Torment (1999)                                                                 285    1 
+                  USA | 43 h | Bird view / Isometric
+                  On: Linux, Mac, Win, iOS
+                  Genre: RPG | Theme: Drama, Fantasy
+                  Developers: Black Isle
+                  Publishers: Interplay
+                  Designer: Chris Avellone
+                  Composer: Mark Morgan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    32. 1066   Grand Theft Auto III (2001)                                                                387    1 
                   GBR | 22 h | Bird view / Isometric, Third person
