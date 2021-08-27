@@ -490,7 +490,7 @@ with open('gamedb_list.txt', 'w', encoding='utf-8') as f_out:
 
 with open('missing.txt', 'w', encoding='utf-8') as f_out:
     for l in unlisted:
-        print(l)
+        #print(l)
         f_out.write(l+"\n")
 i = 0
 countries = {}
@@ -505,7 +505,11 @@ designers = {}
 composers = {}
 
 for g in gamedb:
-    s = groups[groupnames.index(g)]
+    try:
+        s = groups[groupnames.index(g)]
+    except:
+        print(f"{g} not in lists!")
+        break
     for x in s.country:
         if x not in countries:
             countries[x] = 1

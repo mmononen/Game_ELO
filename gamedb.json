@@ -5945,6 +5945,186 @@
         "designer": ["Leslie Benzies"],
         "composer": ["Michael Hunter"],
         "hltb": 41
+    },
+    "Resident Evil 4 (2005)":
+    {
+        "id": 397,
+        "year": 2005,
+        "country": ["JPN"],
+        "platforms": ["GameCube"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Shinji Mikami", "Hiroshi Shibata", "Kouji Kakae", "Shigenori Nishikawa"],
+        "composer": ["Misao Senbongi"],
+        "hltb": 20
+    },
+    "Final Fantasy XII (2006)":
+    {
+        "id": 398,
+        "year": 2006,
+        "country": ["JPN"],
+        "platforms": ["PS2"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Sandbox"],
+        "perspective": ["Third person"],
+        "designer": ["Hiroyuki Ito", "Hiroshi Minagawa"],
+        "composer": ["Hitoshi Sakimoto", "Hayato Matsuo", "Masaharu Iwata"],
+        "hltb": 93
+    },
+    "Grand Theft Auto: San Andreas (2004)":
+    {
+        "id": 399,
+        "year": 2004,
+        "country": ["GBR"],
+        "platforms": ["Android", "PS4", "Xbox 360", "PS2", "Mac", "iOS", "Xbox", "PS3", "Win"],
+        "developers": ["Rockstar"],
+        "publishers": ["Take-Two", "Rockstar"],
+        "genre": ["Adventure", "Racing", "Shooter"],
+        "theme": ["Action", "Non-fiction", "Open world"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Leslie Benzies"],
+        "composer": ["Michael Hunter"],
+        "hltb": 47
+    },
+    "Pro Evolution Soccer 4 (2004)":
+    {
+        "id": 400,
+        "year": 2004,
+        "country": ["JPN"],
+        "platforms": ["PS2", "Xbox", "Win"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Sport"],
+        "theme": ["Non-fiction", "Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yasuyuki Shoji", "Tetsushi Yamakawa", "Seisuke Yasunaga"],
+        "composer": ["Norikazu Miura", "Atsushi Sato"],
+        "hltb": 72
+    },
+    "Half-Life 2 (2004)":
+    {
+        "id": 401,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["Android", "Xbox 360", "Linux", "Mac", "Xbox", "PS3", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["Valve", "Sierra", "NVIDIA"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Marc Laidlaw"],
+        "composer": ["Kelly Bailey"],
+        "hltb": 16
+    },
+    "Half-Life 2: Episode One (2006)":
+    {
+        "id": 402,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "PS3", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["CyberFront", "Electronic Arts", "Valve"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Erik Wolpaw", "Chet Faliszek"],
+        "composer": ["Kelly Bailey"],
+        "hltb": 4
+    },
+    "Half-Life 2: Episode Two (2007)":
+    {
+        "id": 403,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "PS3", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["CyberFront", "Valve", "Electronic Arts"],
+        "genre": ["Puzzle", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Erik Wolpaw", "Chet Faliszek"],
+        "composer": ["Kelly Bailey"],
+        "hltb": 6
+    },
+    "Team Fortress 2 (2007)":
+    {
+        "id": 404,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "PS3", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["Electronic Arts", "Valve"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Comedy"],
+        "perspective": ["First person"],
+        "designer": ["John Cook", "Robin Walke"],
+        "composer": ["Mike Morasky"],
+        "hltb": 180
+    },
+    "Portal (2007)":
+    {
+        "id": 405,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Android", "Xbox 360", "Linux", "Mac", "PS3", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["Valve", "Electronic Arts"],
+        "genre": ["Platform", "Puzzle", "Shooter"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Kim Swift"],
+        "composer": ["Kelly Bailey", "Mike Morasky"],
+        "hltb": 5
+    },
+    "LEGO Star Wars: The Video Game (2005)":
+    {
+        "id": 406,
+        "year": 2005,
+        "country": ["GBR"],
+        "platforms": ["PS2", "Mac", "GBA", "GameCube", "Xbox", "Win"],
+        "developers": ["Traveller's Tales"],
+        "publishers": ["LucasArts", "Aspyr", "Eidos", "Giant Interactive Entertainment"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Comedy", "Kids", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Jon Burton"],
+        "composer": ["David Whittaker", "John Williams"],
+        "hltb": 11
+    },
+    "LEGO Star Wars II: The Original Trilogy (2006)":
+    {
+        "id": 407,
+        "year": 2006,
+        "country": ["GBR"],
+        "platforms": ["DS", "Xbox 360", "PS2", "Mac", "GBA", "PSP", "GameCube", "Xbox", "Win"],
+        "developers": ["Traveller's Tales"],
+        "publishers": ["Traveller's Tales", "LucasArts"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Jon Burton"],
+        "composer": ["David Whittaker", "John Williams"],
+        "hltb": 11
+    },
+    "Wii Sports (2006)":
+    {
+        "id": 408,
+        "year": 2006,
+        "country": ["JPN"],
+        "platforms": ["Wii"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Party", "Tennis", "Baseball", "Golf", "Bowling", "Boxing"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Keizo Ohta", "Takayuki Shimamura", "Yoshikazu Yamashita"],
+        "composer": ["Kazumi Totaka"],
+        "hltb": 9
     }
 
 }
