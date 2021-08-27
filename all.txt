@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2173   The Legend of Zelda: Ocarina of Time (1998)                                                177    5 
+    2. 2180   The Legend of Zelda: Ocarina of Time (1998)                                                177    6 
                   JPN | 31 h | Third person
                   On: N64, Wii, Wii U
                   Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
@@ -36,7 +36,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2132   Final Fantasy VII (1997)                                                                   191    4 
+    5. 2150   Final Fantasy VII (1997)                                                                   191    5 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -117,7 +117,7 @@
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 2042   Super Mario Bros. 3 (1988)                                                                  32    4 
+   14. 2043   Super Mario Bros. 3 (1988)                                                                  32    5 
                   JPN | 6 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -134,8 +134,17 @@
                   Publishers: MicroProse
                   Designer: Bruce Shelley, Sid Meier
                   Composer: Jeffery L. Briggs
+
+       2027   Metal Gear Solid (1998)                                                                    196    6
+                  JPN | 13 h | Third person
+                  On: PS3, PSP, PSX
+                  Genre: Adventure, Strategy | Theme: Action, Science Fiction, Stealth, Survival
+                  Developers: Konami
+                  Publishers: Konami, Microsoft
+                  Designer: Hideo Kojima
+                  Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 2016   Final Fantasy VI (1994)                                                                     36    4 
+   17. 2016   Final Fantasy VI (1994)                                                                     36    4 
                   JPN | 42 h | Bird view / Isometric, Side view
                   On: PSX, SNES, Wii, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
@@ -144,7 +153,7 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 2004   Half-Life (1998)                                                                           188    4 
+   18. 2004   Half-Life (1998)                                                                           188    4 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -152,15 +161,6 @@
                   Publishers: Sierra, Valve
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1987   Metal Gear Solid (1998)                                                                    196    5 
-                  JPN | 13 h | Third person
-                  On: PS3, PSP, PSX
-                  Genre: Adventure, Strategy | Theme: Action, Science Fiction, Stealth, Survival
-                  Developers: Konami
-                  Publishers: Konami, Microsoft
-                  Designer: Hideo Kojima
-                  Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1964   Super Metroid (1994)                                                                       119    6 
                   JPN | 9 h | Side view
@@ -3258,7 +3258,16 @@
                   Designer: Alex Seropian, Jason Jones
                   Composer: Alex Seropian
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  363. 1089   Cool Boarders 2 (1997)                                                                     330    1 
+  363. 1089   Metal Gear Solid 4: Guns of the Patriots (2008)                                            391    1 
+                  JPN | 22 h | Third person
+                  On: PS3
+                  Genre: Adventure, Shooter, Tactical | Theme: Action, Fantasy, Historical, Stealth, Survival
+                  Developers: Kojima Productions
+                  Publishers: Konami
+                  Designer: Hideo Kojima
+                  Composer: Harry Gregson-Williams, Kazuma Jinnouchi, Nobuko Toda, Shuichi Kobori
+
+       1089   Cool Boarders 2 (1997)                                                                     330    1
                   JPN | 5 h | Third person
                   On: Android, PSX
                   Genre: Racing, Sport | Theme: Snowboarding
@@ -3267,7 +3276,7 @@
                   Designer: Masaya Kobayashi, Tadayuki Konno
                   Composer: Atsunori Namba, Yoshichika Shimamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  364. 1086   Planescape: Torment (1999)                                                                 285    1 
+  365. 1086   Planescape: Torment (1999)                                                                 285    1 
                   USA | 43 h | Bird view / Isometric
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Drama, Fantasy
@@ -3276,7 +3285,7 @@
                   Designer: Chris Avellone
                   Composer: Mark Morgan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  365. 1080   Ninja Gaiden (1988)                                                                        331    1 
+  366. 1080   Ninja Gaiden (1988)                                                                        331    1 
                   JPN | 3 h | Side view
                   On: 3DS, Arcade, NES, Switch, TurboGrafx-16, Wii, Wii U
                   Genre: Adventure, Arcade, Hack and Slash, Platform | Theme: Action, Fantasy, Ninjas
@@ -3285,7 +3294,7 @@
                   Designer: Hideo Yoshizawa
                   Composer: Keiji Yamagishi, Ryuichi Nitta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  366. 1079   Strider (1989)                                                                             264    1 
+  367. 1079   Strider (1989)                                                                             264    1 
                   JPN | 8 h | Side view
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Mega Drive, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Science Fiction
@@ -3294,7 +3303,7 @@
                   Designer: Kouichi Yotsui, Shinichi Yoshimoto, Tokuro Fujiwara
                   Composer: Junko Tamiya
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  367. 1078   NBA Jam (1993)                                                                             173    2 
+  368. 1078   NBA Jam (1993)                                                                             173    2 
                   USA | 17 h | Side view
                   On: Arcade, GB, Game Gear, Mega Drive, SNES, Sega CD
                   Genre: Sport | Theme: Basketball
@@ -3303,7 +3312,7 @@
                   Designer: Jamie Rivett, John Carlton, Mark Turmell, Sal Divita, Shawn Liptak, Tony Goskie
                   Composer: Jon Hey, Rick Fox
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  368. 1075   Gran Turismo 3: A-Spec (2001)                                                              386    1 
+  369. 1075   Gran Turismo 3: A-Spec (2001)                                                              386    1 
                   JPN | 64 h | First person, Third person
                   On: PS2
                   Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
@@ -3312,7 +3321,16 @@
                   Designer: Kazunori Yamauchi
                   Composer: Daiki Kasho, Isamu Ohira
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  369. 1066   Grand Theft Auto III (2001)                                                                387    1 
+  370. 1073   Mass Effect (2007)                                                                         392    1 
+                  CAN | 29 h | Third person
+                  On: PS3, Win, Xbox 360
+                  Genre: RPG, Shooter | Theme: Action, Science Fiction
+                  Developers: BioWare
+                  Publishers: Electronic Arts, Microsoft
+                  Designer: Casey Hudson, Preston Watamaniuk
+                  Composer: David Kates, Jack Wall, Richard Jacques, Sam Hulick
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  371. 1066   Grand Theft Auto III (2001)                                                                387    1 
                   GBR | 22 h | Bird view / Isometric, Third person
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
@@ -3321,7 +3339,7 @@
                   Designer: Leslie Benzies
                   Composer: Craig Conner, Stuart Ross
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  370. 1064   Urban Strike (1994)                                                                        168    1 
+  372. 1064   Urban Strike (1994)                                                                        168    1 
                   USA | 8 h | Bird view / Isometric
                   On: GB, Game Gear, Mega Drive, SNES
                   Genre: Shooter, Simulator | Theme: Action
@@ -3357,7 +3375,7 @@
                   Designer: John Manley, Mike Posehn
                   Composer: Brian L. Schmidt, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  374. 1057   NBA 2K1 (2000)                                                                             332    1 
+  376. 1057   NBA 2K1 (2000)                                                                             332    1 
                   USA | 20 h | Third person
                   On: Dreamcast
                   Genre: Simulator, Sport | Theme: Action, Basketball, Non-fiction
@@ -3374,8 +3392,17 @@
                   Publishers: Atari, Polyvox, Sears, Sega, Taito
                   Designer: Dave Theurer
                   Composer: Rich Adam
+
+       1057   Final Fantasy VIII (1999)                                                                  393    1
+                  JPN | 56 h | Bird view / Isometric, Third person
+                  On: PS3, PSX, Win
+                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Science Fiction
+                  Developers: Square
+                  Publishers: Eidos, SCE Australia, Square
+                  Designer: Hiroyuki Ito, Yoshinori Kitase
+                  Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  376. 1048   Tetris Attack (1996)                                                                       333    1 
+  379. 1048   Tetris Attack (1996)                                                                       333    1 
                   JPN | 4 h | Side view
                   On: GB, SNES
                   Genre: Puzzle | Theme: Action, Kids
@@ -3384,7 +3411,16 @@
                   Designer: Hitoshi Yamagami, Masao Yamamoto, Toshitaka Muramatsu
                   Composer: Masaru Tajima, Masaya Kuzume, Yuka Tsujiyoko
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  377. 1038   Mortal Kombat II (1993)                                                                    334    1 
+  380. 1039   Call of Duty 4: Modern Warfare (2007)                                                      394    1 
+                  USA | 10 h | First person
+                  On: Mac, PS3, Win, Xbox 360
+                  Genre: Shooter, Simulator | Theme: Action, Warfare
+                  Developers: Infinity Ward, Treyarch, n-Space
+                  Publishers: Activision
+                  Designer: Jason West, Mackey McCandlish, Steve Fukuda, Todd Alderman, Zied Rieke
+                  Composer: Stephen Barton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+  381. 1038   Mortal Kombat II (1993)                                                                    334    1 
                   USA | 8 h | Side view
                   On: Amiga, Arcade, DOS, GB, Mega Drive, PS3, PSX, SMS, SNES, Saturn
                   Genre: Fighting | Theme: Action
@@ -3393,7 +3429,7 @@
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden, Matt Furniss
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  378. 1029   Choplifter (1982)                                                                          265    1 
+  382. 1029   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Genre: Arcade, Shooter | Theme: Action
@@ -3402,7 +3438,7 @@
                   Designer: Dan Gorlin
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  379. 1020   Time Crisis (1995)                                                                         266    1 
+  383. 1020   Time Crisis (1995)                                                                         266    1 
                   JPN | 2 h | First person
                   On: Arcade, PSX
                   Genre: Arcade, Shooter | Theme: Action
@@ -3410,8 +3446,17 @@
                   Publishers: Namco
                   Designer: Hirofuki Kami, Takashi Satsukawa
                   Composer: Kazuhiro Nakamura
+
+       1020   Shenmue (1999)                                                                             395    1
+                  JPN | 22 h | Third person
+                  On: Dreamcast, PS4, Win, Xbox One
+                  Genre: Adventure, Hack and Slash, RPG, Simulator | Theme: Fantasy, Historical, Sandbox
+                  Developers: Sega
+                  Publishers: Sega
+                  Designer: Eigo Kasahara, Keiji Okayasu, Toshihiro Nagoshi, Yu Suzuki
+                  Composer: Takenobu Mitsuyoshi, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  380. 1019   Empire: Wargame of the Century (1987)                                                      286    1 
+  385. 1019   Empire: Wargame of the Century (1987)                                                      286    1 
                   USA | 30 h | Bird view / Isometric
                   On: Amiga, Apple II, Atari ST, C64, DOS
                   Genre: Strategy, Tactical | Theme: Fantasy, Historical, Warfare
@@ -3420,7 +3465,7 @@
                   Designer: Walter Bright
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  381. 1010   The House of the Dead 2 (1998)                                                             335    1 
+  386. 1010   The House of the Dead 2 (1998)                                                             335    1 
                   JPN | 2 h | First person
                   On: Arcade, Dreamcast, Win
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -3465,7 +3510,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  386. 1000   Turrican (1990)                                                                            390    1 
+  391. 1000   Turrican (1990)                                                                            390    1 
                   GER | 3 h | Side view
                   On: Amiga, Amstrad CPC, C64, GB, Mega Drive, TurboGrafx-16, ZX Spectrum
                   Genre: Platform, Shooter | Theme: Action, Science Fiction
@@ -3500,6 +3545,15 @@
                   Publishers: Konami
                   Designer: Unknown
                   Composer: Unknown
+
+       1000   Grand Theft Auto IV (2008)                                                                 396    1
+                  GBR | 41 h | Third person
+                  On: PS3, Win, Xbox 360
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Michael Hunter
 
        1000   Ape Escape (1999)                                                                          336    1
                   JPN | 11 h | Third person

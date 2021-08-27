@@ -5855,6 +5855,96 @@
         "designer": ["Manfred Trenz"],
         "composer": ["Chris Huelsbeck", "Jochen Hippel"],
         "hltb": 3
+    },
+    "Metal Gear Solid 4: Guns of the Patriots (2008)":
+    {
+        "id": 391,
+        "year": 2008,
+        "country": ["JPN"],
+        "platforms": ["PS3"],
+        "developers": ["Kojima Productions"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Shooter", "Tactical"],
+        "theme": ["Action", "Fantasy", "Historical", "Stealth", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Hideo Kojima"],
+        "composer": ["Harry Gregson-Williams", "Nobuko Toda", "Shuichi Kobori", "Kazuma Jinnouchi"],
+        "hltb": 22
+    },
+    "Mass Effect (2007)":
+    {
+        "id": 392,
+        "year": 2007,
+        "country": ["CAN"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Electronic Arts", "Microsoft"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Casey Hudson", "Preston Watamaniuk"],
+        "composer": ["Jack Wall", "Sam Hulick", "Richard Jacques", "David Kates"],
+        "hltb": 29
+    },
+    "Final Fantasy VIII (1999)":
+    {
+        "id": 393,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["PSX", "PS3", "Win"],
+        "developers": ["Square"],
+        "publishers": ["Square", "SCE Australia", "Eidos"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Open world", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Yoshinori Kitase", "Hiroyuki Ito"],
+        "composer": ["Nobuo Uematsu"],
+        "hltb": 56
+    },
+    "Call of Duty 4: Modern Warfare (2007)":
+    {
+        "id": 394,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "PS3", "Win"],
+        "developers": ["Treyarch", "n-Space", "Infinity Ward"],
+        "publishers": ["Activision"],
+        "genre": ["Shooter", "Simulator"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Jason West", "Todd Alderman", "Steve Fukuda", "Mackey McCandlish", "Zied Rieke"],
+        "composer": ["Stephen Barton"],
+        "hltb": 10
+    },
+    "Shenmue (1999)":
+    {
+        "id": 395,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["Xbox One", "PS4", "Dreamcast", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "Hack and Slash", "RPG", "Simulator"],
+        "theme": ["Fantasy", "Historical", "Sandbox"],
+        "perspective": ["Third person"],
+        "designer": ["Yu Suzuki", "Keiji Okayasu", "Toshihiro Nagoshi", "Eigo Kasahara"],
+        "composer": ["Takenobu Mitsuyoshi", "Yuzo Koshiro"],
+        "hltb": 22
+    },
+    "Grand Theft Auto IV (2008)":
+    {
+        "id": 396,
+        "year": 2008,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["Rockstar"],
+        "publishers": ["Take-Two", "Rockstar"],
+        "genre": ["Adventure", "Racing", "Shooter"],
+        "theme": ["Action", "Open world"],
+        "perspective": ["Third person"],
+        "designer": ["Leslie Benzies"],
+        "composer": ["Michael Hunter"],
+        "hltb": 41
     }
 
 }
