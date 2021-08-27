@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2163   Doom (1993)                                                                                 19    5 
-                  USA | 7 h | First person
-                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
-                  Genre: Shooter | Theme: Action, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
-                  Designer: John Romero, Sandy Petersen, Tom Hall
-                  Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2158   Final Fantasy VII (1997)                                                                   191    6 
+    1. 2175   Final Fantasy VII (1997)                                                                   191    6 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -18,7 +9,16 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2087   Metal Gear Solid (1998)                                                                    196    7 
+    2. 2163   Doom (1993)                                                                                 19    5 
+                  USA | 7 h | First person
+                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
+                  Genre: Shooter | Theme: Action, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
+                  Designer: John Romero, Sandy Petersen, Tom Hall
+                  Composer: Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2110   Metal Gear Solid (1998)                                                                    196    7 
                   JPN | 13 h | Third person
                   On: PS3, PSP, PSX
                   Genre: Adventure, Strategy | Theme: Action, Science Fiction, Stealth, Survival
@@ -27,25 +27,7 @@
                   Designer: Hideo Kojima
                   Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2027   Sid Meier's Civilization (1991)                                                              4    5 
-                  USA | 50 h | Bird view / Isometric
-                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
-                  Genre: Strategy, Turn-Based Strategy | Theme: 4X
-                  Developers: Koei, MicroProse
-                  Publishers: MicroProse
-                  Designer: Bruce Shelley, Sid Meier
-                  Composer: Jeffery L. Briggs
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2016   Final Fantasy VI (1994)                                                                     36    4 
-                  JPN | 42 h | Bird view / Isometric, Side view
-                  On: PSX, SNES, Wii, Win
-                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
-                  Developers: Square, Tose
-                  Publishers: Nintendo, Sony, Square
-                  Designer: Hiroyuki Ito, Yoshinori Kitase
-                  Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2003   Tomb Raider (1996)                                                                         194    5 
+    4. 2036   Tomb Raider (1996)                                                                         194    5 
                   GBR | 18 h | Third person
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
@@ -54,7 +36,7 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1994   Gran Turismo (1997)                                                                        189    4 
+    5. 2028   Gran Turismo (1997)                                                                        189    4 
                   JPN | 37 h | First person, Third person
                   On: PSX
                   Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
@@ -62,6 +44,24 @@
                   Publishers: Sony
                   Designer: Hirotaka Komiyama, Kazunori Yamauchi, Takeshi Yokouchi
                   Composer: Isamu Ohira, Jason Page, Masahiro Andoh
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2027   Sid Meier's Civilization (1991)                                                              4    5 
+                  USA | 50 h | Bird view / Isometric
+                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
+                  Genre: Strategy, Turn-Based Strategy | Theme: 4X
+                  Developers: Koei, MicroProse
+                  Publishers: MicroProse
+                  Designer: Bruce Shelley, Sid Meier
+                  Composer: Jeffery L. Briggs
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 2016   Final Fantasy VI (1994)                                                                     36    4 
+                  JPN | 42 h | Bird view / Isometric, Side view
+                  On: PSX, SNES, Wii, Win
+                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
+                  Developers: Square, Tose
+                  Publishers: Nintendo, Sony, Square
+                  Designer: Hiroyuki Ito, Yoshinori Kitase
+                  Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1950   Sid Meier's Civilization II (1996)                                                          30    4 
                   USA | 50 h | Bird view / Isometric
@@ -72,7 +72,7 @@
                   Designer: Brian Reynolds, Chris Taormino, Jason S. Coleman
                   Composer: Jeffery L. Briggs, Kevin Manthei, Roland J. Rizzo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1914   Castlevania: Symphony of the Night (1997)                                                  224    3 
+    9. 1919   Castlevania: Symphony of the Night (1997)                                                  224    4 
                   JPN | 12 h | Side view
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Genre: Adventure, Platform, RPG | Theme: Action, Horror
@@ -81,7 +81,7 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1864   Resident Evil (1996)                                                                       162    4 
+   10. 1912   Resident Evil (1996)                                                                       162    5 
                   JPN | 8 h | Third person
                   On: DS, PS3, PSX, Saturn, Win
                   Genre: Adventure | Theme: Fantasy, Horror, Survival
@@ -90,7 +90,16 @@
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1859   Warcraft II: Tides of Darkness (1995)                                                       10    3 
+   11. 1880   Tekken 2 (1995)                                                                             22    4 
+                  JPN | 6 h | Side view
+                  On: Arcade, PS2, PS3, PSP, PSX, Vita
+                  Genre: Fighting | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Designer: Seiichi Ishii
+                  Composer: Yoshie Arakawa, Yoshie Takayanagi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1859   Warcraft II: Tides of Darkness (1995)                                                       10    3 
                   USA | 26 h | Bird view / Isometric
                   On: DOS, Mac, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Fantasy
@@ -99,7 +108,7 @@
                   Designer: Ron Millar
                   Composer: Glenn Stafford
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1856   Quake II (1997)                                                                            178    3 
+   13. 1856   Quake II (1997)                                                                            178    3 
                   USA | 10 h | First person
                   On: N64, PSX, Win
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -108,7 +117,7 @@
                   Designer: American McGee, Kevin Cloud, Tim Willits
                   Composer: Sascha Dikiciyan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1854   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
+   14. 1854   Tony Hawk's Pro Skater 2 (2000)                                                            287    1 
                   USA | 13 h | Third person
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Genre: Sport | Theme: Action, Skateboarding
@@ -117,16 +126,7 @@
                   Designer: Aaron Cammarata, Jason Uyeda
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1819   Tekken 2 (1995)                                                                             22    4 
-                  JPN | 6 h | Side view
-                  On: Arcade, PS2, PS3, PSP, PSX, Vita
-                  Genre: Fighting | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Designer: Seiichi Ishii
-                  Composer: Yoshie Arakawa, Yoshie Takayanagi
-
-       1819   Command & Conquer (1995)                                                                    69    3
+   15. 1819   Command & Conquer (1995)                                                                    69    3 
                   USA | 23 h | Bird view / Isometric
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction, Warfare
@@ -135,7 +135,16 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1791   Resident Evil 2 (1998)                                                                     187    3 
+   16. 1796   Chrono Trigger (1995)                                                                      290    2 
+                  JPN | 27 h | Bird view / Isometric
+                  On: Android, DS, PSX, SNES, Wii, Win, iOS
+                  Genre: RPG | Theme: Fantasy, Science Fiction
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
+                  Composer: Nobuo Uematsu, Yasunori Mitsuda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1791   Resident Evil 2 (1998)                                                                     187    3 
                   JPN | 9 h | Third person
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Genre: Adventure, Shooter | Theme: Action, Horror, Survival
@@ -144,16 +153,7 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1754   Tekken 3 (1997)                                                                            186    2 
-                  JPN | 12 h | Side view
-                  On: Arcade, PS2, PSX
-                  Genre: Fighting | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
-                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1736   Ridge Racer (1993)                                                                         182    2 
+   18. 1776   Ridge Racer (1993)                                                                         182    3 
                   JPN | 2 h | First person, Third person
                   On: Arcade, PSX
                   Genre: Arcade, Racing | Theme: Action
@@ -161,15 +161,15 @@
                   Publishers: Namco
                   Designer: Toru Iwatani
                   Composer: Shinji Hosoe
-
-       1736   Chrono Trigger (1995)                                                                      290    1
-                  JPN | 27 h | Bird view / Isometric
-                  On: Android, DS, PSX, SNES, Wii, Win, iOS
-                  Genre: RPG | Theme: Fantasy, Science Fiction
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
-                  Composer: Nobuo Uematsu, Yasunori Mitsuda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1754   Tekken 3 (1997)                                                                            186    2 
+                  JPN | 12 h | Side view
+                  On: Arcade, PS2, PSX
+                  Genre: Fighting | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
+                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1722   Final Fantasy Tactics (1997)                                                               219    2 
                   JPN | 57 h | Bird view / Isometric
@@ -198,7 +198,16 @@
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1687   X-COM: UFO Defense (1994)                                                                   26    3 
+   23. 1698   Grand Theft Auto (1997)                                                                    247    2 
+                  GBR | 13 h | Bird view / Isometric
+                  On: DOS, PSX, Win
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
+                  Developers: DMA Design, Tarantula Studios
+                  Publishers: ASC Games, BMG, Rockstar, Syscom Entertainment, Take-Two
+                  Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
+                  Composer: Colin Anderson, Craig Conner, Grant Middleton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1687   X-COM: UFO Defense (1994)                                                                   26    3 
                   GBR, USA | 42 h | Bird view / Isometric
                   On: Amiga, DOS, PSX, Win
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Horror, Science Fiction, Warfare
@@ -207,7 +216,7 @@
                   Designer: Julian Gollop, Nick Gollop
                   Composer: John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1679   Diablo (1996)                                                                              269    1 
+   25. 1679   Diablo (1996)                                                                              269    1 
                   USA | 18 h | Bird view / Isometric
                   On: Mac, PSX, Win
                   Genre: RPG, Strategy | Theme: Action, Fantasy, Historical, Horror
@@ -216,7 +225,7 @@
                   Designer: David Brevik, Eric Sexton, Erik Schaefer, Kenneth Williams, Max Schaefer
                   Composer: Matt Uelmen
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1675   SimCity 2000 (1993)                                                                         48    2 
+   26. 1675   SimCity 2000 (1993)                                                                         48    2 
                   USA | 25 h | Bird view / Isometric
                   On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
@@ -225,16 +234,7 @@
                   Designer: Fred Haslam, Will Wright
                   Composer: Brian Conrad, Justin McCormick, Sue Kasper
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1604   Grand Theft Auto (1997)                                                                    247    2 
-                  GBR | 13 h | Bird view / Isometric
-                  On: DOS, PSX, Win
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
-                  Developers: DMA Design, Tarantula Studios
-                  Publishers: ASC Games, BMG, Rockstar, Syscom Entertainment, Take-Two
-                  Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
-                  Composer: Colin Anderson, Craig Conner, Grant Middleton
-
-       1604   Crash Bandicoot: Warped (1998)                                                             293    1
+   27. 1604   Crash Bandicoot: Warped (1998)                                                             293    1 
                   USA | 8 h | Bird view / Isometric, Third person
                   On: PS3, PSP, PSX
                   Genre: Adventure, Platform | Theme: Action, Fantasy, Historical, Science Fiction

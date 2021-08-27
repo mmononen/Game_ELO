@@ -6125,6 +6125,111 @@
         "designer": ["Keizo Ohta", "Takayuki Shimamura", "Yoshikazu Yamashita"],
         "composer": ["Kazumi Totaka"],
         "hltb": 9
+    },
+    "Guitar Hero (2005)":
+    {
+        "id": 409,
+        "year": 2005,
+        "country": ["USA"],
+        "platforms": ["PS2"],
+        "developers": ["Harmonix"],
+        "publishers": ["RedOctane"],
+        "genre": ["Music"],
+        "theme": ["Party"],
+        "perspective": ["Auditory"],
+        "designer": ["Greg LoPiccolo", "Ryan Lesser", "Rob Kay"],
+        "composer": ["Unknown"],
+        "hltb": 11
+    },
+    "Project Gotham Racing 4 (2007)":
+    {
+        "id": 410,
+        "year": 2007,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360"],
+        "developers": ["Bizarre Creations"],
+        "publishers": ["Microsoft"],
+        "genre": ["Racing"],
+        "theme": ["Non-fiction"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Martyn Chudley", "Ged Talbot", "Gareth Wilson", "Peter O'Sullivan", "Peter Hall", "Toby Rodriguez", "Craig Howard"],
+        "composer": ["Peter Davenport", "Lily Kohn", "Naomi Hopkins", "Cathryn Hopkins"],
+        "hltb": 22
+    },
+    "Super Mario Galaxy (2007)":
+    {
+        "id": 411,
+        "year": 2007,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Yoshiaki Koizumi", "Shigeru Miyamoto"],
+        "composer": ["Mahito Yokota", "Koji Kondo"],
+        "hltb": 23
+    },
+    "Ico (2001)":
+    {
+        "id": 412,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["PS2"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform", "Puzzle"],
+        "theme": ["Action", "Drama", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Fumito Ueda"],
+        "composer": ["Michiru Oshima", "Koichi Yamazaki", "Mitsukuni Murayama"],
+        "hltb": 7
+    },
+    "Advance Wars (2001)":
+    {
+        "id": 413,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "GBA"],
+        "developers": ["Intelligent Systems"],
+        "publishers": ["Nintendo"],
+        "genre": ["Puzzle", "Simulator", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Toru Narihiro"],
+        "composer": ["Taishi Senda"],
+        "hltb": 21
+    },
+    "BioShock (2007)":
+    {
+        "id": 414,
+        "year": 2007,
+        "country": ["USA", "AUS"],
+        "platforms": ["Xbox 360", "Mac", "iOS", "PS3", "Win"],
+        "developers": ["2K Games"],
+        "publishers": ["2K Games", "Feral Interactive"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Historical", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Ken Levine", "Paul Hellquist"],
+        "composer": ["Garry Schyman"],
+        "hltb": 16
+    },
+    "Star Wars: Knights of the Old Republic (2003)":
+    {
+        "id": 415,
+        "year": 2003,
+        "country": ["CAN"],
+        "platforms": ["Android", "Mac", "iOS", "Xbox", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["LucasArts", "Activision", "Aspyr"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Casey Hudson", "James Ohlen"],
+        "composer": ["Jeremy Soule"],
+        "hltb": 36
     }
 
 }

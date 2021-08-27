@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2212   Super Mario 64 (1996)                                                                        1    7 
+    1. 2225   Super Mario 64 (1996)                                                                        1    7 
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Genre: Platform | Theme: Action
@@ -9,7 +9,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2207   Super Mario World (1990)                                                                    33    6 
+    2. 2221   Super Mario World (1990)                                                                    33    6 
                   JPN | 8 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2196   Super Mario Kart (1992)                                                                     53    6 
+    3. 2210   Super Mario Kart (1992)                                                                     53    6 
                   JPN | 10 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Arcade, Racing | Theme: Action, Party
@@ -27,16 +27,7 @@
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2163   Doom (1993)                                                                                 19    5 
-                  USA | 7 h | First person
-                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
-                  Genre: Shooter | Theme: Action, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
-                  Designer: John Romero, Sandy Petersen, Tom Hall
-                  Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2158   Final Fantasy VII (1997)                                                                   191    6 
+    4. 2175   Final Fantasy VII (1997)                                                                   191    6 
                   JPN | 51 h | Bird view / Isometric, Third person
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -45,7 +36,7 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2149   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
+    5. 2167   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -54,7 +45,16 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2131   Super Mario Bros. (1985)                                                                     5    5 
+    6. 2163   Doom (1993)                                                                                 19    5 
+                  USA | 7 h | First person
+                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
+                  Genre: Shooter | Theme: Action, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
+                  Designer: John Romero, Sandy Petersen, Tom Hall
+                  Composer: Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 2150   Super Mario Bros. (1985)                                                                     5    5 
                   JPN | 2 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -81,7 +81,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1964   Super Metroid (1994)                                                                       119    6 
+   10. 1977   Super Metroid (1994)                                                                       119    7 
                   JPN | 9 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -225,7 +225,16 @@
                   Designer: Takahiro Harada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1209   Pro Wrestling (1986)                                                                       321    1 
+   26. 1226   Super Mario Galaxy (2007)                                                                  411    1 
+                  JPN | 23 h | Third person
+                  On: Switch, Wii, Wii U
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Shigeru Miyamoto, Yoshiaki Koizumi
+                  Composer: Koji Kondo, Mahito Yokota
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   27. 1209   Pro Wrestling (1986)                                                                       321    1 
                   JPN | 1 h | Side view
                   On: Arcade, NES, Switch
                   Genre: Fighting, Sport | Theme: Action, Wrestling
@@ -234,7 +243,7 @@
                   Designer: Masato Masuda
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1080   Ninja Gaiden (1988)                                                                        331    1 
+   28. 1080   Ninja Gaiden (1988)                                                                        331    1 
                   JPN | 3 h | Side view
                   On: 3DS, Arcade, NES, Switch, TurboGrafx-16, Wii, Wii U
                   Genre: Adventure, Arcade, Hack and Slash, Platform | Theme: Action, Fantasy, Ninjas
@@ -243,7 +252,7 @@
                   Designer: Hideo Yoshizawa
                   Composer: Keiji Yamagishi, Ryuichi Nitta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1000   Super Punch-Out!! (1994)                                                                   268    1 
+   29. 1000   Super Punch-Out!! (1994)                                                                   268    1 
                   JPN | 4 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action, Boxing, Comedy

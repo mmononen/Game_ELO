@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2163   Doom (1993)                                                                                 19    5 
-                  USA | 7 h | First person
-                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
-                  Genre: Shooter | Theme: Action, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
-                  Designer: John Romero, Sandy Petersen, Tom Hall
-                  Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2149   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
+    1. 2167   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -17,6 +8,15 @@
                   Publishers: Nintendo, St. GIGA
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2163   Doom (1993)                                                                                 19    5 
+                  USA | 7 h | First person
+                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
+                  Genre: Shooter | Theme: Action, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
+                  Designer: John Romero, Sandy Petersen, Tom Hall
+                  Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 2069   The Legend of Zelda (1986)                                                                 108    4 
                   JPN | 9 h | Bird view / Isometric
@@ -108,43 +108,7 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
-                  GBR | 7 h | Side view
-                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
-                  Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
-                  Developers: Rare
-                  Publishers: Nintendo
-                  Designer: Andrew Collard, Gregg Mayles, Tim Stamper
-                  Composer: David Wise
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
-                  JPN | 2 h | Bird view / Isometric, Side view, Third person
-                  On: 3DS, GBA, SNES, Wii, Wii U
-                  Genre: Adventure, Shooter | Theme: Action, Science Fiction
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Nobuya Nakazato
-                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1233   Wing Commander (1990)                                                                      280    1 
-                  USA | 11 h | First person
-                  On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
-                  Genre: Shooter, Simulator | Theme: Action, Science Fiction
-                  Developers: Origin
-                  Publishers: ASCII, Fujitsu, GameTap, Mindscape, Origin, Sega
-                  Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
-                  Composer: David Govett, George Sanger, Mark Knight
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1232   Dr. Mario (1990)                                                                           319    1 
-                  JPN | 4 h | Side view
-                  On: 3DS, GB, GBA, NES, Switch, Wii U
-                  Genre: Puzzle, Strategy | Theme: Healthcare
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Takahiro Harada
-                  Composer: Hirokazu Tanaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1231   LEGO Star Wars: The Video Game (2005)                                                      406    1 
+   13. 1314   LEGO Star Wars: The Video Game (2005)                                                      406    1 
                   GBR | 11 h | Third person
                   On: GBA, GameCube, Mac, PS2, Win, Xbox
                   Genre: Adventure, Platform | Theme: Action, Comedy, Kids, Science Fiction
@@ -153,7 +117,7 @@
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
 
-       1231   LEGO Star Wars II: The Original Trilogy (2006)                                             407    1
+       1314   LEGO Star Wars II: The Original Trilogy (2006)                                             407    1
                   GBR | 11 h | Third person
                   On: DS, GBA, GameCube, Mac, PS2, PSP, Win, Xbox, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Comedy, Science Fiction
@@ -161,6 +125,42 @@
                   Publishers: LucasArts, Traveller's Tales
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
+                  GBR | 7 h | Side view
+                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
+                  Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
+                  Developers: Rare
+                  Publishers: Nintendo
+                  Designer: Andrew Collard, Gregg Mayles, Tim Stamper
+                  Composer: David Wise
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
+                  JPN | 2 h | Bird view / Isometric, Side view, Third person
+                  On: 3DS, GBA, SNES, Wii, Wii U
+                  Genre: Adventure, Shooter | Theme: Action, Science Fiction
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Nobuya Nakazato
+                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1233   Wing Commander (1990)                                                                      280    1 
+                  USA | 11 h | First person
+                  On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
+                  Genre: Shooter, Simulator | Theme: Action, Science Fiction
+                  Developers: Origin
+                  Publishers: ASCII, Fujitsu, GameTap, Mindscape, Origin, Sega
+                  Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
+                  Composer: David Govett, George Sanger, Mark Knight
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1232   Dr. Mario (1990)                                                                           319    1 
+                  JPN | 4 h | Side view
+                  On: 3DS, GB, GBA, NES, Switch, Wii U
+                  Genre: Puzzle, Strategy | Theme: Healthcare
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Takahiro Harada
+                  Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1223   ChuChu Rocket! (1999)                                                                      254    1 
                   JPN | 7 h | Bird view / Isometric
@@ -189,7 +189,16 @@
                   Designer: Unknown
                   Composer: Harumi Ueko, Kazuhiko Uehara
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1124   Xevious (1982)                                                                             161    1 
+   22. 1154   Advance Wars (2001)                                                                        413    1 
+                  JPN | 21 h | Bird view / Isometric
+                  On: GBA, Wii U
+                  Genre: Puzzle, Simulator, Strategy, Tactical, Turn-Based Strategy | Theme: Action, Science Fiction, Warfare
+                  Developers: Intelligent Systems
+                  Publishers: Nintendo
+                  Designer: Toru Narihiro
+                  Composer: Taishi Senda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   23. 1124   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Flight, Science Fiction
@@ -198,7 +207,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1064   Desert Strike: Return to the Gulf (1992)                                                   166    1 
+   24. 1064   Desert Strike: Return to the Gulf (1992)                                                   166    1 
                   USA | 6 h | Bird view / Isometric
                   On: Amiga, DOS, GB, GBA, Game Gear, Lynx, Mega Drive, SMS, SNES
                   Genre: Shooter, Strategy | Theme: Action

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2207   Super Mario World (1990)                                                                    33    6 
+    1. 2221   Super Mario World (1990)                                                                    33    6 
                   JPN | 8 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -9,7 +9,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2196   Super Mario Kart (1992)                                                                     53    6 
+    2. 2210   Super Mario Kart (1992)                                                                     53    6 
                   JPN | 10 h | Third person
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Arcade, Racing | Theme: Action, Party
@@ -18,7 +18,7 @@
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2149   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
+    3. 2167   The Legend of Zelda: A Link to the Past (1991)                                             110    7 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -27,7 +27,7 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2131   Super Mario Bros. (1985)                                                                     5    5 
+    4. 2150   Super Mario Bros. (1985)                                                                     5    5 
                   JPN | 2 h | Side view
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -54,7 +54,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1964   Super Metroid (1994)                                                                       119    6 
+    7. 1977   Super Metroid (1994)                                                                       119    7 
                   JPN | 9 h | Side view
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -72,16 +72,7 @@
                   Designer: Satoru Okada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1899   Super Mario Bros. 2 (1988)                                                                  31    3 
-                  JPN | 4 h | Side view
-                  On: 3DS, NES, Switch, Wii, Wii U
-                  Genre: Adventure, Arcade, Platform | Theme: Action
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Kensuke Tanabe, Toshio Iwawaki, Yasunori Taketani
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1891   Sonic the Hedgehog 2 (1992)                                                                 37    5 
+    9. 1940   Sonic the Hedgehog 2 (1992)                                                                 37    5 
                   USA | 3 h | Side view
                   On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -90,7 +81,16 @@
                   Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1808   Pokémon Red (1996)                                                                         213    3 
+   10. 1899   Super Mario Bros. 2 (1988)                                                                  31    3 
+                  JPN | 4 h | Side view
+                  On: 3DS, NES, Switch, Wii, Wii U
+                  Genre: Adventure, Arcade, Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Kensuke Tanabe, Toshio Iwawaki, Yasunori Taketani
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1871   Pokémon Red (1996)                                                                         213    3 
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Kids, Open world
@@ -99,7 +99,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       1808   Pokémon Blue (1996)                                                                        214    3
+       1871   Pokémon Blue (1996)                                                                        214    3
                   JPN | 44 h | Bird view / Isometric, Side view
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
