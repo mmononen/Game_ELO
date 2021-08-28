@@ -2617,6 +2617,8 @@
         "perspective": ["Side view"],
         "designer": ["Al Lowe"],
         "composer": ["Frank Zottoli"],
+        "pegi": "N/A",
+		"esrb": "M",
         "hltb": 7
     },
     "Jumping Flash! (1995)":
@@ -2632,6 +2634,8 @@
         "perspective": ["First person"],
         "designer": ["Koji Tada", "Toshimitsu Odaira", "Hiroyuki Saegusa", "Shuji Nomaguchi"],
         "composer": ["Takeo Miratsu"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 3
     },
     "Discs of Tron (1983)":
@@ -2647,6 +2651,8 @@
         "perspective": ["Third person"],
         "designer": ["Robert Dinnerman"],
         "composer": ["Unknown"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 10
     },
     "Knight Lore (1984)":
@@ -2662,6 +2668,8 @@
         "perspective": ["Third person"],
         "designer": ["Tim Stamper", "Chris Stamper"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "Summer Games (1984)":
@@ -2677,6 +2685,8 @@
         "perspective": ["Third person"],
         "designer": ["Scott Nelson", "Erin Murphy", "Stephen Mudry", "Brian McGhie", "Stephen Landrum", "Jon Leupp", "Randy Glover"],
         "composer": ["Randy Glover"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "Winter Games (1985)":
@@ -2692,6 +2702,8 @@
         "perspective": ["Third person"],
         "designer": ["Richard A. Ditton", "Elaine Hodgson", "Chris Oberth", "Fumiko Murakami"],
         "composer": ["David Thiel", "Kenichi Tomizawa"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "California Games (1987)":
@@ -2707,6 +2719,8 @@
         "perspective": ["Side view"],
         "designer": ["Chuck Sommerville", "Ken Nicholson", "Kevin Norman", "Kevin Furry", "Jon Leupp"],
         "composer": ["Chris Grigg", "Gil Freeman", "David Wise"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 2
     },
     "Xevious (1982)":
@@ -2722,6 +2736,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Masanobu Endō", "Shigeki Toyama", "Hiroshi Ono"],
         "composer": ["Yuriko Keino"],
+		"pegi": "3",
+		"esrb": "E",        
         "hltb": 3
     },
     "Resident Evil (1996)":
@@ -2737,6 +2753,8 @@
         "perspective": ["Third person"],
         "designer": ["Shinji Mikami", "Takahiro Arimitsu", "Isao Ōishi"],
         "composer": ["Makoto Tomozawa", "Koichi Hiroki", "Masami Ueda"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 8
     },
     "Hard Hat Mack (1983)":
