@@ -6530,6 +6530,141 @@
         "designer": ["Mark Pacini"],
         "composer": ["Kenji Yamamoto", "Kouichi Kyuma"],
         "hltb": 16
+    },
+    "Super Smash Bros. Melee (2001)":
+    {
+        "id": 436,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["GameCube"],
+        "developers": ["HAL Laboratory"],
+        "publishers": ["Nintendo"],
+        "genre": ["Fighting", "Hack and Slash", "Platform", "Sport"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Masahiro Sakurai"],
+        "composer": ["Hirokazu Ando", "Shogo Sakai", "Tadashi Ikegami", "Takuto Kitsuta"],
+        "hltb": 56
+    },
+    "God of War II (2007)":
+    {
+        "id": 437,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["PS2"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Hack and Slash", "Platform"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Cory Barlog"],
+        "composer": ["Gerard Marino", "Ron Fish", "Mike Reagan", "Cris Velasco"],
+        "hltb": 13
+    },
+    "The Legend of Zelda: Twilight Princess (2006)":
+    {
+        "id": 438,
+        "year": 2006,
+        "country": ["JPN"],
+        "platforms": ["GameCube"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Eiji Aonuma"],
+        "composer": ["Toru Minegishi", "Asuka Ohta"],
+        "hltb": 46
+    },
+    "Ratchet & Clank: Up Your Arsenal (2004)":
+    {
+        "id": 439,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["PS2", "Vita", "PS3"],
+        "developers": ["Insomniac Games"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Brian Allgeier"],
+        "composer": ["David Bergeaud"],
+        "hltb": 16
+    },
+    "Medal of Honor: Allied Assault (2002)":
+    {
+        "id": 440,
+        "year": 2002,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["2015"],
+        "publishers": ["Electronic Arts", "Icculus.org", "Aspyr"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Vince Zampella", "Jason West"],
+        "composer": ["Michael Giacchino"],
+        "hltb": 13
+    },
+    "Skies of Arcadia (2000)":
+    {
+        "id": 441,
+        "year": 2000,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Atsushi Seimiya", "Shuntaro Tanaka", "Tetsuya Otsubo"],
+        "composer": ["Yutaka Minobe", "Tatsuyuki Maeda"],
+        "hltb": 50
+    },
+    "The Legend of Zelda: The Wind Waker (2002)":
+    {
+        "id": 442,
+        "year": 2002,
+        "country": ["JPN"],
+        "platforms": ["GameCube"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Puzzle", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Eiji Aonuma"],
+        "composer": ["Kenta Nagata", "Hajime Wakai", "Toru Minegishi", "Koji Kondo"],
+        "hltb": 35
+    },
+    "Silent Hill 2 (2001)":
+    {
+        "id": 443,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["PS2", "Xbox", "Win"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Puzzle"],
+        "theme": ["Drama", "Horror", "Mystery", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Masashi Tsuboyama"],
+        "composer": ["Akira Yamaoka"],
+        "hltb": 10
+    },
+    "Prince of Persia: The Sands of Time (2003)":
+    {
+        "id": 444,
+        "year": 2003,
+        "country": ["CAN"],
+        "platforms": ["PS2", "GameCube", "Xbox", "PS3", "Win"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Nintendo", "Sony", "Ubisoft"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Patrice Désilets", "Jordan Mechner"],
+        "composer": ["Stuart Chatwood"],
+        "hltb": 10
     }
 
 }

@@ -1,6 +1,6 @@
 # Calculates ELO ranking for games based on various curated top-lists.
 
-import sys, json
+import sys, json, statistics
 
 class Game:
     def __init__(self, name):
@@ -503,10 +503,12 @@ publishers = {}
 perspectives = {}
 designers = {}
 composers = {}
+total_hltb = []
 
 for g in gamedb:
     try:
         s = groups[groupnames.index(g)]
+        total_hltb.append(s.hltb)
     except:
         print(f"{g} not in lists!")
         break
@@ -719,6 +721,8 @@ for i in composers:
 
 with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     f_out.write(f"Games in database: {len(gamedb)}\n")
+    f_out.write(f"Total: {sum(total_hltb)} h | Average: {int(sum(total_hltb) / len(gamedb))} h | Median: {int(statistics.median(total_hltb))} h\n")
+    #f_out.write(f"Average hours per game: {int(sum(total_hltb) / len(gamedb))} h\n")
     f_out.write("\n")
     f_out.write("Countries (Top 10):\n")
     f_out.write("-------------------\n")

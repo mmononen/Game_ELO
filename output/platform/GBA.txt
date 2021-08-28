@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2320   Doom (1993)                                                                                 19    6 
+    1. 2325   Doom (1993)                                                                                 19    6 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2308   The Legend of Zelda: A Link to the Past (1991)                                             110    8 
+    2. 2312   The Legend of Zelda: A Link to the Past (1991)                                             110    8 
                   JPN | 17 h | Bird view / Isometric
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -18,7 +18,7 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2293   The Legend of Zelda (1986)                                                                 108    5 
+    3. 2298   The Legend of Zelda (1986)                                                                 108    5 
                   JPN | 9 h | Bird view / Isometric
                   On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
                   Genre: Adventure | Theme: Action, Fantasy, Open world
@@ -27,7 +27,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1944   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
+    4. 1968   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
                   USA | 13 h | Third person
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Genre: Sport | Theme: Action, Skateboarding
@@ -63,16 +63,7 @@
                   Designer: Kazunobu Shimizu, Tadashi Sugiyama
                   Composer: Akito Nakatsuka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
-                  GBR | 10 h | Bird view / Isometric
-                  On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
-                  Genre: Sport, Strategy | Theme: Action, Science Fiction
-                  Developers: The Bitmap Brothers
-                  Publishers: Amiga, Arena Entertainment, CSK Research Institute, Glu Mobile, Image Works, Infinite Ventures, Kixx, Konami, Krisalis, Mindscape, Mirrorsoft, Renegade Software, The Bitmap Brothers, Virgin, Wanadoo Edition
-                  Designer: Eric Matthews
-                  Composer: John Foxx
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1583   Double Dragon (1987)                                                                       318    3 
+    8. 1627   Double Dragon (1987)                                                                       318    3 
                   JPN | 2 h | Side view, Third person
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -81,7 +72,16 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1536   Dr. Mario (1990)                                                                           319    2 
+    9. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+                  GBR | 10 h | Bird view / Isometric
+                  On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
+                  Genre: Sport, Strategy | Theme: Action, Science Fiction
+                  Developers: The Bitmap Brothers
+                  Publishers: Amiga, Arena Entertainment, CSK Research Institute, Glu Mobile, Image Works, Infinite Ventures, Kixx, Konami, Krisalis, Mindscape, Mirrorsoft, Renegade Software, The Bitmap Brothers, Virgin, Wanadoo Edition
+                  Designer: Eric Matthews
+                  Composer: John Foxx
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1575   Dr. Mario (1990)                                                                           319    2 
                   JPN | 4 h | Side view
                   On: 3DS, GB, GBA, NES, Switch, Wii U
                   Genre: Puzzle, Strategy | Theme: Healthcare
