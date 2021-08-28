@@ -13,6 +13,8 @@
         "perspective": ["Third person"],
         "designer": ["Shigeru Miyamoto"],
         "composer": ["Koji Kondo"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 17
 
     },
@@ -29,6 +31,8 @@
         "perspective": ["Side view"],
         "designer": ["Alexey Pajitnov"],
         "composer": ["trad."],
+		"pegi": "3",
+		"esrb": "E",        
         "hltb": 6
 
     },
@@ -45,6 +49,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Takayuki Hirai"],
         "composer": ["Yasuhiko Fukuda"],
+		"pegi": "N/A",
+		"esrb": "E",
         "hltb": 5
     },
     "Sid Meier's Civilization (1991)":
@@ -60,6 +66,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Sid Meier", "Bruce Shelley"],
         "composer": ["Jeffery L. Briggs"],
+		"pegi": "N/A",
+		"esrb": "E",
         "hltb": 50
         
     },
@@ -76,6 +84,8 @@
         "perspective": ["Side view"],
         "designer": ["Shigeru Miyamoto", "Takashi Tezuka"],
         "composer": ["Koji Kondo"],
+		"pegi": "3",
+		"esrb": "E",
         "hltb": 2
     },
     "Virtua Fighter 2 (1994)":
@@ -91,6 +101,8 @@
         "perspective": ["Side view"],
         "designer": ["Yu Suzuki", "Kazuhiro Izaki"],
         "composer": ["Takenobu Mitsuyoshi", "Takayuki Nakamura", "Akiko Hashimoto"],
+		"pegi": "12",
+		"esrb": "E10+",
         "hltb": 4
     },
     "Street Fighter II (1991)":
@@ -106,6 +118,8 @@
         "perspective": ["Side view"],
         "designer": ["Akira Nishitani", "Akira Yasuda"],
         "composer": ["Yoko Shimomura", "Isao Abe"],
+		"pegi": "12",
+		"esrb": "T",
         "hltb": 9
     },
     "Lemmings (1991)":
@@ -121,6 +135,8 @@
         "perspective": ["Side view"],
         "designer": ["David Jones"],
         "composer": ["Tim Wright", "Brian Johnston"],
+		"pegi": "3",
+		"esrb": "E",
         "hltb": 23
     },
     "Quake (1996)":
@@ -136,6 +152,8 @@
         "perspective": ["First person"],
         "designer": ["John Romero", "American McGee", "Sandy Petersen", "Tim Willits"],
         "composer": ["Trent Reznor", "Nine Inch Nails"],
+		"pegi": "N/A",
+		"esrb": "M",
         "hltb": 7
     },
     "Warcraft II: Tides of Darkness (1995)":
@@ -151,6 +169,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Ron Millar"],
         "composer": ["Glenn Stafford"],
+		"pegi": "N/A",
+		"esrb": "T",
         "hltb": 26
     },
     "Virtua Racing (1992)":
@@ -166,6 +186,8 @@
         "perspective": ["Third person"],
         "designer": ["Yu Suzuki"],
         "composer": ["Takenobu Mitsuyoshi", "Naofumi Hataya"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 4
     },
     "Ms. Pac-Man (1982)":
@@ -181,6 +203,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Steve Golson"],
         "composer": ["Chris Rode"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 2
     },
     "Defender (1981)":
@@ -196,6 +220,8 @@
         "perspective": ["Side view"],
         "designer": ["Eugene Jarvis", "Larry DeMar"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "Elite (1984)":
@@ -211,6 +237,8 @@
         "perspective": ["First person"],
         "designer": ["David Braben", "Ian Bell"],
         "composer": ["Aidan Bell", "Johann Strauss", "David Whittaker", "Wally Beben", "Julie Dunn"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 100
     },
     "Marble Madness (1984)":
@@ -226,6 +254,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Mark Cerny"],
         "composer": ["Brad Fuller", "Hal Canon"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 2
     },
     "Populous (1989)":
@@ -241,6 +271,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Peter Molyneux", "Glenn Corpes", "Kevin Donkin", "Les Edgar"],
         "composer": ["David Hanlon", "Rob Hubbard"],
+        "pegi": "7",
+		"esrb": "N/A",
         "hltb": 36
     },
     "Final Fantasy (1987)":
@@ -256,6 +288,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Hironobu Sakaguchi", "Hiromichi Tanaka", "Akitoshi Kawazu", "Koichi Ishii"],
         "composer": ["Nobuo Uematsu"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 23
     },
     "Micro Machines (1991)":
@@ -271,6 +305,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Andrew Graham"],
         "composer": ["Matt Gray"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 8
     },
     "Doom (1993)":
@@ -286,6 +322,8 @@
         "perspective": ["First person"],
         "designer": ["John Romero", "Tom Hall", "Sandy Petersen"],
         "composer": ["Robert Prince"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 7
     },
     "Sonic the Hedgehog (1991)":
@@ -301,6 +339,8 @@
         "perspective": ["Side view"],
         "designer": ["Hirokazu Yasuhara"],
         "composer": ["Masato Nakamura"],
+        "pegi": "3",
+		"esrb": "E10+",
         "hltb": 2
     },
     "Daytona USA (1994)":
@@ -316,6 +356,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Toshihiro Nagoshi","Makoto Osaki", "Yukinobu Arikawa"],
         "composer": ["Takenobu Mitsuyoshi"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 2
     },
     "Tekken 2 (1995)":
@@ -331,6 +373,8 @@
         "perspective": ["Side view"],
         "designer": ["Seiichi Ishii"],
         "composer": ["Yoshie Arakawa", "Yoshie Takayanagi"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 6
     },
     "Star Wars: X-Wing (1993)":
@@ -346,6 +390,8 @@
         "perspective": ["First person"],
         "designer": ["Lawrence Holland", "Edard Kilham"],
         "composer": ["Peter McConnell"],
+        "pegi": "7",
+		"esrb": "N/A",
         "hltb": 24
     },
     "The Lurking Horror (1987)":
@@ -361,6 +407,8 @@
         "perspective": ["Text"],
         "designer": ["Dave Lebling"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 9
     },
     "Nights into Dreams... (1996)":
@@ -376,6 +424,8 @@
         "perspective": ["Third person", "Side view"],
         "designer": ["Naoto Ohshima", "Takashi Iizuka"],
         "composer": ["Naofumi Hataya", "Tomoko Sasaki", "Fumie Kumatani"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 4
     },
     "X-COM: UFO Defense (1994)":
@@ -391,6 +441,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Julian Gollop", "Nick Gollop"],
         "composer": ["John Broomhall"],
+        "pegi": "12",
+		"esrb": "E",
         "hltb": 42
     },
     "Sam & Max Hit the Road (1993)":
@@ -406,6 +458,8 @@
         "perspective": ["Side view"],
         "designer": ["Sean Clark", "Mike Stemmle", "Collette Michaud", "Steve Purcell"],
         "composer": ["Clint Bajakian", "Peter McConnell", "Michael Z. Land"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 6
     },
     "NFL GameDay (1996)":
@@ -421,6 +475,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Kelly Walker", "Amir Zbeda"],
         "composer": ["The Pinnacle Group"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 20
     },
     "Syndicate (1993)":
@@ -436,6 +492,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Sean Cooper"],
         "composer": ["Russell Shaw"],
+        "pegi": "12",
+		"esrb": "E",
         "hltb": 13
     },
     "Sid Meier's Civilization II (1996)":
@@ -451,6 +509,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Brian Reynolds", "Jason S. Coleman", "Chris Taormino"],
         "composer": ["Jeffery L. Briggs", "Roland J. Rizzo", "Kevin Manthei"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 50
     },
     "Super Mario Bros. 2 (1988)":
@@ -466,6 +526,8 @@
         "perspective": ["Side view"],
         "designer": ["Kensuke Tanabe", "Yasunori Taketani", "Toshio Iwawaki"],
         "composer": ["Koji Kondo"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 4
     },
     "Super Mario Bros. 3 (1988)":
@@ -481,6 +543,8 @@
         "perspective": ["Side view"],
         "designer": ["Shigeru Miyamoto", "Takashi Tezuka", "Katsuya Eguchi", "Hideki Konno", "Kensuke Tanabe"],
         "composer": ["Koji Kondo"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 6
     },
     "Super Mario World (1990)":
@@ -496,6 +560,8 @@
         "perspective": ["Side view"],
         "designer": ["Takashi Tezuka", "Katsuya Eguchi", "Hideki Konno"],
         "composer": ["Koji Kondo"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 8
     },
     "Populous II: Trials of the Olympian Gods (1991)":
@@ -511,6 +577,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Peter Molyneux", "Glenn Corpes"],
         "composer": ["Charles Callet"],
+        "pegi": "7",
+		"esrb": "N/A",
         "hltb": 12
     },
     "Final Fantasy V (1992)":
@@ -526,6 +594,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Hironobu Sakaguchi", "Hiroyuki Ito"],
         "composer": ["Nobuo Uematsu"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 37
     },
     "Final Fantasy VI (1994)":
@@ -541,6 +611,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Yoshinori Kitase", "Hiroyuki Ito"],
         "composer": ["Nobuo Uematsu"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 42
     },
     "Sonic the Hedgehog 2 (1992)":
@@ -556,6 +628,8 @@
         "perspective": ["Side view"],
         "designer": ["Masaharu Yoshii", "Hirokazu Yasuhara", "Takahiro Anto", "Yutaka Sugano"],
         "composer": ["Masato Nakamura"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 3
     },
     "Sonic the Hedgehog 3 (1994)":
@@ -571,6 +645,8 @@
         "perspective": ["Side view"],
         "designer": ["Hirokazu Yasuhara", "Hisayoshi Yoshida", "Takashi Iizuka"],
         "composer": ["Brad Buxer", "Michael Jackson", "Cirocco Jones", "Bobby Brooks", "Darryl Ross", "Geoff Grace", "Doug Grigsby", "Sachio Ogawa", "Tatsuyuki Maeda", "Jun Senoue"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 3
     },
     "Star Wars: TIE Fighter (1994)":
@@ -586,6 +662,8 @@
         "perspective": ["First person"],
         "designer": ["Lawrence Holland", "Edard Kilham"],
         "composer": ["Peter McConnell"],
+        "pegi": "7",
+		"esrb": "N/A",
         "hltb": 23
     },
     "John Madden Football (1990)":
@@ -601,6 +679,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Troy Lyndon", "Michael Knox", "Scott Orr", "Richard Hilleman", "Jim Simmons"],
         "composer": ["Rob Hubbard"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "John Madden Football '92 (1991)":
@@ -616,6 +696,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["John Madden"],
         "composer": ["Michael Bartlow"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "John Madden Football '93 (1992)":
@@ -631,6 +713,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Scott Orr"],
         "composer": ["Rob Hubbard"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Madden NFL '94 (1993)":
@@ -646,6 +730,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Michael Kosaka", "Happy Keller"],
         "composer": ["Brian L. Schmidt"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Madden NFL 95 (1994)":
@@ -661,6 +747,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Happy Keller", "Michael Rubinelli", "Gordon Bellamy"],
         "composer": ["Joel Simmons", "Jim Simmons"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 10
     },
     "Madden NFL 96 (1995)":
@@ -676,6 +764,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Michael Rubinelli", "Gordon Bellamy"],
         "composer": ["Tommy Tallarico"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 10
     },
     "Herzog Zwei (1989)":
@@ -691,6 +781,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Osamu Tsujikawa", "Izumi Fukuda"],
         "composer": ["Naosuke Arai", "Tomomi Ōtani"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 23
     },
     "Wipeout 2097 (1996)":
@@ -706,6 +798,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Nick Burcombe"],
         "composer": ["Tim Wright"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 4
     },
     "SimCity 2000 (1993)":
@@ -721,6 +815,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Will Wright", "Fred Haslam"],
         "composer": ["Sue Kasper", "Brian Conrad", "Justin McCormick"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 25
     },
     "Nobunaga's Ambition (1986)":
@@ -736,6 +832,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Kou Shibusawa"],
         "composer": ["Unknown"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 40
     },
     "Nobunaga's Ambition II (1988)":
@@ -751,6 +849,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Kou Shibusawa"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 40
     },
     "Duke Nukem 3D (1996)":
