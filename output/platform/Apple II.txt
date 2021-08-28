@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2386   Tetris (1984)                                                                                2    8 
+    1. 2393   Tetris (1984)                                                                                2    8 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2158   Ms. Pac-Man (1982)                                                                          12    4 
+    2. 2178   Ms. Pac-Man (1982)                                                                          12    4 
                   USA | 2 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -27,16 +27,7 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
-                  USA | 30 h | Bird view / Isometric, First person
-                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Richard Garriott
-                  Composer: Kenneth W. Arnold
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1812   Pac-Man (1980)                                                                             251    3 
+    4. 1878   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -44,6 +35,15 @@
                   Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
+                  USA | 30 h | Bird view / Isometric, First person
+                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Richard Garriott
+                  Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1792   Bubble Bobble (1986)                                                                       237    2 
                   JPN | 3 h | Side view
@@ -54,43 +54,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1751   Robotron: 2084 (1982)                                                                      107    4 
-                  USA | 10 h | Bird view / Isometric
-                  On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
-                  Genre: Shooter | Theme: Action, Science Fiction
-                  Developers: Vid Kidz
-                  Publishers: Atari, Digital Eclipse, Shadowsoft, Williams
-                  Designer: Eugene Jarvis, Larry DeMar
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1714   Defender (1981)                                                                             13    3 
-                  USA | 2 h | Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
-                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
-                  Developers: Williams
-                  Publishers: Atari, Sears, Shockwave, Williams
-                  Designer: Eugene Jarvis, Larry DeMar
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1687   Ultima III: Exodus (1983)                                                                   78    3 
-                  USA | 27 h | Bird view / Isometric, First person
-                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX, Mac, NES, PC-8801, PC-98, Sharp X1
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: Origin, Pony Canyon, StarCraft
-                  Designer: Richard Garriott
-                  Composer: Kenneth W. Arnold
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1679   Ultima V: Warriors of Destiny (1988)                                                        80    3 
-                  USA | 49 h | Bird view / Isometric, First person
-                  On: Amiga, Apple II, Atari ST, C64, DOS, FM Towns, NES, Sharp X68000
-                  Genre: Adventure, RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: FCI, Fujitsu, Origin, Pony Canyon
-                  Designer: Richard Garriott
-                  Composer: David R. Watson, Kenneth W. Arnold
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1640   Zork I: The Great Underground Empire (1980)                                                 54    4 
+    7. 1771   Zork I: The Great Underground Empire (1980)                                                 54    5 
                   USA | 4 h | Text
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
@@ -99,7 +63,52 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1628   The Bard's Tale (1985)                                                                     104    2 
+    8. 1751   Robotron: 2084 (1982)                                                                      107    4 
+                  USA | 10 h | Bird view / Isometric
+                  On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
+                  Genre: Shooter | Theme: Action, Science Fiction
+                  Developers: Vid Kidz
+                  Publishers: Atari, Digital Eclipse, Shadowsoft, Williams
+                  Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1714   Defender (1981)                                                                             13    3 
+                  USA | 2 h | Side view
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
+                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
+                  Developers: Williams
+                  Publishers: Atari, Sears, Shockwave, Williams
+                  Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1687   Ultima III: Exodus (1983)                                                                   78    3 
+                  USA | 27 h | Bird view / Isometric, First person
+                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX, Mac, NES, PC-8801, PC-98, Sharp X1
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: Origin, Pony Canyon, StarCraft
+                  Designer: Richard Garriott
+                  Composer: Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1679   Ultima V: Warriors of Destiny (1988)                                                        80    3 
+                  USA | 49 h | Bird view / Isometric, First person
+                  On: Amiga, Apple II, Atari ST, C64, DOS, FM Towns, NES, Sharp X68000
+                  Genre: Adventure, RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: FCI, Fujitsu, Origin, Pony Canyon
+                  Designer: Richard Garriott
+                  Composer: David R. Watson, Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1651   Arkanoid (1986)                                                                            308    2 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
+                  Genre: Arcade | Theme: Action, Science Fiction
+                  Developers: Taito
+                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
+                  Designer: Akira Fujita, Hiroshi Tsujino
+                  Composer: Hisayoshi Ogura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1628   The Bard's Tale (1985)                                                                     104    2 
                   USA | 28 h | First person
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
                   Genre: Adventure, RPG | Theme: Fantasy
@@ -108,7 +117,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1616   Asteroids (1979)                                                                            59    3 
+   14. 1616   Asteroids (1979)                                                                            59    3 
                   USA | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -117,7 +126,7 @@
                   Designer: Ed Logg, Lyle Rains
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
+   15. 1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric
                   On: Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Genre: RPG | Theme: Fantasy
@@ -135,7 +144,7 @@
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1604   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+   17. 1604   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
                   USA | 41 h | First person
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Genre: RPG | Theme: Fantasy
@@ -144,7 +153,7 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1588   The Lurking Horror (1987)                                                                   24    2 
+   18. 1588   The Lurking Horror (1987)                                                                   24    2 
                   USA | 9 h | Text
                   On: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari ST, C64, DOS, Mac
                   Genre: Adventure | Theme: Horror
@@ -152,15 +161,6 @@
                   Publishers: Infocom
                   Designer: Dave Lebling
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1570   Arkanoid (1986)                                                                            308    2 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
-                  Genre: Arcade | Theme: Action, Science Fiction
-                  Developers: Taito
-                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
-                  Designer: Akira Fujita, Hiroshi Tsujino
-                  Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1562   Marble Madness (1984)                                                                       15    2 
                   USA | 2 h | Bird view / Isometric

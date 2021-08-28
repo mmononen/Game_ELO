@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2311   Doom (1993)                                                                                 19    6 
+    1. 2320   Doom (1993)                                                                                 19    6 
                   USA | 7 h | First person
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,16 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1797   Ridge Racer (1993)                                                                         182    3 
-                  JPN | 2 h | First person, Third person
-                  On: Arcade, PSX
-                  Genre: Arcade, Racing | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco
-                  Designer: Toru Iwatani
-                  Composer: Shinji Hosoe
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1739   Star Wars: X-Wing (1993)                                                                    23    3 
+    2. 1815   Star Wars: X-Wing (1993)                                                                    23    3 
                   USA | 24 h | First person
                   On: DOS, Mac
                   Genre: Shooter, Simulator | Theme: Action, Science Fiction
@@ -27,7 +18,25 @@
                   Designer: Edard Kilham, Lawrence Holland
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1675   SimCity 2000 (1993)                                                                         48    2 
+    3. 1797   Ridge Racer (1993)                                                                         182    3 
+                  JPN | 2 h | First person, Third person
+                  On: Arcade, PSX
+                  Genre: Arcade, Racing | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco
+                  Designer: Toru Iwatani
+                  Composer: Shinji Hosoe
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1712   Super Bomberman (1993)                                                                     217    3 
+                  JPN | 4 h | Side view
+                  On: SNES
+                  Genre: Puzzle, Strategy | Theme: Action, Party
+                  Developers: Produce!
+                  Publishers: Hudson Soft, Mattel
+                  Designer: Kyon Kyon, Mikio Ueyama
+                  Composer: Jun Chikuma, Tomoyuki Hamada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1675   SimCity 2000 (1993)                                                                         48    2 
                   USA | 25 h | Bird view / Isometric
                   On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
@@ -36,7 +45,7 @@
                   Designer: Fred Haslam, Will Wright
                   Composer: Brian Conrad, Justin McCormick, Sue Kasper
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1648   Secret of Mana (1993)                                                                      232    3 
+    6. 1648   Secret of Mana (1993)                                                                      232    3 
                   JPN | 29 h | Bird view / Isometric
                   On: Android, SNES, Wii, Wii U, iOS
                   Genre: RPG | Theme: Action, Fantasy
@@ -45,7 +54,7 @@
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1636   Frontier: Elite II (1993)                                                                  341    1 
+    7. 1636   Frontier: Elite II (1993)                                                                  341    1 
                   GBR | 100 h | First person
                   On: Amiga, Atari ST, CD32, DOS
                   Genre: Adventure, Simulator | Theme: Action, Science Fiction
@@ -54,7 +63,7 @@
                   Designer: David Braben
                   Composer: David Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1626   Virtua Fighter (1993)                                                                      179    1 
+    8. 1626   Virtua Fighter (1993)                                                                      179    1 
                   JPN | 1 h | Side view
                   On: Arcade, Saturn
                   Genre: Fighting | Theme: Action
@@ -62,15 +71,6 @@
                   Publishers: Sega
                   Designer: Seiichi Ishii, Yu Suzuki
                   Composer: Takayuki Nakamura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1620   Super Bomberman (1993)                                                                     217    2 
-                  JPN | 4 h | Side view
-                  On: SNES
-                  Genre: Puzzle, Strategy | Theme: Action, Party
-                  Developers: Produce!
-                  Publishers: Hudson Soft, Mattel
-                  Designer: Kyon Kyon, Mikio Ueyama
-                  Composer: Jun Chikuma, Tomoyuki Hamada
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1614   Ultima VII: Part Two - Serpent Isle (1993)                                                  85    2 
                   USA | 59 h | Bird view / Isometric

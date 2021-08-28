@@ -1,9 +1,9 @@
-Games in database: 428
+Games in database: 435
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 181 (42%)
-  2. JPN                   : 168 (39%)
+  1. USA                   : 185 (42%)
+  2. JPN                   : 171 (39%)
   3. GBR                   :  62 (14%)
   4. CAN                   :  10 (2%)
   5. GER                   :   2 (0%)
@@ -16,23 +16,24 @@ Countries (Top 10):
 
 Platforms (Top 10):
 -------------------
-  1. DOS                   : 152 (35%)
-  2. Win                   : 132 (30%)
-  3. Mac                   : 105 (24%)
+  1. DOS                   : 152 (34%)
+  2. Win                   : 134 (30%)
+  3. Mac                   : 106 (24%)
   4. Amiga                 : 102 (23%)
-  5. C64                   : 100 (23%)
+  5. C64                   : 100 (22%)
   6. Arcade                :  85 (19%)
   7. Atari ST              :  80 (18%)
   8. NES                   :  77 (17%)
   9. PSX                   :  75 (17%)
  10. ZX Spectrum           :  66 (15%)
+  =  Wii                   :  66 (15%)
 
 Years (Top 10):
 ---------------
   1. 1996                  :  35 (8%)
   2. 1994                  :  29 (6%)
   3. 1987                  :  27 (6%)
-  4. 1998                  :  26 (6%)
+  4. 1998                  :  26 (5%)
   5. 1993                  :  24 (5%)
   6. 1995                  :  22 (5%)
   7. 1992                  :  21 (4%)
@@ -44,29 +45,29 @@ Years (Top 10):
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 131 (30%)
-  2. Shooter               :  95 (22%)
-  3. RPG                   :  84 (19%)
+  1. Adventure             : 135 (31%)
+  2. Shooter               :  98 (22%)
+  3. RPG                   :  87 (20%)
   4. Arcade                :  77 (17%)
-  5. Platform              :  74 (17%)
+  5. Platform              :  76 (17%)
   6. Sport                 :  70 (16%)
   7. Strategy              :  66 (15%)
   8. Simulator             :  54 (12%)
-  9. Puzzle                :  45 (10%)
+  9. Puzzle                :  46 (10%)
  10. Racing                :  42 (9%)
 
 Themes (Top 10):
 -------------------
-  1. Action                : 266 (62%)
-  2. Fantasy               : 127 (29%)
-  3. Science Fiction       : 105 (24%)
-  4. Historical            :  35 (8%)
-  5. Comedy                :  29 (6%)
-  6. Warfare               :  26 (6%)
-  7. Horror                :  24 (5%)
-  8. Non-fiction           :  19 (4%)
-  9. Sandbox               :  18 (4%)
- 10. Open world            :  17 (3%)
+  1. Action                : 272 (62%)
+  2. Fantasy               : 130 (29%)
+  3. Science Fiction       : 107 (24%)
+  4. Historical            :  36 (8%)
+  5. Comedy                :  31 (7%)
+  6. Warfare               :  26 (5%)
+  7. Horror                :  25 (5%)
+  8. Sandbox               :  19 (4%)
+  =  Open world            :  19 (4%)
+  =  Non-fiction           :  19 (4%)
 
 Developers (Top 10):
 --------------------
@@ -74,8 +75,8 @@ Developers (Top 10):
   2. Sega                  :  23 (5%)
   3. Konami                :  19 (4%)
   4. Namco                 :  16 (3%)
-  5. Square                :  14 (3%)
-  6. Sierra                :  13 (3%)
+  5. Square                :  15 (3%)
+  6. Sierra                :  13 (2%)
   7. Origin                :  12 (2%)
   =  Capcom                :  12 (2%)
   =  Atari                 :  12 (2%)
@@ -84,25 +85,25 @@ Developers (Top 10):
 Publishers (Top 10):
 -------------------
   1. Sega                  :  58 (13%)
-  2. Nintendo              :  52 (12%)
+  2. Nintendo              :  53 (12%)
   3. Electronic Arts       :  47 (10%)
-  4. Sony                  :  29 (6%)
-  =  Atari                 :  29 (6%)
+  4. Sony                  :  31 (7%)
+  5. Atari                 :  29 (6%)
   6. Konami                :  24 (5%)
   7. Activision            :  21 (4%)
-  8. Sierra                :  20 (4%)
-  9. Square                :  19 (4%)
+  8. Square                :  20 (4%)
+  =  Sierra                :  20 (4%)
  10. U.S. Gold             :  18 (4%)
   =  Namco                 :  18 (4%)
 
 Perspectives:
 -------------
   1. Bird view / Isometric : 157 (36%)
-  2. Third person          : 126 (29%)
-  =  Side view             : 126 (29%)
-  4. First person          :  89 (20%)
+  2. Third person          : 130 (29%)
+  3. Side view             : 126 (28%)
+  4. First person          :  92 (21%)
   5. Text                  :   9 (2%)
-  6. Auditory              :   2 (0%)
+  6. Auditory              :   3 (0%)
 
 Designers (Top 10):
 -------------------

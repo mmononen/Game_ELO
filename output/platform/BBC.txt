@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2386   Tetris (1984)                                                                                2    8 
+    1. 2393   Tetris (1984)                                                                                2    8 
                   URS | 6 h | Side view
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -18,7 +18,7 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1845   SimCity (1989)                                                                             279    4 
+    3. 1905   SimCity (1989)                                                                             279    4 
                   USA | 25 h | Bird view / Isometric
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
@@ -54,7 +54,16 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1646   Star Wars (1983)                                                                            94    3 
+    7. 1651   Arkanoid (1986)                                                                            308    2 
+                  JPN | 2 h | Side view
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
+                  Genre: Arcade | Theme: Action, Science Fiction
+                  Developers: Taito
+                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
+                  Designer: Akira Fujita, Hiroshi Tsujino
+                  Composer: Hisayoshi Ogura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1646   Star Wars (1983)                                                                            94    3 
                   USA | 2 h | First person
                   On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -63,7 +72,7 @@
                   Designer: Mike Hally
                   Composer: Earl Vickers
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1625   Knight Lore (1984)                                                                         157    2 
+    9. 1625   Knight Lore (1984)                                                                         157    2 
                   GBR | 2 h | Third person
                   On: Amstrad CPC, BBC, MSX, ZX Spectrum
                   Genre: Adventure, Arcade | Theme: Action, Fantasy
@@ -71,15 +80,6 @@
                   Publishers: Ultimate Play the Game
                   Designer: Chris Stamper, Tim Stamper
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1570   Arkanoid (1986)                                                                            308    2 
-                  JPN | 2 h | Side view
-                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
-                  Genre: Arcade | Theme: Action, Science Fiction
-                  Developers: Taito
-                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
-                  Designer: Akira Fujita, Hiroshi Tsujino
-                  Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1546   Chuckie Egg (1983)                                                                         343    1 
                   GBR | 11 h | Side view

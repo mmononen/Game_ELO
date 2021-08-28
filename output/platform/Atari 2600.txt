@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2158   Ms. Pac-Man (1982)                                                                          12    4 
+    1. 2178   Ms. Pac-Man (1982)                                                                          12    4 
                   USA | 2 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -18,34 +18,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1680   Space Invaders (1978)                                                                      171    2 
-                  JPN | 4 h | Side view
-                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
-                  Genre: Arcade, Shooter | Theme: Science Fiction
-                  Developers: Taito
-                  Publishers: Midway, Taito
-                  Designer: Tomohiro Nishikado
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1646   Star Wars (1983)                                                                            94    3 
-                  USA | 2 h | First person
-                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Atari
-                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
-                  Designer: Mike Hally
-                  Composer: Earl Vickers
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1616   Asteroids (1979)                                                                            59    3 
-                  USA | 1 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Atari
-                  Publishers: Adventure International, Atari, Sega, Taito
-                  Designer: Ed Logg, Lyle Rains
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1601   Adventure (1980)                                                                           301    2 
+    3. 1685   Adventure (1980)                                                                           301    2 
                   USA | 1 h | Bird view / Isometric
                   On: Atari 2600
                   Genre: Adventure | Theme: Fantasy
@@ -54,7 +27,43 @@
                   Designer: Warren Robinett
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1561   Pitfall! (1982)                                                                            298    2 
+    4. 1680   Space Invaders (1978)                                                                      171    2 
+                  JPN | 4 h | Side view
+                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
+                  Genre: Arcade, Shooter | Theme: Science Fiction
+                  Developers: Taito
+                  Publishers: Midway, Taito
+                  Designer: Tomohiro Nishikado
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1646   Star Wars (1983)                                                                            94    3 
+                  USA | 2 h | First person
+                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Atari
+                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
+                  Designer: Mike Hally
+                  Composer: Earl Vickers
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1616   Asteroids (1979)                                                                            59    3 
+                  USA | 1 h | Bird view / Isometric
+                  On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Atari
+                  Publishers: Adventure International, Atari, Sega, Taito
+                  Designer: Ed Logg, Lyle Rains
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1583   Double Dragon (1987)                                                                       318    3 
+                  JPN | 2 h | Side view, Third person
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
+                  Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
+                  Developers: Arc System Works, Technos
+                  Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
+                  Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
+                  Composer: Kazunaka Yamane
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1561   Pitfall! (1982)                                                                            298    2 
                   USA | 3 h | Side view
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Genre: Platform | Theme: Action
@@ -63,7 +72,7 @@
                   Designer: David Crane
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1428   Galaxian (1979)                                                                            354    1 
+    9. 1428   Galaxian (1979)                                                                            354    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -72,7 +81,7 @@
                   Designer: Kazunori Sawano, Shigeichi Ishimura
                   Composer: Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1347   Ikari Warriors (1986)                                                                      103    1 
+   10. 1347   Ikari Warriors (1986)                                                                      103    1 
                   JPN | 1 h | Bird view / Isometric
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Warfare
@@ -80,15 +89,6 @@
                   Publishers: Atari, Data East, Elite Systems, SNK, Tradewest
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1338   Double Dragon (1987)                                                                       318    2 
-                  JPN | 2 h | Side view, Third person
-                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
-                  Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
-                  Developers: Arc System Works, Technos
-                  Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
-                  Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
-                  Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1324   Bump 'n' Jump (1982)                                                                       112    1 
                   JPN | 2 h | Bird view / Isometric

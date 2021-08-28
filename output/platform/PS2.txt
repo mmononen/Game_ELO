@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2125   Half-Life (1998)                                                                           188    5 
+    1. 2148   Half-Life (1998)                                                                           188    5 
                   USA | 14 h | First person
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -18,7 +18,7 @@
                   Designer: Seiichi Ishii
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1812   Grand Theft Auto III (2001)                                                                387    2 
+    3. 1878   Grand Theft Auto III (2001)                                                                387    2 
                   GBR | 22 h | Bird view / Isometric, Third person
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
@@ -36,43 +36,7 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1754   Tekken 3 (1997)                                                                            186    2 
-                  JPN | 12 h | Side view
-                  On: Arcade, PS2, PSX
-                  Genre: Fighting | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
-                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1733   Sega Rally Championship (1994)                                                              93    4 
-                  JPN | 5 h | First person, Third person
-                  On: Arcade, GBA, N-Gage, PS2, Saturn, Win
-                  Genre: Racing, Sport | Theme: Motorsports
-                  Developers: Sega
-                  Publishers: Sega
-                  Designer: Kenji Sasaki
-                  Composer: Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1720   Grand Theft Auto: Vice City (2002)                                                         339    2 
-                  GBR | 28 h | Third person
-                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
-                  Developers: Rockstar
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Lex Horton
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1688   Nights into Dreams... (1996)                                                                25    2 
-                  JPN | 4 h | Side view, Third person
-                  On: PS2, PS3, Saturn, Win, Xbox 360
-                  Genre: Adventure, Platform | Theme: Action
-                  Developers: Sonic Team
-                  Publishers: Sega
-                  Designer: Naoto Ohshima, Takashi Iizuka
-                  Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1679   Deus Ex (2000)                                                                             274    2 
+    5. 1762   Deus Ex (2000)                                                                             274    2 
                   USA | 29 h | First person
                   On: Mac, PS2, PS3, Win
                   Genre: RPG, Shooter | Theme: Action, Science Fiction, Stealth
@@ -81,16 +45,25 @@
                   Designer: Harvey Smith, Warren Spector
                   Composer: Alexander Brandon, Dan Gardopée, Michiel van den Bos
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1666   Final Fantasy XII (2006)                                                                   398    1 
-                  JPN | 93 h | Third person
-                  On: PS2
-                  Genre: Adventure, RPG | Theme: Action, Fantasy, Sandbox
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Hiroshi Minagawa, Hiroyuki Ito
-                  Composer: Hayato Matsuo, Hitoshi Sakimoto, Masaharu Iwata
+    6. 1754   Tekken 3 (1997)                                                                            186    2 
+                  JPN | 12 h | Side view
+                  On: Arcade, PS2, PSX
+                  Genre: Fighting | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
+                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1638   God of War (2005)                                                                          416    2 
+    7. 1733   Sega Rally Championship (1994)                                                              93    4 
+                  JPN | 5 h | First person, Third person
+                  On: Arcade, GBA, N-Gage, PS2, Saturn, Win
+                  Genre: Racing, Sport | Theme: Motorsports
+                  Developers: Sega
+                  Publishers: Sega
+                  Designer: Kenji Sasaki
+                  Composer: Takenobu Mitsuyoshi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1723   God of War (2005)                                                                          416    2 
                   USA | 10 h | Third person
                   On: PS2
                   Genre: Adventure, Hack and Slash, Strategy | Theme: Action, Fantasy, Historical
@@ -99,7 +72,16 @@
                   Designer: David Jaffe
                   Composer: Cris Velasco, Gerard Marino, MArcello De Francisci, Mike Reagan, Ron Fish, Winifred Phillips, Winnie Waldron
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1618   Grand Theft Auto: San Andreas (2004)                                                       399    2 
+    9. 1720   Grand Theft Auto: Vice City (2002)                                                         339    2 
+                  GBR | 28 h | Third person
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1703   Grand Theft Auto: San Andreas (2004)                                                       399    2 
                   GBR | 47 h | First person, Third person
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
@@ -108,16 +90,25 @@
                   Designer: Leslie Benzies
                   Composer: Michael Hunter
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1595   Madden NFL 2001 (2000)                                                                     294    1 
-                  USA | 20 h | Third person
-                  On: GBC, N64, PS2, PSX, Win
-                  Genre: Simulator, Sport | Theme: Action, American Football
-                  Developers: 3d6 Games, Electronic Arts
-                  Publishers: Electronic Arts
-                  Designer: Dale Jackson, Graeme Bayless
-                  Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
+   11. 1688   Nights into Dreams... (1996)                                                                25    2 
+                  JPN | 4 h | Side view, Third person
+                  On: PS2, PS3, Saturn, Win, Xbox 360
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Sonic Team
+                  Publishers: Sega
+                  Designer: Naoto Ohshima, Takashi Iizuka
+                  Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1569   Guitar Hero (2005)                                                                         409    2 
+   12. 1666   Final Fantasy XII (2006)                                                                   398    1 
+                  JPN | 93 h | Third person
+                  On: PS2
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Sandbox
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Hiroshi Minagawa, Hiroyuki Ito
+                  Composer: Hayato Matsuo, Hitoshi Sakimoto, Masaharu Iwata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1650   Guitar Hero (2005)                                                                         409    2 
                   USA | 11 h | Auditory
                   On: PS2
                   Genre: Music | Theme: Party
@@ -126,16 +117,7 @@
                   Designer: Greg LoPiccolo, Rob Kay, Ryan Lesser
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1547   Age of Empires II: The Age of Kings (1999)                                                 273    1 
-                  USA | 114 h | Bird view / Isometric
-                  On: Mac, PS2, Win
-                  Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
-                  Developers: Ensemble Studios
-                  Publishers: Konami, Microsoft
-                  Designer: Bruce Shelley
-                  Composer: Stephen Rippy
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1540   Ico (2001)                                                                                 412    2 
+   14. 1613   Ico (2001)                                                                                 412    2 
                   JPN | 7 h | Third person
                   On: PS2
                   Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy
@@ -144,7 +126,16 @@
                   Designer: Fumito Ueda
                   Composer: Koichi Yamazaki, Michiru Oshima, Mitsukuni Murayama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1520   Final Fantasy X (2001)                                                                     425    1 
+   15. 1595   Madden NFL 2001 (2000)                                                                     294    1 
+                  USA | 20 h | Third person
+                  On: GBC, N64, PS2, PSX, Win
+                  Genre: Simulator, Sport | Theme: Action, American Football
+                  Developers: 3d6 Games, Electronic Arts
+                  Publishers: Electronic Arts
+                  Designer: Dale Jackson, Graeme Bayless
+                  Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1587   Final Fantasy X (2001)                                                                     425    1 
                   JPN | 71 h | Bird view / Isometric, Side view
                   On: PS2
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -153,7 +144,7 @@
                   Designer: Motomu Toriyama, Takayoshi Nakazato, Toshiro Tsuchida, Yoshinori Kitase
                   Composer: Junya Nakano, Masashi Hamauzu, Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1497   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
+   17. 1552   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
                   JPN | 15 h | Third person
                   On: PS2, PS3, Vita, Win, Xbox, Xbox 360
                   Genre: Adventure | Theme: Action, Stealth
@@ -162,7 +153,43 @@
                   Designer: Hideo Kojima
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1435   Pro Evolution Soccer 4 (2004)                                                              400    1 
+   18. 1547   Age of Empires II: The Age of Kings (1999)                                                 273    1 
+                  USA | 114 h | Bird view / Isometric
+                  On: Mac, PS2, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
+                  Developers: Ensemble Studios
+                  Publishers: Konami, Microsoft
+                  Designer: Bruce Shelley
+                  Composer: Stephen Rippy
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1522   The Sims (2000)                                                                            322    2 
+                  USA | 32 h | Bird view / Isometric
+                  On: GameCube, Linux, Mac, PS2, Win, Xbox
+                  Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
+                  Developers: Maxis
+                  Publishers: Aspyr, Electronic Arts, TransGaming Technologies
+                  Designer: Will Wright
+                  Composer: Jerry Martin, Marc Russo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1458   Rock Band 2 (2008)                                                                         430    1 
+                  USA | 69 h | Auditory
+                  On: PS2, PS3, Wii, Xbox 360
+                  Genre: Music | Theme: Party, Rhythm
+                  Developers: Harmonix
+                  Publishers: MTV
+                  Designer: Casey Malone, Dan Teasdale, Sylvain Dubrofsky
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1442   Kingdom Hearts (2002)                                                                      431    1 
+                  JPN | 41 h | Third person
+                  On: PS2
+                  Genre: Adventure, RPG | Theme: Action, Comedy, Fantasy
+                  Developers: Square
+                  Publishers: Disney, Sony, Square
+                  Designer: Tetsuya Nomura
+                  Composer: Yoko Shimomura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1435   Pro Evolution Soccer 4 (2004)                                                              400    1 
                   JPN | 72 h | Bird view / Isometric
                   On: PS2, Win, Xbox
                   Genre: Sport | Theme: Football, Non-fiction
@@ -171,7 +198,25 @@
                   Designer: Seisuke Yasunaga, Tetsushi Yamakawa, Yasuyuki Shoji
                   Composer: Atsushi Sato, Norikazu Miura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1397   Metal Gear (1987)                                                                          305    1 
+   23. 1433   Ōkami (2006)                                                                               433    1 
+                  JPN | 41 h | Third person
+                  On: PS2, Wii
+                  Genre: Adventure, RPG | Theme: Action, Comedy, Fantasy, Historical
+                  Developers: Clover Studio, HexaDrive
+                  Publishers: Capcom
+                  Designer: Hideki Kamiya, Hiroshi Shibata
+                  Composer: Akari Kaida, Hiroshi Yamaguchi, Masami Ueda, Rei Kondoh
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1431   Shadow of the Colossus (2005)                                                              434    1 
+                  JPN | 12 h | Third person
+                  On: PS2
+                  Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy, Open world
+                  Developers: Sony
+                  Publishers: Sony
+                  Designer: Fumito Ueda
+                  Composer: Kow Otani
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1397   Metal Gear (1987)                                                                          305    1 
                   JPN | 5 h | Bird view / Isometric
                   On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
                   Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
@@ -180,7 +225,7 @@
                   Designer: Hideo Kojima
                   Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1 
+   26. 1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1 
                   JPN | 38 h | Bird view / Isometric
                   On: Android, DS, PS2, SNES, iOS
                   Genre: RPG | Theme: Fantasy
@@ -189,7 +234,7 @@
                   Designer: Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1352   LEGO Star Wars: The Video Game (2005)                                                      406    1 
+   27. 1352   LEGO Star Wars: The Video Game (2005)                                                      406    1 
                   GBR | 11 h | Third person
                   On: GBA, GameCube, Mac, PS2, Win, Xbox
                   Genre: Adventure, Platform | Theme: Action, Comedy, Kids, Science Fiction
@@ -207,16 +252,7 @@
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1202   The Sims (2000)                                                                            322    1 
-                  USA | 32 h | Bird view / Isometric
-                  On: GameCube, Linux, Mac, PS2, Win, Xbox
-                  Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
-                  Developers: Maxis
-                  Publishers: Aspyr, Electronic Arts, TransGaming Technologies
-                  Designer: Will Wright
-                  Composer: Jerry Martin, Marc Russo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1075   Gran Turismo 3: A-Spec (2001)                                                              386    1 
+   29. 1075   Gran Turismo 3: A-Spec (2001)                                                              386    1 
                   JPN | 64 h | First person, Third person
                   On: PS2
                   Genre: Racing, Simulator | Theme: Motorsports, Non-fiction

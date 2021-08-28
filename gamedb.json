@@ -6425,6 +6425,111 @@
         "designer": ["Bruce Straley", "Amy Hennig", "Richard Lemarchand", "Neil Druckmann"],
         "composer": ["Greg Edmonson"],
         "hltb": 13
+    },
+    "Fallout 3 (2008)":
+    {
+        "id": 429,
+        "year": 2008,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["Bethesda"],
+        "publishers": ["Bethesda"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Open world", "Sandbox", "Science Fiction", "Survival"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Todd Howard", "Emil Pagliarulo"],
+        "composer": ["Inon Zur"],
+        "hltb": 54
+    },
+    "Rock Band 2 (2008)":
+    {
+        "id": 430,
+        "year": 2008,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS2", "Wii", "PS3"],
+        "developers": ["Harmonix"],
+        "publishers": ["MTV"],
+        "genre": ["Music"],
+        "theme": ["Rhythm", "Party"],
+        "perspective": ["Auditory"],
+        "designer": ["Dan Teasdale", "Sylvain Dubrofsky", "Casey Malone"],
+        "composer": ["Unknown"],
+        "hltb": 69
+    },
+    "Kingdom Hearts (2002)":
+    {
+        "id": 431,
+        "year": 2002,
+        "country": ["JPN"],
+        "platforms": ["PS2"],
+        "developers": ["Square"],
+        "publishers": ["Disney", "Square", "Sony"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Comedy", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Tetsuya Nomura"],
+        "composer": ["Yoko Shimomura"],
+        "hltb": 41
+    },
+    "Left 4 Dead (2008)":
+    {
+        "id": 432,
+        "year": 2008,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "Win"],
+        "developers": ["Valve", "Certain Affinity", "Turtle Rock Studios"],
+        "publishers": ["Valve"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["First person"],
+        "designer": ["Mike Booth"],
+        "composer": ["Mike Morasky"],
+        "hltb": 18
+    },
+    "Ōkami (2006)":
+    {
+        "id": 433,
+        "year": 2006,
+        "country": ["JPN"],
+        "platforms": ["PS2", "Wii"],
+        "developers": ["Clover Studio", "HexaDrive"],
+        "publishers": ["Capcom"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Comedy", "Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Hideki Kamiya", "Hiroshi Shibata"],
+        "composer": ["Masami Ueda", "Hiroshi Yamaguchi", "Rei Kondoh", "Akari Kaida"],
+        "hltb": 41
+    },
+    "Shadow of the Colossus (2005)":
+    {
+        "id": 434,
+        "year": 2005,
+        "country": ["JPN"],
+        "platforms": ["PS2"],
+        "developers": ["Sony"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform", "Puzzle"],
+        "theme": ["Action", "Drama", "Fantasy", "Open world"],
+        "perspective": ["Third person"],
+        "designer": ["Fumito Ueda"],
+        "composer": ["Kow Otani"],
+        "hltb": 12
+    },
+    "Metroid Prime (2002)":
+    {
+        "id": 435,
+        "year": 2002,
+        "country": ["USA"],
+        "platforms": ["GameCube"],
+        "developers": ["Retro Studios"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Mark Pacini"],
+        "composer": ["Kenji Yamamoto", "Kouichi Kyuma"],
+        "hltb": 16
     }
 
 }

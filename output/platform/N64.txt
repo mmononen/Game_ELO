@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2328   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
+    1. 2336   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
                   JPN | 31 h | Third person
                   On: N64, Wii, Wii U
                   Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
@@ -8,8 +8,8 @@
                   Publishers: Nintendo
                   Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2327   Super Mario 64 (1996)                                                                        1    8 
+
+       2336   Super Mario 64 (1996)                                                                        1    8
                   JPN | 17 h | Third person
                   On: N64, Switch, Wii, Wii U
                   Genre: Platform | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2246   GoldenEye 007 (1997)                                                                       181    7 
+    3. 2259   GoldenEye 007 (1997)                                                                       181    7 
                   GBR | 17 h | First person
                   On: N64
                   Genre: Adventure, Shooter | Theme: Action, Stealth
@@ -27,7 +27,7 @@
                   Designer: Duncan Botwood, Martin Hollis
                   Composer: Graeme Norgate, Grant Kirkhope, Robin Beanland
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1906   Resident Evil 2 (1998)                                                                     187    4 
+    4. 1957   Resident Evil 2 (1998)                                                                     187    4 
                   JPN | 9 h | Third person
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Genre: Adventure, Shooter | Theme: Action, Horror, Survival
@@ -36,7 +36,7 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1891   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
+    5. 1944   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
                   USA | 13 h | Third person
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Genre: Sport | Theme: Action, Skateboarding
@@ -45,16 +45,7 @@
                   Designer: Aaron Cammarata, Jason Uyeda
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1856   Quake II (1997)                                                                            178    3 
-                  USA | 10 h | First person
-                  On: N64, PSX, Win
-                  Genre: Shooter | Theme: Action, Horror, Science Fiction
-                  Developers: Hammerhead, Logicware, Raster Productions, id Software
-                  Publishers: Activision, Hyperion Entertainment, Macmillan
-                  Designer: American McGee, Kevin Cloud, Tim Willits
-                  Composer: Sascha Dikiciyan
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1819   Command & Conquer (1995)                                                                    69    3 
+    6. 1859   Command & Conquer (1995)                                                                    69    4 
                   USA | 23 h | Bird view / Isometric
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction, Warfare
@@ -62,6 +53,15 @@
                   Publishers: Nintendo, Sega, Virgin
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1856   Quake II (1997)                                                                            178    3 
+                  USA | 10 h | First person
+                  On: N64, PSX, Win
+                  Genre: Shooter | Theme: Action, Horror, Science Fiction
+                  Developers: Hammerhead, Logicware, Raster Productions, id Software
+                  Publishers: Activision, Hyperion Entertainment, Macmillan
+                  Designer: American McGee, Kevin Cloud, Tim Willits
+                  Composer: Sascha Dikiciyan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1787   Quake (1996)                                                                                 9    2 
                   USA | 7 h | First person
@@ -99,7 +99,7 @@
                   Designer: Dale Jackson, Graeme Bayless
                   Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1524   The Legend of Zelda: Majora's Mask (2000)                                                  314    2 
+   12. 1593   The Legend of Zelda: Majora's Mask (2000)                                                  314    2 
                   JPN | 30 h | Third person
                   On: GameCube, N64, Wii, Wii U
                   Genre: Adventure | Theme: Action, Fantasy, Horror, Open world
