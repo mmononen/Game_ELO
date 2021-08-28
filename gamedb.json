@@ -6320,6 +6320,111 @@
         "designer": ["Makoto Osaki", "Daichi Katagiri"],
         "composer": ["Unknown"],
         "hltb": 7
+    },
+    "World of Warcraft (2004)":
+    {
+        "id": 422,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Blizzard Entertainment"],
+        "genre": ["Adventure", "RPG", "MMO"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Rob Pardo", "Jeff Kaplan", "Tom Chilton"],
+        "composer": ["Jason Hayes"],
+        "hltb": 2195
+    },
+    "Diablo II (2000)":
+    {
+        "id": 423,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Havas Interactive", "Sierra", "Blizzard Entertainment"],
+        "genre": ["Hack and Slash", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["David Brevik", "Erik Schaefer", "Max Schaefer"],
+        "composer": ["Matt Uelmen"],
+        "hltb": 46
+    },
+    "Tecmo Super Bowl (1991)":
+    {
+        "id": 424,
+        "year": 1991,
+        "country": ["JPN"],
+        "platforms": ["NES"],
+        "developers": ["Tecmo"],
+        "publishers": ["Tecmo"],
+        "genre": ["Sport"],
+        "theme": ["American Football"],
+        "perspective": ["Side view", "Bird view / Isometric"],
+        "designer": ["Shinichiro Tomie"],
+        "composer": ["Keiji Yamagishi", "Ryuichi Nitta"],
+        "hltb": 131
+    },
+    "Final Fantasy X (2001)":
+    {
+        "id": 425,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["PS2"],
+        "developers": ["Square"],
+        "publishers": ["Square"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Yoshinori Kitase", "Motomu Toriyama", "Takayoshi Nakazato", "Toshiro Tsuchida"],
+        "composer": ["Nobuo Uematsu", "Masashi Hamauzu", "Junya Nakano"],
+        "hltb": 71
+    },
+    "Metal Gear Solid 2: Sons of Liberty (2001)":
+    {
+        "id": 426,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["Xbox 360", "PS2", "Vita", "Xbox", "PS3", "Win"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Hideo Kojima"],
+        "composer": ["Norihiko Hibino", "Harry Gregson-Williams"],
+        "hltb": 15
+    },
+    "Battlefield 2 (2005)":
+    {
+        "id": 427,
+        "year": 2005,
+        "country": ["SWE"],
+        "platforms": ["Win"],
+        "developers": ["Digital Illusions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Lars Gustavsson", "Erik Sjövold"],
+        "composer": ["Fredrik Englund", "David Tallroth", "Jonas Ostholm"],
+        "hltb": 30
+    },
+    "Uncharted 2: Among Thieves (2009)":
+    {
+        "id": 428,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["PS3"],
+        "developers": ["Naughty Dog"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Bruce Straley", "Amy Hennig", "Richard Lemarchand", "Neil Druckmann"],
+        "composer": ["Greg Edmonson"],
+        "hltb": 13
     }
 
 }
