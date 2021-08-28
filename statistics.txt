@@ -1,9 +1,9 @@
-Games in database: 417
+Games in database: 421
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 177 (42%)
-  2. JPN                   : 162 (38%)
+  1. USA                   : 178 (42%)
+  2. JPN                   : 165 (39%)
   3. GBR                   :  62 (14%)
   4. CAN                   :  10 (2%)
   5. GER                   :   2 (0%)
@@ -20,21 +20,21 @@ Platforms (Top 10):
   3. Mac                   : 103 (24%)
   4. Amiga                 : 102 (24%)
   5. C64                   : 100 (23%)
-  6. Arcade                :  84 (20%)
+  6. Arcade                :  85 (20%)
   7. Atari ST              :  80 (19%)
   8. NES                   :  76 (18%)
-  9. PSX                   :  74 (17%)
+  9. PSX                   :  75 (17%)
  10. ZX Spectrum           :  66 (15%)
 
 Years (Top 10):
 ---------------
-  1. 1996                  :  33 (7%)
+  1. 1996                  :  35 (8%)
   2. 1994                  :  29 (6%)
   3. 1987                  :  27 (6%)
   4. 1998                  :  26 (6%)
   5. 1993                  :  24 (5%)
   6. 1995                  :  22 (5%)
-  7. 1992                  :  21 (5%)
+  7. 1992                  :  21 (4%)
   8. 1986                  :  20 (4%)
   9. 1988                  :  19 (4%)
  10. 1997                  :  18 (4%)
@@ -42,24 +42,24 @@ Years (Top 10):
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 125 (29%)
+  1. Adventure             : 127 (30%)
   2. Shooter               :  93 (22%)
   3. RPG                   :  81 (19%)
   4. Arcade                :  77 (18%)
-  5. Platform              :  72 (17%)
-  6. Sport                 :  68 (16%)
+  5. Platform              :  73 (17%)
+  6. Sport                 :  69 (16%)
   7. Strategy              :  66 (15%)
   8. Simulator             :  54 (12%)
-  9. Puzzle                :  44 (10%)
- 10. Racing                :  41 (9%)
+  9. Puzzle                :  45 (10%)
+ 10. Racing                :  42 (9%)
 
 Themes (Top 10):
 -------------------
-  1. Action                : 257 (61%)
+  1. Action                : 261 (61%)
   2. Fantasy               : 123 (29%)
-  3. Science Fiction       : 103 (24%)
+  3. Science Fiction       : 104 (24%)
   4. Historical            :  34 (8%)
-  5. Comedy                :  28 (6%)
+  5. Comedy                :  29 (6%)
   6. Warfare               :  25 (5%)
   7. Horror                :  24 (5%)
   8. Non-fiction           :  19 (4%)
@@ -68,8 +68,8 @@ Themes (Top 10):
 
 Developers (Top 10):
 --------------------
-  1. Nintendo              :  31 (7%)
-  2. Sega                  :  22 (5%)
+  1. Nintendo              :  32 (7%)
+  2. Sega                  :  23 (5%)
   3. Konami                :  18 (4%)
   4. Namco                 :  16 (3%)
   5. Square                :  13 (3%)
@@ -81,13 +81,13 @@ Developers (Top 10):
 
 Publishers (Top 10):
 -------------------
-  1. Sega                  :  57 (13%)
-  2. Nintendo              :  51 (12%)
-  3. Electronic Arts       :  46 (11%)
+  1. Sega                  :  58 (13%)
+  2. Nintendo              :  52 (12%)
+  3. Electronic Arts       :  46 (10%)
   4. Atari                 :  29 (6%)
-  5. Sony                  :  27 (6%)
+  5. Sony                  :  28 (6%)
   6. Konami                :  23 (5%)
-  7. Activision            :  21 (5%)
+  7. Activision            :  21 (4%)
   8. Sierra                :  19 (4%)
   9. U.S. Gold             :  18 (4%)
   =  Square                :  18 (4%)
@@ -95,10 +95,10 @@ Publishers (Top 10):
 
 Perspectives:
 -------------
-  1. Bird view / Isometric : 153 (36%)
+  1. Bird view / Isometric : 154 (36%)
   2. Side view             : 124 (29%)
-  3. Third person          : 120 (28%)
-  4. First person          :  88 (21%)
+  3. Third person          : 123 (29%)
+  4. First person          :  88 (20%)
   5. Text                  :   9 (2%)
   6. Auditory              :   2 (0%)
 
