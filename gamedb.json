@@ -3433,6 +3433,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Unknown"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 20
     },
     "PaRappa the Rapper (1996)":
@@ -3448,6 +3450,8 @@
         "perspective": ["Third person"],
         "designer": ["Masaya Matsuura"],
         "composer": ["Masaya Matsuura", "Yoshihisa Suzuki"],
+        "pegi": "3",
+        "esrb": "N/A",
         "hltb": 3
     },
     "Battlezone (1998)":
@@ -3463,6 +3467,8 @@
         "perspective": ["First person"],
         "designer": ["Andrew Goldman"],
         "composer": ["Jeehun Hwang"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 13
     },
     "NHL 99 (1998)":
@@ -3478,6 +3484,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Warren Wall"],
         "composer": ["Robert Bailey", "Jeff van Dyck", "John Jacyna", "Jeff Mair", "Aleksandar Zecevic"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 32
     },
     "NFL GameDay '97 (1996)":
@@ -3493,6 +3501,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Unknown"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 20
     },
     "NFL GameDay 98 (1997)":
@@ -3508,6 +3518,8 @@
         "perspective": ["Third person"],
         "designer": ["Unknown"],
         "composer": ["Rex Baca", "Scott McMahon"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 20
     },
     "NFL GameDay 99 (1998)":
@@ -3523,6 +3535,8 @@
         "perspective": ["Third person"],
         "designer": ["Craig D. Ostrander"],
         "composer": ["Rex Baca", "Chuck Carr", "Joel H. Copen"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 20
     },
     "Star Control II: The Ur-Quan Masters (1992)":
@@ -3538,6 +3552,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Fred Ford ", "Paul Reiche III"],
         "composer": ["Riku Nuottajärvi", "Dan Nicholson", "Marc Brown", "Aaron J. Grier", "Eric Berge", "Kevin Balivec", "Erol Otus", "Tommy V. Dunbar"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 30
     },
     "Grand Prix Legends (1998)":
@@ -3553,6 +3569,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Matt Sentell", "Randy Cassidy", "David Kaemmer", "Brian C. Mahony", "Richard Yasi"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 20
     },
     "Total Annihilation (1997)":
@@ -3568,6 +3586,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Chris Taylor"],
         "composer": ["Jeremy Soule"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 36
     },
     "International Superstar Soccer ’98 (1998)":
@@ -3583,6 +3603,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Unknown"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 20
     },
     "Pokémon Red (1996)":
@@ -3598,6 +3620,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Satoshi Tajiri"],
         "composer": ["Junichi Masuda"],
+        "pegi": "12",
+        "esrb": "E",
         "hltb": 44
     },
     "Pokémon Blue (1996)":
@@ -3613,6 +3637,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Satoshi Tajiri"],
         "composer": ["Junichi Masuda"],
+        "pegi": "12",
+        "esrb": "E",
         "hltb": 44
     },
     "Pokémon Yellow Version: Special Pikachu Edition (1998)":
@@ -3628,6 +3654,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Satoshi Tajiri"],
         "composer": ["Junichi Masuda"],
+        "pegi": "12",
+        "esrb": "E",
         "hltb": 44
     },
     "Puyo Puyo (1991)":
@@ -3643,6 +3671,8 @@
         "perspective": ["Side view"],
         "designer": ["Masanobu Tsukamoto"],
         "composer": ["Masanobu Tsukamoto", "Akiyoshi Nagao", "Toshiaki Sakoda", "Masaaki Harada", "Daisuke Fujimoto"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 1
     },
     "Super Bomberman (1993)":
@@ -3658,6 +3688,8 @@
         "perspective": ["Side view"],
         "designer": ["Mikio Ueyama", "Kyon Kyon"],
         "composer": ["Jun Chikuma", "Tomoyuki Hamada"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 4
     },
     "X-COM: Terror from the Deep (1995)":
@@ -3673,6 +3705,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Stephen Goss"],
         "composer": ["John Broomhall", "Allister Brimble"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 55
     },
     "Final Fantasy Tactics (1997)":
@@ -3688,6 +3722,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Yasumi Matsuno", "Hiroyuki Ito"],
         "composer": ["Hitoshi Sakimoto", "Masaharu Iwata"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 57
     },
     "Anna Kournikova's Smash Court Tennis (1998)":
@@ -3703,6 +3739,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Masahito Terazawa", "Yoshiaki Mizukami", "Motoharu Morishita", "Yasuhiro Maruo", "Katsuhiko Ōtani"],
         "composer": ["Nobuhiro Ōuchi", "Kaori Idaya", "Kenji Matsuo", "Masashi Sugiyama", "Ayako Yamaguchi"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 3
     },
     "Tempest 2000 (1994)":
@@ -3718,6 +3756,8 @@
         "perspective": ["Third person"],
         "designer": ["Dave Theurer"],
         "composer": ["Alastair Lindsay", "Ian Howe", "Kevin Saville"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 12
     },
     "SoulCalibur (1998)":
@@ -3733,6 +3773,8 @@
         "perspective": ["Third person"],
         "designer": ["Jin Okubo", "Yoshitaka Tezuka", "Tetsuya Akatsuka", "Tsuyoshi Kiuchi"],
         "composer": ["Junichi Nakatsuru", "Yoshihito Yano", "Akitaka Tohyama", "Takanori Otsuka"],
+        "pegi": "16",
+        "esrb": "T",
         "hltb": 9
     },
     "ISS Pro Evolution (1999)":
@@ -3748,6 +3790,8 @@
         "perspective": ["Side view", "Bird view / Isometric"],
         "designer": ["Shingo Takatsuka"],
         "composer": ["Shinji Enomoto"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 53
     },
     "Castlevania: Symphony of the Night (1997)":
@@ -3763,6 +3807,8 @@
         "perspective": ["Side view"],
         "designer": ["Toru Hagihara"],
         "composer": ["Michiru Yamane"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 12
     },
     "International Track & Field (1996)":
@@ -3778,6 +3824,8 @@
         "perspective": ["Auditory"],
         "designer": ["Satoshi Kushibuchi"],
         "composer": ["Unknown"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 1
     },
     "Pilotwings 64 (1996)":
@@ -3793,6 +3841,8 @@
         "perspective": ["Third person"],
         "designer": ["Makoto Wada"],
         "composer": ["Dan Hess"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 8
     },
     "Colin McRae Rally (1998)":
@@ -3808,6 +3858,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Unknown"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 11
     },
     "Bust-A-Move 2: Arcade Edition (1996)":
@@ -3823,6 +3875,8 @@
         "perspective": ["Side view"],
         "designer": ["Selichi Nakakuki"],
         "composer": ["Kazuko Umino", "Norihiro Furukawa", "Shuichiro Nakazawa"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 1
     },
     "Star Wars: X-Wing vs TIE Fighter (1997)":
@@ -3838,6 +3892,8 @@
         "perspective": ["First person"],
         "designer": ["Lawrence Holland"],
         "composer": ["Peter McConnell"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 20
     },
     "Hidden & Dangerous (1999)":
@@ -3853,6 +3909,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Michal Bačík", "Radek Bouzek"],
         "composer": ["Jim Rose"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 18
     },
     "1080° Snowboarding (1998)":
@@ -3868,6 +3926,8 @@
         "perspective": ["Third person"],
         "designer": ["Masamichi Abe", "Mitsuhiro Takano"],
         "composer": ["Kenta Nagata"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 7
     },
     "Secret of Mana (1993)":
@@ -3883,6 +3943,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Koichi Ishii", "Hiromichi Tanaka"],
         "composer": ["Hiroki Kikuta"],
+        "pegi": "7",
+        "esrb": "E10+",
         "hltb": 29
     },
     "Star Fox 64 (1997)":
@@ -3898,6 +3960,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Takao Shimizu", "Shigeru Miyamoto"],
         "composer": ["Koji Kondo", "Hajime Wakai"],
+        "pegi": "7",
+        "esrb": "E",
         "hltb": 4
     },
     "Ridge Racer Type 4 (1998)":
@@ -3913,6 +3977,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Unknown"],
         "composer": ["Kohta Takahashi", "Hiroshi Okubo", "Asuka Sakai", "Tetsukazu Nakanishi", "Koji Nagakawa"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 9
     },
     "The Secret of Monkey Island (1990)":
@@ -3928,6 +3994,8 @@
         "perspective": ["Side view"],
         "designer": ["Ron Gilbert", "Dave Grossman", "Tim Schafer"],
         "composer": ["Michael Z. Land", "Patrick Mundy"],
+        "pegi": "12",
+        "esrb": "E10+",
         "hltb": 7
     },
     "Sonic Adventure (1998)":
@@ -3943,6 +4011,8 @@
         "perspective": ["Third person"],
         "designer": ["Takashi Iizuka", "Takao Miyoshi", "Yojiro Ogawa"],
         "composer": ["Jun Senoue", "Kenichi Tokoi", "Fumie Kumatani"],
+        "pegi": "7",
+        "esrb": "E",
         "hltb": 14
     },
     "Bubble Bobble (1986)":
@@ -3958,6 +4028,8 @@
         "perspective": ["Side view"],
         "designer": ["Fukio Mitsuji"],
         "composer": ["Tadashi Kimijima"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 3
     },
     "Stunt Car Racer (1989)":
@@ -3973,6 +4045,8 @@
         "perspective": ["First person"],
         "designer": ["Geoff Crammond"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 3
     },
     "Speedball 2: Brutal Deluxe (1990)":
@@ -3988,6 +4062,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Eric Matthews"],
         "composer": ["John Foxx"],
+        "pegi": "12",
+        "esrb": "E",
         "hltb": 10
     },
     "Micro Machines 2: Turbo Tournament (1994)":
@@ -4003,6 +4079,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Andrew Fussey", "Jonathan Menzies", "Peter Williamson"],
         "composer": ["Tim Bartlett"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 2
     },
     "PowerSlave (1996)":
@@ -4018,6 +4096,8 @@
         "perspective": ["First person"],
         "designer": ["Brian McNeely"],
         "composer": ["Scott Branston"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 11
     },
     "Sensible Soccer: European Champions (1992)":
@@ -4033,6 +4113,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Jon Hare", "Chris Chapman", "Chris Yates", "David Korn"],
         "composer": ["Richard Joseph"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 49
     },
     "The Need For Speed (1994)":
@@ -4048,6 +4130,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Wei Shoong Teh"],
         "composer": ["Jeff van Dyck", "Saki Kaskamanidis", "Alistair Hirst"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 3
     },
     "Head Over Heels (1987)":
@@ -4063,6 +4147,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Jon Ritman"],
         "composer": ["Guy Stevens"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 10
     },
     "Mercenary (1985)":
@@ -4078,6 +4164,8 @@
         "perspective": ["First person"],
         "designer": ["Paul Woakes", "Bruce Jordan"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 10
     },
     "Exile (1988)":
@@ -4093,6 +4181,8 @@
         "perspective": ["Side view"],
         "designer": ["Peter Irvin", "Jeremy Smith"],
         "composer": ["Henry Jackman", "Paddy Colohan"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 4
     },
     "Grand Theft Auto (1997)":
@@ -4108,6 +4198,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Keith R. Hamilton", "Stephen Banks", "Paul Farley", "Billy Thomson"],
         "composer": ["Colin Anderson", "Craig Conner", "Grant Middleton"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 13
     },
     "Shinobi (1987)":
@@ -4123,6 +4215,8 @@
         "perspective": ["Side view"],
         "designer": ["Yutaka Sugano"],
         "composer": ["Yasuhiro Kawakami"],
+        "pegi": "16",
+        "esrb": "M",
         "hltb": 2
     },
     "Contra III: The Alien Wars (1992)":
@@ -4138,6 +4232,8 @@
         "perspective": ["Bird view / Isometric", "Side view", "Third person"],
         "designer": ["Nobuya Nakazato"],
         "composer": ["Miki Higashino", "Masanori Adachi", "Tappi Iwase"],
+        "pegi": "12",
+        "esrb": "E10+",
         "hltb": 2
     },
     "Rampart (1990)":
@@ -4153,6 +4249,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["John Salwitz", "Dave Ralston"],
         "composer": ["Don Diekneite", "Brad Fuller"],
+        "pegi": "7",
+        "esrb": "E",
         "hltb": 10
     },
     "Pac-Man (1980)":
