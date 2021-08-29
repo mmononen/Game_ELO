@@ -4266,6 +4266,8 @@
         "perspective": ["Side view"],
         "designer": ["Toru Iwatani"],
         "composer": ["Shigeichi Ishimura", "Toshio Kai"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 2
     },
     "Bomb Jack (1984)":
@@ -4281,6 +4283,8 @@
         "perspective": ["Side view"],
         "designer": ["Michitaka Tsuruta", "Kazutoshi Ueda"],
         "composer": ["Mark Cooksey", "Alberto José Gonzalez Pedraza"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 1
     },
     "Return Fire (1995)":
@@ -4296,6 +4300,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Reichart Kurt von Wolfsheild"],
         "composer": ["Alexis C. Kasperavičius"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 50
     },
     "ChuChu Rocket! (1999)":
@@ -4311,6 +4317,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Yuji Naka", "Takafumi Kaya"],
         "composer": ["Tomoya Ohtani"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 7
     },
     "Gauntlet II (1986)":
@@ -4326,6 +4334,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Ed Logg"],
         "composer": ["Hal Canon", "Brad Fuller", "Earl Vickers"],
+        "pegi": "12",
+        "esrb": "E",
         "hltb": 5
     },
     "NHL 98 (1997)":
@@ -4341,6 +4351,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Thomas L. Fessler"],
         "composer": ["David Whittaker", "Saki Kaskamanidis", "Jeff van Dyck"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 23
     },
     "Super Buster Bros. (1990)":
@@ -4356,6 +4368,8 @@
         "perspective": ["Side view"],
         "designer": ["Toshihiko Uda", "Futoshi Kuwahara"],
         "composer": ["Tatsuya Nishimura", "Minae Fujii"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 2
     },
     "Thrust (1986)":
@@ -4371,6 +4385,8 @@
         "perspective": ["Side view"],
         "designer": ["Jeremy Smith"],
         "composer": ["Rob Hubbard"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 10
     },
     "The Legend of the Mystical Ninja (1991)":
@@ -4386,6 +4402,8 @@
         "perspective": ["Side view"],
         "designer": ["Unknown"],
         "composer": ["Kazuhiko Uehara", "Harumi Ueko"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 5
     },
     "Xenogears (1998)":
@@ -4401,6 +4419,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Tetsuya Takahashi"],
         "composer": ["Yasunori Mitsuda"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 65
     },
     "Gradius (1985)":
@@ -4416,6 +4436,8 @@
         "perspective": ["Side view"],
         "designer": ["Hiroyasu Machiguchi"],
         "composer": ["Miki Higashino"],
+        "pegi": "7",
+        "esrb": "E",
         "hltb": 3
     },
     "Paradroid (1985)":
@@ -4431,6 +4453,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Andrew Braybrook"],
         "composer": ["Unknown"],
+        "pegi": "3",
+        "esrb": "N/A",
         "hltb": 10
     },
     "Boulder Dash II: Rockford's Revenge (1985)":
@@ -4446,6 +4470,8 @@
         "perspective": ["Third person"],
         "designer": ["Peter Liepa"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 10
     },
     "Strider (1989)":
@@ -4461,6 +4487,8 @@
         "perspective": ["Side view"],
         "designer": ["Kouichi Yotsui", "Tokuro Fujiwara", "Shinichi Yoshimoto"],
         "composer": ["Junko Tamiya"],
+        "pegi": "12",
+        "esrb": "E10+",
         "hltb": 8
     },
     "Choplifter (1982)":
@@ -4476,6 +4504,8 @@
         "perspective": ["Side view"],
         "designer": ["Dan Gorlin"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 2
     },
     "Time Crisis (1995)":
@@ -4491,6 +4521,8 @@
         "perspective": ["First person"],
         "designer": ["Hirofuki Kami", "Takashi Satsukawa"],
         "composer": ["Kazuhiro Nakamura"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 2
     },
     "Solomon’s Key (1986)":
@@ -4506,6 +4538,8 @@
         "perspective": ["Side view"],
         "designer": ["Michitaka Tsuruta"],
         "composer": ["Michiharu Hasuya"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 10
     },
     "Super Punch-Out!! (1994)":
@@ -4521,6 +4555,8 @@
         "perspective": ["Third person"],
         "designer": ["Makoto Wada", "Yasuyuki Oyagi"],
         "composer": ["Takashi Kumegawa", "Masaru Sakakibara"],
+        "pegi": "12",
+        "esrb": "E",
         "hltb": 4
     },
     "Diablo (1996)":
@@ -4536,6 +4572,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["David Brevik", "Erik Schaefer", "Max Schaefer", "Eric Sexton", "Kenneth Williams"],
         "composer": ["Matt Uelmen"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 18
     },
     "System Shock 2 (1999)":
@@ -4551,6 +4589,8 @@
         "perspective": ["First person"],
         "designer": ["Jonathan Chey", "Ken Levine"],
         "composer": ["Josh Randall", "Ramin Djawadi", "Eric Brosius"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 18
     },
     "Age of Empires (1997)":
@@ -4566,6 +4606,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Bruce Shelley", "Brian Sullivan", "Rick Goodman"],
         "composer": ["Stephen Rippy", "David Rippy"],
+        "pegi": "12",
+        "esrb": "T",
         "hltb": 32
     },
     "EverQuest (1999)":
@@ -4581,6 +4623,8 @@
         "perspective": ["Third person"],
         "designer": ["Steve Clover", "Brad McQuaid", "William Trost"],
         "composer": ["Jay Barbeau"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 100
     },
     "Age of Empires II: The Age of Kings (1999)":
@@ -4596,6 +4640,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Bruce Shelley"],
         "composer": ["Stephen Rippy"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 114
     },
     "Deus Ex (2000)":
@@ -4611,6 +4657,8 @@
         "perspective": ["First person"],
         "designer": ["Warren Spector", "Harvey Smith"],
         "composer": ["Alexander Brandon", "Dan Gardopée", "Michiel van den Bos"],
+        "pegi": "16",
+        "esrb": "M",
         "hltb": 29
     },
     "System Shock (1994)":
@@ -4626,6 +4674,8 @@
         "perspective": ["First person"],
         "designer": ["Doug Church"],
         "composer": ["Greg LoPiccolo", "Tim Ries"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 15
     },
     "M.U.L.E. (1983)":
@@ -4641,9 +4691,11 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Danielle Bunten Berry", "Bill Bunten", "Jim Rushing", "Alan Watson"],
         "composer": ["Roy Glover"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 2
     },
-    "Asheron's Call (1999)":
+    "    (1999)":
     {
         "id": 277,
         "year": 1999,
@@ -4656,6 +4708,8 @@
         "perspective": ["Third person"],
         "designer": ["Toby Ragaini", "Eri Izawa", "Chris Pierson", "Christopher J. Foster"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 100
     },
     "Half-Life: Counter-Strike (2000)":
@@ -4671,6 +4725,8 @@
         "perspective": ["First person"],
         "designer": ["Minh Le", "Jess Cliffe"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 206
     },
     "SimCity (1989)":
@@ -4686,6 +4742,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Will Wright", "Jeff Braun", "Robert Strobel"],
         "composer": ["Will Wright", "Steve Hales"],
+        "pegi": "3",
+        "esrb": "E10+",
         "hltb": 25
     },
     "Wing Commander (1990)":
@@ -4701,6 +4759,8 @@
         "perspective": ["First person"],
         "designer": ["Chris Roberts", "Stephen Beeman", "Erin D. Roberts"],
         "composer": ["George Sanger", "David Govett", "Mark Knight"],
+        "pegi": "7",
+        "esrb": "T",
         "hltb": 11
     },
     "Baldur's Gate (1998)":
@@ -4716,6 +4776,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["James Ohlen"],
         "composer": ["Michael Hoenig"],
+        "pegi": "12",
+        "esrb": "T",
         "hltb": 57
     },
     "Baldur's Gate II: Shadows of Amn (2000)":
@@ -4731,6 +4793,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["James Ohlen", "Kevin Martens"],
         "composer": ["Michael Hoenig", "Howard Drossin"],
+        "pegi": "12",
+        "esrb": "T",
         "hltb": 87
     },
     "Thief: The Dark Project (1998)":
@@ -4746,6 +4810,8 @@
         "perspective": ["First person"],
         "designer": ["Tim Stellmach", "Greg LoPiccolo"],
         "composer": ["Eric Brosius"],
+        "pegi": "N/A",
+        "esrb": "M",
         "hltb": 21
     },
     "Marathon (1994)":
@@ -4761,6 +4827,8 @@
         "perspective": ["First person"],
         "designer": ["Jason Jones", "Alex Seropian"],
         "composer": ["Alex Seropian"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 8
     },
     "Planescape: Torment (1999)":
@@ -4776,6 +4844,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Chris Avellone"],
         "composer": ["Mark Morgan"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 43
     },
     "Empire: Wargame of the Century (1987)":
@@ -4791,6 +4861,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Walter Bright"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 30
     },
     "Tony Hawk's Pro Skater 2 (2000)":
@@ -4806,6 +4878,8 @@
         "perspective": ["Third person"],
         "designer": ["Jason Uyeda", "Aaron Cammarata"],
         "composer": ["Brian Bright"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 13
     },
     "Contra (1987)":
@@ -4821,6 +4895,8 @@
         "perspective": ["Side view", "Third person"],
         "designer": ["Koji Hiroshita", "Shigeharu Umezaki", "Shinji Kitamoto"],
         "composer": ["Kazuki Muraoka", "Hidenori Maezawa", "Kiyohiro Sada"],
+        "pegi": "7",
+        "esrb": "E10+",
         "hltb": 2
     },
     "Punch-Out!! (1987)":
@@ -4836,6 +4912,8 @@
         "perspective": ["Third person"],
         "designer": ["Genyo Takeda", "Kazuo Yoneyama", "Mayumi Hirota"],
         "composer": ["Yukio Kaneoka", "Akito Nakatsuka", "Kenji Yamamoto"],
+        "pegi": "7",
+        "esrb": "E10+",
         "hltb": 3
     },
     "Chrono Trigger (1995)":
@@ -4851,6 +4929,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Takashi Tokita", "Yoshinori Kitase", "Akihiko Matsui", "Hironobu Sakaguchi"],
         "composer": ["Yasunori Mitsuda", "Nobuo Uematsu"],
+        "pegi": "7",
+        "esrb": "T",
         "hltb": 27
     },
     "NHLPA Hockey 93 (1992)":
@@ -4866,6 +4946,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Michael Brook", "Scott Orr", "Richard Hilleman"],
         "composer": ["Jim Simmons"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 13
     },
     "Warlords (1990)":
@@ -4881,6 +4963,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Steve Fawkner", "Roger Keating"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 10
     },
     "Crash Bandicoot: Warped (1998)":
@@ -4896,6 +4980,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Jason Rubin", "Evan Wells"],
         "composer": ["Josh Mancell"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 8
     },
     "Madden NFL 2001 (2000)":
@@ -4911,6 +4997,8 @@
         "perspective": ["Third person"],
         "designer": ["Dale Jackson", "Graeme Bayless"],
         "composer": ["Ken Felton", "David Whittaker", "Charles Stockley", "Don Veca", "Randy Eckhart"],
+        "pegi": "N/A",
+        "esrb": "E",
         "hltb": 20
     },
     "Mega Man 2 (1988)":
@@ -4926,6 +5014,8 @@
         "perspective": ["Side view"],
         "designer": ["Akira Kitamura"],
         "composer": ["Takashi Tateishi"],
+        "pegi": "7",
+        "esrb": "E",
         "hltb": 3
     },
     "Tony Hawk's Pro Skater (1999)":
@@ -4941,6 +5031,8 @@
         "perspective": ["Third person"],
         "designer": ["Aaron Cammarata", "Chris Rausch"],
         "composer": ["Brian Bright"],
+        "pegi": "N/A",
+        "esrb": "T",
         "hltb": 9
     },
     "Tecmo Bowl (1987)":
@@ -4956,6 +5048,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Moritaka Nakamine", "Ichiro Tomie", "Chizuo Kinjo", "Kazunori Takafuji"],
         "composer": ["Keiji Yamagishi", "Mikio Saitou"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 5
     },
     "Pitfall! (1982)":
@@ -4971,6 +5065,8 @@
         "perspective": ["Side view"],
         "designer": ["David Crane"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
         "hltb": 3
     },
     "Final Fantasy IX (2000)":
@@ -4986,6 +5082,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Hiroyuki Ito"],
         "composer": ["Nobuo Uematsu"],
+        "pegi": "12",
+        "esrb": "T",
         "hltb": 54
     },
     "Excitebike (1984)":
@@ -5001,6 +5099,8 @@
         "perspective": ["Side view"],
         "designer": ["Shigeru Miyamoto"],
         "composer": ["Akito Nakatsuka", "Soyo Oka"],
+        "pegi": "3",
+        "esrb": "E",
         "hltb": 1
     },
     "Adventure (1980)":
