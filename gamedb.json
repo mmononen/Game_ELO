@@ -5116,6 +5116,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Warren Robinett"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1,
         "urls": [ 
                     {"GDC Classic Postmortem: Warren Robinett's Adventure": "https://youtu.be/yINb5Huh0C4"}
@@ -5134,6 +5136,8 @@
         "perspective": ["Side view"],
         "designer": ["Akihiko Nagata"],
         "composer": ["Kinuyo Yamashita", "Satoe Terashima"],
+        "pegi": "7",
+		"esrb": "E10+",
         "hltb": 6
     },
     "Virtua Tennis (1999)":
@@ -5149,6 +5153,8 @@
         "perspective": ["Third person"],
         "designer": ["Kazuko Noguchi", "Takahiro Kajimoto", "Harumi Azuma", "Kenji Shimizu", "Yasuhito Tanaka", "Akira Fujiki", "Yuko Nishimura"],
         "composer": ["Chiho Kobayashi"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 19
     },
     "Lode Runner (1983)":
@@ -5164,6 +5170,8 @@
         "perspective": ["Side view"],
         "designer": ["Doug Smith"],
         "composer": ["Isamu Hirano"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 3
     },
     "Metal Gear (1987)":
@@ -5179,6 +5187,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Hideo Kojima"],
         "composer": ["Iku Mizutani", "Shigehiro Takenouchi", "Motoaki Furugawa", "Kazuki Muraoka"],
+        "pegi": "7",
+		"esrb": "E10+",
         "hltb": 5
     },
     "Tenchu: Stealth Assassins (1998)":
@@ -5194,6 +5204,8 @@
         "perspective": ["Third person"],
         "designer": ["Takuma Endo"],
         "composer": ["Noriyuki Asakura"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Chrono Cross (1999)":
@@ -5209,6 +5221,8 @@
         "perspective": ["Third person"],
         "designer": ["Masato Kato", "Hiromichi Tanaka"],
         "composer": ["Yasunori Mitsuda"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 43
     },
     "Arkanoid (1986)":
@@ -5224,6 +5238,8 @@
         "perspective": ["Side view"],
         "designer": ["Akira Fujita", "Hiroshi Tsujino"],
         "composer": ["Hisayoshi Ogura"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 2
     },
     "Baseball Stars (1989)":
@@ -5239,6 +5255,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Unknown"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 22
     },
     "Gauntlet (1985)":
@@ -5254,6 +5272,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Ed Logg"],
         "composer": ["Hal Canon", "Earl Vickers", "Ben Daglish"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 10
     },
     "Donkey Kong Country 2: Diddy's Kong Quest (1995)":
@@ -5269,6 +5289,8 @@
         "perspective": ["Side view"],
         "designer": ["Tim Stamper", "Gregg Mayles", "Andrew Collard"],
         "composer": ["David Wise"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 7
     },
     "Bionic Commando (1988)":
@@ -5284,6 +5306,8 @@
         "perspective": ["Side view"],
         "designer": ["Tokuro Fujiwara"],
         "composer": ["Junko Tamiya"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 4
     },
     "Ghouls 'n Ghosts (1988)":
@@ -5299,6 +5323,8 @@
         "perspective": ["Side view"],
         "designer": ["Tokuro Fujiwara", "Shinichi Yoshimoto", "Hisashi Yamamoto"],
         "composer": ["Tamayo Kawamoto", "Tim Follin"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 3
     },
     "The Legend of Zelda: Majora's Mask (2000)":
@@ -5314,6 +5340,8 @@
         "perspective": ["Third person"],
         "designer": ["Eiji Aonuma", "Yoshiaki Koizumi"],
         "composer": ["Koji Kondo"],
+        "pegi": "12",
+		"esrb": "E",
         "hltb": 30
     },
     "Resident Evil: Code: Veronica (2000)":
@@ -5329,6 +5357,8 @@
         "perspective": ["Third person"],
         "designer": ["Hiroki Kato"],
         "composer": ["Takeshi Miura", "Hijiri Anze", "Sanae Kasahara"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 15
     },
     "Banjo-Kazooie (1998)":
@@ -5344,6 +5374,8 @@
         "perspective": ["Third person"],
         "designer": ["Gregg Mayles", "George Andreas"],
         "composer": ["Grant Kirkhope"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 15
     },
     "Twisted Metal 2 (1996)":
@@ -5359,6 +5391,8 @@
         "perspective": ["Third person"],
         "designer": ["David Jaffe"],
         "composer": ["Chuck E. Myers", "Lance Lenhart", "Tom Hopkins"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 10
     },
     "Double Dragon (1987)":
@@ -5374,6 +5408,8 @@
         "perspective": ["Side view", "Third person"],
         "designer": ["Yoshihisa Kishimoto", "Shinichi Saito", "Koji Kai"],
         "composer": ["Kazunaka Yamane"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 2
     },
     "Dr. Mario (1990)":
@@ -5389,6 +5425,8 @@
         "perspective": ["Side view"],
         "designer": ["Takahiro Harada"],
         "composer": ["Hirokazu Tanaka"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 4
     },
     "Panzer Dragoon Saga (1998)":
@@ -5404,6 +5442,8 @@
         "perspective": ["Third person"],
         "designer": ["Yukio Futatsugi", "Manabu Kusunoki"],
         "composer": ["Saori Kobayashi", "Mariko Nanba"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 16
     },
     "Pro Wrestling (1986)":
@@ -5419,6 +5459,8 @@
         "perspective": ["Side view"],
         "designer": ["Masato Masuda"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "The Sims (2000)":
@@ -5434,6 +5476,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Will Wright"],
         "composer": ["Jerry Martin", "Marc Russo"],
+        "pegi": "7",
+		"esrb": "T",
         "hltb": 32
     },
     "Suikoden (1995)":
@@ -5441,7 +5485,7 @@
         "id": 323,
         "year": 1995,
         "country": ["JPN"],
-        "platforms": ["Saturn", "PSX", "Win"],
+        "platforms": ["Saturn", "PSX", "Win", "PS3", "PSP", "Vita"],
         "developers": ["Konami"],
         "publishers": ["Konami"],
         "genre": ["RPG"],
@@ -5449,6 +5493,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Yoshitaka Murayama"],
         "composer": ["Miki Higashino", "Tappi Iwase", "Hiroshi Tamawari", "Hirofumi Taniguchi", "Mayuko Kageshita"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 25
     },
     "Kid Icarus (1986)":
@@ -5464,6 +5510,8 @@
         "perspective": ["Side view"],
         "designer": ["Satoru Okada", "Toru Osawa", "Yoshio Sakamoto"],
         "composer": ["Hirokazu Tanaka"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 4
     },
     "R.C. Pro-Am (1988)":
@@ -5479,6 +5527,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Tim Stamper", "Chris Stamper"],
         "composer": ["David Wise"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "NFL 2K1 (2000)":
@@ -5494,6 +5544,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Tim Walter", "Christopher Larson"],
         "composer": ["Brian Luzietti", "Larry Peacock"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 20
     },
     "Everybody's Golf (1997)":
@@ -5509,6 +5561,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Masashi Muramori"],
         "composer": ["Motoi Sakuraba"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 5
     },
     "Road Rash (1991)":
@@ -5524,6 +5578,8 @@
         "perspective": ["Third person"],
         "designer": ["Carl Mey", "Randy Breen", "Dan Geisler", "Walter Stein"],
         "composer": ["Rob Hubbard", "Jason A.S. Whitely", "Greg Michael"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 7
     },
     "Mario's Picross (1995)":
@@ -5539,6 +5595,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Unknown"],
         "composer": ["Unknown"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 20
     },
     "Cool Boarders 2 (1997)":
@@ -5554,6 +5612,8 @@
         "perspective": ["Third person"],
         "designer": ["Masaya Kobayashi", "Tadayuki Konno"],
         "composer": ["Atsunori Namba", "Yoshichika Shimamura"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 5
     },
     "Ninja Gaiden (1988)":
@@ -5569,6 +5629,8 @@
         "perspective": ["Side view"],
         "designer": ["Hideo Yoshizawa"],
         "composer": ["Keiji Yamagishi", "Ryuichi Nitta"],
+        "pegi": "7",
+		"esrb": "E10+",
         "hltb": 3
     },
     "NBA 2K1 (2000)":
@@ -5584,6 +5646,8 @@
         "perspective": ["Third person"],
         "designer": ["Andrew H. Marrinson"],
         "composer": ["Brian Luzietti"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 20
     },
     "Tetris Attack (1996)":
@@ -5599,6 +5663,8 @@
         "perspective": ["Side view"],
         "designer": ["Masao Yamamoto", "Hitoshi Yamagami", "Toshitaka Muramatsu"],
         "composer": ["Masaya Kuzume", "Masaru Tajima", "Yuka Tsujiyoko"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 4
     },
     "Mortal Kombat II (1993)":
@@ -5614,6 +5680,8 @@
         "perspective": ["Side view"],
         "designer": ["Ed Boon", "John Tobias"],
         "composer": ["Dan Forden", "Matt Furniss"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 8
     },
     "The House of the Dead 2 (1998)":
@@ -5629,6 +5697,8 @@
         "perspective": ["First person"],
         "designer": ["Takashi Oda"],
         "composer": ["Tetsuya Kawauchi", "Haruyoshi Tomita"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 2
     },
     "Ape Escape (1999)":
@@ -5644,6 +5714,8 @@
         "perspective": ["Third person"],
         "designer": ["Masamichi Seki", "Kenkichi Shimooka", "Shingo Matsumoto", "Katsuyuki Kanetaka", "Kenji Kaido", "Hidekuni Sakai"],
         "composer": ["Soichi Terada"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 11
     },
     "Manic Miner (1983)":
@@ -5659,6 +5731,8 @@
         "perspective": ["Side view"],
         "designer": ["Matthew Smith"],
         "composer": ["Matthew Smith"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Jet Set Willy (1984)":
@@ -5674,6 +5748,8 @@
         "perspective": ["Side view"],
         "designer": ["Matthew Smith"],
         "composer": ["Rob Hubbard"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Grand Theft Auto: Vice City (2002)":
@@ -5689,6 +5765,8 @@
         "perspective": ["Third person"],
         "designer": ["Leslie Benzies"],
         "composer": ["Lex Horton"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 28
     },
     "Halo: Combat Evolved (2001)":
@@ -5704,6 +5782,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Jason Jones", "John Howard"],
         "composer": ["Martin O'Donnell", "Michael Salvatori"],
+        "pegi": "N/A",
+		"esrb": "M",
         "hltb": 11
     },
     "Frontier: Elite II (1993)":
@@ -5719,6 +5799,8 @@
         "perspective": ["First person"],
         "designer": ["David Braben"],
         "composer": ["David Lowe"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 100
     },
     "Wizball (1987)":
@@ -5734,6 +5816,8 @@
         "perspective": ["Side view"],
         "designer": ["Jon Hare", "Chris Yates"],
         "composer": ["Martin Galway"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 4
     },
     "Chuckie Egg (1983)":
@@ -5749,6 +5833,8 @@
         "perspective": ["Side view"],
         "designer": ["Nigel Alderton"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 11
     },
     "Rainbow Islands: The Story of Bubble Bobble 2 (1987)":
@@ -5764,6 +5850,8 @@
         "perspective": ["Side view"],
         "designer": ["Fukio Mitsuji"],
         "composer": ["Hisayoshi Ogura"],
+        "pegi": "3",
+		"esrb": "N/A",
         "hltb": 7
     },
     "Boulder Dash (1984)":
@@ -5779,6 +5867,8 @@
         "perspective": ["Side view"],
         "designer": ["Peter Liepa", "Chris Gray"],
         "composer": ["Ian Waugh", "Peter Liepa"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 10
     },
     "Dungeon Master (1987)":
@@ -5794,6 +5884,8 @@
         "perspective": ["First person"],
         "designer": ["Doug Bell"],
         "composer": ["Wayne Holder"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 18
     },
     "Ghosts 'n Goblins (1985)":
@@ -5801,7 +5893,7 @@
         "id": 347,
         "year": 1985,
         "country": ["JPN"],
-        "platforms": ["C16", "3DS", "GBC", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "DOS", "C64", "Atari ST", "Arcade", "Switch"],
+        "platforms": ["C16", "3DS", "GBC", "Amstrad CPC", "Amiga", "NES", "ZX Spectrum", "DOS", "C64", "Atari ST", "Arcade", "Switch", "Android", "Wii", "Wii U", "Plus4", "FM-7", "GBA", "iOS", "PC-8801", "PS3", "Xbox 360"],
         "developers": ["Capcom"],
         "publishers": ["Capcom", "Elite Systems"],
         "genre": ["Adventure", "Arcade", "Platform", "Shooter"],
@@ -5809,6 +5901,8 @@
         "perspective": ["Side view"],
         "designer": ["Tokuro Fujiwara"],
         "composer": ["Ayako Mori"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 4
     },
     "Skool Daze (1985)":
@@ -5824,6 +5918,8 @@
         "perspective": ["Third person"],
         "designer": ["David Reidy"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Chaos: The Battle of Wizards (1985)":
@@ -5839,6 +5935,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Julian Gollop"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 20
     },
     "Impossible Mission (1984)":
@@ -5854,6 +5952,8 @@
         "perspective": ["Side view"],
         "designer": ["Dennis Caswell"],
         "composer": ["Unknown"],
+        "pegi": "3",
+		"esrb": "E10+",
         "hltb": 3
     },
     "Sabre Wulf (1984)":
