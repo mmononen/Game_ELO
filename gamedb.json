@@ -7859,6 +7859,108 @@
         "pegi": "7",
         "esrb": "E",
         "hltb": 12
+    },
+    "Borderlands (2009)":
+    {
+        "id": 463,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Xbox One", "Xbox 360", "Mac", "PS3", "Win"],
+        "developers": ["Gearbox"],
+        "publishers": ["2K Games", "CyberFront", "Feral Interactive", "Take-Two"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Matthew Armstrong"],
+        "composer": ["Sascha Dikiciyan", "Cris Velasco", "Jesper Kyd", "Raison Varner"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 35
+    },
+    "Final Fight (1989)":
+    {
+        "id": 464,
+        "year": 1989,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "PS2", "Amstrad CPC", "Amiga", "GBA", "ZX Spectrum", "PSP", "iOS", "SNES", "C64", "Wii", "Xbox", "Atari ST", "Arcade"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom", "U.S. Gold"],
+        "genre": ["Adventure", "Arcade", "Fighting", "Hack and Slash"],
+        "theme": ["Action"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Akira Nishitani", "Akira Yasuda"],
+        "composer": ["Manami Matsumae", "Yoshihiro Sakaguchi", "Yasuaki Fujita", "Hiromitsu Takaoka", "Yoko Shimomura", "Junko Tamiya", "Harumi Fujita"],
+		"pegi": "12",
+		"esrb": "E",
+        "hltb": 2
+    },
+    "Star Fox (1993)":
+    {
+        "id": 465,
+        "year": 1993,
+        "country": ["JPN", "GBR"],
+        "platforms": ["SNES", "Switch"],
+        "developers": ["Nintendo", "Argonaut Software"],
+        "publishers": ["Nintendo"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Katsuya Eguchi", "Shigeru Miyamoto"],
+        "composer": ["Hajime Hirasawa"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 3
+    },
+    "Madden NFL ’99 (1998)":
+    {
+        "id": 466,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["PSX", "N64", "Win"],
+        "developers": ["Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Non-fiction", "American Football"],
+        "perspective": ["Third person"],
+        "designer": ["Dave Swanson"],
+        "composer": ["Darryl S. Duncan"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 20
+    },
+    "Call of Duty 2 (2005)":
+    {
+        "id": 467,
+        "year": 2005,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "Win"],
+        "developers": ["Infinity Ward"],
+        "publishers": ["Activision"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Jason West", "Zied Rieke", "Steve Fukuda"],
+        "composer": ["Graeme Revell"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 10
+    },
+    "Wolfenstein 3D (1992)":
+    {
+        "id": 468,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "GBA", "iOS", "SNES", "Jaguar", "DOS", "3DO", "Web browser", "PS3", "Win"],
+        "developers": ["id Software"],
+        "publishers": ["GT Interactive", "Zodttd", "Activision", "BAM! Entertainment", "Interplay", "MacPlay", "Atari", "Electronic Arts", "id Software", "Imagineer", "Bethesda"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Fantasy", "Historical", "Horror", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Tom Hall", "John Romero"],
+        "composer": ["Robert Prince", "Brian Luzietti", "Todd Dennis"],
+		"pegi": "12",
+		"esrb": "M",
+        "hltb": 10
     }
 
 }
