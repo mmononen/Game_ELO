@@ -5969,6 +5969,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Chris Stamper", "Tim Stamper"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "Dizzy: The Ultimate Cartoon Adventure (1987)":
@@ -5984,6 +5986,8 @@
         "perspective": ["Side view"],
         "designer": ["Oliver Twins"],
         "composer": ["Jon Paul Eldridge", "David Whittaker"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 3
     },
     "Street Fighter II: Hyper Fighting (1992)":
@@ -5999,6 +6003,8 @@
         "perspective": ["Side view"],
         "designer": ["Akira Nishitani", "Akira Yasuda"],
         "composer": ["Yoko Shimomura", "Isao Abe"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 4
     },
     "Galaxian (1979)":
@@ -6014,6 +6020,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Kazunori Sawano", "Shigeichi Ishimura"],
         "composer": ["Toshio Kai"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "Gunstar Heroes (1993)":
@@ -6029,6 +6037,8 @@
         "perspective": ["Side view"],
         "designer": ["Masato Maegawa"],
         "composer": ["Norio Hanzawa"],
+        "pegi": "12",
+		"esrb": "E10+",
         "hltb": 2
     },
     "Atic Atac (1983)":
@@ -6044,6 +6054,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Tim Stamper", "Chris Stamper"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "Jetpac (1983)":
@@ -6059,6 +6071,8 @@
         "perspective": ["Side view"],
         "designer": ["Tim Stamper", "Chris Stamper"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "The Lords of Midnight (1984)":
@@ -6074,6 +6088,8 @@
         "perspective": ["First person"],
         "designer": ["Mike Singleton"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 4
     },
     "Kick Off 2 (1990)":
@@ -6089,6 +6105,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Dino Dini"],
         "composer": ["Fredrik Segerfalk", "Kazuo Sawa"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "Mortal Kombat (1992)":
@@ -6096,7 +6114,7 @@
         "id": 360,
         "year": 1992,
         "country": ["USA"],
-        "platforms": ["Mega Drive", "Amiga", "Sega CD", "SNES", "DOS", "GB", "Game Gear", "Arcade"],
+        "platforms": ["Mega Drive", "Amiga", "Sega CD", "SNES", "DOS", "GB", "Game Gear", "Arcade", "Saturn"],
         "developers": ["Midway", "Sculptured Software", "Probe"],
         "publishers": ["Midway", "Virgin", "Acclaim", "Arena Entertainment"],
         "genre": ["Fighting"],
@@ -6104,6 +6122,8 @@
         "perspective": ["Side view"],
         "designer": ["Ed Boon", "John Tobias"],
         "composer": ["Dan Forden"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 6
     },
     "Sensible World of Soccer (1994)":
@@ -6119,6 +6139,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Jon Hare"],
         "composer": ["Jon Hare", "Richard Joseph", "Jason Page"],
+        "pegi": "3",
+		"esrb": "N/A",
         "hltb": 34
     },
     "Super Mario World 2: Yoshi's Island (1995)":
@@ -6134,6 +6156,8 @@
         "perspective": ["Side view"],
         "designer": ["Takashi Tezuka", "Toshihiko Nakago", "Shigefumi Hino", "Hideki Konno"],
         "composer": ["Koji Kondo"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 11
     },
     "Football Manager (1982)":
@@ -6149,6 +6173,8 @@
         "perspective": ["Side view"],
         "designer": ["Kevin Toms"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 20
     },
     "Worms (1995)":
@@ -6156,7 +6182,7 @@
         "id": 364,
         "year": 1995,
         "country": ["GBR"],
-        "platforms": ["CD32", "Mega Drive", "Saturn", "Xbox 360", "Amiga", "Mac", "PSP", "Jaguar", "SNES", "PSX", "DOS", "PS3", "Win"],
+        "platforms": ["CD32", "Mega Drive", "Saturn", "Xbox 360", "Amiga", "Mac", "PSP", "Jaguar", "SNES", "PSX", "DOS", "PS3", "Win", "Evercade"],
         "developers": ["Team17"],
         "publishers": ["Tec Toy Indústria de Brinquedos", "GT Interactive", "Sold Out Sales & Marketing", "Ocean Software", "Team17", "Telegames"],
         "genre": ["Strategy"],
@@ -6164,6 +6190,8 @@
         "perspective": ["Side view", "Third person"],
         "designer": ["Andy Davidson", "Cris Blyth"],
         "composer": ["Bjørn Lynne"],
+        "pegi": "7",
+		"esrb": "N/A",
         "hltb": 7
     },
     "Cannon Fodder (1993)":
@@ -6179,6 +6207,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Jon Hare"],
         "composer": ["Richard Joseph", "Allister Brimble"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 13
     },
     "Laser Squad (1989)":
@@ -6194,6 +6224,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Julian Gollop", "Ian Terry"],
         "composer": ["Matt Furniss"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 20
     },
     "Streets of Rage 2 (1992)":
@@ -6209,6 +6241,8 @@
         "perspective": ["Side view"],
         "designer": ["Ayano Koshiro", "Kataru Uchimura", "Mikito Ichikawa"],
         "composer": ["Yuo Koshiro", "Motohiro Kawashima"],
+        "pegi": "12",
+		"esrb": "E",
         "hltb": 3
     },
     "Flashback (1992)":
@@ -6224,6 +6258,8 @@
         "perspective": ["Side view"],
         "designer": ["Paul Cuisset"],
         "composer": ["Jean Baudlot", "Raphaël Gesqua", "Fabrice Visserot"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 6
     },
     "Shenmue II (2001)":
@@ -6239,6 +6275,8 @@
         "perspective": ["Third person"],
         "designer": ["Yu Suzuki", "Shinichi Yoshino", "Yoshihiro Okabayashi", "Eigo Kasahara"],
         "composer": ["Takenobu Mitsuyoshi", "Yuzo Koshiro", "Ryuji Iuchi", "Takeshi Yanagawa", "Satoshi Miyashita", "Koji Sakurai", "Masataka Nitta", "Shinji Otsuka", "Fumio Ito", "Megumi Takano", "Osamu Murata", "Shinichi Goto"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 29
     },
     "James Pond 2: Codename: RoboCod (1991)":
@@ -6246,7 +6284,7 @@
         "id": 370,
         "year": 1991,
         "country": ["GBR"],
-        "platforms": ["CD32", "Mega Drive", "Amiga", "DOS", "SMS"],
+        "platforms": ["CD32", "Mega Drive", "Amiga", "DOS", "SMS", "Atari ST", "C64", "GB", "GBA", "Game Gear", "DS", "Switch", "PSX", "PS2", "PS3", "PSP", "SNES"],
         "developers": ["Millennium Interactive", "Vectordean"],
         "publishers": ["Millennium Interactive", "Play It!", "Electronic Arts", "Valcon Games", "U.S. Gold", "Ocean Software", "Codemasters"],
         "genre": ["Platform"],
@@ -6254,6 +6292,8 @@
         "perspective": ["Side view"],
         "designer": ["Chris Sorrell"],
         "composer": ["Richard Joseph"],
+        "pegi": "3",
+		"esrb": "N/A",
         "hltb": 7
     },
     "Last Ninja 2: Back with a Vengeance (1988)":
@@ -6269,6 +6309,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Mark Cale", "Tim Best", "Hugh Riley"],
         "composer": ["Matt Gray"],
+        "pegi": "12",
+		"esrb": "E10+",
         "hltb": 1
     },
     "Match Day II (1987)":
@@ -6284,6 +6326,8 @@
         "perspective": ["Side view"],
         "designer": ["Jon Ritman"],
         "composer": ["Guy Stevens"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Magicland Dizzy (1990)":
@@ -6299,6 +6343,8 @@
         "perspective": ["Side view"],
         "designer": ["Neal Vincent", "Andrew Oliver", "Philip Oliver"],
         "composer": ["Lyndon Sharp", "Matthew Simmonds"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 5
     },
     "The NewZealand Story (1988)":
@@ -6314,6 +6360,8 @@
         "perspective": ["Side view"],
         "designer": ["Kazutomo Ishida", "Hisaya Yabusaki", "Akira Ōtsuki", "Makoto Fujita", "Kōichi Ōyama"],
         "composer": ["Yasuko Yamada", "Yasuhisa Watanabe", "Tim Follin", "Geoff Follin"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "Repton (1985)":
@@ -6329,6 +6377,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Tim Tyler"],
         "composer": ["George Botsford"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Turrican II: The Final Fight (1991)":
@@ -6344,6 +6394,8 @@
         "perspective": ["Side view"],
         "designer": ["Manfred Trenz", "Andreas Escher", "Holger Schmidt", "Julian Eggebrecht"],
         "composer": ["Markus Siebold", "Chris Huelsbeck"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 2
     },
     "Jet Set Willy II: The Final Frontier (1985)":
@@ -6359,6 +6411,8 @@
         "perspective": ["Side view"],
         "designer": ["Matthew Smith"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10 
     },
     "Mario Kart 64 (1996)":
@@ -6374,6 +6428,8 @@
         "perspective": ["Third person"],
         "designer": ["Hideki Konno"],
         "composer": ["Kenta Nagata"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 11
     },
     "Mayhem in Monsterland (1993)":
@@ -6389,6 +6445,8 @@
         "perspective": ["Side view"],
         "designer": ["John Rowlands", "Steve Rowlands", "Andy Roberts"],
         "composer": ["Steve Rowlands"],
+        "pegi": "3",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Mr. DO! (1982)":
@@ -6396,7 +6454,7 @@
         "id": 380,
         "year": 1982,
         "country": ["JPN"],
-        "platforms": ["Atari 8-bit", "Atari 2600", "C64", "ColecoVision", "Apple II", "Arcade"],
+        "platforms": ["Atari 8-bit", "Atari 2600", "C64", "ColecoVision", "Apple II", "Arcade", "GB", "J2ME", "MSX", "PC-98", "SNES", "Tomy Tutor", "Wii"],
         "developers": ["Universal Games"],
         "publishers": ["Coleco", "Datasoft"],
         "genre": ["Adventure", "Arcade"],
@@ -6404,6 +6462,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Kazutoshi Ueda"],
         "composer": ["Junichi Saito"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 1
     },
     "Oids (1987)":
@@ -6419,6 +6479,8 @@
         "perspective": ["Side view"],
         "designer": ["Dan Hewitt"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Sid Meier's Pirates! (1987)":
@@ -6434,6 +6496,8 @@
         "perspective": ["Bird view / Isometric", "Side view", "Third person"],
         "designer": ["Sid Meier"],
         "composer": ["Ken Lagace"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 8
     },
     "The Last Ninja (1987)":
@@ -6449,6 +6513,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Mark Cale", "Tim Best"],
         "composer": ["Ben Daglish", "Anthony Lees", "Jochen Hippel", "Russell Lieblich"],
+        "pegi": "12",
+		"esrb": "E10+",
         "hltb": 3
     },
     "Championship Manager (1992)":
@@ -6464,6 +6530,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Paul Collyer", "Oliver Collyer"],
         "composer": ["Barry Leitch"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 100
     },
     "Delta (1987)":
@@ -6479,6 +6547,8 @@
         "perspective": ["Side view"],
         "designer": ["Stavros Fasoulas"],
         "composer": ["Rob Hubbard"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 10
     },
     "Gran Turismo 3: A-Spec (2001)":
@@ -6494,6 +6564,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Kazunori Yamauchi"],
         "composer": ["Isamu Ohira", "Daiki Kasho"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 64
     },
     "Grand Theft Auto III (2001)":
@@ -6501,7 +6573,7 @@
         "id": 387,
         "year": 2001,
         "country": ["GBR"],
-        "platforms": ["Android", "PS4", "PS2", "Mac", "iOS", "Xbox", "Win"],
+        "platforms": ["Android", "PS4", "PS2", "Mac", "iOS", "Xbox", "Win", "PS3"],
         "developers": ["DMA Design"],
         "publishers": ["Take-Two", "Rockstar"],
         "genre": ["Adventure", "Racing", "Shooter", "Simulator"],
@@ -6509,6 +6581,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Leslie Benzies"],
         "composer": ["Craig Conner", "Stuart Ross"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 22
     },
     "Missile Command (1980)":
@@ -6524,6 +6598,8 @@
         "perspective": ["Side view"],
         "designer": ["Dave Theurer"],
         "composer": ["Rich Adam"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "Spy Hunter (1982)":
@@ -6539,6 +6615,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["George Gomez"],
         "composer": ["Bob Libbe", "Michael Bartlow", "Neil Falconer", "Naoki Kodaka"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 1
     },
     "Turrican (1990)":
@@ -6554,6 +6632,8 @@
         "perspective": ["Side view"],
         "designer": ["Manfred Trenz"],
         "composer": ["Chris Huelsbeck", "Jochen Hippel"],
+        "pegi": "7",
+		"esrb": "E10+",
         "hltb": 3
     },
     "Metal Gear Solid 4: Guns of the Patriots (2008)":
@@ -6569,6 +6649,8 @@
         "perspective": ["Third person"],
         "designer": ["Hideo Kojima"],
         "composer": ["Harry Gregson-Williams", "Nobuko Toda", "Shuichi Kobori", "Kazuma Jinnouchi"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 22
     },
     "Mass Effect (2007)":
@@ -6584,6 +6666,8 @@
         "perspective": ["Third person"],
         "designer": ["Casey Hudson", "Preston Watamaniuk"],
         "composer": ["Jack Wall", "Sam Hulick", "Richard Jacques", "David Kates"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 29
     },
     "Final Fantasy VIII (1999)":
@@ -6599,6 +6683,8 @@
         "perspective": ["Bird view / Isometric", "Third person"],
         "designer": ["Yoshinori Kitase", "Hiroyuki Ito"],
         "composer": ["Nobuo Uematsu"],
+        "pegi": "16",
+		"esrb": "T",
         "hltb": 56
     },
     "Call of Duty 4: Modern Warfare (2007)":
@@ -6614,6 +6700,8 @@
         "perspective": ["First person"],
         "designer": ["Jason West", "Todd Alderman", "Steve Fukuda", "Mackey McCandlish", "Zied Rieke"],
         "composer": ["Stephen Barton"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 10
     },
     "Shenmue (1999)":
@@ -6629,6 +6717,8 @@
         "perspective": ["Third person"],
         "designer": ["Yu Suzuki", "Keiji Okayasu", "Toshihiro Nagoshi", "Eigo Kasahara"],
         "composer": ["Takenobu Mitsuyoshi", "Yuzo Koshiro"],
+        "pegi": "16",
+		"esrb": "T",
         "hltb": 22
     },
     "Grand Theft Auto IV (2008)":
@@ -6644,6 +6734,8 @@
         "perspective": ["Third person"],
         "designer": ["Leslie Benzies"],
         "composer": ["Michael Hunter"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 41
     },
     "Resident Evil 4 (2005)":
@@ -6651,7 +6743,7 @@
         "id": 397,
         "year": 2005,
         "country": ["JPN"],
-        "platforms": ["GameCube"],
+        "platforms": ["GameCube", "PS2", "Win", "Wii"],
         "developers": ["Capcom"],
         "publishers": ["Capcom"],
         "genre": ["Shooter"],
@@ -6659,6 +6751,8 @@
         "perspective": ["Third person"],
         "designer": ["Shinji Mikami", "Hiroshi Shibata", "Kouji Kakae", "Shigenori Nishikawa"],
         "composer": ["Misao Senbongi"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 20
     },
     "Final Fantasy XII (2006)":
@@ -6674,6 +6768,8 @@
         "perspective": ["Third person"],
         "designer": ["Hiroyuki Ito", "Hiroshi Minagawa"],
         "composer": ["Hitoshi Sakimoto", "Hayato Matsuo", "Masaharu Iwata"],
+        "pegi": "16",
+		"esrb": "T",
         "hltb": 93
     },
     "Grand Theft Auto: San Andreas (2004)":
@@ -6689,6 +6785,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Leslie Benzies"],
         "composer": ["Michael Hunter"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 47
     },
     "Pro Evolution Soccer 4 (2004)":
@@ -6704,6 +6802,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Yasuyuki Shoji", "Tetsushi Yamakawa", "Seisuke Yasunaga"],
         "composer": ["Norikazu Miura", "Atsushi Sato"],
+        "pegi": "3",
+		"esrb": "N/A",
         "hltb": 72
     },
     "Half-Life 2 (2004)":
