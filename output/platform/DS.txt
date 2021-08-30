@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2116   Chrono Trigger (1995)                                                                      290    3 
-                  JPN | 27 h | Bird view / Isometric
+    1. 2134   Chrono Trigger (1995)                                                                      290    3 
+                  JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
                   Developers: Square
@@ -9,8 +9,8 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1925   Resident Evil (1996)                                                                       162    5 
-                  JPN | 8 h | Third person
+    2. 1961   Resident Evil (1996)                                                                       162    6 
+                  JPN | 8 h | Third person | PEGI: 16 | ESRB: M
                   On: DS, PS3, PSX, Saturn, Win
                   Genre: Adventure | Theme: Fantasy, Horror, Survival
                   Developers: Capcom, Nextech
@@ -18,8 +18,17 @@
                   Designer: Isao Ōishi, Shinji Mikami, Takahiro Arimitsu
                   Composer: Koichi Hiroki, Makoto Tomozawa, Masami Ueda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1372   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
-                  JPN | 49 h | Bird view / Isometric, First person
+    3. 1390   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    1 
+                  CAN | 14 h | First person, Third person | PEGI: 12 | ESRB: M
+                  On: 3DS, DS, GameCube, Mobile, N-Gage, PS2, Win, Xbox
+                  Genre: Shooter, Tactical | Theme: Action, Stealth
+                  Developers: Ubisoft
+                  Publishers: Ubisoft
+                  Designer: Clint Hocking
+                  Composer: Amon Tobin, Jesper Kyd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1372   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
+                  JPN | 49 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
                   On: Android, DS, SNES, iOS
                   Genre: RPG | Theme: Fantasy, Historical
                   Developers: Heartbeat
@@ -28,7 +37,7 @@
                   Composer: Koichi Sugiyama
 
        1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1
-                  JPN | 38 h | Bird view / Isometric
+                  JPN | 38 h | Bird view / Isometric | PEGI: N/A | ESRB: E10+
                   On: Android, DS, PS2, SNES, iOS
                   Genre: RPG | Theme: Fantasy
                   Developers: Chunsoft
@@ -36,11 +45,20 @@
                   Designer: Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1352   LEGO Star Wars II: The Original Trilogy (2006)                                             407    1 
-                  GBR | 11 h | Third person
+    6. 1352   LEGO Star Wars II: The Original Trilogy (2006)                                             407    1 
+                  GBR | 11 h | Third person | PEGI: 3 | ESRB: E
                   On: DS, GBA, GameCube, Mac, PS2, PSP, Win, Xbox, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Comedy, Science Fiction
                   Developers: Traveller's Tales
                   Publishers: LucasArts, Traveller's Tales
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1335   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
+                  GBR | 7 h | Side view | PEGI: 3 | ESRB: N/A
+                  On: Amiga, Atari ST, C64, CD32, DOS, DS, GB, GBA, Game Gear, Mega Drive, PS2, PS3, PSP, PSX, SMS, SNES, Switch
+                  Genre: Platform | Theme: Action, Comedy
+                  Developers: Millennium Interactive, Vectordean
+                  Publishers: Codemasters, Electronic Arts, Millennium Interactive, Ocean Software, Play It!, U.S. Gold, Valcon Games
+                  Designer: Chris Sorrell
+                  Composer: Richard Joseph

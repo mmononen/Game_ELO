@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2080   Tomb Raider (1996)                                                                         194    6 
-                  GBR | 18 h | Third person
+    1. 2102   Tomb Raider (1996)                                                                         194    6 
+                  GBR | 18 h | Third person | PEGI: 12 | ESRB: T
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
                   Developers: Core Design
@@ -10,7 +10,7 @@
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     2. 1895   Tekken 2 (1995)                                                                             22    4 
-                  JPN | 6 h | Side view
+                  JPN | 6 h | Side view | PEGI: 12 | ESRB: T
                   On: Arcade, PS2, PS3, PSP, PSX, Vita
                   Genre: Fighting | Theme: Action
                   Developers: Namco
@@ -19,7 +19,7 @@
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1699   Duke Nukem 3D (1996)                                                                        51    2 
-                  USA | 12 h | First person
+                  USA | 12 h | First person | PEGI: 16 | ESRB: M
                   On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Comedy, Science Fiction
                   Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
@@ -27,8 +27,8 @@
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1593   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
-                  JPN | 15 h | Third person
+    4. 1688   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
+                  JPN | 15 h | Third person | PEGI: N/A | ESRB: M
                   On: PS2, PS3, Vita, Win, Xbox, Xbox 360
                   Genre: Adventure | Theme: Action, Stealth
                   Developers: Konami
@@ -37,7 +37,7 @@
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1579   Tekken (1994)                                                                              185    1 
-                  JPN | 8 h | Side view
+                  JPN | 8 h | Side view | PEGI: 12 | ESRB: T
                   On: Arcade, PS3, PSP, PSX, Vita
                   Genre: Fighting | Theme: Action
                   Developers: Namco
@@ -45,8 +45,8 @@
                   Designer: Seiichi Ishii
                   Composer: Hiroto Sasaki, Nobuyoshi Sano, Shinji Hosoe, Takayuki Aihara, Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1429   Ratchet & Clank: Up Your Arsenal (2004)                                                    439    1 
-                  USA | 16 h | Third person
+    6. 1499   Ratchet & Clank: Up Your Arsenal (2004)                                                    439    1 
+                  USA | 16 h | Third person | PEGI: 7 | ESRB: E10+
                   On: PS2, PS3, Vita
                   Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Science Fiction
                   Developers: Insomniac Games
@@ -55,7 +55,7 @@
                   Composer: David Bergeaud
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1427   Ridge Racer Type 4 (1998)                                                                  234    1 
-                  JPN | 9 h | First person, Third person
+                  JPN | 9 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: PS3, PSP, PSX, Vita
                   Genre: Racing | Theme: Motorsports
                   Developers: Namco
@@ -64,7 +64,7 @@
                   Composer: Asuka Sakai, Hiroshi Okubo, Kohta Takahashi, Koji Nagakawa, Tetsukazu Nakanishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1397   Metal Gear (1987)                                                                          305    1 
-                  JPN | 5 h | Bird view / Isometric
+                  JPN | 5 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
                   Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
                   Developers: Konami
@@ -72,8 +72,17 @@
                   Designer: Hideo Kojima
                   Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1161   Jumping Flash! (1995)                                                                      155    1 
-                  JPN | 3 h | First person
+    9. 1183   Suikoden (1995)                                                                            323    1 
+                  JPN | 25 h | Bird view / Isometric | PEGI: 7 | ESRB: E
+                  On: PS3, PSP, PSX, Saturn, Vita, Win
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Yoshitaka Murayama
+                  Composer: Hirofumi Taniguchi, Hiroshi Tamawari, Mayuko Kageshita, Miki Higashino, Tappi Iwase
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1161   Jumping Flash! (1995)                                                                      155    1 
+                  JPN | 3 h | First person | PEGI: N/A | ESRB: E
                   On: PS3, PSP, PSX, Vita
                   Genre: Adventure, Platform, Shooter | Theme: Action
                   Developers: Exact, Ultra

@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2068   Halo: Combat Evolved (2001)                                                                340    3 
-                  USA | 11 h | First person, Third person
+    1. 2091   Halo: Combat Evolved (2001)                                                                340    3 
+                  USA | 11 h | First person, Third person | PEGI: N/A | ESRB: M
                   On: Mac, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Science Fiction
                   Developers: Bungie
@@ -9,8 +9,8 @@
                   Designer: Jason Jones, John Howard
                   Composer: Martin O'Donnell, Michael Salvatori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2016   Half-Life 2 (2004)                                                                         401    2 
-                  USA | 16 h | First person
+    2. 2045   Half-Life 2 (2004)                                                                         401    2 
+                  USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
                   Developers: Valve
@@ -18,8 +18,8 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1968   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
-                  USA | 13 h | Third person
+    3. 2004   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
+                  USA | 13 h | Third person | PEGI: N/A | ESRB: E
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Genre: Sport | Theme: Action, Skateboarding
                   Developers: Neversoft
@@ -27,17 +27,17 @@
                   Designer: Aaron Cammarata, Jason Uyeda
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1907   Grand Theft Auto III (2001)                                                                387    2 
-                  GBR | 22 h | Bird view / Isometric, Third person
-                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+    4. 1952   Grand Theft Auto III (2001)                                                                387    2 
+                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
                   Developers: DMA Design
                   Publishers: Rockstar, Take-Two
                   Designer: Leslie Benzies
                   Composer: Craig Conner, Stuart Ross
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1751   Grand Theft Auto: Vice City (2002)                                                         339    3 
-                  GBR | 28 h | Third person
+    5. 1823   Grand Theft Auto: Vice City (2002)                                                         339    3 
+                  GBR | 28 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
                   Developers: Rockstar
@@ -45,8 +45,8 @@
                   Designer: Leslie Benzies
                   Composer: Lex Horton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1745   Grand Theft Auto: San Andreas (2004)                                                       399    2 
-                  GBR | 47 h | First person, Third person
+    6. 1818   Grand Theft Auto: San Andreas (2004)                                                       399    2 
+                  GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
                   Developers: Rockstar
@@ -54,8 +54,8 @@
                   Designer: Leslie Benzies
                   Composer: Michael Hunter
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1660   Half-Life: Counter-Strike (2000)                                                           278    3 
-                  USA | 206 h | First person
+    7. 1748   Half-Life: Counter-Strike (2000)                                                           278    3 
+                  USA | 206 h | First person | PEGI: N/A | ESRB: M
                   On: Linux, Mac, Win, Xbox
                   Genre: Shooter | Theme: Action, Warfare
                   Developers: Valve
@@ -63,8 +63,8 @@
                   Designer: Jess Cliffe, Minh Le
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1611   Star Wars: Knights of the Old Republic (2003)                                              415    2 
-                  CAN | 36 h | Third person
+    8. 1704   Star Wars: Knights of the Old Republic (2003)                                              415    2 
+                  CAN | 36 h | Third person | PEGI: 12 | ESRB: N/A
                   On: Android, Mac, Win, Xbox, iOS
                   Genre: Adventure, RPG | Theme: Science Fiction
                   Developers: BioWare
@@ -72,8 +72,8 @@
                   Designer: Casey Hudson, James Ohlen
                   Composer: Jeremy Soule
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1593   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
-                  JPN | 15 h | Third person
+    9. 1688   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
+                  JPN | 15 h | Third person | PEGI: N/A | ESRB: M
                   On: PS2, PS3, Vita, Win, Xbox, Xbox 360
                   Genre: Adventure | Theme: Action, Stealth
                   Developers: Konami
@@ -81,8 +81,8 @@
                   Designer: Hideo Kojima
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1559   The Sims (2000)                                                                            322    2 
-                  USA | 32 h | Bird view / Isometric
+   10. 1656   The Sims (2000)                                                                            322    2 
+                  USA | 32 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: GameCube, Linux, Mac, PS2, Win, Xbox
                   Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
                   Developers: Maxis
@@ -90,17 +90,8 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1435   Pro Evolution Soccer 4 (2004)                                                              400    1 
-                  JPN | 72 h | Bird view / Isometric
-                  On: PS2, Win, Xbox
-                  Genre: Sport | Theme: Football, Non-fiction
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Seisuke Yasunaga, Tetsushi Yamakawa, Yasuyuki Shoji
-                  Composer: Atsushi Sato, Norikazu Miura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1421   Silent Hill 2 (2001)                                                                       443    1 
-                  JPN | 10 h | Third person
+   11. 1487   Silent Hill 2 (2001)                                                                       443    1 
+                  JPN | 10 h | Third person | PEGI: 16 | ESRB: M
                   On: PS2, Win, Xbox
                   Genre: Adventure, Puzzle | Theme: Drama, Horror, Mystery, Survival
                   Developers: Konami
@@ -108,8 +99,8 @@
                   Designer: Masashi Tsuboyama
                   Composer: Akira Yamaoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1408   Prince of Persia: The Sands of Time (2003)                                                 444    1 
-                  CAN | 10 h | Third person
+   12. 1466   Prince of Persia: The Sands of Time (2003)                                                 444    1 
+                  CAN | 10 h | Third person | PEGI: N/A | ESRB: T
                   On: GameCube, PS2, PS3, Win, Xbox
                   Genre: Adventure, Platform | Theme: Action
                   Developers: Ubisoft
@@ -117,8 +108,44 @@
                   Designer: Jordan Mechner, Patrice Désilets
                   Composer: Stuart Chatwood
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1352   LEGO Star Wars: The Video Game (2005)                                                      406    1 
-                  GBR | 11 h | Third person
+   13. 1458   The Elder Scrolls III: Morrowind (2002)                                                    445    1 
+                  USA | 108 h | First person, Third person | PEGI: N/A | ESRB: T
+                  On: Win, Xbox
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Open world, Sandbox
+                  Developers: Bethesda
+                  Publishers: Bethesda, Ubisoft, ZeniMax
+                  Designer: Ken Rolston, Todd Howard
+                  Composer: Jeremy Soule
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1435   Pro Evolution Soccer 4 (2004)                                                              400    1 
+                  JPN | 72 h | Bird view / Isometric | PEGI: 3 | ESRB: N/A
+                  On: PS2, Win, Xbox
+                  Genre: Sport | Theme: Football, Non-fiction
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Seisuke Yasunaga, Tetsushi Yamakawa, Yasuyuki Shoji
+                  Composer: Atsushi Sato, Norikazu Miura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1421   Halo 2 (2004)                                                                              449    1 
+                  USA | 12 h | First person | PEGI: N/A | ESRB: M
+                  On: Win, Xbox, Xbox One
+                  Genre: Shooter | Theme: Action, Science Fiction
+                  Developers: Bungie
+                  Publishers: Microsoft
+                  Designer: Jaime Griesemer, Jason Jones
+                  Composer: Martin O'Donnell, Michael Salvatori
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1390   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    1 
+                  CAN | 14 h | First person, Third person | PEGI: 12 | ESRB: M
+                  On: 3DS, DS, GameCube, Mobile, N-Gage, PS2, Win, Xbox
+                  Genre: Shooter, Tactical | Theme: Action, Stealth
+                  Developers: Ubisoft
+                  Publishers: Ubisoft
+                  Designer: Clint Hocking
+                  Composer: Amon Tobin, Jesper Kyd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1352   LEGO Star Wars: The Video Game (2005)                                                      406    1 
+                  GBR | 11 h | Third person | PEGI: 3 | ESRB: E
                   On: GBA, GameCube, Mac, PS2, Win, Xbox
                   Genre: Adventure, Platform | Theme: Action, Comedy, Kids, Science Fiction
                   Developers: Traveller's Tales
@@ -127,7 +154,7 @@
                   Composer: David Whittaker, John Williams
 
        1352   LEGO Star Wars II: The Original Trilogy (2006)                                             407    1
-                  GBR | 11 h | Third person
+                  GBR | 11 h | Third person | PEGI: 3 | ESRB: E
                   On: DS, GBA, GameCube, Mac, PS2, PSP, Win, Xbox, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Comedy, Science Fiction
                   Developers: Traveller's Tales
@@ -135,8 +162,8 @@
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1341   Shenmue II (2001)                                                                          369    1 
-                  JPN | 29 h | Third person
+   19. 1341   Shenmue II (2001)                                                                          369    1 
+                  JPN | 29 h | Third person | PEGI: N/A | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox, Xbox One
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
                   Developers: Rutubo Games, Sega
@@ -144,8 +171,8 @@
                   Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
                   Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1000   OutRun 2 (2003)                                                                            421    1 
-                  JPN | 7 h | Third person
+   20. 1000   OutRun 2 (2003)                                                                            421    1 
+                  JPN | 7 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Arcade, Xbox
                   Genre: Racing | Theme: Action
                   Developers: Sega, Sumo Digital

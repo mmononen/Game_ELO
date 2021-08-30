@@ -4695,7 +4695,7 @@
         "esrb": "N/A",
         "hltb": 2
     },
-    "    (1999)":
+    "Asheron's Call (1999)":
     {
         "id": 277,
         "year": 1999,
@@ -7553,6 +7553,227 @@
         "pegi": "N/A",
 		"esrb": "T",
         "hltb": 10
+    },
+    "The Elder Scrolls III: Morrowind (2002)":
+    {
+        "id": 445,
+        "year": 2002,
+        "country": ["USA"],
+        "platforms": ["Xbox", "Win"],
+        "developers": ["Bethesda"],
+        "publishers": ["Ubisoft", "ZeniMax", "Bethesda"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Open world", "Sandbox"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Todd Howard", "Ken Rolston"],
+        "composer": ["Jeremy Soule"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 108
+    },
+    "Heroes of Might and Magic III: The Restoration of Erathia (1999)":
+    {
+        "id": 446,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["New World Computing", "Loki Software"],
+        "publishers": ["Loki Software", "3DO"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["David Mullich", "Gregory Fulton", "Jon Van Caneghem"],
+        "composer": ["Paul Romero", "Rob King", "Steve Baca"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 88
+    },
+    "Batman: Arkham Asylum (2009)":
+    {
+        "id": 447,
+        "year": 2009,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "PS3", "Win", "Ouya"],
+        "developers": ["Rocksteady"],
+        "publishers": ["Eidos", "Playcast-media", "Warner Bros"],
+        "genre": ["Adventure", "Hack and Slash"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Sefton Hill"],
+        "composer": ["Nick Arundel", "Ron Fish"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 17
+    },
+    "Gears of War (2006)":
+    {
+        "id": 448,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Win"],
+        "developers": ["Epic", "Psyonix"],
+        "publishers": ["Microsoft"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Cliff Bleszinski"],
+        "composer": ["Kevin Riepl"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 12
+    },
+    "Halo 2 (2004)":
+    {
+        "id": 449,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["Xbox One", "Xbox", "Win"],
+        "developers": ["Bungie"],
+        "publishers": ["Microsoft"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Jason Jones", "Jaime Griesemer"],
+        "composer": ["Martin O'Donnell", "Michael Salvatori"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 12
+    },
+    "EarthBound (1994)":
+    {
+        "id": 450,
+        "year": 1994,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "3DS (New)", "GBA", "SNES"],
+        "developers": ["Creatures Inc.", "HAL Laboratory"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG", "Turn-Based Strategy"],
+        "theme": ["Action", "Drama", "Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Shigesato Itoi", "Akihiko Miura"],
+        "composer": ["Keiichi Suzuki", "Hirokazu Tanaka"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 33
+    },
+    "Sid Meier's Alpha Centauri (1999)":
+    {
+        "id": 451,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["Firaxis"],
+        "publishers": ["Electronic Arts", "Aspyr", "Loki Software"],
+        "genre": ["Simulator", "Strategy", "Turn-Based Strategy"],
+        "theme": ["4X", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Brian Reynolds", "Bing Gordon", "Sid Meier", "Douglas Kaufman", "Timothy Train"],
+        "composer": ["Jeffery L. Briggs", "David Evans"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 39
+    },
+    "Command & Conquer: Red Alert (1996)":
+    {
+        "id": 452,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["PSP", "PSX", "DOS", "PS3", "Win"],
+        "developers": ["Westwood Studios"],
+        "publishers": ["Sony", "Electronic Arts", "Virgin", "Sold Out Sales & Marketing"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Historical", "Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Adam P. Isgreen", "Michael Lightner", "Erik Yeo"],
+        "composer": ["Frank Klepacki"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 31
+    },
+    "Fallout: A Post Nuclear Role Playing Game (1997)":
+    {
+        "id": 453,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS", "Win"],
+        "developers": ["Black Isle"],
+        "publishers": ["Interplay", "Edusoft"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Science Fiction", "Survival"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Christopher Taylor", "Feargus Urquhart"],
+        "composer": ["Mark Morgan"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 23
+    },
+    "Tom Clancy's Splinter Cell: Chaos Theory (2005)":
+    {
+        "id": 454,
+        "year": 2005,
+        "country": ["CAN"],
+        "platforms": ["3DS", "DS", "PS2", "GameCube", "N-Gage", "Mobile", "Xbox", "Win"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Shooter", "Tactical"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Clint Hocking"],
+        "composer": ["Amon Tobin", "Jesper Kyd"],
+		"pegi": "12",
+		"esrb": "M",
+        "hltb": 14
+    },
+    "Mega Man X (1993)":
+    {
+        "id": 455,
+        "year": 1993,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "3DS (New)", "iOS", "SNES", "DOS", "Wii"],
+        "developers": ["Capcom", "Rozner Labs"],
+        "publishers": ["Capcom", "Nintendo"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Yoshinori Takenaka", "Keiji Inafune", "Sho Tsuge", "Masayoshi Kurogawa"],
+        "composer": ["Setsuo Yamamoto", "Makoto Tomozawa", "Yuki Iwai", "Yuko Takehara", "Toshihiko Horiyama"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 4
+    },
+    "NHL '94 (1993)":
+    {
+        "id": 456,
+        "year": 1993,
+        "country": ["CAN"],
+        "platforms": ["Mega Drive", "Sega CD", "SNES", "DOS"],
+        "developers": ["Electronic Arts", "High Score Productions", "Park Place Productions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Ice Hockey"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jim Simmons"],
+        "composer": ["Rob Hubbard"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 13
+    },
+    "Shadowrun (1993)":
+    {
+        "id": 457,
+        "year": 1993,
+        "country": ["AUS"],
+        "platforms": ["SNES"],
+        "developers": ["Beam Software"],
+        "publishers": ["Data East"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Paul Kidd", "Greg Barnett", "Arthur Kakouris"],
+        "composer": ["Marshall Parker"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 18
     }
 
 }

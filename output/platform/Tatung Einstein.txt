@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
     1. 1954   Elite (1984)                                                                                14    3 
-                  GBR | 100 h | First person
+                  GBR | 100 h | First person | PEGI: N/A | ESRB: N/A
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
                   Developers: Acornsoft
@@ -9,17 +9,8 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1835   Manic Miner (1983)                                                                         337    1 
-                  GBR | 10 h | Side view
-                  On: Amiga, Amstrad CPC, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
-                  Genre: Platform | Theme: Action, Survival
-                  Developers: Matthew Smith
-                  Publishers: Bug Byte, Software Projects
-                  Designer: Matthew Smith
-                  Composer: Matthew Smith
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1808   Zork I: The Great Underground Empire (1980)                                                 54    5 
-                  USA | 4 h | Text
+    2. 1870   Zork I: The Great Underground Empire (1980)                                                 54    5 
+                  USA | 4 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom
@@ -27,8 +18,17 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1835   Manic Miner (1983)                                                                         337    1 
+                  GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Amstrad CPC, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
+                  Genre: Platform | Theme: Action, Survival
+                  Developers: Matthew Smith
+                  Publishers: Bug Byte, Software Projects
+                  Designer: Matthew Smith
+                  Composer: Matthew Smith
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1792   Jet Set Willy (1984)                                                                       338    1 
-                  GBR | 10 h | Side view
+                  GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, BBC, C16, C64, Dragon, MSX, Plus4, Tatung Einstein, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action
                   Developers: Software Projects
@@ -37,7 +37,7 @@
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1546   Chuckie Egg (1983)                                                                         343    1 
-                  GBR | 11 h | Side view
+                  GBR | 11 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amiga, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C64, DOS, Dragon, MSX, Tatung Einstein, ZX Spectrum
                   Genre: Platform | Theme: Action, Kids
                   Developers: A&F Software
@@ -46,7 +46,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1436   Zork III: The Dungeon Master (1982)                                                         56    2 
-                  USA | 3 h | Text
+                  USA | 3 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom
@@ -55,7 +55,7 @@
                   Composer: Unknown
 
        1436   Zork II: The Wizard of Frobozz (1981)                                                       55    2
-                  USA | 3 h | Text
+                  USA | 3 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom

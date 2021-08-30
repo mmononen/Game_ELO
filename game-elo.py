@@ -24,6 +24,8 @@ class Game:
         self.perspective = ""
         self.designer = []
         self.composer = []
+        self.pegi = ""
+        self.esrb = ""
         self.hltb = ""
 
     def add_matches(self):
@@ -336,10 +338,10 @@ def make_printable(olist):
             #print(f"{band.id} {band.name} ({band.year})")
             # There should be data for all the fields in gamedb.json if there is an entry for the game
             if (band.id) != 0:
-                printable.append(f"                  {band.get_country()} | {band.hltb} h | {band.get_perspective()}")
+                printable.append(f"                  {band.get_country()} | {band.hltb} h | {band.get_perspective()} | PEGI: {band.pegi} | ESRB: {band.esrb}")
                 printable.append(f"                  On: {band.get_platforms()}")
                 printable.append(f"                  Genre: {band.get_genre()} | Theme: {band.get_theme()}")
-                #printable.append(f"                  Theme: {band.get_theme()}")
+                
                 printable.append(f"                  Developers: {band.get_developers()}")
                 printable.append(f"                  Publishers: {band.get_publishers()}")
 
@@ -397,6 +399,8 @@ for l in lists:
                             g.perspective = gamedb[x[1]]['perspective']
                             g.designer = gamedb[x[1]]['designer']
                             g.composer = gamedb[x[1]]['composer']
+                            g.pegi = gamedb[x[1]]['pegi']
+                            g.esrb = gamedb[x[1]]['esrb']
                             g.hltb = gamedb[x[1]]['hltb']
 
                             for d in g.developers:
@@ -410,7 +414,7 @@ for l in lists:
                     pass
         old_l = l
         f.close()
-        
+        print(f"processing list: {l}")
     except:
         
         print(f"{l} is missing!")
@@ -503,6 +507,8 @@ publishers = {}
 perspectives = {}
 designers = {}
 composers = {}
+pegi = {}
+esrb = {}
 total_hltb = []
 
 for g in gamedb:
@@ -532,6 +538,18 @@ for g in gamedb:
         a = years[s.year]
         a = a + 1
         years[s.year] = a
+    if s.pegi not in pegi:
+        pegi[s.pegi] = 1
+    else:
+        a = pegi[s.pegi]
+        a = a + 1
+        pegi[s.pegi] = a
+    if s.esrb not in esrb:
+        esrb[s.esrb] = 1
+    else:
+        a = esrb[s.esrb]
+        a = a + 1
+        esrb[s.esrb] = a            
     for x in s.genre:
         if x not in genres:
             genres[x] = 1
@@ -627,6 +645,32 @@ for i in years:
         a = f"0{a}"
     s = f"{a}: {i}  ({b}%)"
     print_years.append(s)
+
+print_pegi = []
+for i in pegi:
+    a = pegi[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_pegi.append(s)
+
+print_esrb = []
+for i in esrb:
+    a = esrb[i]
+    b = int(a / len(gamedb) * 100)
+    if a < 10:
+        a = f"000{a}"
+    elif a < 100:
+        a = f"00{a}"
+    elif a < 1000:
+        a = f"0{a}"
+    s = f"{a}: {i}  ({b}%)"
+    print_esrb.append(s)
 
 print_genres = []
 for i in genres:
@@ -777,6 +821,52 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     k2 = 0
     temp = 0
     for i in print_years:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break
+    f_out.write("\n")
+    f_out.write("PEGI Ratings:\n")
+    f_out.write("-------------\n")
+    print_pegi.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_pegi:
+        i = i.split(": ")
+        j = i[1].split(" (")
+        if temp != int(i[0]):
+            k += k2
+            k2 = 0
+            k += 1
+            s = f"{k:3}."     
+        else:
+            k2 += 1
+            s = f"  = "
+        temp = int(i[0])
+        if k <= 10:
+            f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
+        else:    
+            break    
+    f_out.write("\n")
+    f_out.write("ESRB Ratings:\n")
+    f_out.write("-------------\n")
+    print_esrb.sort(reverse=True)
+    k = 0
+    k2 = 0
+    temp = 0
+    for i in print_esrb:
         i = i.split(": ")
         j = i[1].split(" (")
         if temp != int(i[0]):

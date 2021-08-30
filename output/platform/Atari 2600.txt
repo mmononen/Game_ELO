@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2187   Ms. Pac-Man (1982)                                                                          12    4 
-                  USA | 2 h | Bird view / Isometric
+    1. 2200   Ms. Pac-Man (1982)                                                                          12    4 
+                  USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
                   Developers: General Computer Corporation
@@ -9,8 +9,8 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1728   Adventure (1980)                                                                           301    2 
-                  USA | 1 h | Bird view / Isometric
+    2. 1804   Adventure (1980)                                                                           301    2 
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Atari 2600
                   Genre: Adventure | Theme: Fantasy
                   Developers: Atari
@@ -18,35 +18,8 @@
                   Designer: Warren Robinett
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1714   Defender (1981)                                                                             13    3 
-                  USA | 2 h | Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
-                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
-                  Developers: Williams
-                  Publishers: Atari, Sears, Shockwave, Williams
-                  Designer: Eugene Jarvis, Larry DeMar
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1680   Space Invaders (1978)                                                                      171    2 
-                  JPN | 4 h | Side view
-                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
-                  Genre: Arcade, Shooter | Theme: Science Fiction
-                  Developers: Taito
-                  Publishers: Midway, Taito
-                  Designer: Tomohiro Nishikado
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1646   Star Wars (1983)                                                                            94    3 
-                  USA | 2 h | First person
-                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Atari
-                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
-                  Designer: Mike Hally
-                  Composer: Earl Vickers
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1627   Double Dragon (1987)                                                                       318    3 
-                  JPN | 2 h | Side view, Third person
+    3. 1718   Double Dragon (1987)                                                                       318    3 
+                  JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
                   Developers: Arc System Works, Technos
@@ -54,8 +27,35 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1714   Defender (1981)                                                                             13    3 
+                  USA | 2 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
+                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
+                  Developers: Williams
+                  Publishers: Atari, Sears, Shockwave, Williams
+                  Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1680   Space Invaders (1978)                                                                      171    2 
+                  JPN | 4 h | Side view | PEGI: 3 | ESRB: E
+                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
+                  Genre: Arcade, Shooter | Theme: Science Fiction
+                  Developers: Taito
+                  Publishers: Midway, Taito
+                  Designer: Tomohiro Nishikado
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1646   Star Wars (1983)                                                                            94    3 
+                  USA | 2 h | First person | PEGI: N/A | ESRB: N/A
+                  On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Atari
+                  Publishers: Atari, Brøderbund, Domark, Parker Brothers
+                  Designer: Mike Hally
+                  Composer: Earl Vickers
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1616   Asteroids (1979)                                                                            59    3 
-                  USA | 1 h | Bird view / Isometric
+                  USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
                   Developers: Atari
@@ -64,7 +64,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1561   Pitfall! (1982)                                                                            298    2 
-                  USA | 3 h | Side view
+                  USA | 3 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Genre: Platform | Theme: Action
                   Developers: Activision
@@ -73,7 +73,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1428   Galaxian (1979)                                                                            354    1 
-                  JPN | 1 h | Bird view / Isometric
+                  JPN | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
                   Developers: Namco
@@ -82,7 +82,7 @@
                   Composer: Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1347   Ikari Warriors (1986)                                                                      103    1 
-                  JPN | 1 h | Bird view / Isometric
+                  JPN | 1 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Warfare
                   Developers: SNK
@@ -91,7 +91,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1324   Bump 'n' Jump (1982)                                                                       112    1 
-                  JPN | 2 h | Bird view / Isometric
+                  JPN | 2 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Arcade, Atari 2600, ColecoVision, Intellivision, NES, Sharp X1
                   Genre: Arcade, Racing | Theme: Action
                   Developers: Data East
@@ -100,7 +100,7 @@
                   Composer: Azusa Hara, Hiroaki Yoshida
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    12. 1254   Track & Field (1983)                                                                       132    1 
-                  JPN | 1 h | Bird view / Isometric, Side view
+                  JPN | 1 h | Bird view / Isometric, Side view | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, MSX, NES, ZX Spectrum
                   Genre: Sport | Theme: Party, Track & Field
                   Developers: Konami
@@ -109,7 +109,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1217   River Raid (1982)                                                                          144    1 
-                  USA | 1 h | Bird view / Isometric
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action
                   Developers: Activision
@@ -118,8 +118,8 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1212   Mr. DO! (1982)                                                                             380    1 
-                  JPN | 1 h | Bird view / Isometric
-                  On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, ColecoVision
+                  JPN | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: E
+                  On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, ColecoVision, GB, J2ME, MSX, PC-98, SNES, Tomy Tutor, Wii
                   Genre: Adventure, Arcade | Theme: Action
                   Developers: Universal Games
                   Publishers: Coleco, Datasoft
@@ -127,7 +127,7 @@
                   Composer: Junichi Saito
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1203   Joust (1982)                                                                               147    1 
-                  USA | 1 h | Side view
+                  USA | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
                   Genre: Arcade, Fighting, Platform | Theme: Action
                   Developers: Williams
@@ -136,7 +136,7 @@
                   Composer: Tim Murphy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    16. 1198   Centipede (1981)                                                                           148    1 
-                  USA | 1 h | Bird view / Isometric
+                  USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
                   Developers: Atari
@@ -145,7 +145,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    17. 1130   Winter Games (1985)                                                                        159    1 
-                  USA | 1 h | Third person
+                  USA | 1 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Genre: Sport | Theme: Action
                   Developers: Action Graphics
@@ -154,7 +154,7 @@
                   Composer: David Thiel, Kenichi Tomizawa
 
        1130   Summer Games (1984)                                                                        158    1
-                  USA | 1 h | Third person
+                  USA | 1 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64, PC-8801, SMS, ZX Spectrum
                   Genre: Sport | Theme: Action
                   Developers: Epyx
@@ -163,7 +163,7 @@
                   Composer: Randy Glover
 
        1130   California Games (1987)                                                                    160    1
-                  USA | 2 h | Side view
+                  USA | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari ST, C64, DOS, Lynx, MSX, Mega Drive, Mobile, NES, SMS, Wii, Win, ZX Spectrum
                   Genre: Sport | Theme: Action
                   Developers: Epyx
@@ -172,7 +172,7 @@
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1057   Missile Command (1980)                                                                     388    1 
-                  USA | 1 h | Side view
+                  USA | 1 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction, Warfare
                   Developers: Atari
@@ -181,7 +181,7 @@
                   Composer: Rich Adam
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1010   Spy Hunter (1982)                                                                          389    1 
-                  USA | 1 h | Bird view / Isometric
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
                   Genre: Racing, Shooter | Theme: Action
                   Developers: Bally

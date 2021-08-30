@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2116   Chrono Trigger (1995)                                                                      290    3 
-                  JPN | 27 h | Bird view / Isometric
+    1. 2134   Chrono Trigger (1995)                                                                      290    3 
+                  JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
                   Developers: Square
@@ -9,26 +9,17 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1895   Warcraft II: Tides of Darkness (1995)                                                       10    4 
-                  USA | 26 h | Bird view / Isometric
+    2. 1942   Warcraft II: Tides of Darkness (1995)                                                       10    4 
+                  USA | 26 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Fantasy
                   Developers: Blizzard Entertainment
                   Publishers: Blizzard Entertainment, Electronic Arts
                   Designer: Ron Millar
                   Composer: Glenn Stafford
-
-       1895   Tekken 2 (1995)                                                                             22    4
-                  JPN | 6 h | Side view
-                  On: Arcade, PS2, PS3, PSP, PSX, Vita
-                  Genre: Fighting | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Designer: Seiichi Ishii
-                  Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1889   Command & Conquer (1995)                                                                    69    4 
-                  USA | 23 h | Bird view / Isometric
+    3. 1937   Command & Conquer (1995)                                                                    69    4 
+                  USA | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction, Warfare
                   Developers: Westwood Studios
@@ -36,8 +27,17 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1895   Tekken 2 (1995)                                                                             22    4 
+                  JPN | 6 h | Side view | PEGI: 12 | ESRB: T
+                  On: Arcade, PS2, PS3, PSP, PSX, Vita
+                  Genre: Fighting | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Designer: Seiichi Ishii
+                  Composer: Yoshie Arakawa, Yoshie Takayanagi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1609   Rave Racer (1995)                                                                          165    2 
-                  JPN | 10 h | Third person
+                  JPN | 10 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Arcade
                   Genre: Arcade, Racing | Theme: Action
                   Developers: Namco
@@ -45,17 +45,8 @@
                   Designer: Fumihiro Tanaka, Kenji Wakabayashi
                   Composer: Ayako Sasō, Etsuo Ishii, Norifumi Nagaoka, Shinji Hosoe, Yoshikazu Komatsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1545   X-COM: Terror from the Deep (1995)                                                         218    1 
-                  USA | 55 h | Bird view / Isometric
-                  On: DOS, PSX, Win
-                  Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Action, Horror, Science Fiction, Warfare
-                  Developers: MicroProse
-                  Publishers: Hasbro, MicroProse
-                  Designer: Stephen Goss
-                  Composer: Allister Brimble, John Broomhall
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1494   Mario's Picross (1995)                                                                     329    2 
-                  JPN | 20 h | Bird view / Isometric
+    6. 1586   Mario's Picross (1995)                                                                     329    2 
+                  JPN | 20 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: 3DS, GB
                   Genre: Puzzle | Theme: Nonogram
                   Developers: Jupiter
@@ -63,8 +54,17 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1545   X-COM: Terror from the Deep (1995)                                                         218    1 
+                  USA | 55 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: DOS, PSX, Win
+                  Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Action, Horror, Science Fiction, Warfare
+                  Developers: MicroProse
+                  Publishers: Hasbro, MicroProse
+                  Designer: Stephen Goss
+                  Composer: Allister Brimble, John Broomhall
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1452   Madden NFL 96 (1995)                                                                        45    1 
-                  USA | 10 h | Bird view / Isometric
+                  USA | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: GB, Game Gear, Mega Drive, SNES, Win
                   Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
                   Developers: High Score Productions, Tiburon Entertainment
@@ -73,7 +73,7 @@
                   Composer: Tommy Tallarico
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1427   EF 2000 (1995)                                                                              62    1 
-                  GBR | 10 h | First person
+                  GBR | 10 h | First person | PEGI: N/A | ESRB: E
                   On: Win
                   Genre: Simulator | Theme: Flight, Warfare
                   Developers: Digital Image Design
@@ -82,7 +82,7 @@
                   Composer: Robin Anderson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1417   World Series Baseball (1995)                                                                68    1 
-                  JPN | 20 h | Third person
+                  JPN | 20 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Saturn
                   Genre: Sport | Theme: Baseball
                   Developers: Sega
@@ -91,7 +91,7 @@
                   Composer: Katsuyoshi Nitta, Miki Obata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1407   MechWarrior 2: 31st Century Combat (1995)                                                   74    1 
-                  USA | 9 h | First person
+                  USA | 9 h | First person | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: Shooter, Simulator, Tactical | Theme: Action, Science Fiction
                   Developers: Activision
@@ -100,7 +100,7 @@
                   Composer: Gregory Alper, Jeehun Hwang
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    12. 1386   Super Mario World 2: Yoshi's Island (1995)                                                 362    1 
-                  JPN | 11 h | Side view
+                  JPN | 11 h | Side view | PEGI: N/A | ESRB: E
                   On: SNES, Switch
                   Genre: Platform | Theme: Action
                   Developers: Nintendo
@@ -109,8 +109,8 @@
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1376   Worms (1995)                                                                               364    1 
-                  GBR | 7 h | Side view, Third person
-                  On: Amiga, CD32, DOS, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
+                  GBR | 7 h | Side view, Third person | PEGI: 7 | ESRB: N/A
+                  On: Amiga, CD32, DOS, Evercade, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
                   Genre: Strategy | Theme: Action, Comedy, Warfare
                   Developers: Team17
                   Publishers: GT Interactive, Ocean Software, Sold Out Sales & Marketing, Team17, Tec Toy Indústria de Brinquedos, Telegames
@@ -118,7 +118,7 @@
                   Composer: Bjørn Lynne
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1372   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
-                  JPN | 49 h | Bird view / Isometric, First person
+                  JPN | 49 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
                   On: Android, DS, SNES, iOS
                   Genre: RPG | Theme: Fantasy, Historical
                   Developers: Heartbeat
@@ -127,7 +127,7 @@
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1347   Heroes of Might and Magic: A Strategic Quest (1995)                                        198    1 
-                  USA | 29 h | Bird view / Isometric, Side view
+                  USA | 29 h | Bird view / Isometric, Side view | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
                   Developers: New World Computing
@@ -136,7 +136,7 @@
                   Composer: Paul Romero
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    16. 1319   F/A-18 Hornet 2.0 (1995)                                                                   114    1 
-                  USA | 20 h | First person, Third person
+                  USA | 20 h | First person, Third person | PEGI: N/A | ESRB: N/A
                   On: Mac
                   Genre: Simulator | Theme: Flight, Warfare
                   Developers: Graphic Simulations
@@ -145,7 +145,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    17. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
-                  GBR | 7 h | Side view
+                  GBR | 7 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
                   Developers: Rare
@@ -154,7 +154,7 @@
                   Composer: David Wise
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1276   NBA Live '96 (1995)                                                                        129    1 
-                  CAN | 20 h | Bird view / Isometric
+                  CAN | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: GB, Mega Drive, PSX, SNES, Win
                   Genre: Sport | Theme: Basketball, Non-fiction
                   Developers: Electronic Arts, Hitmen Productions, Tiertex
@@ -163,7 +163,7 @@
                   Composer: Steve Royea, Traz Damji
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1229   Return Fire (1995)                                                                         253    1 
-                  USA | 50 h | Bird view / Isometric
+                  USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: 3DO, PSX, Win
                   Genre: Arcade | Theme: Action
                   Developers: Silent Software
@@ -172,8 +172,8 @@
                   Composer: Alexis C. Kasperavičius
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1183   Suikoden (1995)                                                                            323    1 
-                  JPN | 25 h | Bird view / Isometric
-                  On: PSX, Saturn, Win
+                  JPN | 25 h | Bird view / Isometric | PEGI: 7 | ESRB: E
+                  On: PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: RPG | Theme: Fantasy
                   Developers: Konami
                   Publishers: Konami
@@ -181,7 +181,7 @@
                   Composer: Hirofumi Taniguchi, Hiroshi Tamawari, Mayuko Kageshita, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1161   Jumping Flash! (1995)                                                                      155    1 
-                  JPN | 3 h | First person
+                  JPN | 3 h | First person | PEGI: N/A | ESRB: E
                   On: PS3, PSP, PSX, Vita
                   Genre: Adventure, Platform, Shooter | Theme: Action
                   Developers: Exact, Ultra
@@ -190,7 +190,7 @@
                   Composer: Takeo Miratsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    22. 1020   Time Crisis (1995)                                                                         266    1 
-                  JPN | 2 h | First person
+                  JPN | 2 h | First person | PEGI: N/A | ESRB: T
                   On: Arcade, PSX
                   Genre: Arcade, Shooter | Theme: Action
                   Developers: Namco

@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2325   Doom (1993)                                                                                 19    6 
-                  USA | 7 h | First person
+    1. 2331   Doom (1993)                                                                                 19    6 
+                  USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
                   Developers: id Software
@@ -9,8 +9,8 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2304   Final Fantasy VII (1997)                                                                   191    7 
-                  JPN | 51 h | Bird view / Isometric, Third person
+    2. 2311   Final Fantasy VII (1997)                                                                   191    7 
+                  JPN | 51 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: T
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
                   Developers: Square
@@ -18,8 +18,8 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1907   Pac-Man (1980)                                                                             251    3 
-                  JPN | 2 h | Side view
+    3. 1952   Pac-Man (1980)                                                                             251    3 
+                  JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
                   Developers: Namco
@@ -27,17 +27,17 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 
-       1907   Grand Theft Auto III (2001)                                                                387    2
-                  GBR | 22 h | Bird view / Isometric, Third person
-                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+       1952   Grand Theft Auto III (2001)                                                                387    2
+                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
                   Developers: DMA Design
                   Publishers: Rockstar, Take-Two
                   Designer: Leslie Benzies
                   Composer: Craig Conner, Stuart Ross
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1751   Grand Theft Auto: Vice City (2002)                                                         339    3 
-                  GBR | 28 h | Third person
+    5. 1823   Grand Theft Auto: Vice City (2002)                                                         339    3 
+                  GBR | 28 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
                   Developers: Rockstar
@@ -45,8 +45,8 @@
                   Designer: Leslie Benzies
                   Composer: Lex Horton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1745   Grand Theft Auto: San Andreas (2004)                                                       399    2 
-                  GBR | 47 h | First person, Third person
+    6. 1818   Grand Theft Auto: San Andreas (2004)                                                       399    2 
+                  GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
                   Developers: Rockstar
@@ -54,26 +54,8 @@
                   Designer: Leslie Benzies
                   Composer: Michael Hunter
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1699   Duke Nukem 3D (1996)                                                                        51    2 
-                  USA | 12 h | First person
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1671   Dragon Quest (1986)                                                                         87    2 
-                  JPN | 11 h | Bird view / Isometric, First person
-                  On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
-                  Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
-                  Developers: Armor Project, Chunsoft, UIEvolution
-                  Publishers: Enix, Nintendo, Square
-                  Designer: Koichi Nakamura, Yuji Horii
-                  Composer: Koichi Sugiyama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1627   Double Dragon (1987)                                                                       318    3 
-                  JPN | 2 h | Side view, Third person
+    7. 1718   Double Dragon (1987)                                                                       318    3 
+                  JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
                   Developers: Arc System Works, Technos
@@ -81,8 +63,26 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1699   Duke Nukem 3D (1996)                                                                        51    2 
+                  USA | 12 h | First person | PEGI: 16 | ESRB: M
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1671   Dragon Quest (1986)                                                                         87    2 
+                  JPN | 11 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: E
+                  On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
+                  Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
+                  Developers: Armor Project, Chunsoft, UIEvolution
+                  Publishers: Enix, Nintendo, Square
+                  Designer: Koichi Nakamura, Yuji Horii
+                  Composer: Koichi Sugiyama
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1498   Tecmo Bowl (1987)                                                                          297    1 
-                  JPN | 5 h | Bird view / Isometric
+                  JPN | 5 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
                   Genre: Sport | Theme: Action, American Football
                   Developers: Koei, Tecmo
@@ -91,7 +91,7 @@
                   Composer: Keiji Yamagishi, Mikio Saitou
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1372   Dragon Quest III: The Seeds of Salvation (1988)                                             89    1 
-                  JPN | 33 h | Bird view / Isometric, First person
+                  JPN | 33 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: T
                   On: 3DS, Android, GBC, Mobile, NES, PS4, SNES, Switch, iOS
                   Genre: RPG | Theme: Fantasy, Historical, Sandbox
                   Developers: Chunsoft, Heartbeat, Tose
@@ -100,7 +100,7 @@
                   Composer: Koichi Sugiyama
 
        1372   Dragon Quest II: Luminaries of the Legendary Line (1987)                                    88    1
-                  JPN | 18 h | Bird view / Isometric, First person
+                  JPN | 18 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: E
                   On: 3DS, Android, MSX, MSX2, Mobile, NES, PS4, Switch, iOS
                   Genre: RPG | Theme: Fantasy
                   Developers: Chunsoft
@@ -109,7 +109,7 @@
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1347   Ikari Warriors (1986)                                                                      103    1 
-                  JPN | 1 h | Bird view / Isometric
+                  JPN | 1 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Warfare
                   Developers: SNK
@@ -118,7 +118,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1341   Shenmue II (2001)                                                                          369    1 
-                  JPN | 29 h | Third person
+                  JPN | 29 h | Third person | PEGI: N/A | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox, Xbox One
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
                   Developers: Rutubo Games, Sega
@@ -127,7 +127,7 @@
                   Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1020   Shenmue (1999)                                                                             395    1 
-                  JPN | 22 h | Third person
+                  JPN | 22 h | Third person | PEGI: 16 | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox One
                   Genre: Adventure, Hack and Slash, RPG, Simulator | Theme: Fantasy, Historical, Sandbox
                   Developers: Sega

@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2020   Call of Duty 4: Modern Warfare (2007)                                                      394    3 
-                  USA | 10 h | First person
+    1. 2049   Call of Duty 4: Modern Warfare (2007)                                                      394    3 
+                  USA | 10 h | First person | PEGI: 16 | ESRB: M
                   On: Mac, PS3, Win, Xbox 360
                   Genre: Shooter, Simulator | Theme: Action, Warfare
                   Developers: Infinity Ward, Treyarch, n-Space
@@ -9,8 +9,8 @@
                   Designer: Jason West, Mackey McCandlish, Steve Fukuda, Todd Alderman, Zied Rieke
                   Composer: Stephen Barton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1772   BioShock (2007)                                                                            414    2 
-                  AUS, USA | 16 h | First person
+    2. 1840   BioShock (2007)                                                                            414    2 
+                  AUS, USA | 16 h | First person | PEGI: 18 | ESRB: M
                   On: Mac, PS3, Win, Xbox 360, iOS
                   Genre: RPG, Shooter | Theme: Action, Historical, Horror, Science Fiction
                   Developers: 2K Games
@@ -18,8 +18,8 @@
                   Designer: Ken Levine, Paul Hellquist
                   Composer: Garry Schyman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1682   Super Mario Galaxy (2007)                                                                  411    2 
-                  JPN | 23 h | Third person
+    3. 1766   Super Mario Galaxy (2007)                                                                  411    2 
+                  JPN | 23 h | Third person | PEGI: 3 | ESRB: E
                   On: Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
                   Developers: Nintendo
@@ -27,8 +27,8 @@
                   Designer: Shigeru Miyamoto, Yoshiaki Koizumi
                   Composer: Koji Kondo, Mahito Yokota
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1580   Mass Effect (2007)                                                                         392    2 
-                  CAN | 29 h | Third person
+    4. 1676   Mass Effect (2007)                                                                         392    2 
+                  CAN | 29 h | Third person | PEGI: 18 | ESRB: M
                   On: PS3, Win, Xbox 360
                   Genre: RPG, Shooter | Theme: Action, Science Fiction
                   Developers: BioWare
@@ -36,8 +36,8 @@
                   Designer: Casey Hudson, Preston Watamaniuk
                   Composer: David Kates, Jack Wall, Richard Jacques, Sam Hulick
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1517   Portal (2007)                                                                              405    2 
-                  USA | 5 h | First person
+    5. 1612   Portal (2007)                                                                              405    2 
+                  USA | 5 h | First person | PEGI: 12 | ESRB: T
                   On: Android, Linux, Mac, PS3, Win, Xbox 360
                   Genre: Platform, Puzzle, Shooter | Theme: Action, Comedy, Science Fiction
                   Developers: Valve
@@ -45,8 +45,17 @@
                   Designer: Kim Swift
                   Composer: Kelly Bailey, Mike Morasky
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1433   God of War II (2007)                                                                       437    1 
-                  USA | 13 h | Third person
+    6. 1546   Team Fortress 2 (2007)                                                                     404    2 
+                  USA | 180 h | First person | PEGI: 16 | ESRB: M
+                  On: Linux, Mac, PS3, Win, Xbox 360
+                  Genre: Shooter | Theme: Action, Comedy
+                  Developers: Valve
+                  Publishers: Electronic Arts, Valve
+                  Designer: John Cook, Robin Walke
+                  Composer: Mike Morasky
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1505   God of War II (2007)                                                                       437    1 
+                  USA | 13 h | Third person | PEGI: 18 | ESRB: M
                   On: PS2
                   Genre: Adventure, Hack and Slash, Platform | Theme: Action, Fantasy, Historical
                   Developers: Sony
@@ -54,17 +63,8 @@
                   Designer: Cory Barlog
                   Composer: Cris Velasco, Gerard Marino, Mike Reagan, Ron Fish
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1379   Team Fortress 2 (2007)                                                                     404    1 
-                  USA | 180 h | First person
-                  On: Linux, Mac, PS3, Win, Xbox 360
-                  Genre: Shooter | Theme: Action, Comedy
-                  Developers: Valve
-                  Publishers: Electronic Arts, Valve
-                  Designer: John Cook, Robin Walke
-                  Composer: Mike Morasky
-
-       1379   Half-Life 2: Episode Two (2007)                                                            403    1
-                  USA | 6 h | First person
+    8. 1379   Half-Life 2: Episode Two (2007)                                                            403    1 
+                  USA | 6 h | First person | PEGI: 16 | ESRB: M
                   On: Linux, Mac, PS3, Win, Xbox 360
                   Genre: Puzzle, Shooter | Theme: Action, Science Fiction
                   Developers: Valve
@@ -73,7 +73,7 @@
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1268   Project Gotham Racing 4 (2007)                                                             410    1 
-                  GBR | 22 h | First person, Third person
+                  GBR | 22 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: Xbox 360
                   Genre: Racing | Theme: Non-fiction
                   Developers: Bizarre Creations

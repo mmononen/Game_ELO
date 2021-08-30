@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1956   EverQuest (1999)                                                                           272    3 
-                  USA | 100 h | Third person
+    1. 1993   EverQuest (1999)                                                                           272    3 
+                  USA | 100 h | Third person | PEGI: N/A | ESRB: T
                   On: Mac, Win
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Sandbox
                   Developers: 989 Studios, Sony, Verant Interactive
@@ -9,8 +9,8 @@
                   Designer: Brad McQuaid, Steve Clover, William Trost
                   Composer: Jay Barbeau
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1592   System Shock 2 (1999)                                                                      270    1 
-                  USA | 18 h | First person
+    2. 1720   System Shock 2 (1999)                                                                      270    2 
+                  USA | 18 h | First person | PEGI: N/A | ESRB: M
                   On: Mac, Win
                   Genre: RPG, Shooter | Theme: Action, Horror, Science Fiction, Survival
                   Developers: Irrational Games, Looking Glass
@@ -19,7 +19,7 @@
                   Composer: Eric Brosius, Josh Randall, Ramin Djawadi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 1547   Age of Empires II: The Age of Kings (1999)                                                 273    1 
-                  USA | 114 h | Bird view / Isometric
+                  USA | 114 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: Mac, PS2, Win
                   Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
                   Developers: Ensemble Studios
@@ -28,7 +28,7 @@
                   Composer: Stephen Rippy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 1509   Tony Hawk's Pro Skater (1999)                                                              296    1 
-                  USA | 9 h | Third person
+                  USA | 9 h | Third person | PEGI: N/A | ESRB: T
                   On: Dreamcast, GBC, N-Gage, N64, PSX
                   Genre: Sport | Theme: Action, Skateboarding
                   Developers: Neversoft
@@ -37,7 +37,7 @@
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 1495   ISS Pro Evolution (1999)                                                                   223    1 
-                  JPN | 53 h | Bird view / Isometric, Side view
+                  JPN | 53 h | Bird view / Isometric, Side view | PEGI: N/A | ESRB: E
                   On: PSX
                   Genre: Sport | Theme: Football
                   Developers: Konami
@@ -46,7 +46,7 @@
                   Composer: Shinji Enomoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1457   Hidden & Dangerous (1999)                                                                  230    1 
-                  CZE | 18 h | First person, Third person
+                  CZE | 18 h | First person, Third person | PEGI: N/A | ESRB: N/A
                   On: Dreamcast, PSX, Win
                   Genre: Adventure, Shooter, Strategy, Tactical | Theme: Action, Historical
                   Developers: Illusion Softworks, Tarantula Studios
@@ -54,8 +54,17 @@
                   Designer: Michal Bačík, Radek Bouzek
                   Composer: Jim Rose
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1415   Virtua Tennis (1999)                                                                       303    1 
-                  JPN | 19 h | Third person
+    7. 1455   Heroes of Might and Magic III: The Restoration of Erathia (1999)                           446    1 
+                  USA | 88 h | Bird view / Isometric | PEGI: N/A | ESRB: E
+                  On: Linux, Mac, Win
+                  Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
+                  Developers: Loki Software, New World Computing
+                  Publishers: 3DO, Loki Software
+                  Designer: David Mullich, Gregory Fulton, Jon Van Caneghem
+                  Composer: Paul Romero, Rob King, Steve Baca
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1415   Virtua Tennis (1999)                                                                       303    1 
+                  JPN | 19 h | Third person | PEGI: 3 | ESRB: E
                   On: Arcade, Dreamcast, N-Gage, Win
                   Genre: Sport | Theme: Tennis
                   Developers: Sega
@@ -63,8 +72,17 @@
                   Designer: Akira Fujiki, Harumi Azuma, Kazuko Noguchi, Kenji Shimizu, Takahiro Kajimoto, Yasuhito Tanaka, Yuko Nishimura
                   Composer: Chiho Kobayashi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1387   Chrono Cross (1999)                                                                        307    1 
-                  JPN | 43 h | Third person
+    9. 1407   Sid Meier's Alpha Centauri (1999)                                                          451    1 
+                  USA | 39 h | Bird view / Isometric | PEGI: 7 | ESRB: E
+                  On: Linux, Mac, Win
+                  Genre: Simulator, Strategy, Turn-Based Strategy | Theme: 4X, Science Fiction
+                  Developers: Firaxis
+                  Publishers: Aspyr, Electronic Arts, Loki Software
+                  Designer: Bing Gordon, Brian Reynolds, Douglas Kaufman, Sid Meier, Timothy Train
+                  Composer: David Evans, Jeffery L. Briggs
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1387   Chrono Cross (1999)                                                                        307    1 
+                  JPN | 43 h | Third person | PEGI: N/A | ESRB: T
                   On: PS3, PSX
                   Genre: RPG | Theme: Fantasy
                   Developers: Square
@@ -72,8 +90,8 @@
                   Designer: Hiromichi Tanaka, Masato Kato
                   Composer: Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1352   Asheron's Call (1999)                                                                      277    1 
-                  USA | 100 h | Third person
+   11. 1352   Asheron's Call (1999)                                                                      277    1 
+                  USA | 100 h | Third person | PEGI: N/A | ESRB: T
                   On: Win
                   Genre: MMO, RPG | Theme: Fantasy
                   Developers: Turbine
@@ -81,8 +99,8 @@
                   Designer: Chris Pierson, Christopher J. Foster, Eri Izawa, Toby Ragaini
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1318   NFL Blitz 99 (1999)                                                                        202    1 
-                  USA | 20 h | Bird view / Isometric
+   12. 1318   NFL Blitz 99 (1999)                                                                        202    1 
+                  USA | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Arcade
                   Genre: Sport | Theme: American Football
                   Developers: Midway
@@ -90,8 +108,8 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1223   ChuChu Rocket! (1999)                                                                      254    1 
-                  JPN | 7 h | Bird view / Isometric
+   13. 1223   ChuChu Rocket! (1999)                                                                      254    1 
+                  JPN | 7 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Android, Dreamcast, GBA, Wii U, iOS
                   Genre: Puzzle, Strategy | Theme: Action, Science Fiction
                   Developers: Sonic Team
@@ -99,8 +117,8 @@
                   Designer: Takafumi Kaya, Yuji Naka
                   Composer: Tomoya Ohtani
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1086   Planescape: Torment (1999)                                                                 285    1 
-                  USA | 43 h | Bird view / Isometric
+   14. 1086   Planescape: Torment (1999)                                                                 285    1 
+                  USA | 43 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Drama, Fantasy
                   Developers: Black Isle
@@ -108,8 +126,8 @@
                   Designer: Chris Avellone
                   Composer: Mark Morgan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1057   Final Fantasy VIII (1999)                                                                  393    1 
-                  JPN | 56 h | Bird view / Isometric, Third person
+   15. 1057   Final Fantasy VIII (1999)                                                                  393    1 
+                  JPN | 56 h | Bird view / Isometric, Third person | PEGI: 16 | ESRB: T
                   On: PS3, PSX, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Open world, Science Fiction
                   Developers: Square
@@ -117,8 +135,8 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1020   Shenmue (1999)                                                                             395    1 
-                  JPN | 22 h | Third person
+   16. 1020   Shenmue (1999)                                                                             395    1 
+                  JPN | 22 h | Third person | PEGI: 16 | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox One
                   Genre: Adventure, Hack and Slash, RPG, Simulator | Theme: Fantasy, Historical, Sandbox
                   Developers: Sega
@@ -126,8 +144,8 @@
                   Designer: Eigo Kasahara, Keiji Okayasu, Toshihiro Nagoshi, Yu Suzuki
                   Composer: Takenobu Mitsuyoshi, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1000   Ape Escape (1999)                                                                          336    1 
-                  JPN | 11 h | Third person
+   17. 1000   Ape Escape (1999)                                                                          336    1 
+                  JPN | 11 h | Third person | PEGI: 3 | ESRB: E
                   On: PSP, PSX
                   Genre: Platform | Theme: Action
                   Developers: Sony

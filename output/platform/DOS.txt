@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2396   Tetris (1984)                                                                                2    8 
-                  URS | 6 h | Side view
+    1. 2400   Tetris (1984)                                                                                2    8 
+                  URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
                   Developers: Alexey Pajitnov, Spectrum HoloByte, Vadim Gerasimov
@@ -9,8 +9,8 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2325   Doom (1993)                                                                                 19    6 
-                  USA | 7 h | First person
+    2. 2331   Doom (1993)                                                                                 19    6 
+                  USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
                   Developers: id Software
@@ -18,8 +18,8 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2280   Street Fighter II (1991)                                                                     7    8 
-                  JPN | 9 h | Side view
+    3. 2288   Street Fighter II (1991)                                                                     7    8 
+                  JPN | 9 h | Side view | PEGI: 12 | ESRB: T
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Genre: Arcade, Fighting | Theme: Action, Science Fiction
                   Developers: Capcom
@@ -27,8 +27,8 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2187   Ms. Pac-Man (1982)                                                                          12    4 
-                  USA | 2 h | Bird view / Isometric
+    4. 2200   Ms. Pac-Man (1982)                                                                          12    4 
+                  USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
                   Developers: General Computer Corporation
@@ -36,8 +36,8 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2138   Sid Meier's Civilization (1991)                                                              4    6 
-                  USA | 50 h | Bird view / Isometric
+    5. 2155   Sid Meier's Civilization (1991)                                                              4    6 
+                  USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
                   Genre: Strategy, Turn-Based Strategy | Theme: 4X
                   Developers: Koei, MicroProse
@@ -45,8 +45,8 @@
                   Designer: Bruce Shelley, Sid Meier
                   Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2080   Tomb Raider (1996)                                                                         194    6 
-                  GBR | 18 h | Third person
+    6. 2102   Tomb Raider (1996)                                                                         194    6 
+                  GBR | 18 h | Third person | PEGI: 12 | ESRB: T
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
                   Developers: Core Design
@@ -54,8 +54,8 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2056   Contra (1987)                                                                              288    2 
-                  JPN | 2 h | Side view, Third person
+    7. 2081   Contra (1987)                                                                              288    2 
+                  JPN | 2 h | Side view, Third person | PEGI: 7 | ESRB: E10+
                   On: Amstrad CPC, Arcade, C64, DOS, MSX2, NES
                   Genre: Arcade, Platform, Shooter | Theme: Action, Science Fiction, Warfare
                   Developers: Konami
@@ -63,17 +63,8 @@
                   Designer: Koji Hiroshita, Shigeharu Umezaki, Shinji Kitamoto
                   Composer: Hidenori Maezawa, Kazuki Muraoka, Kiyohiro Sada
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1954   Elite (1984)                                                                                14    3 
-                  GBR | 100 h | First person
-                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
-                  Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
-                  Developers: Acornsoft
-                  Publishers: Acornsoft, Firebird, Hybrid Technology, Imagineer, Merlin Software
-                  Designer: David Braben, Ian Bell
-                  Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1932   SimCity (1989)                                                                             279    4 
-                  USA | 25 h | Bird view / Isometric
+    8. 1973   SimCity (1989)                                                                             279    4 
+                  USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
                   Developers: Maxis
@@ -81,8 +72,17 @@
                   Designer: Jeff Braun, Robert Strobel, Will Wright
                   Composer: Steve Hales, Will Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1907   Pac-Man (1980)                                                                             251    3 
-                  JPN | 2 h | Side view
+    9. 1954   Elite (1984)                                                                                14    3 
+                  GBR | 100 h | First person | PEGI: N/A | ESRB: N/A
+                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
+                  Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
+                  Developers: Acornsoft
+                  Publishers: Acornsoft, Firebird, Hybrid Technology, Imagineer, Merlin Software
+                  Designer: David Braben, Ian Bell
+                  Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1952   Pac-Man (1980)                                                                             251    3 
+                  JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
                   Developers: Namco
@@ -90,8 +90,8 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1895   Warcraft II: Tides of Darkness (1995)                                                       10    4 
-                  USA | 26 h | Bird view / Isometric
+   11. 1942   Warcraft II: Tides of Darkness (1995)                                                       10    4 
+                  USA | 26 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Fantasy
                   Developers: Blizzard Entertainment
@@ -99,17 +99,8 @@
                   Designer: Ron Millar
                   Composer: Glenn Stafford
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1893   Ultima Underworld: The Stygian Abyss (1992)                                                 82    4 
-                  USA | 31 h | First person
-                  On: DOS
-                  Genre: RPG | Theme: Action, Fantasy
-                  Developers: Looking Glass
-                  Publishers: Origin
-                  Designer: Paul Neurath
-                  Composer: Dave Govett, George Sanger
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1889   Command & Conquer (1995)                                                                    69    4 
-                  USA | 23 h | Bird view / Isometric
+   12. 1937   Command & Conquer (1995)                                                                    69    4 
+                  USA | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction, Warfare
                   Developers: Westwood Studios
@@ -117,8 +108,8 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1850   Star Wars: X-Wing (1993)                                                                    23    3 
-                  USA | 24 h | First person
+   13. 1904   Star Wars: X-Wing (1993)                                                                    23    3 
+                  USA | 24 h | First person | PEGI: 7 | ESRB: N/A
                   On: DOS, Mac
                   Genre: Shooter, Simulator | Theme: Action, Science Fiction
                   Developers: Totally Games
@@ -126,26 +117,17 @@
                   Designer: Edard Kilham, Lawrence Holland
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
-                  USA | 30 h | Bird view / Isometric, First person
-                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Richard Garriott
-                  Composer: Kenneth W. Arnold
+   14. 1893   Ultima Underworld: The Stygian Abyss (1992)                                                 82    4 
+                  USA | 31 h | First person | PEGI: 12 | ESRB: E
+                  On: DOS
+                  Genre: RPG | Theme: Action, Fantasy
+                  Developers: Looking Glass
+                  Publishers: Origin
+                  Designer: Paul Neurath
+                  Composer: Dave Govett, George Sanger
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1818   Lemmings (1991)                                                                              8    3 
-                  GBR | 23 h | Side view
-                  On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
-                  Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
-                  Developers: DMA Design
-                  Publishers: Psygnosis, Sunsoft
-                  Designer: David Jones
-                  Composer: Brian Johnston, Tim Wright
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1808   Zork I: The Great Underground Empire (1980)                                                 54    5 
-                  USA | 4 h | Text
+   15. 1870   Zork I: The Great Underground Empire (1980)                                                 54    5 
+                  USA | 4 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom
@@ -153,8 +135,26 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1853   Lemmings (1991)                                                                              8    4 
+                  GBR | 23 h | Side view | PEGI: 3 | ESRB: E
+                  On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
+                  Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
+                  Developers: DMA Design
+                  Publishers: Psygnosis, Sunsoft
+                  Designer: David Jones
+                  Composer: Brian Johnston, Tim Wright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
+                  USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Richard Garriott
+                  Composer: Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1799   Sensible Soccer: European Champions (1992)                                                 242    2 
-                  GBR | 49 h | Bird view / Isometric
+                  GBR | 49 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Genre: Sport | Theme: Action, Football
                   Developers: Sensible Software
@@ -163,7 +163,7 @@
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1792   Bubble Bobble (1986)                                                                       237    2 
-                  JPN | 3 h | Side view
+                  JPN | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform, Puzzle, Strategy | Theme: Action, Fantasy, Kids
                   Developers: Taito
@@ -172,7 +172,7 @@
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1787   Quake (1996)                                                                                 9    2 
-                  USA | 7 h | First person
+                  USA | 7 h | First person | PEGI: N/A | ESRB: M
                   On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
                   Genre: Shooter | Theme: Action, Comedy, Historical, Horror, Science Fiction
                   Developers: id Software
@@ -180,62 +180,17 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1752   Doom II: Hell on Earth (1994)                                                              120    3 
-                  USA | 10 h | First person
-                  On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
-                  Genre: Shooter | Theme: Action, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: Activision, Bethesda, GT Interactive, Imagineer, Tapwave, Virgin, id Software
-                  Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
-                  Composer: Robert Prince
+   21. 1778   Donkey Kong (1981)                                                                          70    4 
+                  JPN | 1 h | Side view | PEGI: 3 | ESRB: E
+                  On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
+                  Genre: Arcade, Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Atari, Coleco, Nintendo, Ocean Software
+                  Designer: Gunpei Yokoi, Shigeru Miyamoto
+                  Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1751   Robotron: 2084 (1982)                                                                      107    4 
-                  USA | 10 h | Bird view / Isometric
-                  On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
-                  Genre: Shooter | Theme: Action, Science Fiction
-                  Developers: Vid Kidz
-                  Publishers: Atari, Digital Eclipse, Shadowsoft, Williams
-                  Designer: Eugene Jarvis, Larry DeMar
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1742   OutRun (1986)                                                                               65    3 
-                  JPN | 2 h | Third person
-                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
-                  Genre: Arcade, Racing | Theme: Action, Non-fiction
-                  Developers: Sega
-                  Publishers: Mindscape, NEC Avenue, Sega, U.S. Gold
-                  Designer: Yu Suzuki
-                  Composer: Hiroshi Kawaguchi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1724   Grand Theft Auto (1997)                                                                    247    2 
-                  GBR | 13 h | Bird view / Isometric
-                  On: DOS, PSX, Win
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
-                  Developers: DMA Design, Tarantula Studios
-                  Publishers: ASC Games, BMG, Rockstar, Syscom Entertainment, Take-Two
-                  Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
-                  Composer: Colin Anderson, Craig Conner, Grant Middleton
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1714   Defender (1981)                                                                             13    3 
-                  USA | 2 h | Side view
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
-                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
-                  Developers: Williams
-                  Publishers: Atari, Sears, Shockwave, Williams
-                  Designer: Eugene Jarvis, Larry DeMar
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1699   Duke Nukem 3D (1996)                                                                        51    2 
-                  USA | 12 h | First person
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1695   Arkanoid (1986)                                                                            308    2 
-                  JPN | 2 h | Side view
+   22. 1777   Arkanoid (1986)                                                                            308    2 
+                  JPN | 2 h | Side view | PEGI: N/A | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
                   Developers: Taito
@@ -243,8 +198,80 @@
                   Designer: Akira Fujita, Hiroshi Tsujino
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1691   The Secret of Monkey Island (1990)                                                         235    2 
-                  USA | 7 h | Side view
+   23. 1752   Doom II: Hell on Earth (1994)                                                              120    3 
+                  USA | 10 h | First person | PEGI: 16 | ESRB: M
+                  On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
+                  Genre: Shooter | Theme: Action, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: Activision, Bethesda, GT Interactive, Imagineer, Tapwave, Virgin, id Software
+                  Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
+                  Composer: Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1751   Robotron: 2084 (1982)                                                                      107    4 
+                  USA | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: E
+                  On: Acorn Electron, Apple II, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, BBC, C64, DOS, Lynx, Mac, VIC-20
+                  Genre: Shooter | Theme: Action, Science Fiction
+                  Developers: Vid Kidz
+                  Publishers: Atari, Digital Eclipse, Shadowsoft, Williams
+                  Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1742   OutRun (1986)                                                                               65    3 
+                  JPN | 2 h | Third person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
+                  Genre: Arcade, Racing | Theme: Action, Non-fiction
+                  Developers: Sega
+                  Publishers: Mindscape, NEC Avenue, Sega, U.S. Gold
+                  Designer: Yu Suzuki
+                  Composer: Hiroshi Kawaguchi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   26. 1730   Mortal Kombat (1992)                                                                       360    2 
+                  USA | 6 h | Side view | PEGI: 18 | ESRB: M
+                  On: Amiga, Arcade, DOS, GB, Game Gear, Mega Drive, SNES, Saturn, Sega CD
+                  Genre: Fighting | Theme: Action
+                  Developers: Midway, Probe, Sculptured Software
+                  Publishers: Acclaim, Arena Entertainment, Midway, Virgin
+                  Designer: Ed Boon, John Tobias
+                  Composer: Dan Forden
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   27. 1724   Grand Theft Auto (1997)                                                                    247    2 
+                  GBR | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: M
+                  On: DOS, PSX, Win
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
+                  Developers: DMA Design, Tarantula Studios
+                  Publishers: ASC Games, BMG, Rockstar, Syscom Entertainment, Take-Two
+                  Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
+                  Composer: Colin Anderson, Craig Conner, Grant Middleton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   28. 1718   Double Dragon (1987)                                                                       318    3 
+                  JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
+                  Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
+                  Developers: Arc System Works, Technos
+                  Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
+                  Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
+                  Composer: Kazunaka Yamane
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   29. 1714   Defender (1981)                                                                             13    3 
+                  USA | 2 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
+                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
+                  Developers: Williams
+                  Publishers: Atari, Sears, Shockwave, Williams
+                  Designer: Eugene Jarvis, Larry DeMar
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   30. 1699   Duke Nukem 3D (1996)                                                                        51    2 
+                  USA | 12 h | First person | PEGI: 16 | ESRB: M
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   31. 1691   The Secret of Monkey Island (1990)                                                         235    2 
+                  USA | 7 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Amiga, Atari ST, DOS, FM Towns, Mac, Sega CD
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Pirates
                   Developers: LucasArts
@@ -252,8 +279,8 @@
                   Designer: Dave Grossman, Ron Gilbert, Tim Schafer
                   Composer: Michael Z. Land, Patrick Mundy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1687   X-COM: UFO Defense (1994)                                                                   26    3 
-                  GBR, USA | 42 h | Bird view / Isometric
+   32. 1687   X-COM: UFO Defense (1994)                                                                   26    3 
+                  GBR, USA | 42 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Amiga, DOS, PSX, Win
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Horror, Science Fiction, Warfare
                   Developers: MicroProse, Mythos Games
@@ -262,7 +289,7 @@
                   Composer: John Broomhall
 
        1687   Ultima III: Exodus (1983)                                                                   78    3
-                  USA | 27 h | Bird view / Isometric, First person
+                  USA | 27 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX, Mac, NES, PC-8801, PC-98, Sharp X1
                   Genre: RPG | Theme: Fantasy
                   Developers: Origin
@@ -270,8 +297,8 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1679   Ultima V: Warriors of Destiny (1988)                                                        80    3 
-                  USA | 49 h | Bird view / Isometric, First person
+   34. 1679   Ultima V: Warriors of Destiny (1988)                                                        80    3 
+                  USA | 49 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari ST, C64, DOS, FM Towns, NES, Sharp X68000
                   Genre: Adventure, RPG | Theme: Fantasy
                   Developers: Origin
@@ -279,8 +306,17 @@
                   Designer: Richard Garriott
                   Composer: David R. Watson, Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1675   SimCity 2000 (1993)                                                                         48    2 
-                  USA | 25 h | Bird view / Isometric
+   35. 1677   Warlords (1990)                                                                            292    2 
+                  AUS | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Amiga, DOS, Mac
+                  Genre: Strategy, Turn-Based Strategy | Theme: Fantasy, Warfare
+                  Developers: Strategic Studies Group
+                  Publishers: Strategic Studies Group
+                  Designer: Roger Keating, Steve Fawkner
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   36. 1675   SimCity 2000 (1993)                                                                         48    2 
+                  USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
                   Developers: Maxis
@@ -288,8 +324,8 @@
                   Designer: Fred Haslam, Will Wright
                   Composer: Brian Conrad, Justin McCormick, Sue Kasper
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1674   Grand Prix II (1996)                                                                        66    2 
-                  USA | 15 h | First person, Third person
+   37. 1674   Grand Prix II (1996)                                                                        66    2 
+                  USA | 15 h | First person, Third person | PEGI: N/A | ESRB: N/A
                   On: DOS
                   Genre: Racing, Simulator, Sport | Theme: Non-fiction
                   Developers: MicroProse
@@ -297,8 +333,8 @@
                   Designer: Geoff Crammond
                   Composer: Andrew Parton, John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1670   Tempest 2000 (1994)                                                                        221    2 
-                  GBR | 12 h | Third person
+   38. 1670   Tempest 2000 (1994)                                                                        221    2 
+                  GBR | 12 h | Third person | PEGI: N/A | ESRB: E
                   On: DOS, Jaguar, Mac, Saturn, Win
                   Genre: Arcade, Shooter | Theme: Action
                   Developers: llamasoft
@@ -306,17 +342,8 @@
                   Designer: Dave Theurer
                   Composer: Alastair Lindsay, Ian Howe, Kevin Saville
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1667   Donkey Kong (1981)                                                                          70    3 
-                  JPN | 1 h | Side view
-                  On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
-                  Genre: Arcade, Platform | Theme: Action
-                  Developers: Nintendo
-                  Publishers: Atari, Coleco, Nintendo, Ocean Software
-                  Designer: Gunpei Yokoi, Shigeru Miyamoto
-                  Composer: Yukio Kaneoka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1646   Star Wars (1983)                                                                            94    3 
-                  USA | 2 h | First person
+   39. 1646   Star Wars (1983)                                                                            94    3 
+                  USA | 2 h | First person | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
                   Developers: Atari
@@ -324,17 +351,8 @@
                   Designer: Mike Hally
                   Composer: Earl Vickers
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1640   Mortal Kombat (1992)                                                                       360    2 
-                  USA | 6 h | Side view
-                  On: Amiga, Arcade, DOS, GB, Game Gear, Mega Drive, SNES, Sega CD
-                  Genre: Fighting | Theme: Action
-                  Developers: Midway, Probe, Sculptured Software
-                  Publishers: Acclaim, Arena Entertainment, Midway, Virgin
-                  Designer: Ed Boon, John Tobias
-                  Composer: Dan Forden
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1636   Frontier: Elite II (1993)                                                                  341    1 
-                  GBR | 100 h | First person
+   40. 1636   Frontier: Elite II (1993)                                                                  341    1 
+                  GBR | 100 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Atari ST, CD32, DOS
                   Genre: Adventure, Simulator | Theme: Action, Science Fiction
                   Developers: Frontier Developments
@@ -342,8 +360,8 @@
                   Designer: David Braben
                   Composer: David Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   39. 1628   The Bard's Tale (1985)                                                                     104    2 
-                  USA | 28 h | First person
+   41. 1628   The Bard's Tale (1985)                                                                     104    2 
+                  USA | 28 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
                   Genre: Adventure, RPG | Theme: Fantasy
                   Developers: Interplay
@@ -351,17 +369,8 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1627   Double Dragon (1987)                                                                       318    3 
-                  JPN | 2 h | Side view, Third person
-                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
-                  Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
-                  Developers: Arc System Works, Technos
-                  Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
-                  Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
-                  Composer: Kazunaka Yamane
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
-                  GBR | 10 h | Bird view / Isometric
+   42. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+                  GBR | 10 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Genre: Sport, Strategy | Theme: Action, Science Fiction
                   Developers: The Bitmap Brothers
@@ -369,8 +378,8 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   42. 1614   Ultima VIII: Pagan (1994)                                                                   86    2 
-                  USA | 33 h | Third person
+   43. 1614   Ultima VIII: Pagan (1994)                                                                   86    2 
+                  USA | 33 h | Third person | PEGI: N/A | ESRB: M
                   On: DOS
                   Genre: RPG | Theme: Action, Fantasy
                   Developers: Origin
@@ -379,7 +388,7 @@
                   Composer: Nenad Vugrinec
 
        1614   Ultima VII: The Black Gate (1992)                                                           83    2
-                  USA | 60 h | Bird view / Isometric, Third person
+                  USA | 60 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: T
                   On: DOS
                   Genre: Adventure, RPG | Theme: Fantasy
                   Developers: Origin
@@ -388,7 +397,7 @@
                   Composer: Dana Karl Glover, Herman Miller, Kirk Winterrowd
 
        1614   Ultima VII: Part Two - Serpent Isle (1993)                                                  85    2
-                  USA | 59 h | Bird view / Isometric
+                  USA | 59 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS
                   Genre: RPG | Theme: Fantasy
                   Developers: Origin
@@ -397,7 +406,7 @@
                   Composer: Dana Karl Glover, Marc Schaefgen
 
        1614   Ultima VI: The False Prophet (1990)                                                         81    2
-                  USA | 40 h | Bird view / Isometric
+                  USA | 40 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
                   Genre: RPG | Theme: Fantasy
                   Developers: Origin
@@ -406,7 +415,7 @@
                   Composer: Herman Miller, Todd Poster
 
        1614   Ultima Underworld II: Labyrinth of Worlds (1993)                                            84    2
-                  USA | 26 h | First person
+                  USA | 26 h | First person | PEGI: 12 | ESRB: E
                   On: DOS
                   Genre: RPG | Theme: Action, Fantasy
                   Developers: Looking Glass
@@ -415,7 +424,7 @@
                   Composer: Dan Schmidt, Jon Blackley
 
        1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2
-                  USA | 12 h | Bird view / Isometric
+                  USA | 12 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Genre: RPG | Theme: Fantasy
                   Developers: Origin
@@ -424,7 +433,7 @@
                   Composer: Unknown
 
        1614   Ultima I: The First Age of Darkness (1981)                                                  75    2
-                  USA | 8 h | Bird view / Isometric, First person
+                  USA | 8 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
                   Genre: RPG | Theme: Action, Fantasy, Open world
                   Developers: Origin
@@ -432,17 +441,8 @@
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   49. 1611   Warlords (1990)                                                                            292    1 
-                  AUS | 10 h | Bird view / Isometric
-                  On: Amiga, DOS, Mac
-                  Genre: Strategy, Turn-Based Strategy | Theme: Fantasy, Warfare
-                  Developers: Strategic Studies Group
-                  Publishers: Strategic Studies Group
-                  Designer: Roger Keating, Steve Fawkner
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    50. 1604   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
-                  USA | 41 h | First person
+                  USA | 41 h | First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Genre: RPG | Theme: Fantasy
                   Developers: Sir-Tech
@@ -451,7 +451,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    51. 1588   The Lurking Horror (1987)                                                                   24    2 
-                  USA | 9 h | Text
+                  USA | 9 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari ST, C64, DOS, Mac
                   Genre: Adventure | Theme: Horror
                   Developers: Infocom
@@ -460,7 +460,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    52. 1581   Wizball (1987)                                                                             342    1 
-                  GBR | 4 h | Side view
+                  GBR | 4 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
                   Genre: Arcade, Platform, Shooter | Theme: Action
                   Developers: Sensible Software
@@ -469,7 +469,7 @@
                   Composer: Martin Galway
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    53. 1562   Marble Madness (1984)                                                                       15    2 
-                  USA | 2 h | Bird view / Isometric
+                  USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
                   Developers: Atari
@@ -478,7 +478,7 @@
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    54. 1550   Populous II: Trials of the Olympian Gods (1991)                                             34    2 
-                  GBR | 12 h | Bird view / Isometric
+                  GBR | 12 h | Bird view / Isometric | PEGI: 7 | ESRB: N/A
                   On: Amiga, DOS, Mega Drive, SNES
                   Genre: Real Time Strategy, Simulator, Strategy | Theme: Fantasy, Historical
                   Developers: Bullfrog
@@ -487,7 +487,7 @@
                   Composer: Charles Callet
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    55. 1546   Populous (1989)                                                                             16    2 
-                  GBR | 36 h | Bird view / Isometric, Third person
+                  GBR | 36 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: N/A
                   On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
                   Genre: Real Time Strategy, Simulator, Strategy | Theme: Business, Fantasy
                   Developers: Bullfrog
@@ -496,7 +496,7 @@
                   Composer: David Hanlon, Rob Hubbard
 
        1546   Chuckie Egg (1983)                                                                         343    1
-                  GBR | 11 h | Side view
+                  GBR | 11 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amiga, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C64, DOS, Dragon, MSX, Tatung Einstein, ZX Spectrum
                   Genre: Platform | Theme: Action, Kids
                   Developers: A&F Software
@@ -505,7 +505,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    57. 1545   X-COM: Terror from the Deep (1995)                                                         218    1 
-                  USA | 55 h | Bird view / Isometric
+                  USA | 55 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: DOS, PSX, Win
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Action, Horror, Science Fiction, Warfare
                   Developers: MicroProse
@@ -514,7 +514,7 @@
                   Composer: Allister Brimble, John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    58. 1523   The Sentinel (1986)                                                                         73    2 
-                  GBR | 79 h | First person
+                  GBR | 79 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, ZX Spectrum
                   Genre: Puzzle, Strategy, Tactical | Theme: Science Fiction
                   Developers: Geoff Crammond
@@ -523,7 +523,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    59. 1521   Boulder Dash (1984)                                                                        345    1 
-                  USA | 10 h | Side view
+                  USA | 10 h | Side view | PEGI: 7 | ESRB: E
                   On: Acorn Electron, Amstrad CPC, Android, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, FM-7, GB, MSX, NES, PC-8801, Wii, Win, ZX Spectrum, iOS
                   Genre: Arcade, Platform, Puzzle | Theme: Action
                   Developers: First Star Software, TapStar Interactive
@@ -532,7 +532,7 @@
                   Composer: Ian Waugh, Peter Liepa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    60. 1510   Sam & Max Hit the Road (1993)                                                               27    2 
-                  USA | 6 h | Side view
+                  USA | 6 h | Side view | PEGI: N/A | ESRB: N/A
                   On: DOS, Linux, Mac, Win
                   Genre: Adventure, Point-and-click | Theme: Comedy, Science Fiction
                   Developers: LucasArts
@@ -541,7 +541,7 @@
                   Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    61. 1504   Dungeon Master (1987)                                                                      346    1 
-                  USA | 18 h | First person
+                  USA | 18 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple IIGS, Atari ST, DOS, FM Towns, SNES, Sharp X68000
                   Genre: RPG | Theme: Action, Fantasy
                   Developers: FTL Games
@@ -550,7 +550,7 @@
                   Composer: Wayne Holder
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    62. 1484   Micro Machines (1991)                                                                       18    1 
-                  GBR | 8 h | Bird view / Isometric
+                  GBR | 8 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, DOS, GB, Game Gear, Mega Drive, NES, Philips CD-i, SMS, SNES
                   Genre: Racing | Theme: Action
                   Developers: Codemasters, Mindscape
@@ -559,8 +559,8 @@
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    63. 1474   Ghosts 'n Goblins (1985)                                                                   347    1 
-                  JPN | 4 h | Side view
-                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C16, C64, DOS, GBC, NES, Switch, ZX Spectrum
+                  JPN | 4 h | Side view | PEGI: 7 | ESRB: E
+                  On: 3DS, Amiga, Amstrad CPC, Android, Arcade, Atari ST, C16, C64, DOS, FM-7, GBA, GBC, NES, PC-8801, PS3, Plus4, Switch, Wii, Wii U, Xbox 360, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
                   Developers: Capcom
                   Publishers: Capcom, Elite Systems
@@ -568,7 +568,7 @@
                   Composer: Ayako Mori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    64. 1471   Syndicate (1993)                                                                            29    2 
-                  GBR | 13 h | Bird view / Isometric
+                  GBR | 13 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
                   Genre: Strategy, Tactical | Theme: Action, Science Fiction
                   Developers: Bullfrog
@@ -577,7 +577,7 @@
                   Composer: Russell Shaw
 
        1471   Bust-A-Move 2: Arcade Edition (1996)                                                       228    1
-                  JPN | 1 h | Side view
+                  JPN | 1 h | Side view | PEGI: N/A | ESRB: E
                   On: DOS, GB, Mac, N64, PSX, Saturn, Win
                   Genre: Puzzle | Theme: Kids, Party
                   Developers: Taito
@@ -586,7 +586,7 @@
                   Composer: Kazuko Umino, Norihiro Furukawa, Shuichiro Nakazawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    66. 1468   Star Wars: TIE Fighter (1994)                                                               39    1 
-                  USA | 23 h | First person
+                  USA | 23 h | First person | PEGI: 7 | ESRB: N/A
                   On: DOS, Mac
                   Genre: Shooter, Simulator | Theme: Action, Science Fiction
                   Developers: Totally Games
@@ -595,7 +595,7 @@
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    67. 1445   Nobunaga's Ambition II (1988)                                                               50    1 
-                  JPN | 40 h | Bird view / Isometric
+                  JPN | 40 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
                   Genre: Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Warfare
                   Developers: Koei
@@ -604,7 +604,7 @@
                   Composer: Unknown
 
        1445   Nobunaga's Ambition (1986)                                                                  49    1
-                  JPN | 40 h | Bird view / Isometric
+                  JPN | 40 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
                   Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
                   Developers: Koei
@@ -613,7 +613,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    69. 1436   Zork Zero: The Revenge of Megaboz (1988)                                                    58    2 
-                  USA | 5 h | Text
+                  USA | 5 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, DOS, Mac
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom
@@ -622,7 +622,7 @@
                   Composer: Unknown
 
        1436   Zork III: The Dungeon Master (1982)                                                         56    2
-                  USA | 3 h | Text
+                  USA | 3 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom
@@ -631,7 +631,7 @@
                   Composer: Unknown
 
        1436   Zork II: The Wizard of Frobozz (1981)                                                       55    2
-                  USA | 3 h | Text
+                  USA | 3 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
                   Developers: Infocom
@@ -640,7 +640,7 @@
                   Composer: Unknown
 
        1436   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2
-                  USA | 14 h | Text
+                  USA | 14 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac
                   Genre: Adventure, RPG | Theme: Fantasy
                   Developers: Infocom
@@ -649,7 +649,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    73. 1428   Galaxian (1979)                                                                            354    1 
-                  JPN | 1 h | Bird view / Isometric
+                  JPN | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
                   Developers: Namco
@@ -658,7 +658,7 @@
                   Composer: Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    74. 1427   Castlevania (1986)                                                                         302    1 
-                  JPN | 6 h | Side view
+                  JPN | 6 h | Side view | PEGI: 7 | ESRB: E10+
                   On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
                   Genre: Adventure, Platform | Theme: Action, Horror
                   Developers: Konami
@@ -667,7 +667,7 @@
                   Composer: Kinuyo Yamashita, Satoe Terashima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    75. 1423   Spectre VR (1993)                                                                           64    1 
-                  USA | 10 h | First person
+                  USA | 10 h | First person | PEGI: N/A | ESRB: N/A
                   On: DOS, Mac, Win
                   Genre: Racing | Theme: Action
                   Developers: Green Dragon Creations, Velocity
@@ -676,7 +676,7 @@
                   Composer: Kyle Johnson, Morey Goldstein, Moses Ma
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    76. 1412   The Lords of Midnight (1984)                                                               358    1 
-                  GBR | 4 h | First person
+                  GBR | 4 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amstrad CPC, Android, BlackBerry, C64, DOS, Win, ZX Spectrum, iOS
                   Genre: RPG, Turn-Based Strategy | Theme: Fantasy
                   Developers: Maelstrom Games
@@ -685,7 +685,7 @@
                   Composer: Unknown
 
        1412   Panzer General (1994)                                                                       71    1
-                  USA | 50 h | Bird view / Isometric
+                  USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: 3DO, DOS
                   Genre: Strategy, Turn-Based Strategy | Theme: Historical, Warfare
                   Developers: Strategic Simulations
@@ -694,7 +694,7 @@
                   Composer: Doug Brandon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    78. 1410   Spaceward Ho! (1990)                                                                        72    1 
-                  USA | 10 h | Bird view / Isometric
+                  USA | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, DOS, Mac, Win
                   Genre: Simulator, Strategy, Tactical | Theme: 4X, Business
                   Developers: Delta Tao Software
@@ -703,7 +703,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    79. 1407   MechWarrior 2: 31st Century Combat (1995)                                                   74    1 
-                  USA | 9 h | First person
+                  USA | 9 h | First person | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: Shooter, Simulator, Tactical | Theme: Action, Science Fiction
                   Developers: Activision
@@ -712,7 +712,7 @@
                   Composer: Gregory Alper, Jeehun Hwang
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    80. 1405   Star Control II: The Ur-Quan Masters (1992)                                                209    2 
-                  USA | 30 h | Bird view / Isometric
+                  USA | 30 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: 3DO, DOS, Win
                   Genre: Adventure, Indie, Simulator, Strategy | Theme: Action, Science Fiction
                   Developers: Toys for Bob
@@ -720,8 +720,17 @@
                   Designer: Fred Ford , Paul Reiche III
                   Composer: Aaron J. Grier, Dan Nicholson, Eric Berge, Erol Otus, Kevin Balivec, Marc Brown, Riku Nuottajärvi, Tommy V. Dunbar
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   81. 1401   Lode Runner (1983)                                                                         304    1 
-                  USA | 3 h | Side view
+   81. 1404   Command & Conquer: Red Alert (1996)                                                        452    1 
+                  USA | 31 h | Bird view / Isometric | PEGI: 12 | ESRB: T
+                  On: DOS, PS3, PSP, PSX, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Historical, Science Fiction, Warfare
+                  Developers: Westwood Studios
+                  Publishers: Electronic Arts, Sold Out Sales & Marketing, Sony, Virgin
+                  Designer: Adam P. Isgreen, Erik Yeo, Michael Lightner
+                  Composer: Frank Klepacki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   82. 1401   Lode Runner (1983)                                                                         304    1 
+                  USA | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, FM-7, MSX, Mac, NEC PC-6000, NES, PC-8801, PC-98, SG-1000, Sharp X1, VIC-20, Windows Phone, WonderSwan, ZX Spectrum
                   Genre: Platform, Puzzle | Theme: Action, Science Fiction
                   Developers: Brøderbund, Irem
@@ -729,8 +738,8 @@
                   Designer: Doug Smith
                   Composer: Isamu Hirano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   82. 1399   Sensible World of Soccer (1994)                                                            361    1 
-                  GBR | 34 h | Bird view / Isometric
+   83. 1399   Sensible World of Soccer (1994)                                                            361    1 
+                  GBR | 34 h | Bird view / Isometric | PEGI: 3 | ESRB: N/A
                   On: Amiga, DOS, Xbox 360
                   Genre: Sport | Theme: Football
                   Developers: Sensible Software
@@ -738,8 +747,8 @@
                   Designer: Jon Hare
                   Composer: Jason Page, Jon Hare, Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   83. 1397   System Shock (1994)                                                                        275    1 
-                  USA | 15 h | First person
+   84. 1397   System Shock (1994)                                                                        275    1 
+                  USA | 15 h | First person | PEGI: N/A | ESRB: M
                   On: DOS, Mac
                   Genre: RPG, Shooter | Theme: Action, Science Fiction
                   Developers: Looking Glass
@@ -748,16 +757,34 @@
                   Composer: Greg LoPiccolo, Tim Ries
 
        1397   Metal Gear (1987)                                                                          305    1
-                  JPN | 5 h | Bird view / Isometric
+                  JPN | 5 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
                   Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
                   Developers: Konami
                   Publishers: Konami
                   Designer: Hideo Kojima
                   Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
+
+       1397   Fallout: A Post Nuclear Role Playing Game (1997)                                           453    1
+                  USA | 23 h | Bird view / Isometric | PEGI: 16 | ESRB: M
+                  On: DOS, Mac, Win
+                  Genre: RPG, Turn-Based Strategy | Theme: Science Fiction, Survival
+                  Developers: Black Isle
+                  Publishers: Edusoft, Interplay
+                  Designer: Christopher Taylor, Feargus Urquhart
+                  Composer: Mark Morgan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   85. 1384   M.U.L.E. (1983)                                                                            276    1 
-                  USA | 2 h | Bird view / Isometric
+   87. 1387   Mega Man X (1993)                                                                          455    1 
+                  JPN | 4 h | Side view | PEGI: 12 | ESRB: T
+                  On: 3DS, 3DS (New), DOS, SNES, Wii, Wii U, iOS
+                  Genre: Adventure, Platform, Shooter | Theme: Action, Science Fiction
+                  Developers: Capcom, Rozner Labs
+                  Publishers: Capcom, Nintendo
+                  Designer: Keiji Inafune, Masayoshi Kurogawa, Sho Tsuge, Yoshinori Takenaka
+                  Composer: Makoto Tomozawa, Setsuo Yamamoto, Toshihiko Horiyama, Yuki Iwai, Yuko Takehara
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   88. 1384   M.U.L.E. (1983)                                                                            276    1 
+                  USA | 2 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Atari 8-bit, C64, DOS, MSX, NES, PC-8801, Sharp X1
                   Genre: Simulator, Strategy, Tactical, Turn-Based Strategy | Theme: Action, Comedy, Science Fiction
                   Developers: Ozark Softscape
@@ -766,7 +793,7 @@
                   Composer: Roy Glover
 
        1384   Akalabeth: World of Doom (1980)                                                             76    1
-                  USA | 4 h | Bird view / Isometric, First person
+                  USA | 4 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, DOS, Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Fantasy
                   Developers: Richard Garriott
@@ -774,8 +801,8 @@
                   Designer: Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   87. 1382   Stunt Car Racer (1989)                                                                     238    1 
-                  GBR | 3 h | First person
+   90. 1382   Stunt Car Racer (1989)                                                                     238    1 
+                  GBR | 3 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
                   Genre: Racing | Theme: Action
                   Developers: Ceative Assembly, MicroStyle
@@ -783,8 +810,8 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   88. 1381   Football Manager (1982)                                                                    363    1 
-                  GBR | 20 h | Side view
+   91. 1381   Football Manager (1982)                                                                    363    1 
+                  GBR | 20 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amiga, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C64, DOS, Dragon, MSX, Oric, TRS-80, VIC-20, ZX 80-81, ZX Spectrum
                   Genre: Sport | Theme: Business, Football
                   Developers: Addictive Games
@@ -792,17 +819,26 @@
                   Designer: Kevin Toms
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   89. 1376   Worms (1995)                                                                               364    1 
-                  GBR | 7 h | Side view, Third person
-                  On: Amiga, CD32, DOS, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
+   92. 1376   Worms (1995)                                                                               364    1 
+                  GBR | 7 h | Side view, Third person | PEGI: 7 | ESRB: N/A
+                  On: Amiga, CD32, DOS, Evercade, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
                   Genre: Strategy | Theme: Action, Comedy, Warfare
                   Developers: Team17
                   Publishers: GT Interactive, Ocean Software, Sold Out Sales & Marketing, Team17, Tec Toy Indústria de Brinquedos, Telegames
                   Designer: Andy Davidson, Cris Blyth
                   Composer: Bjørn Lynne
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   90. 1373   Micro Machines 2: Turbo Tournament (1994)                                                  240    1 
-                  GBR | 2 h | Bird view / Isometric
+   93. 1374   NHL '94 (1993)                                                                             456    1 
+                  CAN | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: DOS, Mega Drive, SNES, Sega CD
+                  Genre: Simulator, Sport | Theme: Ice Hockey
+                  Developers: Electronic Arts, High Score Productions, Park Place Productions
+                  Publishers: Electronic Arts
+                  Designer: Jim Simmons
+                  Composer: Rob Hubbard
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   94. 1373   Micro Machines 2: Turbo Tournament (1994)                                                  240    1 
+                  GBR | 2 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: DOS, Game Gear, Mega Drive
                   Genre: Racing | Theme: Action
                   Developers: Codemasters, Supersonic Software
@@ -810,8 +846,8 @@
                   Designer: Andrew Fussey, Jonathan Menzies, Peter Williamson
                   Composer: Tim Bartlett
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   91. 1371   Cannon Fodder (1993)                                                                       365    1 
-                  GBR | 13 h | Bird view / Isometric
+   95. 1371   Cannon Fodder (1993)                                                                       365    1 
+                  GBR | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
                   Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
                   Developers: Sensible Software
@@ -819,8 +855,8 @@
                   Designer: Jon Hare
                   Composer: Allister Brimble, Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   92. 1369   PowerSlave (1996)                                                                          241    1 
-                  USA | 11 h | First person
+   96. 1369   PowerSlave (1996)                                                                          241    1 
+                  USA | 11 h | First person | PEGI: N/A | ESRB: M
                   On: DOS, PSX, Saturn
                   Genre: Shooter, Strategy | Theme: Action, Educational, Fantasy, Science Fiction
                   Developers: Lobotomy Software
@@ -828,8 +864,8 @@
                   Designer: Brian McNeely
                   Composer: Scott Branston
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   93. 1356   Laser Squad (1989)                                                                         366    1 
-                  GBR | 20 h | Bird view / Isometric
+   97. 1356   Laser Squad (1989)                                                                         366    1 
+                  GBR | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, DOS, MSX
                   Genre: RPG, Strategy, Tactical, Turn-Based Strategy | Theme: Science Fiction
                   Developers: Target Games
@@ -837,8 +873,8 @@
                   Designer: Ian Terry, Julian Gollop
                   Composer: Matt Furniss
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   94. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
-                  USA | 99 h | First person
+   98. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
+                  USA | 99 h | First person | PEGI: N/A | ESRB: E
                   On: DOS, Linux, Mac, Win
                   Genre: Adventure, RPG | Theme: Fantasy
                   Developers: Sir-Tech
@@ -847,7 +883,7 @@
                   Composer: Unknown
 
        1349   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    1
-                  USA | 47 h | First person
+                  USA | 47 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, DOS, FM Towns, Mac, SNES
                   Genre: Adventure, RPG | Theme: Fantasy
                   Developers: Sir-Tech
@@ -856,7 +892,7 @@
                   Composer: Unknown
 
        1349   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1
-                  USA | 61 h | Bird view / Isometric
+                  USA | 61 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM Towns, PC-8801, PC-98, SNES, TurboGrafx-16, Win
                   Genre: RPG | Theme: Action, Drama, Fantasy
                   Developers: ASCII, Sir-Tech
@@ -865,7 +901,7 @@
                   Composer: Unknown
 
        1349   Wizardry IV: The Return of Werdna (1987)                                                    99    1
-                  USA | 25 h | First person
+                  USA | 25 h | First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, DOS, Sharp X1
                   Genre: RPG | Theme: Fantasy
                   Developers: Sir-Tech
@@ -874,7 +910,7 @@
                   Composer: Unknown
 
        1349   Wizardry III: Legacy of Llylgamyn (1983)                                                    98    1
-                  USA | 34 h | First person
+                  USA | 34 h | First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM-7, GBC, NES, PC-8801, PC-98, Sharp X1
                   Genre: RPG | Theme: Fantasy
                   Developers: Sir-Tech
@@ -883,7 +919,7 @@
                   Composer: Unknown
 
        1349   Wizardry II: The Knight of Diamonds (1982)                                                  97    1
-                  USA | 28 h | First person
+                  USA | 28 h | First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM-7, GBC, Mac, NES, PC-8801, PC-98, Sharp X1
                   Genre: RPG | Theme: Fantasy
                   Developers: Sir-Tech
@@ -891,8 +927,8 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  100. 1347   Ikari Warriors (1986)                                                                      103    1 
-                  JPN | 1 h | Bird view / Isometric
+  104. 1347   Ikari Warriors (1986)                                                                      103    1 
+                  JPN | 1 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: Amiga, Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 7800, Atari ST, C16, C64, DOS, MSX, NES, PS3, PS4, PSP, Switch, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Warfare
                   Developers: SNK
@@ -901,7 +937,7 @@
                   Composer: Unknown
 
        1347   Heroes of Might and Magic: A Strategic Quest (1995)                                        198    1
-                  USA | 29 h | Bird view / Isometric, Side view
+                  USA | 29 h | Bird view / Isometric, Side view | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
                   Developers: New World Computing
@@ -910,7 +946,7 @@
                   Composer: Paul Romero
 
        1347   Heroes of Might and Magic II: The Succession Wars (1996)                                   199    1
-                  USA | 63 h | Bird view / Isometric
+                  USA | 63 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
                   Developers: New World Computing
@@ -918,8 +954,8 @@
                   Designer: Jon Van Caneghem, Phil Steinmeyer
                   Composer: Paul Romero, Rob King, Steve Baca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  103. 1346   Flashback (1992)                                                                           368    1 
-                  FRA | 6 h | Side view
+  107. 1346   Flashback (1992)                                                                           368    1 
+                  FRA | 6 h | Side view | PEGI: N/A | ESRB: N/A
                   On: 3DO, Acorn Archimedes, Amiga, DOS, Jaguar, Mac, Mega Drive, Philips CD-i, SNES, Sega CD
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
                   Developers: Delphine Software, Tiertex
@@ -927,8 +963,8 @@
                   Designer: Paul Cuisset
                   Composer: Fabrice Visserot, Jean Baudlot, Raphaël Gesqua
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  104. 1340   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
-                  USA | 60 h | First person
+  108. 1340   The Bard's Tale III: Thief of Fate (1988)                                                  106    1 
+                  USA | 60 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, C64, DOS
                   Genre: RPG | Theme: Fantasy
                   Developers: Interplay
@@ -937,7 +973,7 @@
                   Composer: Kurt Heiden
 
        1340   The Bard's Tale II: The Destiny Knight (1986)                                              105    1
-                  USA | 22 h | First person
+                  USA | 22 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Apple IIGS, C64, DOS, NES
                   Genre: RPG | Theme: Fantasy
                   Developers: Interplay
@@ -945,17 +981,17 @@
                   Designer: Michael Cranford
                   Composer: David Warhol
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  106. 1335   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
-                  GBR | 7 h | Side view
-                  On: Amiga, CD32, DOS, Mega Drive, SMS
+  110. 1335   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
+                  GBR | 7 h | Side view | PEGI: 3 | ESRB: N/A
+                  On: Amiga, Atari ST, C64, CD32, DOS, DS, GB, GBA, Game Gear, Mega Drive, PS2, PS3, PSP, PSX, SMS, SNES, Switch
                   Genre: Platform | Theme: Action, Comedy
                   Developers: Millennium Interactive, Vectordean
                   Publishers: Codemasters, Electronic Arts, Millennium Interactive, Ocean Software, Play It!, U.S. Gold, Valcon Games
                   Designer: Chris Sorrell
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  107. 1331   The Need For Speed (1994)                                                                  243    1 
-                  CAN | 3 h | First person, Third person
+  111. 1331   The Need For Speed (1994)                                                                  243    1 
+                  CAN | 3 h | First person, Third person | PEGI: N/A | ESRB: E
                   On: 3DO, DOS, PSX, Saturn, Win
                   Genre: Racing, Simulator | Theme: Action
                   Developers: Electronic Arts
@@ -963,8 +999,8 @@
                   Designer: Wei Shoong Teh
                   Composer: Alistair Hirst, Jeff van Dyck, Saki Kaskamanidis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  108. 1330   Warcraft: Orcs & Humans (1994)                                                             200    1 
-                  USA | 16 h | Bird view / Isometric
+  112. 1330   Warcraft: Orcs & Humans (1994)                                                             200    1 
+                  USA | 16 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: DOS, Mac
                   Genre: Real Time Strategy, Strategy | Theme: Fantasy
                   Developers: Blizzard Entertainment
@@ -973,7 +1009,7 @@
                   Composer: Gregory Alper
 
        1330   Last Ninja 2: Back with a Vengeance (1988)                                                 371    1
-                  GBR | 1 h | Bird view / Isometric, Third person
+                  GBR | 1 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: E10+
                   On: Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, NES, Wii, ZX Spectrum
                   Genre: Adventure | Theme: Action
                   Developers: System 3
@@ -981,8 +1017,8 @@
                   Designer: Hugh Riley, Mark Cale, Tim Best
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  110. 1321   A Mind Forever Voyaging (1985)                                                             113    1 
-                  USA | 6 h | Text
+  114. 1321   A Mind Forever Voyaging (1985)                                                             113    1 
+                  USA | 6 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Genre: Adventure | Theme: Science Fiction
                   Developers: Infocom
@@ -990,8 +1026,8 @@
                   Designer: Steve Meretzky
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  111. 1315   Gauntlet (1985)                                                                            310    1 
-                  USA | 10 h | Bird view / Isometric
+  115. 1315   Gauntlet (1985)                                                                            310    1 
+                  USA | 10 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
                   Genre: Arcade, Hack and Slash | Theme: Action, Fantasy, Historical
                   Developers: Atari
@@ -999,8 +1035,8 @@
                   Designer: Ed Logg
                   Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  112. 1313   Links: The Challenge of Golf (1991)                                                        116    1 
-                  USA | 15 h | Third person
+  116. 1313   Links: The Challenge of Golf (1991)                                                        116    1 
+                  USA | 15 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, DOS, Sega CD
                   Genre: Simulator, Sport | Theme: Golf
                   Developers: Access Software
@@ -1008,8 +1044,8 @@
                   Designer: Vance Cook
                   Composer: Brent Erickson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  113. 1306   Magicland Dizzy (1990)                                                                     373    1 
-                  GBR | 5 h | Side view
+  117. 1306   Magicland Dizzy (1990)                                                                     373    1 
+                  GBR | 5 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, C64, DOS
                   Genre: Adventure, Arcade, Platform | Theme: Action, Fantasy
                   Developers: Big Red Software, Codemasters, Oliver Twins
@@ -1017,8 +1053,8 @@
                   Designer: Andrew Oliver, Neal Vincent, Philip Oliver
                   Composer: Lyndon Sharp, Matthew Simmonds
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  114. 1301   FIFA International Soccer (1993)                                                           121    1 
-                  CAN | 29 h | Bird view / Isometric
+  118. 1301   FIFA International Soccer (1993)                                                           121    1 
+                  CAN | 29 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, DOS, GB, Mega Drive
                   Genre: Sport | Theme: Football
                   Developers: Extended Play Productions
@@ -1026,8 +1062,8 @@
                   Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
                   Composer: Jeff van Dyck
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  115. 1286   AH-64D Longbow (1996)                                                                      126    1 
-                  USA | 20 h | First person
+  119. 1286   AH-64D Longbow (1996)                                                                      126    1 
+                  USA | 20 h | First person | PEGI: N/A | ESRB: T
                   On: DOS
                   Genre: Simulator | Theme: Flight, Non-fiction
                   Developers: Jane's Combat Simulations, Origin
@@ -1035,8 +1071,8 @@
                   Designer: Will McBurnett
                   Composer: Barry Leitch
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  116. 1279   Balance of Power (1985)                                                                    128    1 
-                  USA | 20 h | Bird view / Isometric
+  120. 1279   Balance of Power (1985)                                                                    128    1 
+                  USA | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari ST, DOS, MSX, Mac, PC-8801, PC-98
                   Genre: Simulator, Strategy | Theme: Cold War, Historical, Politics
                   Developers: Chris Crawford
@@ -1044,8 +1080,8 @@
                   Designer: Chris Crawford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  117. 1269   Shinobi (1987)                                                                             248    1 
-                  JPN | 2 h | Side view
+  121. 1269   Shinobi (1987)                                                                             248    1 
+                  JPN | 2 h | Side view | PEGI: 16 | ESRB: M
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, NES, SMS, TurboGrafx-16, Wii, Xbox 360, ZX Spectrum
                   Genre: Adventure, Hack and Slash | Theme: Action
                   Developers: Sega
@@ -1053,8 +1089,8 @@
                   Designer: Yutaka Sugano
                   Composer: Yasuhiro Kawakami
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  118. 1263   Turrican II: The Final Fight (1991)                                                        376    1 
-                  GER | 2 h | Side view
+  122. 1263   Turrican II: The Final Fight (1991)                                                        376    1 
+                  GER | 2 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Atari ST, C64, DOS, ZX Spectrum
                   Genre: Platform, Shooter | Theme: Action, Science Fiction
                   Developers: Factor 5
@@ -1062,8 +1098,8 @@
                   Designer: Andreas Escher, Holger Schmidt, Julian Eggebrecht, Manfred Trenz
                   Composer: Chris Huelsbeck, Markus Siebold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  119. 1258   Rampart (1990)                                                                             250    1 
-                  USA | 10 h | Bird view / Isometric
+  123. 1258   Rampart (1990)                                                                             250    1 
+                  USA | 10 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Fantasy, Historical
                   Developers: Atari
@@ -1071,8 +1107,8 @@
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  120. 1233   Wing Commander (1990)                                                                      280    1 
-                  USA | 11 h | First person
+  124. 1233   Wing Commander (1990)                                                                      280    1 
+                  USA | 11 h | First person | PEGI: 7 | ESRB: T
                   On: 3DO, Amiga, CD32, DOS, GBA, Mac, PSX, SNES, Sega CD, Win
                   Genre: Shooter, Simulator | Theme: Action, Science Fiction
                   Developers: Origin
@@ -1080,8 +1116,8 @@
                   Designer: Chris Roberts, Erin D. Roberts, Stephen Beeman
                   Composer: David Govett, George Sanger, Mark Knight
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  121. 1226   King's Quest: Quest for the Crown (1984)                                                   136    1 
-                  USA | 3 h | Side view
+  125. 1226   King's Quest: Quest for the Crown (1984)                                                   136    1 
+                  USA | 3 h | Side view | PEGI: 12 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, SMS, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
                   Developers: Sierra
@@ -1090,7 +1126,7 @@
                   Composer: Unknown
 
        1226   King's Quest VII: The Princeless Bride (1994)                                              142    1
-                  USA | 8 h | Third person
+                  USA | 8 h | Third person | PEGI: 12 | ESRB: E
                   On: DOS, Mac, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
                   Developers: Sierra
@@ -1099,7 +1135,7 @@
                   Composer: Dan Kehler, Jay D. Usher, Neal Grandstaff
 
        1226   King's Quest VI: Heir Today, Gone Tomorrow (1992)                                          141    1
-                  USA | 9 h | Third person
+                  USA | 9 h | Third person | PEGI: 12 | ESRB: E
                   On: Amiga, DOS, Mac, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy, Historical
                   Developers: Revolution Software, Sierra
@@ -1108,7 +1144,7 @@
                   Composer: Chris Braymen
 
        1226   King's Quest V: Absence Makes the Heart Go Yonder! (1990)                                  140    1
-                  USA | 7 h | Side view
+                  USA | 7 h | Side view | PEGI: 12 | ESRB: E
                   On: Amiga, DOS, FM Towns, Mac, NES, PC-98, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy, Historical
                   Developers: Sierra
@@ -1117,7 +1153,7 @@
                   Composer: Ken Allen, Mark Seibert
 
        1226   King's Quest IV: The Perils of Rosella (1988)                                              139    1
-                  USA | 4 h | Side view
+                  USA | 4 h | Side view | PEGI: 12 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
                   Developers: Sierra
@@ -1126,7 +1162,7 @@
                   Composer: William Goldstein
 
        1226   King's Quest III: To Heir Is Human (1986)                                                  138    1
-                  USA | 5 h | Bird view / Isometric, Side view
+                  USA | 5 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
                   Developers: Sierra
@@ -1135,7 +1171,7 @@
                   Composer: Margaret Lowe
 
        1226   King's Quest II: Romancing the Throne (1985)                                               137    1
-                  USA | 4 h | Side view
+                  USA | 4 h | Side view | PEGI: 12 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
                   Developers: Sierra
@@ -1143,8 +1179,8 @@
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  128. 1221   Falcon Gold (1994)                                                                         143    1 
-                  USA | 20 h | First person
+  132. 1221   Falcon Gold (1994)                                                                         143    1 
+                  USA | 20 h | First person | PEGI: N/A | ESRB: E
                   On: DOS
                   Genre: Simulator | Theme: Flight
                   Developers: Spectrum HoloByte
@@ -1152,8 +1188,8 @@
                   Designer: Gilman Louie, Les Watts, Scott Bayless
                   Composer: Paul Mogg
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  129. 1217   River Raid (1982)                                                                          144    1 
-                  USA | 1 h | Bird view / Isometric
+  133. 1217   River Raid (1982)                                                                          144    1 
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action
                   Developers: Activision
@@ -1161,8 +1197,8 @@
                   Designer: Carol Shaw
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  130. 1216   Gauntlet II (1986)                                                                         255    1 
-                  USA | 5 h | Bird view / Isometric
+  134. 1216   Gauntlet II (1986)                                                                         255    1 
+                  USA | 5 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, NES, ZX Spectrum
                   Genre: Adventure, Arcade, Hack and Slash | Theme: Action, Fantasy
                   Developers: Atari
@@ -1170,8 +1206,8 @@
                   Designer: Ed Logg
                   Composer: Brad Fuller, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  131. 1203   Joust (1982)                                                                               147    1 
-                  USA | 1 h | Side view
+  135. 1203   Joust (1982)                                                                               147    1 
+                  USA | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
                   Genre: Arcade, Fighting, Platform | Theme: Action
                   Developers: Williams
@@ -1179,8 +1215,8 @@
                   Designer: John Newcomer
                   Composer: Tim Murphy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  132. 1198   Centipede (1981)                                                                           148    1 
-                  USA | 1 h | Bird view / Isometric
+  136. 1198   Centipede (1981)                                                                           148    1 
+                  USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
                   Developers: Atari
@@ -1188,8 +1224,8 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  133. 1197   Sid Meier's Pirates! (1987)                                                                382    1 
-                  USA | 8 h | Bird view / Isometric, Side view, Third person
+  137. 1197   Sid Meier's Pirates! (1987)                                                                382    1 
+                  USA | 8 h | Bird view / Isometric, Side view, Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES
                   Genre: Adventure, Arcade, Simulator, Strategy | Theme: Action, Historical
                   Developers: MicroProse
@@ -1197,8 +1233,8 @@
                   Designer: Sid Meier
                   Composer: Ken Lagace
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  134. 1167   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
-                  USA | 7 h | Side view
+  138. 1167   Leisure Suit Larry: Love for Sail! (1996)                                                  154    1 
+                  USA | 7 h | Side view | PEGI: N/A | ESRB: M
                   On: DOS, Mac, Win
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
                   Developers: Sierra
@@ -1207,7 +1243,7 @@
                   Composer: Frank Zottoli
 
        1167   Leisure Suit Larry in the Land of the Lounge Lizards (1987)                                149    1
-                  USA | 3 h | Side view, Text
+                  USA | 3 h | Side view, Text | PEGI: 16 | ESRB: M
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
                   Developers: Sierra
@@ -1216,7 +1252,7 @@
                   Composer: Al Lowe
 
        1167   Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals (1989)      151    1
-                  USA | 5 h | Side view
+                  USA | 5 h | Side view | PEGI: 16 | ESRB: M
                   On: Amiga, Atari ST, DOS
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
                   Developers: Sierra
@@ -1225,7 +1261,7 @@
                   Composer: Mike Dana
 
        1167   Leisure Suit Larry 6: Shape Up or Slip Out! (1993)                                         153    1
-                  USA | 8 h | Side view
+                  USA | 8 h | Side view | PEGI: 16 | ESRB: M
                   On: DOS, Mac, Win
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
                   Developers: Sierra
@@ -1234,7 +1270,7 @@
                   Composer: Dan Kehler
 
        1167   Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work (1991)                152    1
-                  USA | 5 h | Side view
+                  USA | 5 h | Side view | PEGI: 16 | ESRB: M
                   On: Amiga, DOS, Mac
                   Genre: Adventure, Point-and-click | Theme: Comedy, Erotic
                   Developers: Sierra
@@ -1243,7 +1279,7 @@
                   Composer: Craig Safan
 
        1167   Leisure Suit Larry 2: Goes Looking for Love (in Several Wrong Places) (1988)               150    1
-                  USA | 5 h | Side view
+                  USA | 5 h | Side view | PEGI: 16 | ESRB: M
                   On: Amiga, Atari ST, DOS
                   Genre: Adventure, Point-and-click | Theme: Comedy
                   Developers: Sierra
@@ -1251,8 +1287,8 @@
                   Designer: Al Lowe
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  140. 1130   Winter Games (1985)                                                                        159    1 
-                  USA | 1 h | Third person
+  144. 1130   Winter Games (1985)                                                                        159    1 
+                  USA | 1 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari 7800, Atari ST, C64, DOS, MSX, Mac, NES, Wii, ZX Spectrum
                   Genre: Sport | Theme: Action
                   Developers: Action Graphics
@@ -1261,7 +1297,7 @@
                   Composer: David Thiel, Kenichi Tomizawa
 
        1130   California Games (1987)                                                                    160    1
-                  USA | 2 h | Side view
+                  USA | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari ST, C64, DOS, Lynx, MSX, Mega Drive, Mobile, NES, SMS, Wii, Win, ZX Spectrum
                   Genre: Sport | Theme: Action
                   Developers: Epyx
@@ -1269,8 +1305,8 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  142. 1118   The Last Ninja (1987)                                                                      383    1 
-                  GBR | 3 h | Bird view / Isometric, Third person
+  146. 1118   The Last Ninja (1987)                                                                      383    1 
+                  GBR | 3 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Apple II, Apple IIGS, Atari ST, BBC, C64, DOS, Wii
                   Genre: Adventure, Arcade | Theme: Action
                   Developers: System 3
@@ -1278,8 +1314,8 @@
                   Designer: Mark Cale, Tim Best
                   Composer: Anthony Lees, Ben Daglish, Jochen Hippel, Russell Lieblich
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  143. 1110   Hard Hat Mack (1983)                                                                       163    1 
-                  USA | 10 h | Side view
+  147. 1110   Hard Hat Mack (1983)                                                                       163    1 
+                  USA | 10 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Amstrad CPC, Apple II, Atari 8-bit, C64, DOS
                   Genre: Arcade, Platform | Theme: Action
                   Developers: Matthew Alexander, Michael Abbot
@@ -1287,8 +1323,8 @@
                   Designer: Matthew Alexander, Michael Abbot
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  144. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
-                  USA | 10 h | Third person
+  148. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
+                  USA | 10 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Atari 8-bit, C64, DOS, MSX, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
                   Developers: First Star Software
@@ -1296,8 +1332,8 @@
                   Designer: Peter Liepa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  145. 1079   Strider (1989)                                                                             264    1 
-                  JPN | 8 h | Side view
+  149. 1079   Strider (1989)                                                                             264    1 
+                  JPN | 8 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Mega Drive, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Science Fiction
                   Developers: Capcom
@@ -1305,8 +1341,8 @@
                   Designer: Kouichi Yotsui, Shinichi Yoshimoto, Tokuro Fujiwara
                   Composer: Junko Tamiya
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  146. 1064   Jungle Strike (1993)                                                                       167    1 
-                  USA | 8 h | Bird view / Isometric
+  150. 1064   Jungle Strike (1993)                                                                       167    1 
+                  USA | 8 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, CD32, DOS, Mega Drive, SNES
                   Genre: Shooter | Theme: Action, Fantasy, Historical, Warfare
                   Developers: Electronic Arts, Granite Bay Software
@@ -1315,7 +1351,7 @@
                   Composer: Brian L. Schmidt
 
        1064   Desert Strike: Return to the Gulf (1992)                                                   166    1
-                  USA | 6 h | Bird view / Isometric
+                  USA | 6 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, DOS, GB, GBA, Game Gear, Lynx, Mega Drive, SMS, SNES
                   Genre: Shooter, Strategy | Theme: Action
                   Developers: Electronic Arts
@@ -1323,8 +1359,8 @@
                   Designer: John Manley, Mike Posehn
                   Composer: Brian L. Schmidt, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  148. 1038   Mortal Kombat II (1993)                                                                    334    1 
-                  USA | 8 h | Side view
+  152. 1038   Mortal Kombat II (1993)                                                                    334    1 
+                  USA | 8 h | Side view | PEGI: 18 | ESRB: M
                   On: Amiga, Arcade, DOS, GB, Mega Drive, PS3, PSX, SMS, SNES, Saturn
                   Genre: Fighting | Theme: Action
                   Developers: Midway
@@ -1332,8 +1368,8 @@
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden, Matt Furniss
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  149. 1019   Empire: Wargame of the Century (1987)                                                      286    1 
-                  USA | 30 h | Bird view / Isometric
+  153. 1019   Empire: Wargame of the Century (1987)                                                      286    1 
+                  USA | 30 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari ST, C64, DOS
                   Genre: Strategy, Tactical | Theme: Fantasy, Historical, Warfare
                   Developers: Northwest Software
@@ -1341,8 +1377,8 @@
                   Designer: Walter Bright
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  150. 1010   Spy Hunter (1982)                                                                          389    1 
-                  USA | 1 h | Bird view / Isometric
+  154. 1010   Spy Hunter (1982)                                                                          389    1 
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
                   Genre: Racing, Shooter | Theme: Action
                   Developers: Bally
@@ -1351,7 +1387,7 @@
                   Composer: Bob Libbe, Michael Bartlow, Naoki Kodaka, Neil Falconer
 
        1010   Solomon’s Key (1986)                                                                       267    1
-                  JPN | 10 h | Side view
+                  JPN | 10 h | Side view | PEGI: N/A | ESRB: E
                   On: 3DS, Amstrad CPC, Arcade, Atari ST, C64, DOS, NES, SMS, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform, Puzzle, Strategy | Theme: Fantasy
                   Developers: Tecmo
@@ -1359,8 +1395,8 @@
                   Designer: Michitaka Tsuruta
                   Composer: Michiharu Hasuya
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-  152. 1000   Trinity (1986)                                                                             176    1 
-                  USA | 10 h | Text
+  156. 1000   Trinity (1986)                                                                             176    1 
+                  USA | 10 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari ST, C64, DOS, Mac
                   Genre: Adventure, Strategy | Theme: Science Fiction, Thriller
                   Developers: Infocom

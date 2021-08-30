@@ -1,7 +1,7 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2340   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
-                  JPN | 31 h | Third person
+    1. 2346   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
+                  JPN | 31 h | Third person | PEGI: 12 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
                   Developers: Nintendo
@@ -9,8 +9,8 @@
                   Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2258   Metal Gear Solid (1998)                                                                    196    8 
-                  JPN | 13 h | Third person
+    2. 2267   Metal Gear Solid (1998)                                                                    196    8 
+                  JPN | 13 h | Third person | PEGI: 18 | ESRB: M
                   On: PS3, PSP, PSX
                   Genre: Adventure, Strategy | Theme: Action, Science Fiction, Stealth, Survival
                   Developers: Konami
@@ -18,8 +18,8 @@
                   Designer: Hideo Kojima
                   Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2158   Half-Life (1998)                                                                           188    5 
-                  USA | 14 h | First person
+    3. 2174   Half-Life (1998)                                                                           188    5 
+                  USA | 14 h | First person | PEGI: 16 | ESRB: M
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
                   Developers: Valve
@@ -27,8 +27,8 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2032   StarCraft (1998)                                                                           201    5 
-                  USA | 27 h | Bird view / Isometric
+    4. 2059   StarCraft (1998)                                                                           201    5 
+                  USA | 27 h | Bird view / Isometric | PEGI: 16 | ESRB: T
                   On: Mac, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction
                   Developers: Blizzard Entertainment
@@ -36,8 +36,8 @@
                   Designer: Chris Metzen, James Phinney
                   Composer: Derek Duke, Glenn Stafford, Jason Hayes, Tracy W. Bush
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1980   Resident Evil 2 (1998)                                                                     187    4 
-                  JPN | 9 h | Third person
+    5. 2014   Resident Evil 2 (1998)                                                                     187    4 
+                  JPN | 9 h | Third person | PEGI: 18 | ESRB: M
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Genre: Adventure, Shooter | Theme: Action, Horror, Survival
                   Developers: Angel Studios, Capcom, Factor 5, Sourcenext
@@ -45,8 +45,8 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1876   SoulCalibur (1998)                                                                         222    5 
-                  JPN | 9 h | Third person
+    6. 1926   SoulCalibur (1998)                                                                         222    5 
+                  JPN | 9 h | Third person | PEGI: 16 | ESRB: T
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Genre: Arcade, Fighting | Theme: Action, Fantasy, Historical
                   Developers: Project Soul
@@ -54,17 +54,8 @@
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1646   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
-                  JPN | 44 h | Bird view / Isometric, Side view
-                  On: 3DS, GB, GBC
-                  Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
-                  Developers: Game Freak
-                  Publishers: Nintendo
-                  Designer: Satoshi Tajiri
-                  Composer: Junichi Masuda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1604   Crash Bandicoot: Warped (1998)                                                             293    1 
-                  USA | 8 h | Bird view / Isometric, Third person
+    7. 1708   Crash Bandicoot: Warped (1998)                                                             293    2 
+                  USA | 8 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: PS3, PSP, PSX
                   Genre: Adventure, Platform | Theme: Action, Fantasy, Historical, Science Fiction
                   Developers: Naughty Dog
@@ -72,8 +63,17 @@
                   Designer: Evan Wells, Jason Rubin
                   Composer: Josh Mancell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1646   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+                  JPN | 44 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
+                  On: 3DS, GB, GBC
+                  Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
+                  Developers: Game Freak
+                  Publishers: Nintendo
+                  Designer: Satoshi Tajiri
+                  Composer: Junichi Masuda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1512   Anna Kournikova's Smash Court Tennis (1998)                                                220    1 
-                  JPN | 3 h | Bird view / Isometric
+                  JPN | 3 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: PSX
                   Genre: Sport | Theme: Tennis
                   Developers: Namco
@@ -82,7 +82,7 @@
                   Composer: Ayako Yamaguchi, Kaori Idaya, Kenji Matsuo, Masashi Sugiyama, Nobuhiro Ōuchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1475   Colin McRae Rally (1998)                                                                   227    1 
-                  GBR | 11 h | First person, Third person
+                  GBR | 11 h | First person, Third person | PEGI: N/A | ESRB: E
                   On: GBC, PSX, Win
                   Genre: Racing, Sport | Theme: Motorsports, Non-fiction, Rally
                   Developers: Codemasters
@@ -91,7 +91,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1454   1080° Snowboarding (1998)                                                                  231    1 
-                  JPN | 7 h | Third person
+                  JPN | 7 h | Third person | PEGI: 3 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action, Snowboarding
                   Developers: Nintendo
@@ -99,71 +99,8 @@
                   Designer: Masamichi Abe, Mitsuhiro Takano
                   Composer: Kenta Nagata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1427   Ridge Racer Type 4 (1998)                                                                  234    1 
-                  JPN | 9 h | First person, Third person
-                  On: PS3, PSP, PSX, Vita
-                  Genre: Racing | Theme: Motorsports
-                  Developers: Namco
-                  Publishers: Namco
-                  Designer: Unknown
-                  Composer: Asuka Sakai, Hiroshi Okubo, Kohta Takahashi, Koji Nagakawa, Tetsukazu Nakanishi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1399   Sonic Adventure (1998)                                                                     236    1 
-                  JPN | 14 h | Third person
-                  On: Dreamcast, PS3, Xbox 360
-                  Genre: Adventure, Platform | Theme: Action
-                  Developers: Sonic Team
-                  Publishers: Sega
-                  Designer: Takao Miyoshi, Takashi Iizuka, Yojiro Ogawa
-                  Composer: Fumie Kumatani, Jun Senoue, Kenichi Tokoi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1392   Tenchu: Stealth Assassins (1998)                                                           306    1 
-                  JPN | 10 h | Third person
-                  On: PSX
-                  Genre: Adventure | Theme: Action, Fantasy, Historical, Stealth
-                  Developers: Acquire
-                  Publishers: Activision, Sony
-                  Designer: Takuma Endo
-                  Composer: Noriyuki Asakura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1388   Grim Fandango (1998)                                                                       195    1 
-                  USA | 12 h | Side view
-                  On: Win
-                  Genre: Adventure, Point-and-click, Puzzle | Theme: Comedy
-                  Developers: LucasArts
-                  Publishers: LucasArts
-                  Designer: Tim Schafer
-                  Composer: Peter McConnell
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1272   Banjo-Kazooie (1998)                                                                       316    1 
-                  GBR | 15 h | Third person
-                  On: N64, Xbox 360
-                  Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
-                  Developers: Rare
-                  Publishers: Microsoft, Nintendo
-                  Designer: George Andreas, Gregg Mayles
-                  Composer: Grant Kirkhope
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1269   Battlezone (1998)                                                                          204    1 
-                  USA | 13 h | First person
-                  On: Win
-                  Genre: Real Time Strategy, Shooter, Simulator, Strategy | Theme: Action, Fantasy, Historical, Science Fiction
-                  Developers: Activision
-                  Publishers: Activision
-                  Designer: Andrew Goldman
-                  Composer: Jeehun Hwang
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1249   NHL 99 (1998)                                                                              205    1 
-                  CAN | 32 h | Bird view / Isometric
-                  On: N64, PSX, Win
-                  Genre: Sport | Theme: Ice Hockey
-                  Developers: Electronic Arts
-                  Publishers: Electronic Arts
-                  Designer: Warren Wall
-                  Composer: Aleksandar Zecevic, Jeff Mair, Jeff van Dyck, John Jacyna, Robert Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1215   Panzer Dragoon Saga (1998)                                                                 320    1 
-                  JPN | 16 h | Third person
+   12. 1449   Panzer Dragoon Saga (1998)                                                                 320    2 
+                  JPN | 16 h | Third person | PEGI: N/A | ESRB: T
                   On: Saturn
                   Genre: RPG | Theme: Fantasy
                   Developers: Sega
@@ -171,8 +108,71 @@
                   Designer: Manabu Kusunoki, Yukio Futatsugi
                   Composer: Mariko Nanba, Saori Kobayashi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1427   Ridge Racer Type 4 (1998)                                                                  234    1 
+                  JPN | 9 h | First person, Third person | PEGI: 3 | ESRB: E
+                  On: PS3, PSP, PSX, Vita
+                  Genre: Racing | Theme: Motorsports
+                  Developers: Namco
+                  Publishers: Namco
+                  Designer: Unknown
+                  Composer: Asuka Sakai, Hiroshi Okubo, Kohta Takahashi, Koji Nagakawa, Tetsukazu Nakanishi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1399   Sonic Adventure (1998)                                                                     236    1 
+                  JPN | 14 h | Third person | PEGI: 7 | ESRB: E
+                  On: Dreamcast, PS3, Xbox 360
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Sonic Team
+                  Publishers: Sega
+                  Designer: Takao Miyoshi, Takashi Iizuka, Yojiro Ogawa
+                  Composer: Fumie Kumatani, Jun Senoue, Kenichi Tokoi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1392   Tenchu: Stealth Assassins (1998)                                                           306    1 
+                  JPN | 10 h | Third person | PEGI: N/A | ESRB: N/A
+                  On: PSX
+                  Genre: Adventure | Theme: Action, Fantasy, Historical, Stealth
+                  Developers: Acquire
+                  Publishers: Activision, Sony
+                  Designer: Takuma Endo
+                  Composer: Noriyuki Asakura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1388   Grim Fandango (1998)                                                                       195    1 
+                  USA | 12 h | Side view | PEGI: 12 | ESRB: T
+                  On: Win
+                  Genre: Adventure, Point-and-click, Puzzle | Theme: Comedy
+                  Developers: LucasArts
+                  Publishers: LucasArts
+                  Designer: Tim Schafer
+                  Composer: Peter McConnell
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1272   Banjo-Kazooie (1998)                                                                       316    1 
+                  GBR | 15 h | Third person | PEGI: N/A | ESRB: E
+                  On: N64, Xbox 360
+                  Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
+                  Developers: Rare
+                  Publishers: Microsoft, Nintendo
+                  Designer: George Andreas, Gregg Mayles
+                  Composer: Grant Kirkhope
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1269   Battlezone (1998)                                                                          204    1 
+                  USA | 13 h | First person | PEGI: N/A | ESRB: E
+                  On: Win
+                  Genre: Real Time Strategy, Shooter, Simulator, Strategy | Theme: Action, Fantasy, Historical, Science Fiction
+                  Developers: Activision
+                  Publishers: Activision
+                  Designer: Andrew Goldman
+                  Composer: Jeehun Hwang
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1249   NHL 99 (1998)                                                                              205    1 
+                  CAN | 32 h | Bird view / Isometric | PEGI: N/A | ESRB: E
+                  On: N64, PSX, Win
+                  Genre: Sport | Theme: Ice Hockey
+                  Developers: Electronic Arts
+                  Publishers: Electronic Arts
+                  Designer: Warren Wall
+                  Composer: Aleksandar Zecevic, Jeff Mair, Jeff van Dyck, John Jacyna, Robert Bailey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1209   Baldur's Gate (1998)                                                                       281    1 
-                  CAN | 57 h | Bird view / Isometric
+                  CAN | 57 h | Bird view / Isometric | PEGI: 12 | ESRB: T
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Fantasy
                   Developers: BioWare
@@ -181,7 +181,7 @@
                   Composer: Michael Hoenig
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1169   NFL GameDay 99 (1998)                                                                      208    1 
-                  USA | 20 h | Third person
+                  USA | 20 h | Third person | PEGI: N/A | ESRB: E
                   On: PSX, Win
                   Genre: Sport | Theme: American Football
                   Developers: 989 Sports, Red Zone Interactive
@@ -190,7 +190,7 @@
                   Composer: Chuck Carr, Joel H. Copen, Rex Baca
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    22. 1158   Thief: The Dark Project (1998)                                                             283    1 
-                  USA | 21 h | First person
+                  USA | 21 h | First person | PEGI: N/A | ESRB: M
                   On: Win
                   Genre: Shooter, Sport | Theme: Action, Fantasy, Stealth
                   Developers: Looking Glass
@@ -199,7 +199,7 @@
                   Composer: Eric Brosius
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    23. 1156   Xenogears (1998)                                                                           260    1 
-                  JPN | 65 h | Bird view / Isometric, Third person
+                  JPN | 65 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: T
                   On: PS3, PSX
                   Genre: RPG | Theme: Fantasy, Science Fiction
                   Developers: Square
@@ -208,7 +208,7 @@
                   Composer: Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    24. 1105   Grand Prix Legends (1998)                                                                  210    1 
-                  USA | 20 h | First person, Third person
+                  USA | 20 h | First person, Third person | PEGI: N/A | ESRB: E
                   On: Win
                   Genre: Racing, Simulator, Sport | Theme: Motorsports, Non-fiction
                   Developers: Papyrus
@@ -217,7 +217,7 @@
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    25. 1010   The House of the Dead 2 (1998)                                                             335    1 
-                  JPN | 2 h | First person
+                  JPN | 2 h | First person | PEGI: 16 | ESRB: M
                   On: Arcade, Dreamcast, Win
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
                   Developers: WOW Entertainment
@@ -226,7 +226,7 @@
                   Composer: Haruyoshi Tomita, Tetsuya Kawauchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    26. 1000   International Superstar Soccer ’98 (1998)                                                  212    1 
-                  USA | 20 h | Bird view / Isometric
+                  USA | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: N64
                   Genre: Sport | Theme: Football
                   Developers: Konami
