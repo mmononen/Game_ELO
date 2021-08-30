@@ -6819,6 +6819,8 @@
         "perspective": ["First person"],
         "designer": ["Marc Laidlaw"],
         "composer": ["Kelly Bailey"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 16
     },
     "Half-Life 2: Episode One (2006)":
@@ -6834,6 +6836,8 @@
         "perspective": ["First person"],
         "designer": ["Erik Wolpaw", "Chet Faliszek"],
         "composer": ["Kelly Bailey"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 4
     },
     "Half-Life 2: Episode Two (2007)":
@@ -6849,6 +6853,8 @@
         "perspective": ["First person"],
         "designer": ["Erik Wolpaw", "Chet Faliszek"],
         "composer": ["Kelly Bailey"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 6
     },
     "Team Fortress 2 (2007)":
@@ -6864,6 +6870,8 @@
         "perspective": ["First person"],
         "designer": ["John Cook", "Robin Walke"],
         "composer": ["Mike Morasky"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 180
     },
     "Portal (2007)":
@@ -6879,6 +6887,8 @@
         "perspective": ["First person"],
         "designer": ["Kim Swift"],
         "composer": ["Kelly Bailey", "Mike Morasky"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 5
     },
     "LEGO Star Wars: The Video Game (2005)":
@@ -6894,6 +6904,8 @@
         "perspective": ["Third person"],
         "designer": ["Jon Burton"],
         "composer": ["David Whittaker", "John Williams"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 11
     },
     "LEGO Star Wars II: The Original Trilogy (2006)":
@@ -6909,6 +6921,8 @@
         "perspective": ["Third person"],
         "designer": ["Jon Burton"],
         "composer": ["David Whittaker", "John Williams"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 11
     },
     "Wii Sports (2006)":
@@ -6924,6 +6938,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Keizo Ohta", "Takayuki Shimamura", "Yoshikazu Yamashita"],
         "composer": ["Kazumi Totaka"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 9
     },
     "Guitar Hero (2005)":
@@ -6939,6 +6955,8 @@
         "perspective": ["Auditory"],
         "designer": ["Greg LoPiccolo", "Ryan Lesser", "Rob Kay"],
         "composer": ["Unknown"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 11
     },
     "Project Gotham Racing 4 (2007)":
@@ -6954,6 +6972,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Martyn Chudley", "Ged Talbot", "Gareth Wilson", "Peter O'Sullivan", "Peter Hall", "Toby Rodriguez", "Craig Howard"],
         "composer": ["Peter Davenport", "Lily Kohn", "Naomi Hopkins", "Cathryn Hopkins"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 22
     },
     "Super Mario Galaxy (2007)":
@@ -6969,6 +6989,8 @@
         "perspective": ["Third person"],
         "designer": ["Yoshiaki Koizumi", "Shigeru Miyamoto"],
         "composer": ["Mahito Yokota", "Koji Kondo"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 23
     },
     "Ico (2001)":
@@ -6984,6 +7006,8 @@
         "perspective": ["Third person"],
         "designer": ["Fumito Ueda"],
         "composer": ["Michiru Oshima", "Koichi Yamazaki", "Mitsukuni Murayama"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 7
     },
     "Advance Wars (2001)":
@@ -6999,6 +7023,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Toru Narihiro"],
         "composer": ["Taishi Senda"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 21
     },
     "BioShock (2007)":
@@ -7014,6 +7040,8 @@
         "perspective": ["First person"],
         "designer": ["Ken Levine", "Paul Hellquist"],
         "composer": ["Garry Schyman"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 16
     },
     "Star Wars: Knights of the Old Republic (2003)":
@@ -7029,6 +7057,8 @@
         "perspective": ["Third person"],
         "designer": ["Casey Hudson", "James Ohlen"],
         "composer": ["Jeremy Soule"],
+        "pegi": "12",
+		"esrb": "N/A",
         "hltb": 36
     },
     "God of War (2005)":
@@ -7044,6 +7074,8 @@
         "perspective": ["Third person"],
         "designer": ["David Jaffe"],
         "composer": ["Gerard Marino", "Mike Reagan", "Ron Fish", "Winifred Phillips", "Winnie Waldron", "Cris Velasco", "MArcello De Francisci"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 10
     },
     "The Elder Scrolls IV: Oblivion (2006)":
@@ -7059,6 +7091,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Ken Rolston"],
         "composer": ["Jeremy Soule"],
+        "pegi": "16",
+		"esrb": "N/A",
         "hltb": 86
     },
     "WarioWare, Inc.: Mega Microgames! (2003)":
@@ -7074,6 +7108,8 @@
         "perspective": ["Third person"],
         "designer": ["Hirofumi Matsuoka", "Ko Takeuchi", "Goro Abe", "Ryutaro Takahashi"],
         "composer": ["Ryoji Yoshitomi", "Kyoko Miyamoto"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 5
     },
     "Saturn Bomberman (1996)":
@@ -7089,6 +7125,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["Shigeki Fujiwara", "Kazunori Yasui"],
         "composer": ["Jun Chikuma"],
+        "pegi": "N/A",
+		"esrb": "E",
         "hltb": 5
     },
     "Crash Bandicoot (1996)":
@@ -7104,6 +7142,8 @@
         "perspective": ["Third person"],
         "designer": ["Jason Rubin", "Bob Rafei", "Taylor Kurosaki"],
         "composer": ["Josh Mancell"],
+        "pegi": "3",
+		"esrb": "E",
         "hltb": 9
     },
     "OutRun 2 (2003)":
@@ -7119,6 +7159,8 @@
         "perspective": ["Third person"],
         "designer": ["Makoto Osaki", "Daichi Katagiri"],
         "composer": ["Unknown"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 7
     },
     "World of Warcraft (2004)":
@@ -7134,6 +7176,8 @@
         "perspective": ["Third person"],
         "designer": ["Rob Pardo", "Jeff Kaplan", "Tom Chilton"],
         "composer": ["Jason Hayes"],
+        "pegi": "12",
+		"esrb": "N/A",
         "hltb": 2195
     },
     "Diablo II (2000)":
@@ -7149,6 +7193,8 @@
         "perspective": ["Bird view / Isometric"],
         "designer": ["David Brevik", "Erik Schaefer", "Max Schaefer"],
         "composer": ["Matt Uelmen"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 46
     },
     "Tecmo Super Bowl (1991)":
@@ -7164,6 +7210,8 @@
         "perspective": ["Side view", "Bird view / Isometric"],
         "designer": ["Shinichiro Tomie"],
         "composer": ["Keiji Yamagishi", "Ryuichi Nitta"],
+        "pegi": "N/A",
+		"esrb": "N/A",
         "hltb": 131
     },
     "Final Fantasy X (2001)":
@@ -7179,6 +7227,8 @@
         "perspective": ["Bird view / Isometric", "Side view"],
         "designer": ["Yoshinori Kitase", "Motomu Toriyama", "Takayoshi Nakazato", "Toshiro Tsuchida"],
         "composer": ["Nobuo Uematsu", "Masashi Hamauzu", "Junya Nakano"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 71
     },
     "Metal Gear Solid 2: Sons of Liberty (2001)":
@@ -7194,6 +7244,8 @@
         "perspective": ["Third person"],
         "designer": ["Hideo Kojima"],
         "composer": ["Norihiko Hibino", "Harry Gregson-Williams"],
+        "pegi": "N/A",
+		"esrb": "M",
         "hltb": 15
     },
     "Battlefield 2 (2005)":
@@ -7209,6 +7261,8 @@
         "perspective": ["First person"],
         "designer": ["Lars Gustavsson", "Erik Sjövold"],
         "composer": ["Fredrik Englund", "David Tallroth", "Jonas Ostholm"],
+        "pegi": "16",
+		"esrb": "T",
         "hltb": 30
     },
     "Uncharted 2: Among Thieves (2009)":
@@ -7224,6 +7278,8 @@
         "perspective": ["Third person"],
         "designer": ["Bruce Straley", "Amy Hennig", "Richard Lemarchand", "Neil Druckmann"],
         "composer": ["Greg Edmonson"],
+        "pegi": "16",
+		"esrb": "T",
         "hltb": 13
     },
     "Fallout 3 (2008)":
@@ -7239,6 +7295,8 @@
         "perspective": ["First person", "Third person"],
         "designer": ["Todd Howard", "Emil Pagliarulo"],
         "composer": ["Inon Zur"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 54
     },
     "Rock Band 2 (2008)":
@@ -7254,6 +7312,8 @@
         "perspective": ["Auditory"],
         "designer": ["Dan Teasdale", "Sylvain Dubrofsky", "Casey Malone"],
         "composer": ["Unknown"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 69
     },
     "Kingdom Hearts (2002)":
@@ -7269,6 +7329,8 @@
         "perspective": ["Third person"],
         "designer": ["Tetsuya Nomura"],
         "composer": ["Yoko Shimomura"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 41
     },
     "Left 4 Dead (2008)":
@@ -7284,6 +7346,8 @@
         "perspective": ["First person"],
         "designer": ["Mike Booth"],
         "composer": ["Mike Morasky"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 18
     },
     "Ōkami (2006)":
@@ -7299,6 +7363,8 @@
         "perspective": ["Third person"],
         "designer": ["Hideki Kamiya", "Hiroshi Shibata"],
         "composer": ["Masami Ueda", "Hiroshi Yamaguchi", "Rei Kondoh", "Akari Kaida"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 41
     },
     "Shadow of the Colossus (2005)":
@@ -7306,7 +7372,7 @@
         "id": 434,
         "year": 2005,
         "country": ["JPN"],
-        "platforms": ["PS2"],
+        "platforms": ["PS2", "PS3"],
         "developers": ["Sony"],
         "publishers": ["Sony"],
         "genre": ["Adventure", "Platform", "Puzzle"],
@@ -7314,6 +7380,8 @@
         "perspective": ["Third person"],
         "designer": ["Fumito Ueda"],
         "composer": ["Kow Otani"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 12
     },
     "Metroid Prime (2002)":
@@ -7329,6 +7397,8 @@
         "perspective": ["First person"],
         "designer": ["Mark Pacini"],
         "composer": ["Kenji Yamamoto", "Kouichi Kyuma"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 16
     },
     "Super Smash Bros. Melee (2001)":
@@ -7344,6 +7414,8 @@
         "perspective": ["Side view"],
         "designer": ["Masahiro Sakurai"],
         "composer": ["Hirokazu Ando", "Shogo Sakai", "Tadashi Ikegami", "Takuto Kitsuta"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 56
     },
     "God of War II (2007)":
@@ -7359,6 +7431,8 @@
         "perspective": ["Third person"],
         "designer": ["Cory Barlog"],
         "composer": ["Gerard Marino", "Ron Fish", "Mike Reagan", "Cris Velasco"],
+        "pegi": "18",
+		"esrb": "M",
         "hltb": 13
     },
     "The Legend of Zelda: Twilight Princess (2006)":
@@ -7374,6 +7448,8 @@
         "perspective": ["Third person"],
         "designer": ["Eiji Aonuma"],
         "composer": ["Toru Minegishi", "Asuka Ohta"],
+        "pegi": "12",
+		"esrb": "T",
         "hltb": 46
     },
     "Ratchet & Clank: Up Your Arsenal (2004)":
@@ -7389,6 +7465,8 @@
         "perspective": ["Third person"],
         "designer": ["Brian Allgeier"],
         "composer": ["David Bergeaud"],
+        "pegi": "7",
+		"esrb": "E10+",
         "hltb": 16
     },
     "Medal of Honor: Allied Assault (2002)":
@@ -7404,6 +7482,8 @@
         "perspective": ["First person"],
         "designer": ["Vince Zampella", "Jason West"],
         "composer": ["Michael Giacchino"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 13
     },
     "Skies of Arcadia (2000)":
@@ -7419,6 +7499,8 @@
         "perspective": ["Third person"],
         "designer": ["Atsushi Seimiya", "Shuntaro Tanaka", "Tetsuya Otsubo"],
         "composer": ["Yutaka Minobe", "Tatsuyuki Maeda"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 50
     },
     "The Legend of Zelda: The Wind Waker (2002)":
@@ -7434,6 +7516,8 @@
         "perspective": ["Third person"],
         "designer": ["Eiji Aonuma"],
         "composer": ["Kenta Nagata", "Hajime Wakai", "Toru Minegishi", "Koji Kondo"],
+        "pegi": "7",
+		"esrb": "E",
         "hltb": 35
     },
     "Silent Hill 2 (2001)":
@@ -7449,6 +7533,8 @@
         "perspective": ["Third person"],
         "designer": ["Masashi Tsuboyama"],
         "composer": ["Akira Yamaoka"],
+        "pegi": "16",
+		"esrb": "M",
         "hltb": 10
     },
     "Prince of Persia: The Sands of Time (2003)":
@@ -7464,6 +7550,8 @@
         "perspective": ["Third person"],
         "designer": ["Patrice Désilets", "Jordan Mechner"],
         "composer": ["Stuart Chatwood"],
+        "pegi": "N/A",
+		"esrb": "T",
         "hltb": 10
     }
 
