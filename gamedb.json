@@ -7774,6 +7774,91 @@
 		"pegi": "N/A",
 		"esrb": "N/A",
         "hltb": 18
+    },
+    "Oddworld: Abe’s Oddysee (1997)":
+    {
+        "id": 458,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["PSP", "PSX", "DOS", "Vita", "PS3", "Win"],
+        "developers": ["Oddworld Inhabitants"],
+        "publishers": ["Oddworld Inhabitants", "GT Interactive", "Sony"],
+        "genre": ["Adventure", "Platform", "Puzzle"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Lorne Lanning", "Paul O'Connor", "Jeff Brown"],
+        "composer": ["Ellen Meijers", "Josh Gabriel"],
+        "pegi": "N/A",
+        "esrb": "T",
+        "hltb": 14
+    },
+    "Metroid Fusion (2002)":
+    {
+        "id": 459,
+        "year": 2002,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "GBA"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Yoshio Sakamoto", "Takehiko Hosokawa", "Tomoyoshi Yamane"],
+        "composer": ["Minako Hamano", "Akira Fujiwara"],
+        "pegi": "7",
+        "esrb": "E",
+        "hltb": 6
+    },
+    "Homeworld (1999)":
+    {
+        "id": 460,
+        "year": 1999,
+        "country": ["CAN"],
+        "platforms": ["Win"],
+        "developers": ["Relic Entertainment"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Real Time Strategy", "Strategy"],
+        "theme": ["Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Alex Garden", "Erin Daly"],
+        "composer": ["Paul Ruskay"],
+        "pegi": "N/A",
+        "esrb": "E",
+        "hltb": 24
+    },
+    "Kingdom Hearts II (2005)":
+    {
+        "id": 461,
+        "year": 2005,
+        "country": ["JPN"],
+        "platforms": ["PS2"],
+        "developers": ["Square"],
+        "publishers": ["Buena Vista Games", "Square", "Sony"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Tetsuya Nomura"],
+        "composer": ["Yoko Shimomura"],
+        "pegi": "N/A",
+        "esrb": "E10+",
+        "hltb": 43
+    },
+    "Pilotwings (1990)":
+    {
+        "id": 462,
+        "year": 1990,
+        "country": ["JPN"],
+        "platforms": ["3DS", "Wii U", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Simulator", "Sport"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Tadashi Sugiyama"],
+        "composer": ["Soyo Oka"],
+        "pegi": "7",
+        "esrb": "E",
+        "hltb": 12
     }
 
 }
