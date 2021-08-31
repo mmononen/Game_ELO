@@ -8641,6 +8641,57 @@
         "pegi": "7",
         "esrb": "T",
         "hltb": 12
+    },
+    "Fallout 2: A Post Nuclear Role Playing Game (1998)":
+    {
+        "id": 509,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Black Isle"],
+        "publishers": ["Interplay"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Comedy", "Science Fiction", "Survival"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Feargus Urquhart", "Matt Norton"],
+        "composer": ["Mark Morgan"],
+        "pegi": "16",
+        "esrb": "M",
+        "hltb": 48
+    },
+    "Mafia (2002)":
+    {
+        "id": 510,
+        "year": 2002,
+        "country": ["CZE"],
+        "platforms": ["PS2", "Xbox", "Win"],
+        "developers": ["Illusion Softworks"],
+        "publishers": ["Gathering of Developers", "Take-Two"],
+        "genre": ["Adventure", "Fighting", "Racing", "Shooter"],
+        "theme": ["Action", "Open world"],
+        "perspective": ["Third person"],
+        "designer": ["Petr Vochozka", "Daniel Vávra"],
+        "composer": ["Vladimir Šimůnek"],
+        "pegi": "18",
+        "esrb": "M",
+        "hltb": 19
+    },
+    "Dragon Age: Origins (2009)":
+    {
+        "id": 511,
+        "year": 2009,
+        "country": ["CAN"],
+        "platforms": ["Xbox 360", "Mac", "PS3", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Dan Tudge", "Mark Darrah", "Brent Knowles", "Mike Laidlaw", "James Ohlen"],
+        "composer": ["Inon Zur"],
+        "pegi": "18",
+        "esrb": "M",
+        "hltb": 59
     }
 
 }

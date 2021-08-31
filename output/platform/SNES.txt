@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2336   Doom (1993)                                                                                 19    6 
+    1. 2394   Doom (1993)                                                                                 19    7 
                   USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -18,7 +18,16 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2295   Street Fighter II (1991)                                                                     7    8 
+    3. 2313   Super Mario World (1990)                                                                    33    8 
+                  JPN | 8 h | Side view | PEGI: 7 | ESRB: E
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 2295   Street Fighter II (1991)                                                                     7    8 
                   JPN | 9 h | Side view | PEGI: 12 | ESRB: T
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Genre: Arcade, Fighting | Theme: Action, Science Fiction
@@ -27,7 +36,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2293   Super Mario Kart (1992)                                                                     53    7 
+    5. 2293   Super Mario Kart (1992)                                                                     53    7 
                   JPN | 10 h | Third person | PEGI: 3 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Arcade, Racing | Theme: Action, Party
@@ -35,15 +44,6 @@
                   Publishers: Nintendo
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2271   Super Mario World (1990)                                                                    33    7 
-                  JPN | 8 h | Side view | PEGI: 7 | ESRB: E
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Genre: Adventure, Platform | Theme: Action
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
-                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 2264   Final Fantasy VI (1994)                                                                     36    5 
                   JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
@@ -54,7 +54,16 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2211   Ms. Pac-Man (1982)                                                                          12    4 
+    7. 2241   Sid Meier's Civilization (1991)                                                              4    7 
+                  USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
+                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
+                  Genre: Strategy, Turn-Based Strategy | Theme: 4X
+                  Developers: Koei, MicroProse
+                  Publishers: MicroProse
+                  Designer: Bruce Shelley, Sid Meier
+                  Composer: Jeffery L. Briggs
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 2211   Ms. Pac-Man (1982)                                                                          12    4 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -63,7 +72,7 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2200   Super Metroid (1994)                                                                       119    8 
+    9. 2200   Super Metroid (1994)                                                                       119    8 
                   JPN | 9 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -71,15 +80,6 @@
                   Publishers: Nintendo
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 2169   Sid Meier's Civilization (1991)                                                              4    6 
-                  USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
-                  On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
-                  Genre: Strategy, Turn-Based Strategy | Theme: 4X
-                  Developers: Koei, MicroProse
-                  Publishers: MicroProse
-                  Designer: Bruce Shelley, Sid Meier
-                  Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 2150   Chrono Trigger (1995)                                                                      290    3 
                   JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
@@ -90,7 +90,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 2006   SimCity (1989)                                                                             279    4 
+   11. 2006   SimCity (1989)                                                                             279    5 
                   USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
