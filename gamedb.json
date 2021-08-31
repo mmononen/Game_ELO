@@ -8539,6 +8539,108 @@
 		"pegi": "12",
 		"esrb": "T",
         "hltb": 14
+    },
+    "Marvel vs. Capcom 2: New Age of Heroes (2000)":
+    {
+        "id": 503,
+        "year": 2000,
+        "country": ["JPN"],
+        "platforms": ["Xbox 360", "PS2", "iOS", "Dreamcast", "Xbox", "PS3", "Arcade"],
+        "developers": ["Capcom"],
+        "publishers": ["Virgin", "Capcom"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Tatsuya Nakae", "Katsuhiro Eguchi", "Shintaro Kojima", "Oni Suzuki", "Shinichirō Obata", "Hidetoshi Ishitawa"],
+        "composer": ["Tetsuya Shibata", "Mitsuhiko Takano"],
+        "pegi": "12",
+        "esrb": "T",
+        "hltb": 21
+    },
+    "Call of Duty (2003)":
+    {
+        "id": 504,
+        "year": 2003,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "PS3", "Win"],
+        "developers": ["Infinity Ward"],
+        "publishers": ["Activision"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Ken Turner", "Zied Rieke"],
+        "composer": ["Michael Giacchino"],
+        "pegi": "12",
+        "esrb": "T",
+        "hltb": 9
+    },
+    "NHL 09 (2008)":
+    {
+        "id": 505,
+        "year": 2008,
+        "country": ["CAN"],
+        "platforms": ["Xbox 360", "PS2", "PS3", "Win"],
+        "developers": ["Electronic Arts", "HB Studios"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["Non-fiction", "Ice Hockey"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Glen Gavin"],
+        "composer": ["Peter Garcin", "John McCarthy"],
+        "pegi": "16",
+        "esrb": "E10+",
+        "hltb": 22
+    },
+    "Tom Clancy's Splinter Cell: Pandora Tomorrow (2004)":
+    {
+        "id": 506,
+        "year": 2004,
+        "country": ["CHN", "ITA"],
+        "platforms": ["PS2", "GameCube", "Xbox", "Win"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Shooter", "Tactical"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Denis Muffat-Meridol"],
+        "composer": ["Guy Dubuc", "Jack Wall", "Marc Lessart"],
+        "pegi": "N/A",
+        "esrb": "T",
+        "hltb": 13
+    },
+    "Tactics Ogre: Let Us Cling Together (1995)":
+    {
+        "id": 507,
+        "year": 1995,
+        "country": ["JPN"],
+        "platforms": ["Saturn", "PSP", "SNES", "PSX"],
+        "developers": ["Square", "Quest"],
+        "publishers": ["Square", "Atlus", "Artdink", "Quest", "Riverhillsoft"],
+        "genre": ["Adventure", "RPG", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Historical", "Sandbox", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Yasumi Matsuno", "Hiroshi Minagawa"],
+        "composer": ["Hitoshi Sakimoto", "Masaharu Iwata"],
+        "pegi": "12",
+        "esrb": "T",
+        "hltb": 68
+    },
+    "Beyond Good & Evil (2003)":
+    {
+        "id": 508,
+        "year": 2003,
+        "country": ["FRA", "ITA", "CHN"],
+        "platforms": ["PS2", "GameCube", "Xbox", "Win"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Stealth"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Michel Ancel", "Sébastien Morin"],
+        "composer": ["Christophe Héral"],
+        "pegi": "7",
+        "esrb": "T",
+        "hltb": 12
     }
 
 }
