@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2145   Chrono Trigger (1995)                                                                      290    3 
+    1. 2150   Chrono Trigger (1995)                                                                      290    3 
                   JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1968   Warcraft II: Tides of Darkness (1995)                                                       10    4 
+    2. 1980   Warcraft II: Tides of Darkness (1995)                                                       10    4 
                   USA | 26 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Fantasy
@@ -18,7 +18,7 @@
                   Designer: Ron Millar
                   Composer: Glenn Stafford
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1964   Command & Conquer (1995)                                                                    69    4 
+    3. 1976   Command & Conquer (1995)                                                                    69    4 
                   USA | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction, Warfare
@@ -36,7 +36,7 @@
                   Designer: Seiichi Ishii
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1664   Mario's Picross (1995)                                                                     329    2 
+    5. 1705   Mario's Picross (1995)                                                                     329    2 
                   JPN | 20 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: 3DS, GB
                   Genre: Puzzle | Theme: Nonogram
@@ -72,7 +72,16 @@
                   Designer: Gordon Bellamy, Michael Rubinelli
                   Composer: Tommy Tallarico
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1427   EF 2000 (1995)                                                                              62    1 
+    9. 1440   Super Mario World 2: Yoshi's Island (1995)                                                 362    2 
+                  JPN | 11 h | Side view | PEGI: N/A | ESRB: E
+                  On: SNES, Switch
+                  Genre: Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hideki Konno, Shigefumi Hino, Takashi Tezuka, Toshihiko Nakago
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1427   EF 2000 (1995)                                                                              62    1 
                   GBR | 10 h | First person | PEGI: N/A | ESRB: E
                   On: Win
                   Genre: Simulator | Theme: Flight, Warfare
@@ -81,7 +90,7 @@
                   Designer: Martin Kenwright, Shaun Hollywood
                   Composer: Robin Anderson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1417   World Series Baseball (1995)                                                                68    1 
+   11. 1417   World Series Baseball (1995)                                                                68    1 
                   JPN | 20 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Saturn
                   Genre: Sport | Theme: Baseball
@@ -90,7 +99,7 @@
                   Designer: Tomoko Hasegawa, Yoshiaki Kitagawa
                   Composer: Katsuyoshi Nitta, Miki Obata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1407   MechWarrior 2: 31st Century Combat (1995)                                                   74    1 
+   12. 1407   MechWarrior 2: 31st Century Combat (1995)                                                   74    1 
                   USA | 9 h | First person | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: Shooter, Simulator, Tactical | Theme: Action, Science Fiction
@@ -98,15 +107,6 @@
                   Publishers: Activision
                   Designer: Sran Vesce, Zachary Norman
                   Composer: Gregory Alper, Jeehun Hwang
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1386   Super Mario World 2: Yoshi's Island (1995)                                                 362    1 
-                  JPN | 11 h | Side view | PEGI: N/A | ESRB: E
-                  On: SNES, Switch
-                  Genre: Platform | Theme: Action
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Hideki Konno, Shigefumi Hino, Takashi Tezuka, Toshihiko Nakago
-                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1376   Worms (1995)                                                                               364    1 
                   GBR | 7 h | Side view, Third person | PEGI: 7 | ESRB: N/A

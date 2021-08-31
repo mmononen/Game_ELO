@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2401   Tetris (1984)                                                                                2    8 
+    1. 2402   Tetris (1984)                                                                                2    8 
                   URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2137   Galaga (1981)                                                                              170    5 
+    2. 2142   Galaga (1981)                                                                              170    5 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: Arcade, Atari 7800, FM-7, MSX, NES, PC-98, SG-1000, SMS, Sharp X1, Xbox 360
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -18,7 +18,7 @@
                   Designer: Hiroshi Ono, Shigeru Yokoyama
                   Composer: Nobuyuki Ohnogi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1977   Pac-Man (1980)                                                                             251    3 
+    3. 1988   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -54,7 +54,16 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1453   Excitebike (1984)                                                                          300    1 
+    7. 1506   Lode Runner (1983)                                                                         304    2 
+                  USA | 3 h | Side view | PEGI: 3 | ESRB: E
+                  On: Amstrad CPC, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, FM-7, MSX, Mac, NEC PC-6000, NES, PC-8801, PC-98, SG-1000, Sharp X1, VIC-20, Windows Phone, WonderSwan, ZX Spectrum
+                  Genre: Platform, Puzzle | Theme: Action, Science Fiction
+                  Developers: Brøderbund, Irem
+                  Publishers: Banpresto, Brøderbund, Hudson Soft, Irem, Microsoft, Sega, Soft Pro, Software Projects, Sony, SystemSoft
+                  Designer: Doug Smith
+                  Composer: Isamu Hirano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1453   Excitebike (1984)                                                                          300    1 
                   JPN | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Arcade, GBA, NES, PC-8801, Sharp X1, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action, Motocross, Motorsports
@@ -63,7 +72,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Akito Nakatsuka, Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1445   Nobunaga's Ambition II (1988)                                                               50    1 
+    9. 1445   Nobunaga's Ambition II (1988)                                                               50    1 
                   JPN | 40 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
                   Genre: Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Warfare
@@ -81,7 +90,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1443   Impossible Mission (1984)                                                                  350    1 
+   11. 1443   Impossible Mission (1984)                                                                  350    1 
                   USA | 3 h | Side view | PEGI: 3 | ESRB: E10+
                   On: Acorn Electron, Amstrad CPC, Apple II, Atari 7800, BBC, C64, PC-8801, PSP, SMS, Sharp X1, Switch, Wii, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action, Science Fiction, Stealth
@@ -90,7 +99,7 @@
                   Designer: Dennis Caswell
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1428   Galaxian (1979)                                                                            354    1 
+   12. 1428   Galaxian (1979)                                                                            354    1 
                   JPN | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, FM-7, MSX, NEC PC-6000, NES, PC-8801, Sharp X1, VIC-20, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -98,15 +107,6 @@
                   Publishers: Atari, Dempa Shimbunsha, Midway, Namco
                   Designer: Kazunori Sawano, Shigeichi Ishimura
                   Composer: Toshio Kai
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1401   Lode Runner (1983)                                                                         304    1 
-                  USA | 3 h | Side view | PEGI: 3 | ESRB: E
-                  On: Amstrad CPC, Apple II, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, FM-7, MSX, Mac, NEC PC-6000, NES, PC-8801, PC-98, SG-1000, Sharp X1, VIC-20, Windows Phone, WonderSwan, ZX Spectrum
-                  Genre: Platform, Puzzle | Theme: Action, Science Fiction
-                  Developers: Brøderbund, Irem
-                  Publishers: Banpresto, Brøderbund, Hudson Soft, Irem, Microsoft, Sega, Soft Pro, Software Projects, Sony, SystemSoft
-                  Designer: Doug Smith
-                  Composer: Isamu Hirano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1384   M.U.L.E. (1983)                                                                            276    1 
                   USA | 2 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
@@ -162,7 +162,16 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1148   Gradius (1985)                                                                             261    1 
+   19. 1226   Dig Dug (1982)                                                                             491    1 
+                  JPN | 1 h | Side view | PEGI: 3 | ESRB: E
+                  On: 3DS, Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, FM-7, GB, GBA, Intellivision, MSX, NES, PC-8801, Sharp X1, TI-99, VIC-20, Wii, Wii U, Xbox 360
+                  Genre: Adventure, Arcade | Theme: Action
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, INTV, Namco, Nintendo
+                  Designer: Masahisa Ikegami, Shigeru Yokoyama
+                  Composer: Yuriko Keino
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1148   Gradius (1985)                                                                             261    1 
                   JPN | 3 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, Amstrad CPC, Arcade, C64, MSX, NES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii U, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Science Fiction
@@ -171,7 +180,7 @@
                   Designer: Hiroyasu Machiguchi
                   Composer: Miki Higashino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1124   Xevious (1982)                                                                             161    1 
+   21. 1124   Xevious (1982)                                                                             161    1 
                   JPN | 3 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Apple II, Arcade, Atari 7800, Atari ST, C64, FM-7, GBA, Mobile, NES, PC-8801, PC-98, Sharp X1, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Flight, Science Fiction
@@ -180,7 +189,7 @@
                   Designer: Hiroshi Ono, Masanobu Endō, Shigeki Toyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1029   Choplifter (1982)                                                                          265    1 
+   22. 1029   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Genre: Arcade, Shooter | Theme: Action

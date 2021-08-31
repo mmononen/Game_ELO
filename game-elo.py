@@ -452,8 +452,11 @@ for l in lists:
 
 printable = []
 
-# for d in dev_names:
-#     print(d)
+# calculate addition 1% multiplier per appearance in lists
+# this is added after the match calculations as a bonus score
+#for g in groups:
+#    g.elo = g.elo * (len(g.lists) / 100 + 1)
+
 for i in range(1900, 2100, 1):
     olist = []    
     printable = make_printable(filter_year(olist, [*range(i,i+1,1)]))

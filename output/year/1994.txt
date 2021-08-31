@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2261   Final Fantasy VI (1994)                                                                     36    5 
+    1. 2264   Final Fantasy VI (1994)                                                                     36    5 
                   JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
                   On: PSX, SNES, Wii, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
@@ -9,7 +9,7 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2196   Super Metroid (1994)                                                                       119    8 
+    2. 2200   Super Metroid (1994)                                                                       119    8 
                   JPN | 9 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -18,7 +18,7 @@
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2002   The Legend of Zelda: Link's Awakening (1994)                                               111    5 
+    3. 2012   The Legend of Zelda: Link's Awakening (1994)                                               111    5 
                   JPN | 17 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: GB
                   Genre: Adventure | Theme: Action, Fantasy
@@ -27,16 +27,7 @@
                   Designer: Takashi Tezuka, Yasuhisa Yamamura
                   Composer: Kazumi Totaka, Kozue Ishikawa, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1790   Virtua Fighter 2 (1994)                                                                      6    3 
-                  JPN | 4 h | Side view | PEGI: 12 | ESRB: E10+
-                  On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
-                  Genre: Arcade, Fighting, Simulator | Theme: Action
-                  Developers: 3D Ages, Sega
-                  Publishers: Sega
-                  Designer: Kazuhiro Izaki, Yu Suzuki
-                  Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1778   Doom II: Hell on Earth (1994)                                                              120    4 
+    4. 1806   Doom II: Hell on Earth (1994)                                                              120    4 
                   USA | 10 h | First person | PEGI: 16 | ESRB: M
                   On: DOS, GBA, Mac, Switch, Tapwave Zodiac, Win, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -45,16 +36,16 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Shawn Green
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1733   Sega Rally Championship (1994)                                                              93    4 
-                  JPN | 5 h | First person, Third person | PEGI: 3 | ESRB: E
-                  On: Arcade, GBA, N-Gage, PS2, Saturn, Win
-                  Genre: Racing, Sport | Theme: Motorsports
-                  Developers: Sega
+    5. 1790   Virtua Fighter 2 (1994)                                                                      6    3 
+                  JPN | 4 h | Side view | PEGI: 12 | ESRB: E10+
+                  On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
+                  Genre: Arcade, Fighting, Simulator | Theme: Action
+                  Developers: 3D Ages, Sega
                   Publishers: Sega
-                  Designer: Kenji Sasaki
-                  Composer: Takenobu Mitsuyoshi
+                  Designer: Kazuhiro Izaki, Yu Suzuki
+                  Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1731   X-COM: UFO Defense (1994)                                                                   26    4 
+    6. 1764   X-COM: UFO Defense (1994)                                                                   26    4 
                   GBR, USA | 42 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Amiga, DOS, PSX, Win
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Horror, Science Fiction, Warfare
@@ -63,7 +54,7 @@
                   Designer: Julian Gollop, Nick Gollop
                   Composer: John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1695   Tempest 2000 (1994)                                                                        221    3 
+    7. 1733   Tempest 2000 (1994)                                                                        221    3 
                   GBR | 12 h | Third person | PEGI: N/A | ESRB: E
                   On: DOS, Jaguar, Mac, Saturn, Win
                   Genre: Arcade, Shooter | Theme: Action
@@ -71,6 +62,15 @@
                   Publishers: Atari, Interplay, Logicware, Mumin Corporation
                   Designer: Dave Theurer
                   Composer: Alastair Lindsay, Ian Howe, Kevin Saville
+
+       1733   Sega Rally Championship (1994)                                                              93    4
+                  JPN | 5 h | First person, Third person | PEGI: 3 | ESRB: E
+                  On: Arcade, GBA, N-Gage, PS2, Saturn, Win
+                  Genre: Racing, Sport | Theme: Motorsports
+                  Developers: Sega
+                  Publishers: Sega
+                  Designer: Kenji Sasaki
+                  Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1689   Sonic the Hedgehog 3 (1994)                                                                 38    3 
                   JPN | 3 h | Side view | PEGI: 3 | ESRB: E
@@ -126,7 +126,7 @@
                   Designer: Seiichi Ishii
                   Composer: Hiroto Sasaki, Nobuyoshi Sano, Shinji Hosoe, Takayuki Aihara, Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1494   EarthBound (1994)                                                                          450    1 
+   15. 1557   EarthBound (1994)                                                                          450    1 
                   JPN | 33 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
                   On: 3DS (New), GBA, SNES, Wii U
                   Genre: Adventure, RPG, Turn-Based Strategy | Theme: Action, Drama, Fantasy, Science Fiction
@@ -234,7 +234,16 @@
                   Designer: Hisato Fukumoto, Katsufumi Yoshimori, Yu Suzuki, Yuichi Ide
                   Composer: Kentaro Koyama, Tatsuya Kozaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1096   Marathon (1994)                                                                            284    1 
+   27. 1197   NBA Jam Tournament Edition (1994)                                                          174    2 
+                  USA | 12 h | Side view, Third person | PEGI: N/A | ESRB: E
+                  On: Jaguar, Mega Drive, PSX, SNES, Saturn
+                  Genre: Arcade, Sport | Theme: Action, Basketball
+                  Developers: High Voltage Software, Iguana, Midway, Torus Games
+                  Publishers: Acclaim, Atari, Midway
+                  Designer: Jamie Rivett, John Carlton, Mark Turmell, Sal Divita, Shawn Liptak, Tony Goskie
+                  Composer: Jon Hey, Rick Fox
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   28. 1096   Marathon (1994)                                                                            284    1 
                   USA | 8 h | First person | PEGI: N/A | ESRB: N/A
                   On: Mac, iOS
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -243,7 +252,7 @@
                   Designer: Alex Seropian, Jason Jones
                   Composer: Alex Seropian
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1064   Urban Strike (1994)                                                                        168    1 
+   29. 1064   Urban Strike (1994)                                                                        168    1 
                   USA | 8 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: GB, Game Gear, Mega Drive, SNES
                   Genre: Shooter, Simulator | Theme: Action
@@ -251,15 +260,6 @@
                   Publishers: Black Pearl Software, Electronic Arts
                   Designer: Antonio Barnes, John Manley
                   Composer: Don Veca
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1010   NBA Jam Tournament Edition (1994)                                                          174    1 
-                  USA | 12 h | Side view, Third person | PEGI: N/A | ESRB: E
-                  On: Jaguar, Mega Drive, PSX, SNES, Saturn
-                  Genre: Arcade, Sport | Theme: Action, Basketball
-                  Developers: High Voltage Software, Iguana, Midway, Torus Games
-                  Publishers: Acclaim, Atari, Midway
-                  Designer: Jamie Rivett, John Carlton, Mark Turmell, Sal Divita, Shawn Liptak, Tony Goskie
-                  Composer: Jon Hey, Rick Fox
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    30. 1000   Super Punch-Out!! (1994)                                                                   268    1 
                   JPN | 4 h | Third person | PEGI: 12 | ESRB: E

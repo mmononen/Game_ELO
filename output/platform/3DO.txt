@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2335   Doom (1993)                                                                                 19    6 
+    1. 2336   Doom (1993)                                                                                 19    6 
                   USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1891   Lemmings (1991)                                                                              8    4 
+    2. 1908   Lemmings (1991)                                                                              8    4 
                   GBR | 23 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
@@ -27,7 +27,16 @@
                   Designer: Sean Cooper
                   Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1412   Panzer General (1994)                                                                       71    1 
+    4. 1459   Wolfenstein 3D (1992)                                                                      468    1 
+                  USA | 10 h | First person | PEGI: 12 | ESRB: M
+                  On: 3DO, DOS, GBA, Jaguar, Mac, PS3, SNES, Web browser, Win, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Fantasy, Historical, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: Activision, Atari, BAM! Entertainment, Bethesda, Electronic Arts, GT Interactive, Imagineer, Interplay, MacPlay, Zodttd, id Software
+                  Designer: John Romero, Tom Hall
+                  Composer: Brian Luzietti, Robert Prince, Todd Dennis
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1412   Panzer General (1994)                                                                       71    1 
                   USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: 3DO, DOS
                   Genre: Strategy, Turn-Based Strategy | Theme: Historical, Warfare
@@ -36,7 +45,7 @@
                   Designer: Charles J. Kroegel Jr., Joel Billings
                   Composer: Doug Brandon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1405   Star Control II: The Ur-Quan Masters (1992)                                                209    2 
+    6. 1405   Star Control II: The Ur-Quan Masters (1992)                                                209    2 
                   USA | 30 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: 3DO, DOS, Win
                   Genre: Adventure, Indie, Simulator, Strategy | Theme: Action, Science Fiction
@@ -44,15 +53,6 @@
                   Publishers: Accolade
                   Designer: Fred Ford , Paul Reiche III
                   Composer: Aaron J. Grier, Dan Nicholson, Eric Berge, Erol Otus, Kevin Balivec, Marc Brown, Riku Nuottajärvi, Tommy V. Dunbar
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1389   Wolfenstein 3D (1992)                                                                      468    1 
-                  USA | 10 h | First person | PEGI: 12 | ESRB: M
-                  On: 3DO, DOS, GBA, Jaguar, Mac, PS3, SNES, Web browser, Win, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Fantasy, Historical, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: Activision, Atari, BAM! Entertainment, Bethesda, Electronic Arts, GT Interactive, Imagineer, Interplay, MacPlay, Zodttd, id Software
-                  Designer: John Romero, Tom Hall
-                  Composer: Brian Luzietti, Robert Prince, Todd Dennis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 1371   Cannon Fodder (1993)                                                                       365    1 
                   GBR | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: T
@@ -99,7 +99,16 @@
                   Designer: Reichart Kurt von Wolfsheild
                   Composer: Alexis C. Kasperavičius
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1132   Road Rash (1991)                                                                           328    1 
+   12. 1172   Samurai Shodown (1993)                                                                     495    1 
+                  JPN | 2 h | Side view | PEGI: 16 | ESRB: M
+                  On: 3DO, Arcade, GB, Game Gear, Mega Drive, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS2, SMS, SNES, Sega CD, Switch, Wii, Win
+                  Genre: Fighting | Theme: Action
+                  Developers: SNK
+                  Publishers: SNK
+                  Designer: Yasushi Adachi
+                  Composer: Masahiko Hataya, Yasuo Yamate
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1132   Road Rash (1991)                                                                           328    1 
                   USA | 7 h | Third person | PEGI: N/A | ESRB: E
                   On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
                   Genre: Fighting, Racing | Theme: Action

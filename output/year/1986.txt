@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2309   The Legend of Zelda (1986)                                                                 108    5 
+    1. 2311   The Legend of Zelda (1986)                                                                 108    5 
                   JPN | 9 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: 3DS, GBA, GameCube, NES, Switch, Wii, Wii U
                   Genre: Adventure | Theme: Action, Fantasy, Open world
@@ -9,7 +9,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2242   Metroid (1986)                                                                             117    4 
+    2. 2245   Metroid (1986)                                                                             117    4 
                   JPN | 7 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, Arcade, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -18,7 +18,7 @@
                   Designer: Satoru Okada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1826   Arkanoid (1986)                                                                            308    2 
+    3. 1848   Arkanoid (1986)                                                                            308    2 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
@@ -63,7 +63,16 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1503   Super Sprint (1986)                                                                         95    2 
+    8. 1506   Castlevania (1986)                                                                         302    2 
+                  JPN | 6 h | Side view | PEGI: 7 | ESRB: E10+
+                  On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
+                  Genre: Adventure, Platform | Theme: Action, Horror
+                  Developers: Konami
+                  Publishers: Konami, Nintendo
+                  Designer: Akihiko Nagata
+                  Composer: Kinuyo Yamashita, Satoe Terashima
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1503   Super Sprint (1986)                                                                         95    2 
                   USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Arcade, Atari ST, C64, NES, ZX Spectrum
                   Genre: Arcade, Racing | Theme: Action
@@ -72,7 +81,7 @@
                   Designer: Kelly Turner, Robert Weatherby
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1445   Nobunaga's Ambition (1986)                                                                  49    1 
+   10. 1445   Nobunaga's Ambition (1986)                                                                  49    1 
                   JPN | 40 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
                   Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
@@ -80,15 +89,6 @@
                   Publishers: Koei
                   Designer: Kou Shibusawa
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1427   Castlevania (1986)                                                                         302    1 
-                  JPN | 6 h | Side view | PEGI: 7 | ESRB: E10+
-                  On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
-                  Genre: Adventure, Platform | Theme: Action, Horror
-                  Developers: Konami
-                  Publishers: Konami, Nintendo
-                  Designer: Akihiko Nagata
-                  Composer: Kinuyo Yamashita, Satoe Terashima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1425   Rolling Thunder (1986)                                                                      63    1 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: N/A
@@ -117,7 +117,16 @@
                   Designer: Michael Cranford
                   Composer: David Warhol
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1226   King's Quest III: To Heir Is Human (1986)                                                  138    1 
+   14. 1241   Kid Icarus (1986)                                                                          324    2 
+                  JPN | 4 h | Side view | PEGI: 7 | ESRB: E
+                  On: Arcade, GBA, NES, Wii, Wii U
+                  Genre: Adventure, Platform, Shooter | Theme: Action, Fantasy
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Satoru Okada, Toru Osawa, Yoshio Sakamoto
+                  Composer: Hirokazu Tanaka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1226   King's Quest III: To Heir Is Human (1986)                                                  138    1 
                   USA | 5 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Atari ST, DOS, Mac, TRS-80
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy
@@ -126,7 +135,7 @@
                   Designer: Roberta Williams
                   Composer: Margaret Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1216   Gauntlet II (1986)                                                                         255    1 
+   16. 1216   Gauntlet II (1986)                                                                         255    1 
                   USA | 5 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, NES, ZX Spectrum
                   Genre: Adventure, Arcade, Hack and Slash | Theme: Action, Fantasy
@@ -135,7 +144,7 @@
                   Designer: Ed Logg
                   Composer: Brad Fuller, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1209   Pro Wrestling (1986)                                                                       321    1 
+   17. 1209   Pro Wrestling (1986)                                                                       321    1 
                   JPN | 1 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Arcade, NES, Switch
                   Genre: Fighting, Sport | Theme: Action, Wrestling
@@ -143,15 +152,6 @@
                   Publishers: Nintendo
                   Designer: Masato Masuda
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1176   Kid Icarus (1986)                                                                          324    1 
-                  JPN | 4 h | Side view | PEGI: 7 | ESRB: E
-                  On: Arcade, GBA, NES, Wii, Wii U
-                  Genre: Adventure, Platform, Shooter | Theme: Action, Fantasy
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Satoru Okada, Toru Osawa, Yoshio Sakamoto
-                  Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1170   Thrust (1986)                                                                              258    1 
                   GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A

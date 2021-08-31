@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2349   Super Mario 64 (1996)                                                                        1    8 
+    1. 2351   Super Mario 64 (1996)                                                                        1    8 
                   JPN | 17 h | Third person | PEGI: 3 | ESRB: E
                   On: N64, Switch, Wii, Wii U
                   Genre: Platform | Theme: Action
@@ -9,7 +9,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2114   Tomb Raider (1996)                                                                         194    6 
+    2. 2120   Tomb Raider (1996)                                                                         194    6 
                   GBR | 18 h | Third person | PEGI: 12 | ESRB: T
                   On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
@@ -18,7 +18,7 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2066   Pokémon Red (1996)                                                                         213    4 
+    3. 2073   Pokémon Red (1996)                                                                         213    4 
                   JPN | 44 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Kids, Open world
@@ -27,7 +27,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       2066   Pokémon Blue (1996)                                                                        214    4
+       2073   Pokémon Blue (1996)                                                                        214    4
                   JPN | 44 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
@@ -36,7 +36,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1985   Resident Evil (1996)                                                                       162    6 
+    5. 1996   Resident Evil (1996)                                                                       162    6 
                   JPN | 8 h | Third person | PEGI: 16 | ESRB: M
                   On: DS, PS3, PSX, Saturn, Win
                   Genre: Adventure | Theme: Fantasy, Horror, Survival
@@ -54,16 +54,7 @@
                   Designer: Brian Reynolds, Chris Taormino, Jason S. Coleman
                   Composer: Jeffery L. Briggs, Kevin Manthei, Roland J. Rizzo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1787   Quake (1996)                                                                                 9    2 
-                  USA | 7 h | First person | PEGI: N/A | ESRB: M
-                  On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
-                  Genre: Shooter | Theme: Action, Comedy, Historical, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: GT Interactive, MacSoft Games, Midway, PXL computers, Pulse Interactive, R-Comp Interactive, Sega, id Software
-                  Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
-                  Composer: Nine Inch Nails, Trent Reznor
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1762   Diablo (1996)                                                                              269    2 
+    7. 1791   Diablo (1996)                                                                              269    2 
                   USA | 18 h | Bird view / Isometric | PEGI: N/A | ESRB: M
                   On: Mac, PSX, Win
                   Genre: RPG, Strategy | Theme: Action, Fantasy, Historical, Horror
@@ -71,6 +62,15 @@
                   Publishers: Blizzard Entertainment, Electronic Arts, Sourcenext
                   Designer: David Brevik, Eric Sexton, Erik Schaefer, Kenneth Williams, Max Schaefer
                   Composer: Matt Uelmen
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1787   Quake (1996)                                                                                 9    2 
+                  USA | 7 h | First person | PEGI: N/A | ESRB: M
+                  On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
+                  Genre: Shooter | Theme: Action, Comedy, Historical, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: GT Interactive, MacSoft Games, Midway, PXL computers, Pulse Interactive, R-Comp Interactive, Sega, id Software
+                  Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
+                  Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1699   Duke Nukem 3D (1996)                                                                        51    2 
                   USA | 12 h | First person | PEGI: 16 | ESRB: M
@@ -126,7 +126,7 @@
                   Designer: Unknown
                   Composer: Hiroshi Okubo, Tetsukazu Nakanishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1537   Twisted Metal 2 (1996)                                                                     317    2 
+   15. 1595   Twisted Metal 2 (1996)                                                                     317    2 
                   USA | 10 h | Third person | PEGI: N/A | ESRB: T
                   On: PS3, PSX, Win
                   Genre: Fighting, Racing, Shooter | Theme: Action, Comedy, Horror, Survival, Thriller
@@ -135,16 +135,7 @@
                   Designer: David Jaffe
                   Composer: Chuck E. Myers, Lance Lenhart, Tom Hopkins
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1527   NFL GameDay (1996)                                                                          28    2 
-                  USA | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: E
-                  On: PSX
-                  Genre: Sport | Theme: American Football
-                  Developers: Sony
-                  Publishers: Sony
-                  Designer: Amir Zbeda, Kelly Walker
-                  Composer: The Pinnacle Group
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1517   Tetris Attack (1996)                                                                       333    2 
+   16. 1577   Tetris Attack (1996)                                                                       333    2 
                   JPN | 4 h | Side view | PEGI: N/A | ESRB: E
                   On: GB, SNES
                   Genre: Puzzle | Theme: Action, Kids
@@ -153,7 +144,7 @@
                   Designer: Hitoshi Yamagami, Masao Yamamoto, Toshitaka Muramatsu
                   Composer: Masaru Tajima, Masaya Kuzume, Yuka Tsujiyoko
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1488   Command & Conquer: Red Alert (1996)                                                        452    1 
+   17. 1551   Command & Conquer: Red Alert (1996)                                                        452    1 
                   USA | 31 h | Bird view / Isometric | PEGI: 12 | ESRB: T
                   On: DOS, PS3, PSP, PSX, Win
                   Genre: Real Time Strategy, Strategy | Theme: Historical, Science Fiction, Warfare
@@ -161,6 +152,15 @@
                   Publishers: Electronic Arts, Sold Out Sales & Marketing, Sony, Virgin
                   Designer: Adam P. Isgreen, Erik Yeo, Michael Lightner
                   Composer: Frank Klepacki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1527   NFL GameDay (1996)                                                                          28    2 
+                  USA | 20 h | Bird view / Isometric | PEGI: N/A | ESRB: E
+                  On: PSX
+                  Genre: Sport | Theme: American Football
+                  Developers: Sony
+                  Publishers: Sony
+                  Designer: Amir Zbeda, Kelly Walker
+                  Composer: The Pinnacle Group
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1482   International Track & Field (1996)                                                         225    1 
                   JPN | 1 h | Auditory | PEGI: 3 | ESRB: E
@@ -207,7 +207,16 @@
                   Designer: Chris Robertson
                   Composer: Marc Baril
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1419   Sega Worldwide Soccer '97 (1996)                                                            67    1 
+   24. 1421   Super Mario RPG: Legend of the Seven Stars (1996)                                          476    1 
+                  JPN | 19 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: SNES, Wii, Wii U
+                  Genre: Adventure, Platform, RPG | Theme: Action, Comedy, Fantasy, Kids
+                  Developers: Square
+                  Publishers: Nintendo
+                  Designer: Chihiro Fujioka, Yoshihiko Maekawa
+                  Composer: Yoko Shimomura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1419   Sega Worldwide Soccer '97 (1996)                                                            67    1 
                   JPN | 9 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: Saturn
                   Genre: Sport | Theme: Football
@@ -216,7 +225,7 @@
                   Designer: Toshinori Asai
                   Composer: Jun Senoue, Seirou Okamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1369   PowerSlave (1996)                                                                          241    1 
+   26. 1369   PowerSlave (1996)                                                                          241    1 
                   USA | 11 h | First person | PEGI: N/A | ESRB: M
                   On: DOS, PSX, Saturn
                   Genre: Shooter, Strategy | Theme: Action, Educational, Fantasy, Science Fiction
@@ -224,15 +233,6 @@
                   Publishers: BMG, Playmates Interactive Entertainment
                   Designer: Brian McNeely
                   Composer: Scott Branston
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1350   Super Mario RPG: Legend of the Seven Stars (1996)                                          476    1 
-                  JPN | 19 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: SNES, Wii, Wii U
-                  Genre: Adventure, Platform, RPG | Theme: Action, Comedy, Fantasy, Kids
-                  Developers: Square
-                  Publishers: Nintendo
-                  Designer: Chihiro Fujioka, Yoshihiko Maekawa
-                  Composer: Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    27. 1347   Heroes of Might and Magic II: The Succession Wars (1996)                                   199    1 
                   USA | 63 h | Bird view / Isometric | PEGI: N/A | ESRB: E
