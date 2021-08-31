@@ -8692,6 +8692,23 @@
         "pegi": "18",
         "esrb": "M",
         "hltb": 59
+    },
+    "Rome: Total War (2004)":
+    {
+        "id": 512,
+        "year": 2004,
+        "country": ["GBR"],
+        "platforms": ["Mac", "iOS", "Win"],
+        "developers": ["The Creative Assembly"],
+        "publishers": ["Sega", "Activision", "Feral Interactive"],
+        "genre": ["Real Time Strategy", "Simulator", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Historical", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Michael M. Simpson", "Robert T. Smith", "Mike Brunton", "Michael de Plater", "Jamie Ferguson", "Chris Gambold"],
+        "composer": ["Jeff van Dyck"],
+        "pegi": "12",
+        "esrb": "T",
+        "hltb": 55
     }
 
 }
