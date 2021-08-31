@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2346   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
+    1. 2347   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
                   JPN | 31 h | Third person | PEGI: 12 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
@@ -27,7 +27,7 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2059   StarCraft (1998)                                                                           201    5 
+    4. 2061   StarCraft (1998)                                                                           201    5 
                   USA | 27 h | Bird view / Isometric | PEGI: 16 | ESRB: T
                   On: Mac, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction
@@ -36,7 +36,7 @@
                   Designer: Chris Metzen, James Phinney
                   Composer: Derek Duke, Glenn Stafford, Jason Hayes, Tracy W. Bush
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2014   Resident Evil 2 (1998)                                                                     187    4 
+    5. 2016   Resident Evil 2 (1998)                                                                     187    4 
                   JPN | 9 h | Third person | PEGI: 18 | ESRB: M
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Genre: Adventure, Shooter | Theme: Action, Horror, Survival
@@ -45,7 +45,7 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1926   SoulCalibur (1998)                                                                         222    5 
+    6. 1929   SoulCalibur (1998)                                                                         222    5 
                   JPN | 9 h | Third person | PEGI: 16 | ESRB: T
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Genre: Arcade, Fighting | Theme: Action, Fantasy, Historical
@@ -54,7 +54,7 @@
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1708   Crash Bandicoot: Warped (1998)                                                             293    2 
+    7. 1715   Crash Bandicoot: Warped (1998)                                                             293    2 
                   USA | 8 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: PS3, PSP, PSX
                   Genre: Adventure, Platform | Theme: Action, Fantasy, Historical, Science Fiction
@@ -90,16 +90,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1454   1080° Snowboarding (1998)                                                                  231    1 
-                  JPN | 7 h | Third person | PEGI: 3 | ESRB: E
-                  On: N64, Wii, Wii U
-                  Genre: Racing, Sport | Theme: Action, Snowboarding
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Masamichi Abe, Mitsuhiro Takano
-                  Composer: Kenta Nagata
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1449   Panzer Dragoon Saga (1998)                                                                 320    2 
+   11. 1458   Panzer Dragoon Saga (1998)                                                                 320    2 
                   JPN | 16 h | Third person | PEGI: N/A | ESRB: T
                   On: Saturn
                   Genre: RPG | Theme: Fantasy
@@ -107,6 +98,15 @@
                   Publishers: Sega
                   Designer: Manabu Kusunoki, Yukio Futatsugi
                   Composer: Mariko Nanba, Saori Kobayashi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1454   1080° Snowboarding (1998)                                                                  231    1 
+                  JPN | 7 h | Third person | PEGI: 3 | ESRB: E
+                  On: N64, Wii, Wii U
+                  Genre: Racing, Sport | Theme: Action, Snowboarding
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Masamichi Abe, Mitsuhiro Takano
+                  Composer: Kenta Nagata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    13. 1427   Ridge Racer Type 4 (1998)                                                                  234    1 
                   JPN | 9 h | First person, Third person | PEGI: 3 | ESRB: E
@@ -144,7 +144,7 @@
                   Designer: Tim Schafer
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1327   Madden NFL ’99 (1998)                                                                      466    1 
+   17. 1332   Madden NFL ’99 (1998)                                                                      466    1 
                   USA | 20 h | Third person | PEGI: N/A | ESRB: E
                   On: N64, PSX, Win
                   Genre: Simulator, Sport | Theme: American Football, Non-fiction

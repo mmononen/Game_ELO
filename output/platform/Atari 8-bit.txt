@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2200   Ms. Pac-Man (1982)                                                                          12    4 
+    1. 2201   Ms. Pac-Man (1982)                                                                          12    4 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -9,7 +9,7 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1952   Pac-Man (1980)                                                                             251    3 
+    2. 1954   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -18,7 +18,7 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1870   Zork I: The Great Underground Empire (1980)                                                 54    5 
+    3. 1874   Zork I: The Great Underground Empire (1980)                                                 54    5 
                   USA | 4 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
@@ -45,7 +45,7 @@
                   Designer: Matthew Smith
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1778   Donkey Kong (1981)                                                                          70    4 
+    6. 1783   Donkey Kong (1981)                                                                          70    4 
                   JPN | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action
@@ -54,7 +54,7 @@
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1777   Arkanoid (1986)                                                                            308    2 
+    7. 1782   Arkanoid (1986)                                                                            308    2 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
@@ -99,16 +99,7 @@
                   Designer: Mike Hally
                   Composer: Earl Vickers
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1630   Head Over Heels (1987)                                                                     244    2 
-                  GBR | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
-                  Genre: Adventure, Platform, Puzzle | Theme: Action, Science Fiction
-                  Developers: Ocean Software
-                  Publishers: Ocean Software
-                  Designer: Jon Ritman
-                  Composer: Guy Stevens
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1616   Asteroids (1979)                                                                            59    3 
+   12. 1640   Asteroids (1979)                                                                            59    4 
                   USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -116,6 +107,15 @@
                   Publishers: Adventure International, Atari, Sega, Taito
                   Designer: Ed Logg, Lyle Rains
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1630   Head Over Heels (1987)                                                                     244    2 
+                  GBR | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
+                  Genre: Adventure, Platform, Puzzle | Theme: Action, Science Fiction
+                  Developers: Ocean Software
+                  Publishers: Ocean Software
+                  Designer: Jon Ritman
+                  Composer: Guy Stevens
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric | PEGI: 3 | ESRB: E

@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2200   Ms. Pac-Man (1982)                                                                          12    4 
+    2. 2201   Ms. Pac-Man (1982)                                                                          12    4 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -18,7 +18,16 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1954   Elite (1984)                                                                                14    3 
+    3. 1954   Pac-Man (1980)                                                                             251    3 
+                  JPN | 2 h | Side view | PEGI: 3 | ESRB: E
+                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
+                  Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
+                  Developers: Namco
+                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
+                  Designer: Toru Iwatani
+                  Composer: Shigeichi Ishimura, Toshio Kai
+
+       1954   Elite (1984)                                                                                14    3
                   GBR | 100 h | First person | PEGI: N/A | ESRB: N/A
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
                   Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
@@ -27,16 +36,7 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1952   Pac-Man (1980)                                                                             251    3 
-                  JPN | 2 h | Side view | PEGI: 3 | ESRB: E
-                  On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
-                  Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
-                  Developers: Namco
-                  Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
-                  Designer: Toru Iwatani
-                  Composer: Shigeichi Ishimura, Toshio Kai
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1870   Zork I: The Great Underground Empire (1980)                                                 54    5 
+    5. 1874   Zork I: The Great Underground Empire (1980)                                                 54    5 
                   USA | 4 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
@@ -63,7 +63,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1777   Arkanoid (1986)                                                                            308    2 
+    8. 1782   Arkanoid (1986)                                                                            308    2 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
@@ -108,22 +108,22 @@
                   Designer: Richard Garriott
                   Composer: David R. Watson, Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1628   The Bard's Tale (1985)                                                                     104    2 
-                  USA | 28 h | First person | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
-                  Genre: Adventure, RPG | Theme: Fantasy
-                  Developers: Interplay
-                  Publishers: Electronic Arts, Pony Canyon
-                  Designer: Michael Cranford
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1616   Asteroids (1979)                                                                            59    3 
+   13. 1640   Asteroids (1979)                                                                            59    4 
                   USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
                   Developers: Atari
                   Publishers: Adventure International, Atari, Sega, Taito
                   Designer: Ed Logg, Lyle Rains
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1628   The Bard's Tale (1985)                                                                     104    2 
+                  USA | 28 h | First person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
+                  Genre: Adventure, RPG | Theme: Fantasy
+                  Developers: Interplay
+                  Publishers: Electronic Arts, Pony Canyon
+                  Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
