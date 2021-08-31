@@ -8505,6 +8505,40 @@
 		"pegi": "N/A",
 		"esrb": "M",
         "hltb": 20
+    },
+    "Eternal Darkness: Sanity's Requiem (2002)":
+    {
+        "id": 501,
+        "year": 2002,
+        "country": ["CAN"],
+        "platforms": ["GameCube"],
+        "developers": ["Silicon Knights"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Denis Dyack", "Tatsuya Hishida", "Hiroyuki Yamada", "Brad Furminger", "Ted Traver"],
+        "composer": ["Steve Henifin"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 15
+    },
+    "Jak 3 (2004)":
+    {
+        "id": 502,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["PS4", "PS2", "Vita", "PS3"],
+        "developers": ["Naughty Dog"],
+        "publishers": ["Sony"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Jason Rubin", "Amy Hennig", "Evan Wells", "Richard Lemarchand"],
+        "composer": ["Josh Mancell", "Larry Hopkins"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 14
     }
 
 }
