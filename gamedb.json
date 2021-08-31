@@ -8165,6 +8165,142 @@
 		"pegi": "N/A",
 		"esrb": "T",
         "hltb": 42
+    },
+    "LittleBigPlanet (2008)":
+    {
+        "id": 481,
+        "year": 2008,
+        "country": ["GBR"],
+        "platforms": ["PS3"],
+        "developers": ["Media Molecule"],
+        "publishers": ["Sony"],
+        "genre": ["Platform"],
+        "theme": ["Comedy", "Fantasy", "Kids", "Sandbox"],
+        "perspective": ["Side view"],
+        "designer": ["Mark Healey", "David Smith"],
+        "composer": ["Kenneth Young", "Mat Clark", "Daniel Pemberton"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 18
+    },
+    "Crackdown (2007)":
+    {
+        "id": 482,
+        "year": 2007,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360"],
+        "developers": ["Realtime Worlds"],
+        "publishers": ["Microsoft"],
+        "genre": ["Adventure", "RPG", "Shooter"],
+        "theme": ["Action", "Sandbox", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["David Jones", "Billy Thomson"],
+        "composer": ["Hideaki Ishi"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 17
+    },
+    "Devil May Cry (2001)":
+    {
+        "id": 483,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["Xbox One", "PS4", "Xbox 360", "PS2", "PS3", "Win", "Switch"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Hack and Slash"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Hideki Kamiya"],
+        "composer": ["Masami Ueda", "Masato Kohda", "Misao Senbongi"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 9
+    },
+    "Battlefield 1942 (2002)":
+    {
+        "id": 484,
+        "year": 2002,
+        "country": ["SWE"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Digital Illusions"],
+        "publishers": ["Aspyr", "Electronic Arts"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Johan Persson", "Romain de Waubert de Genlis"],
+        "composer": ["Joel Eriksson"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 24
+    },
+    "Geometry Wars: Retro Evolved (2005)":
+    {
+        "id": 485,
+        "year": 2005,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "Win"],
+        "developers": ["Bizarre Creations"],
+        "publishers": ["Microsoft", "Bizarre Creations"],
+        "genre": ["Arcade", "Shooter"],
+        "theme": ["Abstract"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Stephen Cakebread"],
+        "composer": ["Chris Chudley"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 9
+    },
+    "Far Cry (2004)":
+    {
+        "id": 486,
+        "year": 2004,
+        "country": ["GER"],
+        "platforms": ["Win"],
+        "developers": ["Crytek"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Cevat Yerli"],
+        "composer": ["Thomas Baertschi"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 17
+    },
+    "Peggle (2007)":
+    {
+        "id": 487,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Android", "DS", "Xbox 360", "Mac", "iOS", "Mobile", "PS3", "Win"],
+        "developers": ["PopCap Games", "Q Entertainment"],
+        "publishers": ["PopCap Games"],
+        "genre": ["Puzzle"],
+        "theme": ["Action", "Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Brian Rothstein", "Eric Tams"],
+        "composer": ["Matthew Lee Johnston", "Somatone Interactive Audio"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 12
+    },
+    "Braid (2008)":
+    {
+        "id": 488,
+        "year": 2008,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "PS3", "Win"],
+        "developers": ["Number None"],
+        "publishers": ["Number None", "Microsoft"],
+        "genre": ["Adventure", "Indie", "Platform", "Puzzle", "Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Jonathan Blow"],
+        "composer": ["Jami Sieber", "Shira Kammen", "CHeryl Ann Fulton"],
+		"pegi": "12",
+		"esrb": "E10+",
+        "hltb": 6
     }
 
 }

@@ -1,38 +1,38 @@
-Games in database: 480
-Total: 12013 h | Average: 25 h | Median: 10 h
+Games in database: 488
+Total: 12125 h | Average: 24 h | Median: 10 h
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 204 (42%)
-  2. JPN                   : 188 (39%)
-  3. GBR                   :  66 (13%)
+  1. USA                   : 206 (42%)
+  2. JPN                   : 189 (38%)
+  3. GBR                   :  69 (14%)
   4. CAN                   :  15 (3%)
-  5. AUS                   :   3 (0%)
-  6. GER                   :   2 (0%)
-  7. URS                   :   1 (0%)
-  =  SWE                   :   1 (0%)
+  5. GER                   :   3 (0%)
+  =  AUS                   :   3 (0%)
+  7. SWE                   :   2 (0%)
+  8. URS                   :   1 (0%)
   =  FRA                   :   1 (0%)
   =  FIN                   :   1 (0%)
   =  CZE                   :   1 (0%)
 
 Platforms (Top 10):
 -------------------
-  1. DOS                   : 159 (33%)
-  2. Win                   : 157 (32%)
-  3. Mac                   : 117 (24%)
+  1. Win                   : 163 (33%)
+  2. DOS                   : 159 (32%)
+  3. Mac                   : 120 (24%)
   4. Amiga                 : 103 (21%)
-  5. C64                   : 102 (21%)
-  6. Arcade                :  87 (18%)
-  7. Atari ST              :  82 (17%)
+  5. C64                   : 102 (20%)
+  6. Arcade                :  87 (17%)
+  7. Atari ST              :  82 (16%)
   8. PSX                   :  79 (16%)
-  9. NES                   :  77 (16%)
+  9. NES                   :  77 (15%)
  10. Wii                   :  75 (15%)
 
 Years (Top 10):
 ---------------
   1. 1996                  :  37 (7%)
   2. 1994                  :  30 (6%)
-  3. 1993                  :  29 (6%)
+  3. 1993                  :  29 (5%)
   4. 1998                  :  27 (5%)
   =  1987                  :  27 (5%)
   6. 1995                  :  22 (4%)
@@ -43,55 +43,55 @@ Years (Top 10):
 
 PEGI Ratings:
 -------------
-  1. N/A                   : 243 (50%)
-  2. 3                     :  69 (14%)
-  3. 12                    :  62 (12%)
-  4. 7                     :  53 (11%)
-  5. 16                    :  35 (7%)
-  6. 18                    :  18 (3%)
+  1. N/A                   : 244 (50%)
+  2. 3                     :  70 (14%)
+  3. 12                    :  63 (12%)
+  4. 7                     :  54 (11%)
+  5. 16                    :  38 (7%)
+  6. 18                    :  19 (3%)
 
 ESRB Ratings:
 -------------
-  1. E                     : 171 (35%)
+  1. E                     : 174 (35%)
   2. N/A                   : 148 (30%)
-  3. T                     :  77 (16%)
-  4. M                     :  57 (11%)
-  5. E10+                  :  27 (5%)
+  3. T                     :  78 (15%)
+  4. M                     :  60 (12%)
+  5. E10+                  :  28 (5%)
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 157 (32%)
-  2. Shooter               : 110 (22%)
-  3. RPG                   : 100 (20%)
-  4. Platform              :  88 (18%)
-  5. Arcade                :  78 (16%)
-  6. Sport                 :  74 (15%)
-  7. Strategy              :  73 (15%)
+  1. Adventure             : 159 (32%)
+  2. Shooter               : 114 (23%)
+  3. RPG                   : 101 (20%)
+  4. Platform              :  90 (18%)
+  5. Arcade                :  79 (16%)
+  6. Strategy              :  74 (15%)
+  =  Sport                 :  74 (15%)
   8. Simulator             :  60 (12%)
-  9. Puzzle                :  49 (10%)
+  9. Puzzle                :  51 (10%)
  10. Racing                :  43 (8%)
 
 Themes (Top 10):
 -------------------
-  1. Action                : 304 (63%)
-  2. Fantasy               : 148 (30%)
-  3. Science Fiction       : 126 (26%)
-  4. Historical            :  45 (9%)
-  5. Comedy                :  35 (7%)
-  6. Warfare               :  31 (6%)
-  7. Horror                :  29 (6%)
-  8. Sandbox               :  22 (4%)
+  1. Action                : 309 (63%)
+  2. Fantasy               : 151 (30%)
+  3. Science Fiction       : 128 (26%)
+  4. Historical            :  46 (9%)
+  5. Comedy                :  37 (7%)
+  6. Warfare               :  32 (6%)
+  7. Horror                :  29 (5%)
+  8. Sandbox               :  24 (4%)
   9. Open world            :  21 (4%)
  10. Non-fiction           :  20 (4%)
 
 Developers (Top 10):
 --------------------
   1. Nintendo              :  37 (7%)
-  2. Sega                  :  24 (5%)
+  2. Sega                  :  24 (4%)
   3. Konami                :  21 (4%)
   4. Square                :  17 (3%)
   5. Namco                 :  16 (3%)
-  6. Capcom                :  15 (3%)
+  =  Capcom                :  16 (3%)
   7. Sierra                :  13 (2%)
   8. Origin                :  12 (2%)
   =  Electronic Arts       :  12 (2%)
@@ -99,10 +99,10 @@ Developers (Top 10):
 
 Publishers (Top 10):
 -------------------
-  1. Nintendo              :  63 (13%)
+  1. Nintendo              :  63 (12%)
   2. Sega                  :  59 (12%)
-  3. Electronic Arts       :  54 (11%)
-  4. Sony                  :  37 (7%)
+  3. Electronic Arts       :  55 (11%)
+  4. Sony                  :  38 (7%)
   5. Atari                 :  31 (6%)
   6. Konami                :  26 (5%)
   7. Activision            :  23 (4%)
@@ -110,13 +110,14 @@ Publishers (Top 10):
   =  Sierra                :  22 (4%)
  10. U.S. Gold             :  19 (3%)
   =  Namco                 :  19 (3%)
+  =  Capcom                :  19 (3%)
 
 Perspectives:
 -------------
-  1. Bird view / Isometric : 171 (35%)
-  2. Third person          : 151 (31%)
-  3. Side view             : 134 (27%)
-  4. First person          : 102 (21%)
+  1. Bird view / Isometric : 172 (35%)
+  2. Third person          : 154 (31%)
+  3. Side view             : 137 (28%)
+  4. First person          : 104 (21%)
   5. Text                  :   9 (1%)
   6. Auditory              :   3 (0%)
 
@@ -150,6 +151,7 @@ Composers (Top 10):
  10. Yasunori Mitsuda      :   4 (0%)
   =  Robert Prince         :   4 (0%)
   =  Richard Joseph        :   4 (0%)
+  =  Masami Ueda           :   4 (0%)
   =  Jeremy Soule          :   4 (0%)
   =  Jeffery L. Briggs     :   4 (0%)
   =  Jeff van Dyck         :   4 (0%)

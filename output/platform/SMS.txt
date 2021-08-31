@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2400   Tetris (1984)                                                                                2    8 
+    1. 2401   Tetris (1984)                                                                                2    8 
                   URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2201   Ms. Pac-Man (1982)                                                                          12    4 
+    2. 2207   Ms. Pac-Man (1982)                                                                          12    4 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2127   Galaga (1981)                                                                              170    5 
+    3. 2137   Galaga (1981)                                                                              170    5 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: Arcade, Atari 7800, FM-7, MSX, NES, PC-98, SG-1000, SMS, Sharp X1, Xbox 360
                   Genre: Arcade, Shooter | Theme: Science Fiction
@@ -27,7 +27,7 @@
                   Designer: Hiroshi Ono, Shigeru Yokoyama
                   Composer: Nobuyuki Ohnogi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1857   Lemmings (1991)                                                                              8    4 
+    4. 1891   Lemmings (1991)                                                                              8    4 
                   GBR | 23 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
@@ -63,16 +63,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1742   OutRun (1986)                                                                               65    3 
-                  JPN | 2 h | Third person | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
-                  Genre: Arcade, Racing | Theme: Action, Non-fiction
-                  Developers: Sega
-                  Publishers: Mindscape, NEC Avenue, Sega, U.S. Gold
-                  Designer: Yu Suzuki
-                  Composer: Hiroshi Kawaguchi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1725   Double Dragon (1987)                                                                       318    3 
+    8. 1777   Double Dragon (1987)                                                                       318    3 
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -80,6 +71,15 @@
                   Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1742   OutRun (1986)                                                                               65    3 
+                  JPN | 2 h | Third person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
+                  Genre: Arcade, Racing | Theme: Action, Non-fiction
+                  Developers: Sega
+                  Publishers: Mindscape, NEC Avenue, Sega, U.S. Gold
+                  Designer: Yu Suzuki
+                  Composer: Hiroshi Kawaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    10. 1698   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view | PEGI: 7 | ESRB: E
@@ -135,7 +135,16 @@
                   Designer: Andrew Graham
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1443   Impossible Mission (1984)                                                                  350    1 
+   16. 1482   Gauntlet (1985)                                                                            310    2 
+                  USA | 10 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
+                  Genre: Arcade, Hack and Slash | Theme: Action, Fantasy, Historical
+                  Developers: Atari
+                  Publishers: Atari, Mindscape, U.S. Gold
+                  Designer: Ed Logg
+                  Composer: Ben Daglish, Earl Vickers, Hal Canon
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1443   Impossible Mission (1984)                                                                  350    1 
                   USA | 3 h | Side view | PEGI: 3 | ESRB: E10+
                   On: Acorn Electron, Amstrad CPC, Apple II, Atari 7800, BBC, C64, PC-8801, PSP, SMS, Sharp X1, Switch, Wii, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action, Science Fiction, Stealth
@@ -144,7 +153,7 @@
                   Designer: Dennis Caswell
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1408   Kick Off 2 (1990)                                                                          359    1 
+   18. 1408   Kick Off 2 (1990)                                                                          359    1 
                   GBR | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Atari ST, Game Gear, SMS, SNES
                   Genre: Sport | Theme: Football
@@ -153,7 +162,7 @@
                   Designer: Dino Dini
                   Composer: Fredrik Segerfalk, Kazuo Sawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1335   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
+   19. 1335   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
                   GBR | 7 h | Side view | PEGI: 3 | ESRB: N/A
                   On: Amiga, Atari ST, C64, CD32, DOS, DS, GB, GBA, Game Gear, Mega Drive, PS2, PS3, PSP, PSX, SMS, SNES, Switch
                   Genre: Platform | Theme: Action, Comedy
@@ -162,7 +171,7 @@
                   Designer: Chris Sorrell
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1323   Phantasy Star (1987)                                                                       122    2 
+   20. 1323   Phantasy Star (1987)                                                                       122    2 
                   JPN | 18 h | Bird view / Isometric, First person | PEGI: 7 | ESRB: E10+
                   On: SMS, Wii
                   Genre: RPG | Theme: Fantasy, Science Fiction
@@ -170,15 +179,6 @@
                   Publishers: Sega
                   Designer: Kotaro Hayashida
                   Composer: Tokuhiko Uwabo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1315   Gauntlet (1985)                                                                            310    1 
-                  USA | 10 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
-                  Genre: Arcade, Hack and Slash | Theme: Action, Fantasy, Historical
-                  Developers: Atari
-                  Publishers: Atari, Mindscape, U.S. Gold
-                  Designer: Ed Logg
-                  Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1300   Ghouls 'n Ghosts (1988)                                                                    313    1 
                   JPN | 3 h | Side view | PEGI: 7 | ESRB: E

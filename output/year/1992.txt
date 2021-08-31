@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2287   Super Mario Kart (1992)                                                                     53    7 
+    1. 2291   Super Mario Kart (1992)                                                                     53    7 
                   JPN | 10 h | Third person | PEGI: 3 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Arcade, Racing | Theme: Action, Party
@@ -9,7 +9,7 @@
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2003   Sonic the Hedgehog 2 (1992)                                                                 37    6 
+    2. 2021   Sonic the Hedgehog 2 (1992)                                                                 37    6 
                   USA | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -36,7 +36,7 @@
                   Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1736   Mortal Kombat (1992)                                                                       360    2 
+    5. 1786   Mortal Kombat (1992)                                                                       360    2 
                   USA | 6 h | Side view | PEGI: 18 | ESRB: M
                   On: Amiga, Arcade, DOS, GB, Game Gear, Mega Drive, SNES, Saturn, Sega CD
                   Genre: Fighting | Theme: Action
@@ -108,52 +108,7 @@
                   Designer: Fred Ford , Paul Reiche III
                   Composer: Aaron J. Grier, Dan Nicholson, Eric Berge, Erol Otus, Kevin Balivec, Marc Brown, Riku Nuottajärvi, Tommy V. Dunbar
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1387   Shining Force (1992)                                                                       130    2 
-                  JPN | 22 h | Bird view / Isometric | PEGI: 7 | ESRB: E
-                  On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
-                  Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
-                  Developers: Camelot Software Planning, Climax Entertainment
-                  Publishers: Sega
-                  Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
-                  Composer: Masahiko Yoshimura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1 
-                  JPN | 38 h | Bird view / Isometric | PEGI: N/A | ESRB: E10+
-                  On: Android, DS, PS2, SNES, iOS
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Chunsoft
-                  Publishers: Enix
-                  Designer: Yuji Horii
-                  Composer: Koichi Sugiyama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1351   Streets of Rage 2 (1992)                                                                   367    1 
-                  JPN | 3 h | Side view | PEGI: 12 | ESRB: E
-                  On: Linux, Mega Drive, PS3, Wii, Win
-                  Genre: Arcade, Hack and Slash | Theme: Action
-                  Developers: Ancient
-                  Publishers: Sega
-                  Designer: Ayano Koshiro, Kataru Uchimura, Mikito Ichikawa
-                  Composer: Motohiro Kawashima, Yuo Koshiro
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
-                  USA | 99 h | First person | PEGI: N/A | ESRB: E
-                  On: DOS, Linux, Mac, Win
-                  Genre: Adventure, RPG | Theme: Fantasy
-                  Developers: Sir-Tech
-                  Publishers: Sir-Tech
-                  Designer: David W. Bradley
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1346   Flashback (1992)                                                                           368    1 
-                  FRA | 6 h | Side view | PEGI: N/A | ESRB: N/A
-                  On: 3DO, Acorn Archimedes, Amiga, DOS, Jaguar, Mac, Mega Drive, Philips CD-i, SNES, Sega CD
-                  Genre: Adventure, Platform | Theme: Action, Science Fiction
-                  Developers: Delphine Software, Tiertex
-                  Publishers: U.S. Gold
-                  Designer: Paul Cuisset
-                  Composer: Fabrice Visserot, Jean Baudlot, Raphaël Gesqua
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1326   Wolfenstein 3D (1992)                                                                      468    1 
+   13. 1389   Wolfenstein 3D (1992)                                                                      468    1 
                   USA | 10 h | First person | PEGI: 12 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Mac, PS3, SNES, Web browser, Win, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Fantasy, Historical, Horror, Science Fiction
@@ -162,16 +117,25 @@
                   Designer: John Romero, Tom Hall
                   Composer: Brian Luzietti, Robert Prince, Todd Dennis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
-                  JPN | 2 h | Bird view / Isometric, Side view, Third person | PEGI: 12 | ESRB: E10+
-                  On: 3DS, GBA, SNES, Wii, Wii U
-                  Genre: Adventure, Shooter | Theme: Action, Science Fiction
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Nobuya Nakazato
-                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
+   14. 1387   Shining Force (1992)                                                                       130    2 
+                  JPN | 22 h | Bird view / Isometric | PEGI: 7 | ESRB: E
+                  On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
+                  Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
+                  Developers: Camelot Software Planning, Climax Entertainment
+                  Publishers: Sega
+                  Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
+                  Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1226   King's Quest VI: Heir Today, Gone Tomorrow (1992)                                          141    1 
+   15. 1372   Dragon Quest V: Hand of the Heavenly Bride (1992)                                           91    1 
+                  JPN | 38 h | Bird view / Isometric | PEGI: N/A | ESRB: E10+
+                  On: Android, DS, PS2, SNES, iOS
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Chunsoft
+                  Publishers: Enix
+                  Designer: Yuji Horii
+                  Composer: Koichi Sugiyama
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1366   King's Quest VI: Heir Today, Gone Tomorrow (1992)                                          141    2 
                   USA | 9 h | Third person | PEGI: 12 | ESRB: E
                   On: Amiga, DOS, Mac, Win
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Fantasy, Historical
@@ -179,6 +143,42 @@
                   Publishers: Activision, Sierra
                   Designer: Jane Jensen, Roberta Williams, William D. Skirvin
                   Composer: Chris Braymen
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1351   Streets of Rage 2 (1992)                                                                   367    1 
+                  JPN | 3 h | Side view | PEGI: 12 | ESRB: E
+                  On: Linux, Mega Drive, PS3, Wii, Win
+                  Genre: Arcade, Hack and Slash | Theme: Action
+                  Developers: Ancient
+                  Publishers: Sega
+                  Designer: Ayano Koshiro, Kataru Uchimura, Mikito Ichikawa
+                  Composer: Motohiro Kawashima, Yuo Koshiro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1349   Wizardry VII: Crusaders of the Dark Savant (1992)                                          102    1 
+                  USA | 99 h | First person | PEGI: N/A | ESRB: E
+                  On: DOS, Linux, Mac, Win
+                  Genre: Adventure, RPG | Theme: Fantasy
+                  Developers: Sir-Tech
+                  Publishers: Sir-Tech
+                  Designer: David W. Bradley
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1346   Flashback (1992)                                                                           368    1 
+                  FRA | 6 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: 3DO, Acorn Archimedes, Amiga, DOS, Jaguar, Mac, Mega Drive, Philips CD-i, SNES, Sega CD
+                  Genre: Adventure, Platform | Theme: Action, Science Fiction
+                  Developers: Delphine Software, Tiertex
+                  Publishers: U.S. Gold
+                  Designer: Paul Cuisset
+                  Composer: Fabrice Visserot, Jean Baudlot, Raphaël Gesqua
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1264   Contra III: The Alien Wars (1992)                                                          249    1 
+                  JPN | 2 h | Bird view / Isometric, Side view, Third person | PEGI: 12 | ESRB: E10+
+                  On: 3DS, GBA, SNES, Wii, Wii U
+                  Genre: Adventure, Shooter | Theme: Action, Science Fiction
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Nobuya Nakazato
+                  Composer: Masanori Adachi, Miki Higashino, Tappi Iwase
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1110   Championship Manager (1992)                                                                384    1 
                   GBR | 100 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
