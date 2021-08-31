@@ -8709,6 +8709,57 @@
         "pegi": "12",
         "esrb": "T",
         "hltb": 55
+    },
+    "StarCraft II: Wings of Liberty (2010)":
+    {
+        "id": 513,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Blizzard Entertainment"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Dustin Browder"],
+        "composer": ["Derek Duke", "Glenn Stafford", "Russell Brower", "Neal Acree"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 22
+    },
+    "Company of Heroes Online (2010)":
+    {
+        "id": 514,
+        "year": 2010,
+        "country": ["CAN"],
+        "platforms": ["Win"],
+        "developers": ["Relic Entertainment"],
+        "publishers": ["THQ"],
+        "genre": ["Real Time Strategy", "Strategy", "MMO"],
+        "theme": ["Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 26
+    },
+    "ArmA 2 (2009)":
+    {
+        "id": 515,
+        "year": 2009,
+        "country": ["CZE"],
+        "platforms": ["Win"],
+        "developers": ["Bohemia Interactive"],
+        "publishers": ["505 Games", "Got Game Entertainment"],
+        "genre": ["Shooter", "Simulator", "Strategy", "Tactical"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Marek Španěl", "Ivan Buchta"],
+        "composer": ["Ondřej Matějka"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 34
     }
 
 }
