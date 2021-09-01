@@ -1,14 +1,14 @@
-Games in database: 532
-Total: 13391 h | Average: 25 h | Median: 11 h
+Games in database: 535
+Total: 14010 h | Average: 26 h | Median: 11 h
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 224 (42%)
-  2. JPN                   : 197 (37%)
-  3. GBR                   :  70 (13%)
+  1. USA                   : 225 (42%)
+  2. JPN                   : 197 (36%)
+  3. GBR                   :  71 (13%)
   4. CAN                   :  22 (4%)
-  5. SWE                   :   4 (0%)
-  =  AUS                   :   4 (0%)
+  5. SWE                   :   5 (0%)
+  6. AUS                   :   4 (0%)
   7. GER                   :   3 (0%)
   =  CZE                   :   3 (0%)
   9. ITA                   :   2 (0%)
@@ -18,9 +18,9 @@ Countries (Top 10):
 
 Platforms (Top 10):
 -------------------
-  1. Win                   : 196 (36%)
+  1. Win                   : 199 (37%)
   2. DOS                   : 161 (30%)
-  3. Mac                   : 134 (25%)
+  3. Mac                   : 135 (25%)
   4. Amiga                 : 104 (19%)
   5. C64                   : 103 (19%)
   6. Arcade                :  91 (17%)
@@ -47,42 +47,42 @@ Years (Top 10):
 
 PEGI Ratings:
 -------------
-  1. N/A                   : 259 (48%)
+  1. N/A                   : 261 (48%)
   2. 3                     :  72 (13%)
   3. 12                    :  71 (13%)
   4. 7                     :  57 (10%)
-  5. 16                    :  48 (9%)
+  5. 16                    :  49 (9%)
   6. 18                    :  25 (4%)
 
 ESRB Ratings:
 -------------
   1. E                     : 177 (33%)
-  2. N/A                   : 152 (28%)
+  2. N/A                   : 153 (28%)
   3. T                     :  94 (17%)
-  4. M                     :  77 (14%)
-  5. E10+                  :  32 (6%)
+  4. M                     :  79 (14%)
+  5. E10+                  :  32 (5%)
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 174 (32%)
-  2. Shooter               : 133 (25%)
-  3. RPG                   : 110 (20%)
+  1. Adventure             : 176 (32%)
+  2. Shooter               : 135 (25%)
+  3. RPG                   : 111 (20%)
   4. Platform              :  92 (17%)
   5. Strategy              :  85 (15%)
   6. Arcade                :  82 (15%)
   7. Sport                 :  76 (14%)
-  8. Simulator             :  69 (12%)
+  8. Simulator             :  71 (13%)
   9. Puzzle                :  55 (10%)
  10. Racing                :  44 (8%)
 
 Themes (Top 10):
 -------------------
-  1. Action                : 341 (64%)
-  2. Fantasy               : 159 (29%)
+  1. Action                : 343 (64%)
+  2. Fantasy               : 160 (29%)
   3. Science Fiction       : 143 (26%)
-  4. Historical            :  52 (9%)
+  4. Historical            :  54 (10%)
   5. Comedy                :  43 (8%)
-  6. Warfare               :  40 (7%)
+  6. Warfare               :  41 (7%)
   7. Horror                :  31 (5%)
   8. Sandbox               :  29 (5%)
   9. Open world            :  25 (4%)
@@ -108,9 +108,9 @@ Publishers (Top 10):
   3. Electronic Arts       :  60 (11%)
   4. Sony                  :  41 (7%)
   5. Atari                 :  33 (6%)
-  6. Konami                :  27 (5%)
-  =  Activision            :  27 (5%)
-  8. Square                :  25 (4%)
+  6. Activision            :  28 (5%)
+  7. Konami                :  27 (5%)
+  8. Square                :  26 (4%)
   9. Sierra                :  24 (4%)
  10. Capcom                :  21 (3%)
 
@@ -119,7 +119,7 @@ Perspectives:
   1. Bird view / Isometric : 188 (35%)
   2. Third person          : 175 (32%)
   3. Side view             : 142 (26%)
-  4. First person          : 122 (22%)
+  4. First person          : 125 (23%)
   5. Text                  :  10 (1%)
   6. Auditory              :   3 (0%)
   7. Virtual Reality       :   1 (0%)

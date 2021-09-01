@@ -9049,6 +9049,57 @@
         "pegi": "N/A",
         "esrb": "M",
         "hltb": 9
+    },
+    "Thief II: The Metal Age (2000)":
+    {
+        "id": 533,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Looking Glass"],
+        "publishers": ["Eidos", "Square"],
+        "genre": ["Adventure", "Shooter", "Simulator"],
+        "theme": ["Action", "Fantasy", "Stealth"],
+        "perspective": ["First person"],
+        "designer": ["Steve Pearsall", "Tim Stellmach", "Randy Smith"],
+        "composer": ["Eric Brosius"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 27
+    },
+    "Wolfenstein: Enemy Territory (2003)":
+    {
+        "id": 534,
+        "year": 2003,
+        "country": ["GBR"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["Splash Damage"],
+        "publishers": ["Activision", "id Software"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Richard Jolly", "Paul Wedgwood"],
+        "composer": ["Bill Brown"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 492
+    },
+    "Wurm Online (2012)":
+    {
+        "id": 535,
+        "year": 2012,
+        "country": ["SWE"],
+        "platforms": ["Win"],
+        "developers": ["Code Club"],
+        "publishers": ["Code Club"],
+        "genre": ["Adventure", "Indie", "RPG", "Simulator", "MMO"],
+        "theme": ["Historical"],
+        "perspective": ["First person"],
+        "designer": ["Rolf Jansson", "Markus Persson"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 100
     }
 
 }
