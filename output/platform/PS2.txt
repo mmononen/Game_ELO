@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2350   Half-Life (1998)                                                                           188    7 
+    1. 2353   Half-Life (1998)                                                                           188    7 
                   USA | 14 h | First person | PEGI: 16 | ESRB: M
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -153,7 +153,16 @@
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1693   Rock Band 2 (2008)                                                                         430    1 
+   18. 1712   Age of Empires II: The Age of Kings (1999)                                                 273    2 
+                  USA | 114 h | Bird view / Isometric | PEGI: N/A | ESRB: T
+                  On: Mac, PS2, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
+                  Developers: Ensemble Studios
+                  Publishers: Konami, Microsoft
+                  Designer: Bruce Shelley
+                  Composer: Stephen Rippy
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1693   Rock Band 2 (2008)                                                                         430    1 
                   USA | 69 h | Auditory | PEGI: 12 | ESRB: T
                   On: PS2, PS3, Wii, Xbox 360
                   Genre: Music | Theme: Party, Rhythm
@@ -162,7 +171,7 @@
                   Designer: Casey Malone, Dan Teasdale, Sylvain Dubrofsky
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1688   Nights into Dreams... (1996)                                                                25    2 
+   20. 1688   Nights into Dreams... (1996)                                                                25    2 
                   JPN | 4 h | Side view, Third person | PEGI: 7 | ESRB: E
                   On: PS2, PS3, Saturn, Win, Xbox 360
                   Genre: Adventure, Platform | Theme: Action
@@ -170,15 +179,6 @@
                   Publishers: Sega
                   Designer: Naoto Ohshima, Takashi Iizuka
                   Composer: Fumie Kumatani, Naofumi Hataya, Tomoko Sasaki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1681   Age of Empires II: The Age of Kings (1999)                                                 273    2 
-                  USA | 114 h | Bird view / Isometric | PEGI: N/A | ESRB: T
-                  On: Mac, PS2, Win
-                  Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
-                  Developers: Ensemble Studios
-                  Publishers: Konami, Microsoft
-                  Designer: Bruce Shelley
-                  Composer: Stephen Rippy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1672   Kingdom Hearts (2002)                                                                      431    1 
                   JPN | 41 h | Third person | PEGI: 7 | ESRB: E
@@ -270,34 +270,7 @@
                   Designer: Clint Hocking
                   Composer: Amon Tobin, Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1509   Max Payne (2001)                                                                           493    2 
-                  FIN | 9 h | Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Thriller
-                  Developers: Remedy
-                  Publishers: 1C Company, 3D Realms, Feral Interactive, Gathering of Developers, MacSoft Games, Rockstar, Take-Two
-                  Designer: Petri Järvilehto
-                  Composer: Kimmo Kajasto, Kärtsy Hatakka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1495   Kingdom Hearts II (2005)                                                                   461    1 
-                  JPN | 43 h | Third person | PEGI: N/A | ESRB: E10+
-                  On: PS2
-                  Genre: Adventure, RPG | Theme: Action, Fantasy
-                  Developers: Square
-                  Publishers: Buena Vista Games, Sony, Square
-                  Designer: Tetsuya Nomura
-                  Composer: Yoko Shimomura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1473   Final Fight (1989)                                                                         464    1 
-                  JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: E
-                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBA, PS2, PSP, SNES, Wii, Wii U, Xbox, ZX Spectrum, iOS
-                  Genre: Adventure, Arcade, Fighting, Hack and Slash | Theme: Action
-                  Developers: Capcom
-                  Publishers: Capcom, U.S. Gold
-                  Designer: Akira Nishitani, Akira Yasuda
-                  Composer: Harumi Fujita, Hiromitsu Takaoka, Junko Tamiya, Manami Matsumae, Yasuaki Fujita, Yoko Shimomura, Yoshihiro Sakaguchi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1471   Hitman: Blood Money (2006)                                                                 517    1 
+   31. 1510   Hitman: Blood Money (2006)                                                                 517    1 
                   DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: PS2, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Stealth
@@ -306,7 +279,25 @@
                   Designer: Rasmus Højengaard
                   Composer: Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1439   Unreal Tournament (1999)                                                                   519    1 
+   32. 1509   Max Payne (2001)                                                                           493    2 
+                  FIN | 9 h | Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Thriller
+                  Developers: Remedy
+                  Publishers: 1C Company, 3D Realms, Feral Interactive, Gathering of Developers, MacSoft Games, Rockstar, Take-Two
+                  Designer: Petri Järvilehto
+                  Composer: Kimmo Kajasto, Kärtsy Hatakka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   33. 1495   Kingdom Hearts II (2005)                                                                   461    1 
+                  JPN | 43 h | Third person | PEGI: N/A | ESRB: E10+
+                  On: PS2
+                  Genre: Adventure, RPG | Theme: Action, Fantasy
+                  Developers: Square
+                  Publishers: Buena Vista Games, Sony, Square
+                  Designer: Tetsuya Nomura
+                  Composer: Yoko Shimomura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   34. 1476   Unreal Tournament (1999)                                                                   519    1 
                   CAN, USA | 15 h | First person | PEGI: 16 | ESRB: M
                   On: Dreamcast, Linux, Mac, PS2, Win
                   Genre: Shooter | Theme: Action
@@ -314,6 +305,15 @@
                   Publishers: GT Interactive, Infogrames, MacSoft Games
                   Designer: Cliff Bleszinski, James Schmalz
                   Composer: Alexander Brandon, Andrew Sega, Dan Gardopée, Michiel van den Bos
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   35. 1473   Final Fight (1989)                                                                         464    1 
+                  JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: E
+                  On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBA, PS2, PSP, SNES, Wii, Wii U, Xbox, ZX Spectrum, iOS
+                  Genre: Adventure, Arcade, Fighting, Hack and Slash | Theme: Action
+                  Developers: Capcom
+                  Publishers: Capcom, U.S. Gold
+                  Designer: Akira Nishitani, Akira Yasuda
+                  Composer: Harumi Fujita, Hiromitsu Takaoka, Junko Tamiya, Manami Matsumae, Yasuaki Fujita, Yoko Shimomura, Yoshihiro Sakaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    36. 1437   Burnout 3: Takedown (2004)                                                                 472    1 
                   GBR | 23 h | First person, Third person | PEGI: 3 | ESRB: T

@@ -8930,6 +8930,125 @@
         "pegi": "12",
         "esrb": "M",
         "hltb": 21
+    },
+    "Mass Effect 2 (2010)":
+    {
+        "id": 526,
+        "year": 2010,
+        "country": ["CAN"],
+        "platforms": ["Xbox One", "Xbox 360", "PS3", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["RPG", "Shooter", "Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Casey Hudson", "Preston Watamaniuk"],
+        "composer": ["Jack Wall", "Jimmy Hinson", "Sam Hulick", "David Kates"],
+        "pegi": "18",
+        "esrb": "M",
+        "hltb": 36
+    },
+    "PlanetSide (2003)":
+    {
+        "id": 527,
+        "year": 2003,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Sony"],
+        "publishers": ["Sony", "Ubisoft"],
+        "genre": ["RPG", "Shooter", "MMO"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Terrence Yee"],
+        "composer": ["Don Ferrone"],
+        "pegi": "16",
+        "esrb": "T",
+        "hltb": 100
+    },
+    "The Sims 3 (2009)":
+    {
+        "id": 528,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Android", "3DS", "DS", "Xbox 360", "Mac", "iOS", "Wii", "PS3", "Win"],
+        "developers": ["Maxis"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "RPG", "Simulator", "Strategy"],
+        "theme": ["Comedy", "Fantasy", "Romance", "Sandbox"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Ray Mazza", "Matt Goss", "Eric Holmberg-Weidler", "Juan Custer", "Sean Baity"],
+        "composer": ["Steve Jablonsky", "Pieter A. Schlosser"],
+        "pegi": "12",
+        "esrb": "T",
+        "hltb": 68
+    },
+    "Supreme Commander: Forged Alliance (2007)":
+    {
+        "id": 529,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Gas Powered Games"],
+        "publishers": ["THQ"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Bradley Rebh", "Mike Marr"],
+        "composer": ["Jeremy Soule"],
+        "pegi": "12",
+        "esrb": "E10+",
+        "hltb": 18
+    },
+    "Battle of Britain II: Wings of Victory (2005)":
+    {
+        "id": 530,
+        "year": 2005,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["A2A Simulations"],
+        "publishers": ["TRI Synergy", "GMX Media"],
+        "genre": ["Simulator"],
+        "theme": ["Warfare", "Flight"],
+        "perspective": ["First person", "Bird view / Isometric"],
+        "designer": ["Wolfram Kuss", "Miro Torielli"],
+        "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
+        "hltb": 20
+    },
+    "Neptune's Pride (2010)":
+    {
+        "id": 531,
+        "year": 2010,
+        "country": ["AUS"],
+        "platforms": ["Web browser"],
+        "developers": ["Iron Helmet Games"],
+        "publishers": ["Iron Helmet Games"],
+        "genre": ["Strategy"],
+        "theme": ["4X", "Business", "Politics", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Penny Sweetser"],
+        "composer": ["Unknown"],
+        "pegi": "N/A",
+        "esrb": "N/A",
+        "hltb": 100
+    },
+    "Quake III Arena (1999)":
+    {
+        "id": 532,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Dreamcast", "Win"],
+        "developers": ["id Software", "Pi Studios", "Raster Productions", "Bullfrog"],
+        "publishers": ["Electronic Arts", "Sega", "Loki Software", "Activision"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Graeme Devine", "Tim Willits", "Jennell Jaquays"],
+        "composer": ["Bill Leeb", "Sascha Dikiciyan"],
+        "pegi": "N/A",
+        "esrb": "M",
+        "hltb": 9
     }
 
 }

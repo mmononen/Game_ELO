@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2300   Half-Life 2 (2004)                                                                         401    4 
+    1. 2303   Half-Life 2 (2004)                                                                         401    4 
                   USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2129   Half-Life: Counter-Strike (2000)                                                           278    5 
+    2. 2136   Half-Life: Counter-Strike (2000)                                                           278    5 
                   USA | 206 h | First person | PEGI: N/A | ESRB: M
                   On: Linux, Mac, Win, Xbox
                   Genre: Shooter | Theme: Action, Warfare
@@ -63,7 +63,7 @@
                   Designer: Leslie Benzies
                   Composer: Craig Conner, Stuart Ross
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1913   Star Wars: Knights of the Old Republic (2003)                                              415    4 
+    8. 1929   Star Wars: Knights of the Old Republic (2003)                                              415    4 
                   CAN | 36 h | Third person | PEGI: 12 | ESRB: N/A
                   On: Android, Mac, Win, Xbox, iOS
                   Genre: Adventure, RPG | Theme: Science Fiction
@@ -81,16 +81,7 @@
                   Designer: Hideo Kojima
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1757   The Sims (2000)                                                                            322    2 
-                  USA | 32 h | Bird view / Isometric | PEGI: 7 | ESRB: T
-                  On: GameCube, Linux, Mac, PS2, Win, Xbox
-                  Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
-                  Developers: Maxis
-                  Publishers: Aspyr, Electronic Arts, TransGaming Technologies
-                  Designer: Will Wright
-                  Composer: Jerry Martin, Marc Russo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1740   The Elder Scrolls III: Morrowind (2002)                                                    445    2 
+   10. 1767   The Elder Scrolls III: Morrowind (2002)                                                    445    2 
                   USA | 108 h | First person, Third person | PEGI: N/A | ESRB: T
                   On: Win, Xbox
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Open world, Sandbox
@@ -98,6 +89,15 @@
                   Publishers: Bethesda, Ubisoft, ZeniMax
                   Designer: Ken Rolston, Todd Howard
                   Composer: Jeremy Soule
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1757   The Sims (2000)                                                                            322    2 
+                  USA | 32 h | Bird view / Isometric | PEGI: 7 | ESRB: T
+                  On: GameCube, Linux, Mac, PS2, Win, Xbox
+                  Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
+                  Developers: Maxis
+                  Publishers: Aspyr, Electronic Arts, TransGaming Technologies
+                  Designer: Will Wright
+                  Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    12. 1626   Silent Hill 2 (2001)                                                                       443    1 
                   JPN | 10 h | Third person | PEGI: 16 | ESRB: M
@@ -144,7 +144,16 @@
                   Designer: Clint Hocking
                   Composer: Amon Tobin, Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1509   Max Payne (2001)                                                                           493    2 
+   17. 1510   Hitman: Blood Money (2006)                                                                 517    1 
+                  DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
+                  On: PS2, Win, Xbox, Xbox 360
+                  Genre: Shooter | Theme: Action, Stealth
+                  Developers: IO Interactive
+                  Publishers: Eidos
+                  Designer: Rasmus Højengaard
+                  Composer: Jesper Kyd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1509   Max Payne (2001)                                                                           493    2 
                   FIN | 9 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Thriller
@@ -153,7 +162,7 @@
                   Designer: Petri Järvilehto
                   Composer: Kimmo Kajasto, Kärtsy Hatakka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1473   Final Fight (1989)                                                                         464    1 
+   19. 1473   Final Fight (1989)                                                                         464    1 
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBA, PS2, PSP, SNES, Wii, Wii U, Xbox, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Fighting, Hack and Slash | Theme: Action
@@ -161,15 +170,6 @@
                   Publishers: Capcom, U.S. Gold
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Harumi Fujita, Hiromitsu Takaoka, Junko Tamiya, Manami Matsumae, Yasuaki Fujita, Yoko Shimomura, Yoshihiro Sakaguchi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1471   Hitman: Blood Money (2006)                                                                 517    1 
-                  DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
-                  On: PS2, Win, Xbox, Xbox 360
-                  Genre: Shooter | Theme: Action, Stealth
-                  Developers: IO Interactive
-                  Publishers: Eidos
-                  Designer: Rasmus Højengaard
-                  Composer: Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1437   Burnout 3: Takedown (2004)                                                                 472    1 
                   GBR | 23 h | First person, Third person | PEGI: 3 | ESRB: T

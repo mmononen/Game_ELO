@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2351   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
-                  JPN | 31 h | Third person | PEGI: 12 | ESRB: E
-                  On: N64, Wii, Wii U
-                  Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2350   Half-Life (1998)                                                                           188    7 
+    1. 2353   Half-Life (1998)                                                                           188    7 
                   USA | 14 h | First person | PEGI: 16 | ESRB: M
                   On: Linux, Mac, PS2, Win
                   Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
@@ -17,6 +8,15 @@
                   Publishers: Sierra, Valve
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2351   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
+                  JPN | 31 h | Third person | PEGI: 12 | ESRB: E
+                  On: N64, Wii, Wii U
+                  Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
+                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 2337   Metal Gear Solid (1998)                                                                    196    9 
                   JPN | 13 h | Third person | PEGI: 18 | ESRB: M
@@ -99,7 +99,16 @@
                   Designer: Katsuhiko Ōtani, Masahito Terazawa, Motoharu Morishita, Yasuhiro Maruo, Yoshiaki Mizukami
                   Composer: Ayako Yamaguchi, Kaori Idaya, Kenji Matsuo, Masashi Sugiyama, Nobuhiro Ōuchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1475   Colin McRae Rally (1998)                                                                   227    1 
+   12. 1485   Starsiege: Tribes (1998)                                                                   518    1 
+                  USA | 11 h | First person | PEGI: N/A | ESRB: T
+                  On: Win
+                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
+                  Developers: Dynamix
+                  Publishers: Dynamix, Sierra
+                  Designer: David Meddish, Rick Overman, Scott Youngblood, Tim Gift
+                  Composer: Timothy Steven Clarke
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1475   Colin McRae Rally (1998)                                                                   227    1 
                   GBR | 11 h | First person, Third person | PEGI: N/A | ESRB: E
                   On: GBC, PSX, Win
                   Genre: Racing, Sport | Theme: Motorsports, Non-fiction, Rally
@@ -108,7 +117,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1466   Madden NFL ’99 (1998)                                                                      466    1 
+   14. 1466   Madden NFL ’99 (1998)                                                                      466    1 
                   USA | 20 h | Third person | PEGI: N/A | ESRB: E
                   On: N64, PSX, Win
                   Genre: Simulator, Sport | Theme: American Football, Non-fiction
@@ -117,7 +126,7 @@
                   Designer: Dave Swanson
                   Composer: Darryl S. Duncan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1454   1080° Snowboarding (1998)                                                                  231    1 
+   15. 1454   1080° Snowboarding (1998)                                                                  231    1 
                   JPN | 7 h | Third person | PEGI: 3 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action, Snowboarding
@@ -125,15 +134,6 @@
                   Publishers: Nintendo
                   Designer: Masamichi Abe, Mitsuhiro Takano
                   Composer: Kenta Nagata
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1447   Starsiege: Tribes (1998)                                                                   518    1 
-                  USA | 11 h | First person | PEGI: N/A | ESRB: T
-                  On: Win
-                  Genre: Shooter, Strategy | Theme: Action, Science Fiction
-                  Developers: Dynamix
-                  Publishers: Dynamix, Sierra
-                  Designer: David Meddish, Rick Overman, Scott Youngblood, Tim Gift
-                  Composer: Timothy Steven Clarke
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    16. 1435   Thief: The Dark Project (1998)                                                             283    2 
                   USA | 21 h | First person | PEGI: N/A | ESRB: M
