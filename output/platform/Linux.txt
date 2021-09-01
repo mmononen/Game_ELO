@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2396   Doom (1993)                                                                                 19    8 
+    1. 2397   Doom (1993)                                                                                 19    8 
                   USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -18,7 +18,7 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2303   Half-Life 2 (2004)                                                                         401    4 
+    3. 2304   Half-Life 2 (2004)                                                                         401    4 
                   USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -27,7 +27,7 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2136   Half-Life: Counter-Strike (2000)                                                           278    5 
+    4. 2139   Half-Life: Counter-Strike (2000)                                                           278    5 
                   USA | 206 h | First person | PEGI: N/A | ESRB: M
                   On: Linux, Mac, Win, Xbox
                   Genre: Shooter | Theme: Action, Warfare
@@ -54,7 +54,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1916   Portal (2007)                                                                              405    3 
+    7. 1924   Portal (2007)                                                                              405    3 
                   USA | 5 h | First person | PEGI: 12 | ESRB: T
                   On: Android, Linux, Mac, PS3, Win, Xbox 360
                   Genre: Platform, Puzzle, Shooter | Theme: Action, Comedy, Science Fiction
@@ -63,7 +63,7 @@
                   Designer: Kim Swift
                   Composer: Kelly Bailey, Mike Morasky
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1915   Team Fortress 2 (2007)                                                                     404    3 
+    8. 1923   Team Fortress 2 (2007)                                                                     404    3 
                   USA | 180 h | First person | PEGI: 16 | ESRB: M
                   On: Linux, Mac, PS3, Win, Xbox 360
                   Genre: Shooter | Theme: Action, Comedy
@@ -90,7 +90,7 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1685   Medal of Honor: Allied Assault (2002)                                                      440    2 
+   11. 1705   Medal of Honor: Allied Assault (2002)                                                      440    2 
                   USA | 13 h | First person | PEGI: N/A | ESRB: T
                   On: Linux, Mac, Win
                   Genre: Shooter | Theme: Action, Historical, Warfare
@@ -99,7 +99,7 @@
                   Designer: Jason West, Vince Zampella
                   Composer: Michael Giacchino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1634   Half-Life 2: Episode Two (2007)                                                            403    2 
+   12. 1657   Half-Life 2: Episode Two (2007)                                                            403    2 
                   USA | 6 h | First person | PEGI: 16 | ESRB: M
                   On: Linux, Mac, PS3, Win, Xbox 360
                   Genre: Puzzle, Shooter | Theme: Action, Science Fiction
@@ -117,7 +117,7 @@
                   Designer: Masato Maegawa
                   Composer: Norio Hanzawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1563   Minecraft (2011)                                                                           516    1 
+   14. 1589   Minecraft (2011)                                                                           516    1 
                   SWE | 121 h | First person, Third person, Virtual Reality | PEGI: N/A | ESRB: N/A
                   On: Linux, Mac, Web browser, Win
                   Genre: Adventure, Arcade, Simulator | Theme: 4X, Fantasy, Open world, Sandbox, Survival
@@ -126,16 +126,7 @@
                   Designer: Jens Bergensten, Markus Persson
                   Composer: Daniel Rosenfeld
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1554   Sid Meier's Alpha Centauri (1999)                                                          451    1 
-                  USA | 39 h | Bird view / Isometric | PEGI: 7 | ESRB: E
-                  On: Linux, Mac, Win
-                  Genre: Simulator, Strategy, Turn-Based Strategy | Theme: 4X, Science Fiction
-                  Developers: Firaxis
-                  Publishers: Aspyr, Electronic Arts, Loki Software
-                  Designer: Bing Gordon, Brian Reynolds, Douglas Kaufman, Sid Meier, Timothy Train
-                  Composer: David Evans, Jeffery L. Briggs
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1533   Planescape: Torment (1999)                                                                 285    3 
+   15. 1560   Planescape: Torment (1999)                                                                 285    3 
                   USA | 43 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Drama, Fantasy
@@ -144,16 +135,16 @@
                   Designer: Chris Avellone
                   Composer: Mark Morgan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1510   Sam & Max Hit the Road (1993)                                                               27    2 
-                  USA | 6 h | Side view | PEGI: N/A | ESRB: N/A
-                  On: DOS, Linux, Mac, Win
-                  Genre: Adventure, Point-and-click | Theme: Comedy, Science Fiction
-                  Developers: LucasArts
-                  Publishers: Activision, LucasArts
-                  Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
-                  Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
+   16. 1554   Sid Meier's Alpha Centauri (1999)                                                          451    1 
+                  USA | 39 h | Bird view / Isometric | PEGI: 7 | ESRB: E
+                  On: Linux, Mac, Win
+                  Genre: Simulator, Strategy, Turn-Based Strategy | Theme: 4X, Science Fiction
+                  Developers: Firaxis
+                  Publishers: Aspyr, Electronic Arts, Loki Software
+                  Designer: Bing Gordon, Brian Reynolds, Douglas Kaufman, Sid Meier, Timothy Train
+                  Composer: David Evans, Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1490   Braid (2008)                                                                               488    2 
+   17. 1518   Braid (2008)                                                                               488    2 
                   USA | 6 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Linux, Mac, PS3, Win, Xbox 360
                   Genre: Adventure, Indie, Platform, Puzzle, Strategy | Theme: Fantasy
@@ -162,7 +153,16 @@
                   Designer: Jonathan Blow
                   Composer: CHeryl Ann Fulton, Jami Sieber, Shira Kammen
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1476   Unreal Tournament (1999)                                                                   519    1 
+   18. 1510   Sam & Max Hit the Road (1993)                                                               27    2 
+                  USA | 6 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: DOS, Linux, Mac, Win
+                  Genre: Adventure, Point-and-click | Theme: Comedy, Science Fiction
+                  Developers: LucasArts
+                  Publishers: Activision, LucasArts
+                  Designer: Collette Michaud, Mike Stemmle, Sean Clark, Steve Purcell
+                  Composer: Clint Bajakian, Michael Z. Land, Peter McConnell
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1504   Unreal Tournament (1999)                                                                   519    1 
                   CAN, USA | 15 h | First person | PEGI: 16 | ESRB: M
                   On: Dreamcast, Linux, Mac, PS2, Win
                   Genre: Shooter | Theme: Action
@@ -234,7 +234,7 @@
                   Designer: David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1288   Quake III Arena (1999)                                                                     532    1 
+   27. 1304   Quake III Arena (1999)                                                                     532    1 
                   USA | 9 h | First person | PEGI: N/A | ESRB: M
                   On: Dreamcast, Linux, Win, Xbox 360
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -243,7 +243,7 @@
                   Designer: Graeme Devine, Jennell Jaquays, Tim Willits
                   Composer: Bill Leeb, Sascha Dikiciyan
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1269   Wolfenstein: Enemy Territory (2003)                                                        534    1 
+   28. 1282   Wolfenstein: Enemy Territory (2003)                                                        534    1 
                   GBR | 492 h | First person | PEGI: N/A | ESRB: M
                   On: Linux, Mac, Win
                   Genre: Shooter | Theme: Action, Historical, Warfare
@@ -252,7 +252,16 @@
                   Designer: Paul Wedgwood, Richard Jolly
                   Composer: Bill Brown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1253   Baldur's Gate (1998)                                                                       281    2 
+   29. 1258   Counter-Strike: Source (2004)                                                              538    1 
+                  USA | 130 h | First person | PEGI: 16 | ESRB: M
+                  On: Linux, Mac, Win
+                  Genre: Shooter | Theme: Action
+                  Developers: Hidden Path, Valve
+                  Publishers: Valve
+                  Designer: Unknown
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   30. 1253   Baldur's Gate (1998)                                                                       281    2 
                   CAN | 57 h | Bird view / Isometric | PEGI: 12 | ESRB: T
                   On: Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Fantasy
@@ -260,3 +269,12 @@
                   Publishers: Black Isle, Interplay
                   Designer: James Ohlen
                   Composer: Michael Hoenig
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   31. 1246   Left 4 Dead 2 (2009)                                                                       539    1 
+                  USA | 24 h | First person | PEGI: 18 | ESRB: M
+                  On: Linux, Mac, Win, Xbox 360
+                  Genre: Shooter | Theme: Action, Horror, Survival
+                  Developers: Turtle Rock Studios, Valve
+                  Publishers: Valve
+                  Designer: Erik Johnson, Michael Booth
+                  Composer: Mike Morasky

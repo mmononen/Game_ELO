@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2303   Half-Life 2 (2004)                                                                         401    4 
+    1. 2304   Half-Life 2 (2004)                                                                         401    4 
                   USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2136   Half-Life: Counter-Strike (2000)                                                           278    5 
+    2. 2139   Half-Life: Counter-Strike (2000)                                                           278    5 
                   USA | 206 h | First person | PEGI: N/A | ESRB: M
                   On: Linux, Mac, Win, Xbox
                   Genre: Shooter | Theme: Action, Warfare
@@ -63,7 +63,7 @@
                   Designer: Leslie Benzies
                   Composer: Craig Conner, Stuart Ross
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1929   Star Wars: Knights of the Old Republic (2003)                                              415    4 
+    8. 1937   Star Wars: Knights of the Old Republic (2003)                                              415    4 
                   CAN | 36 h | Third person | PEGI: 12 | ESRB: N/A
                   On: Android, Mac, Win, Xbox, iOS
                   Genre: Adventure, RPG | Theme: Science Fiction
@@ -72,16 +72,7 @@
                   Designer: Casey Hudson, James Ohlen
                   Composer: Jeremy Soule
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1782   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
-                  JPN | 15 h | Third person | PEGI: N/A | ESRB: M
-                  On: PS2, PS3, Vita, Win, Xbox, Xbox 360
-                  Genre: Adventure | Theme: Action, Stealth
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Hideo Kojima
-                  Composer: Harry Gregson-Williams, Norihiko Hibino
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1767   The Elder Scrolls III: Morrowind (2002)                                                    445    2 
+    9. 1783   The Elder Scrolls III: Morrowind (2002)                                                    445    2 
                   USA | 108 h | First person, Third person | PEGI: N/A | ESRB: T
                   On: Win, Xbox
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Open world, Sandbox
@@ -89,6 +80,15 @@
                   Publishers: Bethesda, Ubisoft, ZeniMax
                   Designer: Ken Rolston, Todd Howard
                   Composer: Jeremy Soule
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 1782   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
+                  JPN | 15 h | Third person | PEGI: N/A | ESRB: M
+                  On: PS2, PS3, Vita, Win, Xbox, Xbox 360
+                  Genre: Adventure | Theme: Action, Stealth
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Hideo Kojima
+                  Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 1757   The Sims (2000)                                                                            322    2 
                   USA | 32 h | Bird view / Isometric | PEGI: 7 | ESRB: T
@@ -135,16 +135,7 @@
                   Designer: Jaime Griesemer, Jason Jones
                   Composer: Martin O'Donnell, Michael Salvatori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1536   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    1 
-                  CAN | 14 h | First person, Third person | PEGI: 12 | ESRB: M
-                  On: 3DS, DS, GameCube, Mobile, N-Gage, PS2, Win, Xbox
-                  Genre: Shooter, Tactical | Theme: Action, Stealth
-                  Developers: Ubisoft
-                  Publishers: Ubisoft
-                  Designer: Clint Hocking
-                  Composer: Amon Tobin, Jesper Kyd
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1510   Hitman: Blood Money (2006)                                                                 517    1 
+   16. 1538   Hitman: Blood Money (2006)                                                                 517    1 
                   DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: PS2, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Stealth
@@ -152,6 +143,15 @@
                   Publishers: Eidos
                   Designer: Rasmus Højengaard
                   Composer: Jesper Kyd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1536   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    1 
+                  CAN | 14 h | First person, Third person | PEGI: 12 | ESRB: M
+                  On: 3DS, DS, GameCube, Mobile, N-Gage, PS2, Win, Xbox
+                  Genre: Shooter, Tactical | Theme: Action, Stealth
+                  Developers: Ubisoft
+                  Publishers: Ubisoft
+                  Designer: Clint Hocking
+                  Composer: Amon Tobin, Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1509   Max Payne (2001)                                                                           493    2 
                   FIN | 9 h | Third person | PEGI: 18 | ESRB: M

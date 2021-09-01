@@ -9100,6 +9100,74 @@
 		"pegi": "N/A",
 		"esrb": "N/A",
         "hltb": 100
+    },
+    "Dungeon Keeper (1997)":
+    {
+        "id": 536,
+        "year": 1997,
+        "country": ["GBR"],
+        "platforms": ["Android", "Mac", "DOS", "Win"],
+        "developers": ["Bullfrog"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Action", "Comedy", "Fantasy", "Historical", "Horror"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Peter Molyneux", "Mark Healey"],
+        "composer": ["Russell Shaw"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 22
+    },
+    "Anachronox (2001)":
+    {
+        "id": 537,
+        "year": 2001,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Ion Storm"],
+        "publishers": ["Infogrames", "Square", "Eidos"],
+        "genre": ["RPG"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Tom Hall"],
+        "composer": ["Will Nevins", "Darren Walsh"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 32
+    },
+    "Counter-Strike: Source (2004)":
+    {
+        "id": 538,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["Valve", "Hidden Path"],
+        "publishers": ["Valve"],
+        "genre": ["Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 130
+    },
+    "Left 4 Dead 2 (2009)":
+    {
+        "id": 539,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "Win"],
+        "developers": ["Valve", "Turtle Rock Studios"],
+        "publishers": ["Valve"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["First person"],
+        "designer": ["Erik Johnson", "Michael Booth"],
+        "composer": ["Mike Morasky"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 24
     }
 
 }
