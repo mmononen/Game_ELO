@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2282   Half-Life 2 (2004)                                                                         401    4 
+    1. 2300   Half-Life 2 (2004)                                                                         401    4 
                   USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,16 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2110   Halo: Combat Evolved (2001)                                                                340    3 
+    2. 2129   Half-Life: Counter-Strike (2000)                                                           278    5 
+                  USA | 206 h | First person | PEGI: N/A | ESRB: M
+                  On: Linux, Mac, Win, Xbox
+                  Genre: Shooter | Theme: Action, Warfare
+                  Developers: Valve
+                  Publishers: Microsoft, Sierra, Valve, Vivendi
+                  Designer: Jess Cliffe, Minh Le
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2110   Halo: Combat Evolved (2001)                                                                340    3 
                   USA | 11 h | First person, Third person | PEGI: N/A | ESRB: M
                   On: Mac, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -18,7 +27,7 @@
                   Designer: Jason Jones, John Howard
                   Composer: Martin O'Donnell, Michael Salvatori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2105   Grand Theft Auto: Vice City (2002)                                                         339    4 
+    4. 2105   Grand Theft Auto: Vice City (2002)                                                         339    4 
                   GBR | 28 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
@@ -26,15 +35,6 @@
                   Publishers: Rockstar, Take-Two
                   Designer: Leslie Benzies
                   Composer: Lex Horton
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2100   Half-Life: Counter-Strike (2000)                                                           278    5 
-                  USA | 206 h | First person | PEGI: N/A | ESRB: M
-                  On: Linux, Mac, Win, Xbox
-                  Genre: Shooter | Theme: Action, Warfare
-                  Developers: Valve
-                  Publishers: Microsoft, Sierra, Valve, Vivendi
-                  Designer: Jess Cliffe, Minh Le
-                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     5. 2033   Grand Theft Auto: San Andreas (2004)                                                       399    3 
                   GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
@@ -63,7 +63,7 @@
                   Designer: Leslie Benzies
                   Composer: Craig Conner, Stuart Ross
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1871   Star Wars: Knights of the Old Republic (2003)                                              415    3 
+    8. 1913   Star Wars: Knights of the Old Republic (2003)                                              415    4 
                   CAN | 36 h | Third person | PEGI: 12 | ESRB: N/A
                   On: Android, Mac, Win, Xbox, iOS
                   Genre: Adventure, RPG | Theme: Science Fiction
@@ -90,7 +90,7 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1675   The Elder Scrolls III: Morrowind (2002)                                                    445    2 
+   11. 1740   The Elder Scrolls III: Morrowind (2002)                                                    445    2 
                   USA | 108 h | First person, Third person | PEGI: N/A | ESRB: T
                   On: Win, Xbox
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Open world, Sandbox
@@ -162,7 +162,16 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Harumi Fujita, Hiromitsu Takaoka, Junko Tamiya, Manami Matsumae, Yasuaki Fujita, Yoko Shimomura, Yoshihiro Sakaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1437   Burnout 3: Takedown (2004)                                                                 472    1 
+   19. 1471   Hitman: Blood Money (2006)                                                                 517    1 
+                  DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
+                  On: PS2, Win, Xbox, Xbox 360
+                  Genre: Shooter | Theme: Action, Stealth
+                  Developers: IO Interactive
+                  Publishers: Eidos
+                  Designer: Rasmus Højengaard
+                  Composer: Jesper Kyd
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1437   Burnout 3: Takedown (2004)                                                                 472    1 
                   GBR | 23 h | First person, Third person | PEGI: 3 | ESRB: T
                   On: PS2, Xbox, Xbox 360
                   Genre: Racing | Theme: Action
@@ -171,7 +180,7 @@
                   Designer: Alex Ward, Christopher Roberts, Paul Cross
                   Composer: Stephen Root
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1435   Pro Evolution Soccer 4 (2004)                                                              400    1 
+   21. 1435   Pro Evolution Soccer 4 (2004)                                                              400    1 
                   JPN | 72 h | Bird view / Isometric | PEGI: 3 | ESRB: N/A
                   On: PS2, Win, Xbox
                   Genre: Sport | Theme: Football, Non-fiction
@@ -179,15 +188,6 @@
                   Publishers: Konami
                   Designer: Seisuke Yasunaga, Tetsushi Yamakawa, Yasuyuki Shoji
                   Composer: Atsushi Sato, Norikazu Miura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1411   Hitman: Blood Money (2006)                                                                 517    1 
-                  DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
-                  On: PS2, Win, Xbox, Xbox 360
-                  Genre: Shooter | Theme: Action, Stealth
-                  Developers: IO Interactive
-                  Publishers: Eidos
-                  Designer: Rasmus Højengaard
-                  Composer: Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    22. 1407   Fable (2004)                                                                               479    1 
                   GBR | 20 h | Third person | PEGI: 16 | ESRB: M

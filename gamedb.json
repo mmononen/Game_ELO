@@ -8828,6 +8828,108 @@
 		"pegi": "16",
 		"esrb": "M",
         "hltb": 15
+    },
+    "Freespace 2 (1999)":
+    {
+        "id": 520,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Volition"],
+        "publishers": ["Interplay"],
+        "genre": ["Simulator"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Dave Baranec", "Jason Scott", "Adam Pletcher"],
+        "composer": ["Dan Wentz", "Scott Lee"],
+        "pegi": "N/A",
+        "esrb": "E",
+        "hltb": 18
+    },
+    "Supreme Commander 2 (2010)":
+    {
+        "id": 521,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Mac", "Win"],
+        "developers": ["Gas Powered Games"],
+        "publishers": ["Square"],
+        "genre": ["Real Time Strategy", "Strategy"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Taylor", "Steve Bauman", "Eric Williamson", "Chris Daroza", "Evan Pongress", "Mike Marr", "Damian Smolko"],
+        "composer": ["Howard Mostrom"],
+        "pegi": "7",
+        "esrb": "E10+",
+        "hltb": 23
+    },
+    "Combat Mission: Beyond Overlord (2000)":
+    {
+        "id": 522,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Battlefront.com"],
+        "publishers": ["Battlefront.com"],
+        "genre": ["Simulator", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Charles Moylan", "Stephen Grammont"],
+        "composer": ["Charles Moylan"],
+        "pegi": "N/A",
+        "esrb": "T",
+        "hltb": 34
+    },
+    "Monkey Island 2: LeChuck's Revenge (1991)":
+    {
+        "id": 523,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS"],
+        "developers": ["LucasArts"],
+        "publishers": ["LucasArts"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Action", "Comedy", "Historical", "Pirates"],
+        "perspective": ["Third person"],
+        "designer": ["Ron Gilbert", "Dave Grossman", "Tim Schafer"],
+        "composer": ["Michael Z. Land", "Peter McConnell", "Clint Bajakian"],
+        "pegi": "N/A",
+        "esrb": "N/A",
+        "hltb": 8
+    },
+    "S.T.A.L.K.E.R.: Call of Pripyat (2009)":
+    {
+        "id": 524,
+        "year": 2009,
+        "country": ["UKR"],
+        "platforms": ["Win"],
+        "developers": ["GSC Game World"],
+        "publishers": ["Zoo Corporation", "Deep Silver", "Viva Media", "GSC World Publishing", "bitComposer"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["First person"],
+        "designer": ["Andrey Verpakhovsky"],
+        "composer": ["Aleksey Omelchuk"],
+        "pegi": "N/A",
+        "esrb": "M",
+        "hltb": 26
+    },
+    "The Longest Journey (1999)":
+    {
+        "id": 525,
+        "year": 1999,
+        "country": ["NOR"],
+        "platforms": ["iOS", "Win"],
+        "developers": ["Funcom"],
+        "publishers": ["Funcom", "Empire"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Action", "Fantasy", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Didrik Tollefsen", "Ragnar Tørnquist"],
+        "composer": ["Bjørn Arve Lagim"],
+        "pegi": "12",
+        "esrb": "M",
+        "hltb": 21
     }
 
 }
