@@ -8760,6 +8760,74 @@
 		"pegi": "N/A",
 		"esrb": "M",
         "hltb": 34
+    },
+    "Minecraft (2011)":
+    {
+        "id": 516,
+        "year": 2011,
+        "country": ["SWE"],
+        "platforms": ["Linux", "Mac", "Win", "Web browser"],
+        "developers": ["Mojang"],
+        "publishers": ["Mojang"],
+        "genre": ["Adventure", "Arcade", "Simulator"],
+        "theme": ["4X", "Fantasy", "Open world", "Sandbox", "Survival"],
+        "perspective": ["First person", "Third person", "Virtual Reality"],
+        "designer": ["Markus Persson", "Jens Bergensten"],
+        "composer": ["Daniel Rosenfeld"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 121
+    },
+    "Hitman: Blood Money (2006)":
+    {
+        "id": 517,
+        "year": 2006,
+        "country": ["DEN"],
+        "platforms": ["Xbox 360", "PS2", "Xbox", "Win"],
+        "developers": ["IO Interactive"],
+        "publishers": ["Eidos"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Rasmus Højengaard"],
+        "composer": ["Jesper Kyd"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 16
+    },
+    "Starsiege: Tribes (1998)":
+    {
+        "id": 518,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Dynamix"],
+        "publishers": ["Dynamix", "Sierra"],
+        "genre": ["Shooter", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Tim Gift", "Scott Youngblood", "Rick Overman", "David Meddish"],
+        "composer": ["Timothy Steven Clarke"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 11
+    },
+    "Unreal Tournament (1999)":
+    {
+        "id": 519,
+        "year": 1999,
+        "country": ["USA", "CAN"],
+        "platforms": ["PS2", "Linux", "Mac", "Dreamcast", "Win"],
+        "developers": ["Epic", "Digital Extremes"],
+        "publishers": ["GT Interactive", "Infogrames", "MacSoft Games"],
+        "genre": ["Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Cliff Bleszinski", "James Schmalz"],
+        "composer": ["Michiel van den Bos", "Andrew Sega", "Dan Gardopée", "Alexander Brandon"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 15
     }
 
 }
