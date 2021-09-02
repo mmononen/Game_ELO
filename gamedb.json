@@ -9372,6 +9372,23 @@
 		"pegi": "16",
 		"esrb": "M",
         "hltb": 12
+    },
+    "Galactic Civilizations II: Dread Lords (2006)":
+    {
+        "id": 552,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Stardock"],
+        "publishers": ["Stardock", "Paradox"],
+        "genre": ["Turn-Based Strategy", "Strategy"],
+        "theme": ["4X", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Brad Wardell", "Scott Tykoski"],
+        "composer": ["Paul Kerchen", "Mason Fischer", "Eric Heberling"],
+        "pegi": "7",
+        "esrb": "E10+",
+        "hltb": 22
     }
 
 }
