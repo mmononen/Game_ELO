@@ -9627,6 +9627,23 @@
 		"pegi": "16",
 		"esrb": "M",
         "hltb": 5
+    },
+    "Arcanum: Of Steamworks and Magick Obscura (2001)":
+    {
+        "id": 567,
+        "year": 2001,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Troika Games"],
+        "publishers": ["Sierra"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jason D. Anderson", "Leonard Boyarsky", "Timothy Cain"],
+        "composer": ["Ben Houge"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 44
     }
 
 }
