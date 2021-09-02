@@ -9542,6 +9542,91 @@
 		"pegi": "16",
 		"esrb": "T",
         "hltb": 92
+    },
+    "Red Faction: Guerrilla (2009)":
+    {
+        "id": 562,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["Reactor Zero", "Volition"],
+        "publishers": ["THQ"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Open world", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["James Hague", "Luke Schneider"],
+        "composer": ["Timothy Michael Wynn", "Jake Kaufman", "George Oldziey", "Dan Wentz", "Raison Varner"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 21
+    },
+    "The Last Express (1997)":
+    {
+        "id": 563,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS", "Win"],
+        "developers": ["Smoking Car Productions"],
+        "publishers": ["Brøderbund"],
+        "genre": ["Adventure", "Puzzle", "Point-and-click"],
+        "theme": ["Fantasy", "Historical", "Thriller"],
+        "perspective": ["First person"],
+        "designer": ["Jordan Mechner"],
+        "composer": ["Elia Cmiral"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 8
+    },
+    "Audiosurf (2008)":
+    {
+        "id": 564,
+        "year": 2008,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Invisible Handlebar"],
+        "publishers": ["Valve"],
+        "genre": ["Indie", "Music", "Puzzle"],
+        "theme": ["Action", "Party"],
+        "perspective": ["Third person"],
+        "designer": ["Dylan Fitterer"],
+        "composer": ["Pedro Macedo Camacho"],
+		"pegi": "3",
+		"esrb": "N/A",
+        "hltb": 18
+    },
+    "Football Manager 2011 (2010)":
+    {
+        "id": 565,
+        "year": 2010,
+        "country": ["GBR"],
+        "platforms": ["Mac", "PSP", "Win"],
+        "developers": ["Sports Interactive"],
+        "publishers": ["Sega"],
+        "genre": ["Simulator", "Sport", "Strategy"],
+        "theme": ["Non-fiction", "Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Unknown"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 485
+    },
+    "Red Orchestra: Ostfront 41-45 (2006)":
+    {
+        "id": 566,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["Tripwire"],
+        "publishers": ["Bold Games", "1C Company", "Avanquest", "Tripwire", "Electronic Arts"],
+        "genre": ["Shooter", "Simulator"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Ingmar Spit"],
+        "composer": ["Matthew S. Burns"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 5
     }
 
 }
