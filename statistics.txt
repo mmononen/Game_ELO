@@ -1,9 +1,9 @@
-Games in database: 539
-Total: 14218 h | Average: 26 h | Median: 11 h
+Games in database: 547
+Total: 16133 h | Average: 29 h | Median: 12 h
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 228 (42%)
+  1. USA                   : 234 (42%)
   2. JPN                   : 197 (36%)
   3. GBR                   :  72 (13%)
   4. CAN                   :  22 (4%)
@@ -18,25 +18,24 @@ Countries (Top 10):
 
 Platforms (Top 10):
 -------------------
-  1. Win                   : 203 (37%)
-  2. DOS                   : 162 (30%)
-  3. Mac                   : 138 (25%)
+  1. Win                   : 211 (38%)
+  2. DOS                   : 162 (29%)
+  3. Mac                   : 143 (26%)
   4. Amiga                 : 104 (19%)
-  5. C64                   : 103 (19%)
+  5. C64                   : 103 (18%)
   6. Arcade                :  91 (16%)
-  7. Atari ST              :  82 (15%)
-  8. PSX                   :  81 (15%)
+  7. Atari ST              :  82 (14%)
+  8. PSX                   :  81 (14%)
   9. Wii                   :  79 (14%)
- 10. PS3                   :  78 (14%)
-  =  NES                   :  78 (14%)
+  =  PS3                   :  79 (14%)
 
 Years (Top 10):
 ---------------
   1. 1996                  :  37 (6%)
-  2. 1994                  :  30 (5%)
+  2. 1998                  :  30 (5%)
+  =  1994                  :  30 (5%)
   =  1993                  :  30 (5%)
-  4. 1998                  :  29 (5%)
-  5. 1987                  :  27 (5%)
+  5. 1987                  :  27 (4%)
   6. 1995                  :  23 (4%)
   7. 1999                  :  22 (4%)
   =  1992                  :  22 (4%)
@@ -47,47 +46,46 @@ Years (Top 10):
 
 PEGI Ratings:
 -------------
-  1. N/A                   : 262 (48%)
-  2. 3                     :  72 (13%)
-  3. 12                    :  71 (13%)
-  4. 7                     :  57 (10%)
-  5. 16                    :  51 (9%)
+  1. N/A                   : 265 (48%)
+  2. 3                     :  73 (13%)
+  =  12                    :  73 (13%)
+  4. 7                     :  58 (10%)
+  5. 16                    :  52 (9%)
   6. 18                    :  26 (4%)
 
 ESRB Ratings:
 -------------
-  1. E                     : 177 (32%)
-  2. N/A                   : 153 (28%)
-  3. T                     :  95 (17%)
-  4. M                     :  82 (15%)
+  1. E                     : 178 (32%)
+  2. N/A                   : 156 (28%)
+  3. T                     :  99 (18%)
+  4. M                     :  82 (14%)
   5. E10+                  :  32 (5%)
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 176 (32%)
-  2. Shooter               : 137 (25%)
-  3. RPG                   : 112 (20%)
-  4. Platform              :  92 (17%)
-  5. Strategy              :  86 (15%)
-  6. Arcade                :  82 (15%)
-  7. Sport                 :  76 (14%)
-  8. Simulator             :  71 (13%)
-  9. Puzzle                :  55 (10%)
+  1. Adventure             : 179 (32%)
+  2. Shooter               : 138 (25%)
+  3. RPG                   : 114 (20%)
+  4. Platform              :  94 (17%)
+  5. Strategy              :  87 (15%)
+  6. Arcade                :  83 (15%)
+  7. Sport                 :  76 (13%)
+  8. Simulator             :  73 (13%)
+  9. Puzzle                :  56 (10%)
  10. Racing                :  44 (8%)
 
 Themes (Top 10):
 -------------------
-  1. Action                : 346 (64%)
-  2. Fantasy               : 161 (29%)
-  3. Science Fiction       : 144 (26%)
-  4. Historical            :  55 (10%)
+  1. Action                : 351 (64%)
+  2. Fantasy               : 166 (30%)
+  3. Science Fiction       : 145 (26%)
+  4. Historical            :  56 (10%)
   5. Comedy                :  44 (8%)
   6. Warfare               :  41 (7%)
-  7. Horror                :  33 (6%)
-  8. Sandbox               :  29 (5%)
-  9. Open world            :  25 (4%)
- 10. Survival              :  22 (4%)
-  =  Non-fiction           :  22 (4%)
+  7. Horror                :  34 (6%)
+  8. Sandbox               :  30 (5%)
+  9. Open world            :  26 (4%)
+ 10. Survival              :  24 (4%)
 
 Developers (Top 10):
 --------------------
@@ -110,18 +108,19 @@ Publishers (Top 10):
   4. Sony                  :  41 (7%)
   5. Atari                 :  33 (6%)
   6. Activision            :  28 (5%)
-  7. Square                :  27 (5%)
-  =  Konami                :  27 (5%)
+  7. Square                :  27 (4%)
+  =  Konami                :  27 (4%)
   9. Sierra                :  24 (4%)
- 10. Capcom                :  21 (3%)
+ 10. Microsoft             :  21 (3%)
+  =  Capcom                :  21 (3%)
 
 Perspectives:
 -------------
-  1. Bird view / Isometric : 189 (35%)
-  2. Third person          : 176 (32%)
-  3. Side view             : 142 (26%)
-  4. First person          : 127 (23%)
-  5. Text                  :  10 (1%)
+  1. Bird view / Isometric : 192 (35%)
+  2. Third person          : 177 (32%)
+  3. Side view             : 144 (26%)
+  4. First person          : 129 (23%)
+  5. Text                  :  12 (2%)
   6. Auditory              :   3 (0%)
   7. Virtual Reality       :   1 (0%)
 

@@ -9168,6 +9168,142 @@
 		"pegi": "18",
 		"esrb": "M",
         "hltb": 24
+    },
+    "VVVVVV (2010)":
+    {
+        "id": 540,
+        "year": 2010,
+        "country": ["IRL"],
+        "platforms": ["Android", "3DS", "PS4", "Linux", "Mac", "iOS", "Vita", "Win", "Ouya", "Switch"],
+        "developers": ["Terry Cavanagh"],
+        "publishers": ["Nicalis"],
+        "genre": ["Adventure", "Arcade", "Indie", "Platform", "Puzzle"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Terry Cavanagh", "Bennett Foddy"],
+        "composer": ["Magnus Pålsson"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 4
+    },
+    "Zeno Clash (2009)":
+    {
+        "id": 541,
+        "year": 2009,
+        "country": ["CHI"],
+        "platforms": ["Xbox 360", "Win"],
+        "developers": ["ACE Team"],
+        "publishers": ["Tripwire", "Iceberg", "Atlus"],
+        "genre": ["Fighting", "Hack and Slash", "Indie", "Shooter"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Andrés Bordeu", "Carlos Bordeu"],
+        "composer": ["Patricio Meneses"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 5
+    },
+    "Torchlight (2009)":
+    {
+        "id": 542,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "Win"],
+        "developers": ["Runic Games", "World Domination Industries"],
+        "publishers": ["Microsoft", "JoWooD", "Encore", "Perfect World"],
+        "genre": ["Hack and Slash", "RPG"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Travis Baldree"],
+        "composer": ["Matt Uelmen"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 22
+    },
+    "Anchorhead (1998)":
+    {
+        "id": 543,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Web browser", "Win"],
+        "developers": ["Michael S. Gentry"],
+        "publishers": ["Michael S. Gentry"],
+        "genre": ["Adventure"],
+        "theme": ["Horror", "Mystery"],
+        "perspective": ["Text"],
+        "designer": ["Michael S. Gentry"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 38
+    },
+    "Dwarf Fortress (2006)":
+    {
+        "id": 544,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["Bay 12 Games"],
+        "publishers": ["Bay 12 Games", "Kitfox Games"],
+        "genre": ["Indie", "RPG", "Simulator", "Strategy", "Turn-Based Strategy"],
+        "theme": ["4X", "Fantasy", "Open world", "Sandbox", "Survival"],
+        "perspective": ["Bird view / Isometric", "Text"],
+        "designer": ["Tarn Adams", "Zach Adams"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 200
+    },
+    "Microsoft Flight Simulator 2004: A Century of Flight (2003)":
+    {
+        "id": 545,
+        "year": 2003,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Microsoft"],
+        "publishers": ["Microsoft"],
+        "genre": ["Simulator"],
+        "theme": ["Flight"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Barry Dowsett"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 20
+    },
+    "League of Legends (2009)":
+    {
+        "id": 546,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Riot Games"],
+        "publishers": ["Riot Games", "Tencent", "GOA Games Services"],
+        "genre": ["MOBA"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Andrei van Roon"],
+        "composer": ["Unknown"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 1582
+    },
+    "Spelunky (2012)":
+    {
+        "id": 547,
+        "year": 2012,
+        "country": ["USA"],
+        "platforms": ["PS4", "Xbox 360", "Vita", "PS3", "Win", "Switch"],
+        "developers": ["BlitWorks", "Mossmouth"],
+        "publishers": ["Mossmouth", "Microsoft"],
+        "genre": ["Adventure", "Indie", "Platform"],
+        "theme": ["Action", "Fantasy", "Survival"],
+        "perspective": ["Side view"],
+        "designer": ["Derek Yu"],
+        "composer": ["George Buzinkai", "Jonathan Perry", "Eirik Suhrke"],
+		"pegi": "7",
+		"esrb": "T",
+        "hltb": 44
     }
 
 }

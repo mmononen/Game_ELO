@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2397   Doom (1993)                                                                                 19    8 
+    1. 2402   Doom (1993)                                                                                 19    8 
                   USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -72,16 +72,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 2120   Tomb Raider (1996)                                                                         194    6 
-                  GBR | 18 h | Third person | PEGI: 12 | ESRB: T
-                  On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
-                  Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
-                  Developers: Core Design
-                  Publishers: Eidos, Sony
-                  Designer: Vicky Arnold
-                  Composer: Nathan McCree
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 2111   X-COM: UFO Defense (1994)                                                                   26    6 
+    9. 2138   X-COM: UFO Defense (1994)                                                                   26    6 
                   GBR, USA | 42 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Amiga, DOS, PSX, Win
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Horror, Science Fiction, Warfare
@@ -89,6 +80,15 @@
                   Publishers: MicroProse, Spectrum HoloByte
                   Designer: Julian Gollop, Nick Gollop
                   Composer: John Broomhall
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 2120   Tomb Raider (1996)                                                                         194    6 
+                  GBR | 18 h | Third person | PEGI: 12 | ESRB: T
+                  On: DOS, N-Gage, PS3, PSP, PSX, Saturn, Vita, Win
+                  Genre: Adventure, Platform, Puzzle, Shooter | Theme: Action, Sandbox, Survival
+                  Developers: Core Design
+                  Publishers: Eidos, Sony
+                  Designer: Vicky Arnold
+                  Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    11. 2041   Resident Evil 2 (1998)                                                                     187    4 
                   JPN | 9 h | Third person | PEGI: 18 | ESRB: M
@@ -180,16 +180,7 @@
                   Designer: Seiichi Ishii
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1863   Duke Nukem 3D (1996)                                                                        51    3 
-                  USA | 12 h | First person | PEGI: 16 | ESRB: M
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1848   Command & Conquer: Red Alert (1996)                                                        452    2 
+   21. 1886   Command & Conquer: Red Alert (1996)                                                        452    3 
                   USA | 31 h | Bird view / Isometric | PEGI: 12 | ESRB: T
                   On: DOS, PS3, PSP, PSX, Win
                   Genre: Real Time Strategy, Strategy | Theme: Historical, Science Fiction, Warfare
@@ -197,6 +188,15 @@
                   Publishers: Electronic Arts, Sold Out Sales & Marketing, Sony, Virgin
                   Designer: Adam P. Isgreen, Erik Yeo, Michael Lightner
                   Composer: Frank Klepacki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1863   Duke Nukem 3D (1996)                                                                        51    3 
+                  USA | 12 h | First person | PEGI: 16 | ESRB: M
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    23. 1828   Ridge Racer (1993)                                                                         182    4 
                   JPN | 2 h | First person, Third person | PEGI: 3 | ESRB: E
@@ -225,7 +225,16 @@
                   Designer: David Brevik, Eric Sexton, Erik Schaefer, Kenneth Williams, Max Schaefer
                   Composer: Matt Uelmen
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1772   Tekken 3 (1997)                                                                            186    3 
+   26. 1773   SimCity 2000 (1993)                                                                         48    3 
+                  USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
+                  Genre: Simulator, Strategy | Theme: Business, Sandbox
+                  Developers: Maxis
+                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
+                  Designer: Fred Haslam, Will Wright
+                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   27. 1772   Tekken 3 (1997)                                                                            186    3 
                   JPN | 12 h | Side view | PEGI: 12 | ESRB: T
                   On: Arcade, PS2, PSX
                   Genre: Fighting | Theme: Action
@@ -234,7 +243,7 @@
                   Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
                   Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1724   Grand Theft Auto (1997)                                                                    247    2 
+   28. 1724   Grand Theft Auto (1997)                                                                    247    2 
                   GBR | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: M
                   On: DOS, PSX, Win
                   Genre: Adventure, Racing, Shooter | Theme: Action, Sandbox
@@ -243,7 +252,7 @@
                   Designer: Billy Thomson, Keith R. Hamilton, Paul Farley, Stephen Banks
                   Composer: Colin Anderson, Craig Conner, Grant Middleton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1700   Final Fantasy V (1992)                                                                      35    2 
+   29. 1700   Final Fantasy V (1992)                                                                      35    2 
                   JPN | 37 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
                   On: PSX, SNES, Wii
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Open world
@@ -251,15 +260,6 @@
                   Publishers: Square
                   Designer: Hironobu Sakaguchi, Hiroyuki Ito
                   Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1690   SimCity 2000 (1993)                                                                         48    3 
-                  USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
-                  Genre: Simulator, Strategy | Theme: Business, Sandbox
-                  Developers: Maxis
-                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
-                  Designer: Fred Haslam, Will Wright
-                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    30. 1596   Rage Racer (1996)                                                                          184    1 
                   JPN | 9 h | First person, Third person | PEGI: N/A | ESRB: E

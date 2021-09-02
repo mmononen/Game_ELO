@@ -1,6 +1,6 @@
 # Calculates ELO ranking for games based on various curated top-lists.
 
-import sys, json, statistics
+import json, statistics
 
 class Game:
     def __init__(self, name):
@@ -15,7 +15,7 @@ class Game:
         self.lists = []
         self.id = 0
         self.year = 0
-        self.country = ""
+        self.country = []
         self.platforms = []
         self.developers = []
         self.publishers = []
@@ -133,8 +133,8 @@ class Game:
 class Developer:
     def __init__(self, name):
         self.name = name
-        self.elo = 1200
-        self.highest_elo = 1200
+        self.elo = 1000
+        self.highest_elo = 1000
         self.wins = 0
         self.draws = 0
         self.loses = 0
@@ -143,16 +143,40 @@ class Developer:
         self.games = []
 
 class Publisher:
-    def __init__(self):
-        pass
+    def __init__(self, name):
+        self.name = name
+        self.elo = 1000
+        self.highest_elo = 1000
+        self.wins = 0
+        self.draws = 0
+        self.loses = 0
+        self.matches = 0
+        self.k = 40
+        self.games = []
 
 class Designer:
-    def __init__(self):
-        pass
+    def __init__(self, name):
+        self.name = name
+        self.elo = 1000
+        self.highest_elo = 1000
+        self.wins = 0
+        self.draws = 0
+        self.loses = 0
+        self.matches = 0
+        self.k = 40
+        self.games = []
 
 class Composer:
-    def __init__(self):
-        pass
+    def __init__(self, name):
+        self.name = name
+        self.elo = 1000
+        self.highest_elo = 1000
+        self.wins = 0
+        self.draws = 0
+        self.loses = 0
+        self.matches = 0
+        self.k = 40
+        self.games = []
 
 
 groups = []
@@ -288,6 +312,19 @@ def filter_platform(olist, platform):
                 olist.append(s)
     return olist
 
+def filter_country(olist, country):
+    a = len(max(groupnames, key=len)) + 4
+    for g in groups:
+        if g.matches > 0:
+            s = ""
+            if g.elo < 1000:
+                s = "0"      
+            
+            s += f"{int(round(g.elo))}   {g.name:{a}} {(g.id):4} {len(g.lists):4}"
+            if country in g.country:
+                olist.append(s)
+    return olist
+
 def make_printable(olist):
     a = len(max(groupnames, key=len)) + 4
     
@@ -301,19 +338,11 @@ def make_printable(olist):
     j = 0
     tempelo = 0
 
-    # threshold for played matches (default = 30)
-    threshold = 0
-    try:
-        # alternative threshold value as an argument
-        threshold = int(sys.argv[1])
-    except:
-        pass
-
 
     line_between_elos = False
     for o in olist:      
         # test if group's played matches are at least in threshold level   
-        if  int((o[-4:])) >= threshold: 
+        if  int((o[-4:])) >= 1: 
             # if no other group is at the same rank, print a rank number
             if tempelo != int((o[0:5])):
                 i += j
@@ -335,7 +364,7 @@ def make_printable(olist):
             bname = o[7:len(max(groupnames, key=len)) + 7].strip()
             
             band = groups[groupnames.index(bname)]
-            #print(f"{band.id} {band.name} ({band.year})")
+            
             # There should be data for all the fields in gamedb.json if there is an entry for the game
             if (band.id) != 0:
                 printable.append(f"                  {band.get_country()} | {band.hltb} h | {band.get_perspective()} | PEGI: {band.pegi} | ESRB: {band.esrb}")
@@ -347,8 +376,6 @@ def make_printable(olist):
 
                 printable.append(f"                  Designer: {band.get_designer()}")
                 printable.append(f"                  Composer: {band.get_composer()}")
-            else:
-                printable.append(f"       Not in database!")            
 
             tempelo = int((o[0:5]))
     if len(olist) < 1:
@@ -414,7 +441,7 @@ for l in lists:
                     pass
         old_l = l
         f.close()
-        print(f"processing list: {l}")
+        print(f"processing: {l}")
     except:
         
         print(f"{l} is missing!")
@@ -452,10 +479,6 @@ for l in lists:
 
 printable = []
 
-# calculate addition 1% multiplier per appearance in lists
-# this is added after the match calculations as a bonus score
-#for g in groups:
-#    g.elo = g.elo * (len(g.lists) / 100 + 1)
 
 for i in range(1900, 2100, 1):
     olist = []    
@@ -477,6 +500,21 @@ for p in platforms:
     printable = make_printable(filter_platform(olist, p))
     if len(printable) > 0:
         n = f"output/platform/{p}.txt"
+        with open(n, 'w', encoding='utf-8') as f_out:
+            for p in printable:                
+                f_out.write(p+"\n")
+
+countries = []
+for g in groups:
+    for p in g.country:
+        if p not in countries:
+            countries.append(p)
+
+for c in countries:
+    olist = []
+    printable = make_printable(filter_country(olist, c))
+    if len(printable) > 0:
+        n = f"output/country/{c}.txt"
         with open(n, 'w', encoding='utf-8') as f_out:
             for p in printable:                
                 f_out.write(p+"\n")
