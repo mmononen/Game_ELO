@@ -130,7 +130,7 @@ class Game:
             s += sg + ", "
         return s[:len(s)-2]
 
-class Developer:
+class Person():
     def __init__(self, name):
         self.name = name
         self.elo = 1000
@@ -142,7 +142,7 @@ class Developer:
         self.k = 40
         self.games = []
 
-class Publisher:
+class Company():
     def __init__(self, name):
         self.name = name
         self.elo = 1000
@@ -154,7 +154,7 @@ class Publisher:
         self.k = 40
         self.games = []
 
-class Designer:
+class Developer(Company):
     def __init__(self, name):
         self.name = name
         self.elo = 1000
@@ -166,7 +166,31 @@ class Designer:
         self.k = 40
         self.games = []
 
-class Composer:
+class Publisher(Company):
+    def __init__(self, name):
+        self.name = name
+        self.elo = 1000
+        self.highest_elo = 1000
+        self.wins = 0
+        self.draws = 0
+        self.loses = 0
+        self.matches = 0
+        self.k = 40
+        self.games = []
+
+class Designer(Person):
+    def __init__(self, name):
+        self.name = name
+        self.elo = 1000
+        self.highest_elo = 1000
+        self.wins = 0
+        self.draws = 0
+        self.loses = 0
+        self.matches = 0
+        self.k = 40
+        self.games = []
+
+class Composer(Person):
     def __init__(self, name):
         self.name = name
         self.elo = 1000
@@ -278,8 +302,7 @@ def calculate_elo(g1, g2, res):
     g1.set_elo(max(ra, g1.get_highest_elo()))
     g2.set_elo(max(rb, g2.get_highest_elo()))
 
-    #print(f"{g1.name} {g1.elo} - {g2.name} {g2.elo}")
-
+    
 def check_name(data, val):
     return any(g['name']==val for g in data['games'])
 
@@ -442,9 +465,8 @@ for l in lists:
         old_l = l
         f.close()
         print(f"processing: {l}")
-    except:
-        
-        print(f"{l} is missing!")
+    except Exception as e:        
+        print(f"{e}: {l} is missing!")
    
     list_groups.reverse()
     tmp = [(a, b) for idx, a in enumerate(list_pos) for b in list_pos[idx + 1:]]
@@ -555,8 +577,8 @@ for g in gamedb:
     try:
         s = groups[groupnames.index(g)]
         total_hltb.append(s.hltb)
-    except:
-        print(f"{g} not in lists!")
+    except Exception as e:
+        print(f"{e}: {g} not in lists!")
         break
     for x in s.country:
         if x not in countries:
@@ -805,8 +827,12 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     f_out.write(f"Total: {sum(total_hltb)} h | Average: {int(sum(total_hltb) / len(gamedb))} h | Median: {int(statistics.median(total_hltb))} h\n")
     #f_out.write(f"Average hours per game: {int(sum(total_hltb) / len(gamedb))} h\n")
     f_out.write("\n")
-    f_out.write("Countries (Top 10):\n")
-    f_out.write("-------------------\n")
+    topics = ["Countries (Top 10):",
+              "Platforms (Top 10):"
+             ]
+    
+    f_out.write(f"{topics[0]}\n")
+    f_out.write("-"*len(topics[0])+"\n")
     print_countries.sort(reverse=True)
     k = 0
     k2 = 0
@@ -827,9 +853,9 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
             f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
         else:
             break
-    f_out.write("\n")
-    f_out.write("Platforms (Top 10):\n")
-    f_out.write("-------------------\n")
+    f_out.write(f"\n")
+    f_out.write(f"{topics[1]}\n")
+    f_out.write("-"*len(topics[1])+"\n")
     print_platforms.sort(reverse=True)
     k = 0
     k2 = 0

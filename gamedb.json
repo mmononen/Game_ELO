@@ -9304,6 +9304,57 @@
 		"pegi": "7",
 		"esrb": "T",
         "hltb": 44
+    },
+    "Wing Commander III: Heart of the Tiger (1994)":
+    {
+        "id": 548,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["PSX", "DOS", "3DO"],
+        "developers": ["Origin"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Simulator"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Tim Ray", "Ben Potter", "Jeff J. Shelton"],
+        "composer": ["George Oldziey"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 26
+    },
+    "Zuma's Revenge! (2009)":
+    {
+        "id": 549,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["DS", "DSi", "Xbox 360", "Mac", "iOS", "Windows Phone", "PS3", "Win", "Zeebo"],
+        "developers": ["PopCap Games"],
+        "publishers": ["PopCap Games", "Electronic Arts"],
+        "genre": ["Arcade", "Puzzle"],
+        "theme": ["Action", "Kids"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jason Kapalka"],
+        "composer": ["Philippe Charron", "Stéphane Brault"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 9
+    },
+    "Burnout Paradise (2008)":
+    {
+        "id": 550,
+        "year": 2008,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "PS3"],
+        "developers": ["Criterion Games"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Racing"],
+        "theme": ["Action", "Open world", "Sandbox"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Craig Sullivan"],
+        "composer": ["Unknown"],
+		"pegi": "7",
+		"esrb": "E10+",
+        "hltb": 26
     }
 
 }
