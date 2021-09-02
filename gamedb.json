@@ -9389,6 +9389,159 @@
         "pegi": "7",
         "esrb": "E10+",
         "hltb": 22
+    },
+    "MechCommander (1998)":
+    {
+        "id": 553,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["FASA Interactive"],
+        "publishers": ["MicroProse"],
+        "genre": ["Real Time Strategy", "Strategy", "Tactical"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Ross Babcock", "Tom Dowd", "Mitch Gitelman", "Tim Ryan", "Steve Scott", "Denny Thorley", "Jordan Weisman"],
+        "composer": ["Duane Decker"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 22
+    },
+    "The Curse of Monkey Island (1997)":
+    {
+        "id": 554,
+        "year": 1997,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["LucasArts", "Activision", "THQ"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Comedy", "Fantasy", "Historical", "Pirates"],
+        "perspective": ["Side view"],
+        "designer": ["Larry Ahern", "Jonathan Ackley"],
+        "composer": ["Michael Z. Land"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 10
+    },
+    "Silent Hunter III (2005)":
+    {
+        "id": 555,
+        "year": 2005,
+        "country": ["ROU"],
+        "platforms": ["Win"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Simulator", "Strategy"],
+        "theme": ["Action", "Historical", "Warfare"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Tiberius Astianax Lazar"],
+        "composer": ["Patrick Giraudi"],
+		"pegi": "7",
+		"esrb": "T",
+        "hltb": 56
+    },
+    "Sins of a Solar Empire (2008)":
+    {
+        "id": 556,
+        "year": 2008,
+        "country": ["CAN"],
+        "platforms": ["Win"],
+        "developers": ["Ironclad Games"],
+        "publishers": ["Stardock"],
+        "genre": ["Real Time Strategy", "Strategy", "Tactical"],
+        "theme": ["4X", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Unknown"],
+        "composer": ["Paul Schuegraf"],
+		"pegi": "7",
+		"esrb": "T",
+        "hltb": 20
+    },
+    "Call of Cthulhu: Dark Corners of The Earth (2005)":
+    {
+        "id": 557,
+        "year": 2005,
+        "country": ["GBR"],
+        "platforms": ["Xbox", "Win"],
+        "developers": ["Headfirst Productions"],
+        "publishers": ["Bethesda"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Horror", "Survival"],
+        "perspective": ["First person"],
+        "designer": ["Simon Woodroffe", "Michael Woodroffe", "Christopher Gray"], 
+        "composer": ["Greg Chandler"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 13
+    },
+    "Dungeon Siege (2002)":
+    {
+        "id": 558,
+        "year": 2002,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Westlake Interactive", "Gas Powered Games"],
+        "publishers": ["MacSoft Games", "Microsoft"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Chris Taylor"],
+        "composer": ["Jeremy Soule"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 35
+    },
+    "Gothic II (2002)":
+    {
+        "id": 559,
+        "year": 2002,
+        "country": ["GER"],
+        "platforms": ["Win"],
+        "developers": ["Piranha Bytes"],
+        "publishers": ["Atari", "JoWooD", "Nordic Games"],
+        "genre": ["Adventure", "RPG", "Strategy"],
+        "theme": ["Action", "Fantasy", "Horror", "Open world", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Michael Hoge"],
+        "composer": ["Kai Rosenkranz"],
+		"pegi": "12",
+		"esrb": "M",
+        "hltb": 53
+    },
+    "Mirror's Edge (2008)":
+    {
+        "id": 560,
+        "year": 2008,
+        "country": ["SWE"],
+        "platforms": ["Xbox One", "Xbox 360", "PS3", "Win"],
+        "developers": ["Digital Illusions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["First person"],
+        "designer": ["Thomas Andersson"],
+        "composer": ["Magnus Birgersson"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 8
+    },
+    "Mount & Blade (2008)":
+    {
+        "id": 561,
+        "year": 2008,
+        "country": ["TUR"],
+        "platforms": ["Win"],
+        "developers": ["Taleworlds"],
+        "publishers": ["Paradox"],
+        "genre": ["Adventure", "Indie", "RPG", "Shooter", "Simulator"],
+        "theme": ["Action", "Sandbox"],
+        "perspective": ["Third person"],
+        "designer": ["Armağan Yavuz", "Steve Negus", "Cem Çimenbiçer"],
+        "composer": ["Jesse Hopkins"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 92
     }
 
 }

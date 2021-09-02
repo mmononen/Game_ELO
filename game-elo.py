@@ -246,7 +246,7 @@ lists = ["data/1996-09-30 Next_Generation_1996_Top_100_Games_of_All_Time.txt",
          "data/2018-12-31 Videogamer_2018_Top_PC_Games_of_All_Time.txt",
          "data/2019-03-21 The 100 Greatest Video Games of All Time (Popular Mechanics).txt",
          "data/2019-07-01 Hiconsumption_2019_The_100_Best_Video_Games_of_All_Time.txt",
-         "data/2019-08-04 2019 RPG Codex Top RPGs.txt"
+         "data/2019-08-04 2019 RPG Codex Top RPGs.txt",
          "data/2019-09-19 Guardian The 50 best video games of the 21st century.txt",
          "data/2020-03-30 Esquire The 15 Best Video Games of All Time, Ranked.txt",
          "data/2020-04-13 Slant_2020_The_100_Best_Video_Games_of_All_Time.txt",
