@@ -437,8 +437,8 @@ for l in lists:
                         g.add_list(l)                    
                     if x[1] not in list_groups:
                         list_groups.append(x[1])
-                except:                    
-                    pass
+                except Exception as e:                    
+                    print(e)
         old_l = l
         f.close()
         print(f"processing: {l}")
@@ -468,10 +468,9 @@ for l in lists:
         if i0[1] != i1[1]:
             try:
                 calculate_elo(groups[groupnames.index(itm[0])],groups[groupnames.index(itm[1])],wdl)
-            except:                
-                pass
-        else:
-            pass
+            except Exception as e:                
+                print(e)
+
     
     for g in groups:
         if g.get_elo() > g.get_highest_elo():
@@ -643,10 +642,7 @@ for g in gamedb:
                 a = a + 1
                 composers[x] = a
 
-#countries = (countries.values().values())
-#sorted(data.keys(), key=data.get)
-#sorted(data.items(), key=lambda x:x[1])
-#countries = sorted(countries.values())
+
 print_countries = []
 for i in countries:
     a = countries[i]
