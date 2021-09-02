@@ -9355,6 +9355,23 @@
 		"pegi": "7",
 		"esrb": "E10+",
         "hltb": 26
+    },
+    "Crysis (2007)":
+    {
+        "id": 551,
+        "year": 2007,
+        "country": ["GER"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["Crytek"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Stealth"],
+        "perspective": ["First person"],
+        "designer": ["Cevat Yerli", "Jack Mamais"],
+        "composer": ["Inon Zur"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 12
     }
 
 }
