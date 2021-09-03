@@ -9882,6 +9882,74 @@
 		"pegi": "16",
 		"esrb": "T",
         "hltb": 30
+    },
+    "Knights of the Chalice (2009)":
+    {
+        "id": 582,
+        "year": 2009,
+        "country": ["GBR"],
+        "platforms": ["Win"],
+        "developers": ["Heroic Fantasy Games"],
+        "publishers": ["Heroic Fantasy Games"],
+        "genre": ["Indie", "RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Pierre Begue"],
+        "composer": ["Nino Rajačić"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 24
+    },
+    "Might and Magic: World of Xeen (1994)":
+    {
+        "id": 583,
+        "year": 1994,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS"],
+        "developers": ["New World Computing"],
+        "publishers": ["New World Computing"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Comedy", "Fantasy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Jon Van Caneghem"],
+        "composer": ["Tim Tully", "Gregory Alper", "Takeshi Abo", "Paul Lehrman"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 56
+    },
+    "Alpha Protocol (2010)":
+    {
+        "id": 584,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "PS3", "Win"],
+        "developers": ["Obsidian"],
+        "publishers": ["Sega"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Chris Parker", "Chris Avellone", "Raymond Holmes"],
+        "composer": ["Jason Graves", "Rod Abernethy"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 18
+    },
+    "Realms of Arkania: Star Trail (1994)":
+    {
+        "id": 585,
+        "year": 1994,
+        "country": ["GER"],
+        "platforms": ["Linux", "Mac", "DOS", "Win"],
+        "developers": ["Attic Entertainment"],
+        "publishers": ["Sir-Tech", "U.S. Gold", "Fantasy Productions", "United Independent Entertainment"],
+        "genre": ["Adventure", "Indie", "RPG"],
+        "theme": ["Action", "Fantasy", "Open world", "Survival"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Hans-Jürgen Brändle"],
+        "composer": ["Guido Henkel"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 30
     }
 
 }
