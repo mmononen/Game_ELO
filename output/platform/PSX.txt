@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2402   Doom (1993)                                                                                 19    8 
-                  USA | 7 h | First person | PEGI: 16 | ESRB: M
-                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
-                  Genre: Shooter | Theme: Action, Horror, Science Fiction
-                  Developers: id Software
-                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
-                  Designer: John Romero, Sandy Petersen, Tom Hall
-                  Composer: Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2387   Final Fantasy VII (1997)                                                                   191    8 
+    1. 2420   Final Fantasy VII (1997)                                                                   191    9 
                   JPN | 51 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: T
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -17,6 +8,15 @@
                   Publishers: Eidos, Sony, Square
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2402   Doom (1993)                                                                                 19    8 
+                  USA | 7 h | First person | PEGI: 16 | ESRB: M
+                  On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
+                  Genre: Shooter | Theme: Action, Horror, Science Fiction
+                  Developers: id Software
+                  Publishers: Activision, Art Data Interactive, Atari, Bashou House, Bethesda, GT Interactive, Imagineer, Ocean Software, Sega, Soft Bank, Williams, id Software
+                  Designer: John Romero, Sandy Petersen, Tom Hall
+                  Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 2337   Metal Gear Solid (1998)                                                                    196    9 
                   JPN | 13 h | Third person | PEGI: 18 | ESRB: M
@@ -27,7 +27,16 @@
                   Designer: Hideo Kojima
                   Composer: Hiroyuki Togo, Kazuki Muraoka, Lee Jeon Myung, Maki Kirioka, Takanari Ishiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2264   Final Fantasy VI (1994)                                                                     36    5 
+    4. 2294   Chrono Trigger (1995)                                                                      290    4 
+                  JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
+                  On: Android, DS, PSX, SNES, Wii, Win, iOS
+                  Genre: RPG | Theme: Fantasy, Science Fiction
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
+                  Composer: Nobuo Uematsu, Yasunori Mitsuda
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 2264   Final Fantasy VI (1994)                                                                     36    5 
                   JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
                   On: PSX, SNES, Wii, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
@@ -36,7 +45,7 @@
                   Designer: Hiroyuki Ito, Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2241   Sid Meier's Civilization (1991)                                                              4    7 
+    6. 2241   Sid Meier's Civilization (1991)                                                              4    7 
                   USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, Atari ST, DOS, Mac, PSX, SNES, Win
                   Genre: Strategy, Turn-Based Strategy | Theme: 4X
@@ -45,7 +54,7 @@
                   Designer: Bruce Shelley, Sid Meier
                   Composer: Jeffery L. Briggs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2165   Castlevania: Symphony of the Night (1997)                                                  224    5 
+    7. 2165   Castlevania: Symphony of the Night (1997)                                                  224    5 
                   JPN | 12 h | Side view | PEGI: N/A | ESRB: T
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Genre: Adventure, Platform, RPG | Theme: Action, Horror
@@ -54,7 +63,7 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2163   Gran Turismo (1997)                                                                        189    5 
+    8. 2163   Gran Turismo (1997)                                                                        189    5 
                   JPN | 37 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: PSX
                   Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
@@ -62,15 +71,6 @@
                   Publishers: Sony
                   Designer: Hirotaka Komiyama, Kazunori Yamauchi, Takeshi Yokouchi
                   Composer: Isamu Ohira, Jason Page, Masahiro Andoh
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2150   Chrono Trigger (1995)                                                                      290    3 
-                  JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
-                  On: Android, DS, PSX, SNES, Wii, Win, iOS
-                  Genre: RPG | Theme: Fantasy, Science Fiction
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
-                  Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 2138   X-COM: UFO Defense (1994)                                                                   26    6 
                   GBR, USA | 42 h | Bird view / Isometric | PEGI: 12 | ESRB: E

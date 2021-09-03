@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2362   Half-Life (1998)                                                                           188    7 
-                  USA | 14 h | First person | PEGI: 16 | ESRB: M
-                  On: Linux, Mac, PS2, Win
-                  Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
-                  Developers: Valve
-                  Publishers: Sierra, Valve
-                  Designer: Marc Laidlaw
-                  Composer: Kelly Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2351   The Legend of Zelda: Ocarina of Time (1998)                                                177    8 
+    1. 2420   The Legend of Zelda: Ocarina of Time (1998)                                                177    9 
                   JPN | 31 h | Third person | PEGI: 12 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
@@ -17,6 +8,15 @@
                   Publishers: Nintendo
                   Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2362   Half-Life (1998)                                                                           188    7 
+                  USA | 14 h | First person | PEGI: 16 | ESRB: M
+                  On: Linux, Mac, PS2, Win
+                  Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
+                  Developers: Valve
+                  Publishers: Sierra, Valve
+                  Designer: Marc Laidlaw
+                  Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 2337   Metal Gear Solid (1998)                                                                    196    9 
                   JPN | 13 h | Third person | PEGI: 18 | ESRB: M
@@ -36,7 +36,16 @@
                   Designer: Chris Metzen, James Phinney
                   Composer: Derek Duke, Glenn Stafford, Jason Hayes, Tracy W. Bush
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2041   Resident Evil 2 (1998)                                                                     187    4 
+    5. 2056   SoulCalibur (1998)                                                                         222    6 
+                  JPN | 9 h | Third person | PEGI: 16 | ESRB: T
+                  On: Android, Arcade, Dreamcast, Xbox 360, iOS
+                  Genre: Arcade, Fighting | Theme: Action, Fantasy, Historical
+                  Developers: Project Soul
+                  Publishers: Namco
+                  Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
+                  Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2041   Resident Evil 2 (1998)                                                                     187    4 
                   JPN | 9 h | Third person | PEGI: 18 | ESRB: M
                   On: Dreamcast, GameCube, N64, PS3, PSX, Win
                   Genre: Adventure, Shooter | Theme: Action, Horror, Survival
@@ -45,7 +54,7 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Shusaku Uchiyama, Syun Nishigaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2026   Fallout 2: A Post Nuclear Role Playing Game (1998)                                         509    2 
+    7. 2026   Fallout 2: A Post Nuclear Role Playing Game (1998)                                         509    2 
                   USA | 48 h | Bird view / Isometric | PEGI: 16 | ESRB: M
                   On: Mac, Win
                   Genre: RPG, Turn-Based Strategy | Theme: Comedy, Science Fiction, Survival
@@ -53,15 +62,6 @@
                   Publishers: Interplay
                   Designer: Feargus Urquhart, Matt Norton
                   Composer: Mark Morgan
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1967   SoulCalibur (1998)                                                                         222    5 
-                  JPN | 9 h | Third person | PEGI: 16 | ESRB: T
-                  On: Android, Arcade, Dreamcast, Xbox 360, iOS
-                  Genre: Arcade, Fighting | Theme: Action, Fantasy, Historical
-                  Developers: Project Soul
-                  Publishers: Namco
-                  Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
-                  Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1797   Crash Bandicoot: Warped (1998)                                                             293    2 
                   USA | 8 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A

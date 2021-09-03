@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2264   Final Fantasy VI (1994)                                                                     36    5 
-                  JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
-                  On: PSX, SNES, Wii, Win
-                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
-                  Developers: Square, Tose
-                  Publishers: Nintendo, Sony, Square
-                  Designer: Hiroyuki Ito, Yoshinori Kitase
-                  Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2200   Super Metroid (1994)                                                                       119    8 
+    1. 2321   Super Metroid (1994)                                                                       119    9 
                   JPN | 9 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -17,6 +8,15 @@
                   Publishers: Nintendo
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2264   Final Fantasy VI (1994)                                                                     36    5 
+                  JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
+                  On: PSX, SNES, Wii, Win
+                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
+                  Developers: Square, Tose
+                  Publishers: Nintendo, Sony, Square
+                  Designer: Hiroyuki Ito, Yoshinori Kitase
+                  Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 2138   X-COM: UFO Defense (1994)                                                                   26    6 
                   GBR, USA | 42 h | Bird view / Isometric | PEGI: 12 | ESRB: E
@@ -54,7 +54,16 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1733   Tempest 2000 (1994)                                                                        221    3 
+    7. 1734   EarthBound (1994)                                                                          450    2 
+                  JPN | 33 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
+                  On: 3DS (New), GBA, SNES, Wii U
+                  Genre: Adventure, RPG, Turn-Based Strategy | Theme: Action, Drama, Fantasy, Science Fiction
+                  Developers: Creatures Inc., HAL Laboratory
+                  Publishers: Nintendo
+                  Designer: Akihiko Miura, Shigesato Itoi
+                  Composer: Hirokazu Tanaka, Keiichi Suzuki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    8. 1733   Tempest 2000 (1994)                                                                        221    3 
                   GBR | 12 h | Third person | PEGI: N/A | ESRB: E
                   On: DOS, Jaguar, Mac, Saturn, Win
                   Genre: Arcade, Shooter | Theme: Action
@@ -72,7 +81,7 @@
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1689   Sonic the Hedgehog 3 (1994)                                                                 38    3 
+   10. 1689   Sonic the Hedgehog 3 (1994)                                                                 38    3 
                   JPN | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: Mega Drive, Wii, Xbox 360
                   Genre: Adventure, Platform | Theme: Action
@@ -81,7 +90,7 @@
                   Designer: Hirokazu Yasuhara, Hisayoshi Yoshida, Takashi Iizuka
                   Composer: Bobby Brooks, Brad Buxer, Cirocco Jones, Darryl Ross, Doug Grigsby, Geoff Grace, Jun Senoue, Michael Jackson, Sachio Ogawa, Tatsuyuki Maeda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1676   Star Wars: TIE Fighter (1994)                                                               39    2 
+   11. 1676   Star Wars: TIE Fighter (1994)                                                               39    2 
                   USA | 23 h | First person | PEGI: 7 | ESRB: N/A
                   On: DOS, Mac
                   Genre: Shooter, Simulator | Theme: Action, Science Fiction
@@ -90,7 +99,7 @@
                   Designer: Edard Kilham, Lawrence Holland
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1648   Super Bomberman 2 (1994)                                                                     3    2 
+   12. 1648   Super Bomberman 2 (1994)                                                                     3    2 
                   JPN | 5 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: SNES
                   Genre: Arcade, Strategy, Tactical | Theme: Action, Historical, Science Fiction
@@ -99,7 +108,7 @@
                   Designer: Takayuki Hirai
                   Composer: Yasuhiko Fukuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1617   Daytona USA (1994)                                                                          21    2 
+   13. 1617   Daytona USA (1994)                                                                          21    2 
                   JPN | 2 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: Arcade, PS3, Saturn, Win
                   Genre: Racing | Theme: Motorsports
@@ -108,7 +117,7 @@
                   Designer: Makoto Osaki, Toshihiro Nagoshi, Yukinobu Arikawa
                   Composer: Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1614   Ultima VIII: Pagan (1994)                                                                   86    2 
+   14. 1614   Ultima VIII: Pagan (1994)                                                                   86    2 
                   USA | 33 h | Third person | PEGI: N/A | ESRB: M
                   On: DOS
                   Genre: RPG | Theme: Action, Fantasy
@@ -117,7 +126,7 @@
                   Designer: Andrew P. Morris, John Watson
                   Composer: Nenad Vugrinec
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1606   System Shock (1994)                                                                        275    2 
+   15. 1606   System Shock (1994)                                                                        275    2 
                   USA | 15 h | First person | PEGI: N/A | ESRB: M
                   On: DOS, Mac
                   Genre: RPG, Shooter | Theme: Action, Science Fiction
@@ -126,7 +135,7 @@
                   Designer: Doug Church
                   Composer: Greg LoPiccolo, Tim Ries
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1596   Ridge Racer 2 (1994)                                                                       183    1 
+   16. 1596   Ridge Racer 2 (1994)                                                                       183    1 
                   JPN | 10 h | First person, Third person | PEGI: 3 | ESRB: N/A
                   On: Arcade
                   Genre: Arcade, Racing | Theme: Action
@@ -135,7 +144,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1579   Tekken (1994)                                                                              185    1 
+   17. 1579   Tekken (1994)                                                                              185    1 
                   JPN | 8 h | Side view | PEGI: 12 | ESRB: T
                   On: Arcade, PS3, PSP, PSX, Vita
                   Genre: Fighting | Theme: Action
@@ -143,15 +152,6 @@
                   Publishers: Namco, Sony
                   Designer: Seiichi Ishii
                   Composer: Hiroto Sasaki, Nobuyoshi Sano, Shinji Hosoe, Takayuki Aihara, Yoshie Arakawa, Yoshie Takayanagi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1557   EarthBound (1994)                                                                          450    1 
-                  JPN | 33 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
-                  On: 3DS (New), GBA, SNES, Wii U
-                  Genre: Adventure, RPG, Turn-Based Strategy | Theme: Action, Drama, Fantasy, Science Fiction
-                  Developers: Creatures Inc., HAL Laboratory
-                  Publishers: Nintendo
-                  Designer: Akihiko Miura, Shigesato Itoi
-                  Composer: Hirokazu Tanaka, Keiichi Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1452   Madden NFL 95 (1994)                                                                        44    1 
                   USA | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: E

@@ -9657,7 +9657,7 @@
         "theme": ["Action", "Fantasy", "Horror", "Thriller"],
         "perspective": ["First person", "Third person"],
         "designer": ["Jason D. Anderson", "Leonard Boyarsky", "Brian Mitsoda", "Chad Moore", "TJ Perillo"],
-        "composer": ["Rik Schafter"],
+        "composer": ["Rik Schaffer"],
         "pegi": "18",
         "esrb": "M",
         "hltb": 29
@@ -9695,6 +9695,108 @@
         "pegi": "N/A",
         "esrb": "T",
         "hltb": 92
+    },
+    "Neverwinter Nights 2: Mask of the Betrayer (2007)":
+    {
+        "id": 571,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Obsidian"],
+        "publishers": ["Atari", "Infogrames"],
+        "genre": ["RPG", "Tactical"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Kevin Saunders"],
+        "composer": ["Alexander Brandon", "Rik Schaffer"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 23
+    },
+    "Jagged Alliance 2 (1999)":
+    {
+        "id": 572,
+        "year": 1999,
+        "country": ["CAN"],
+        "platforms": ["Linux", "Amiga", "Win"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Titan Computer", "TalonSoft"],
+        "genre": ["Adventure", "RPG", "Strategy", "Tactical", "Turn-Based Strategy"],
+        "theme": ["Historical", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Ian Currie", "Linda Currie", "Shaun Lyng"],
+        "composer": ["Kevin Manthei"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 61
+    },
+    "Dark Souls (2011)":
+    {
+        "id": 573,
+        "year": 2011,
+        "country": ["JPN"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["FromSoftware"],
+        "publishers": ["Namco", "Bandai"],
+        "genre": ["Adventure", "Hack and Slash", "RPG"],
+        "theme": ["Action", "Fantasy", "Historical", "Horror", "Open world", "Sandbox", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Hidetaka Miyazaki"],
+        "composer": ["Motoi Sakuraba"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 61
+    },
+    "Betrayal at Krondor (1993)":
+    {
+        "id": 574,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Dynamix"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "RPG", "Strategy"],
+        "theme": ["Fantasy", "Literature"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["John Cutter", "Neal Hallford"],
+        "composer": ["Jan Paul Moorhead"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 54
+    },
+    "Darklands (1992)":
+    {
+        "id": 575,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["MicroProse"],
+        "publishers": ["MicroProse"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Arnold Hendrick", "Sandy Petersen", "Douglas Kaufman"],
+        "composer": ["Jeffery L. Briggs"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 83
+    },
+    "Star Wars: Knights of the Old Republic II - The Sith Lords (2004)":
+    {
+        "id": 576,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "iOS", "Xbox", "Win"],
+        "developers": ["Obsidian"],
+        "publishers": ["LucasArts", "Activision", "Aspyr"],
+        "genre": ["Adventure", "RPG", "Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Chris Avellone"],
+        "composer": ["Mark Griskey"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 41
     }
 
 }

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2316   Half-Life 2 (2004)                                                                         401    4 
+    1. 2396   Half-Life 2 (2004)                                                                         401    5 
                   USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -81,7 +81,16 @@
                   Designer: Ken Rolston, Todd Howard
                   Composer: Jeremy Soule
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1782   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
+   10. 1858   Silent Hill 2 (2001)                                                                       443    2 
+                  JPN | 10 h | Third person | PEGI: 16 | ESRB: M
+                  On: PS2, Win, Xbox
+                  Genre: Adventure, Puzzle | Theme: Drama, Horror, Mystery, Survival
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Masashi Tsuboyama
+                  Composer: Akira Yamaoka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1782   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    1 
                   JPN | 15 h | Third person | PEGI: N/A | ESRB: M
                   On: PS2, PS3, Vita, Win, Xbox, Xbox 360
                   Genre: Adventure | Theme: Action, Stealth
@@ -90,7 +99,7 @@
                   Designer: Hideo Kojima
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1757   The Sims (2000)                                                                            322    2 
+   12. 1757   The Sims (2000)                                                                            322    2 
                   USA | 32 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: GameCube, Linux, Mac, PS2, Win, Xbox
                   Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
@@ -99,7 +108,7 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1643   Hitman: Blood Money (2006)                                                                 517    1 
+   13. 1643   Hitman: Blood Money (2006)                                                                 517    1 
                   DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: PS2, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Stealth
@@ -107,15 +116,6 @@
                   Publishers: Eidos
                   Designer: Rasmus Højengaard
                   Composer: Jesper Kyd
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1626   Silent Hill 2 (2001)                                                                       443    1 
-                  JPN | 10 h | Third person | PEGI: 16 | ESRB: M
-                  On: PS2, Win, Xbox
-                  Genre: Adventure, Puzzle | Theme: Drama, Horror, Mystery, Survival
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Masashi Tsuboyama
-                  Composer: Akira Yamaoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1608   Prince of Persia: The Sands of Time (2003)                                                 444    1 
                   CAN | 10 h | Third person | PEGI: N/A | ESRB: T
@@ -198,7 +198,16 @@
                   Designer: Ben Huskins, Dene Carter, Mark Webley, Peter Molyneux
                   Composer: Danny Elfman, Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1352   LEGO Star Wars: The Video Game (2005)                                                      406    1 
+   23. 1362   Star Wars: Knights of the Old Republic II - The Sith Lords (2004)                          576    1 
+                  USA | 41 h | Third person | PEGI: 12 | ESRB: T
+                  On: Linux, Mac, Win, Xbox, iOS
+                  Genre: Adventure, RPG, Strategy | Theme: Action, Science Fiction
+                  Developers: Obsidian
+                  Publishers: Activision, Aspyr, LucasArts
+                  Designer: Chris Avellone
+                  Composer: Mark Griskey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1352   LEGO Star Wars: The Video Game (2005)                                                      406    1 
                   GBR | 11 h | Third person | PEGI: 3 | ESRB: E
                   On: GBA, GameCube, Mac, PS2, Win, Xbox
                   Genre: Adventure, Platform | Theme: Action, Comedy, Kids, Science Fiction
@@ -216,7 +225,7 @@
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1341   Shenmue II (2001)                                                                          369    1 
+   26. 1341   Shenmue II (2001)                                                                          369    1 
                   JPN | 29 h | Third person | PEGI: N/A | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox, Xbox One
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
@@ -225,7 +234,7 @@
                   Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
                   Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1165   ESPN NFL 2K5 (2004)                                                                        496    1 
+   27. 1165   ESPN NFL 2K5 (2004)                                                                        496    1 
                   USA | 18 h | Bird view / Isometric, First person, Third person | PEGI: 3 | ESRB: E
                   On: PS2, Xbox
                   Genre: Simulator, Sport | Theme: Action, Non-fiction
@@ -234,7 +243,7 @@
                   Designer: Christopher Larson
                   Composer: Brian Luzietti, Douglas Rappaport, Ed Brady, Jake Baker, Larry Peacock, Otha Jackson Jr., Randolph Rivas, Robert Thomas, Tor Unsworth
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1153   Call of Cthulhu: Dark Corners of The Earth (2005)                                          557    1 
+   28. 1153   Call of Cthulhu: Dark Corners of The Earth (2005)                                          557    1 
                   GBR | 13 h | First person | PEGI: N/A | ESRB: M
                   On: Win, Xbox
                   Genre: Adventure, Shooter | Theme: Action, Horror, Science Fiction, Survival
@@ -243,7 +252,7 @@
                   Designer: Christopher Gray, Michael Woodroffe, Simon Woodroffe
                   Composer: Greg Chandler
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1097   The Chronicles of Riddick: Escape from Butcher Bay (2004)                                  499    1 
+   29. 1097   The Chronicles of Riddick: Escape from Butcher Bay (2004)                                  499    1 
                   SWE | 10 h | First person, Third person | PEGI: 16 | ESRB: M
                   On: Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth
@@ -252,7 +261,7 @@
                   Designer: Fredrik Ljungdahl, Jens Andersson
                   Composer: Gustaf Grefberg
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1064   Marvel vs. Capcom 2: New Age of Heroes (2000)                                              503    1 
+   30. 1064   Marvel vs. Capcom 2: New Age of Heroes (2000)                                              503    1 
                   JPN | 21 h | Side view | PEGI: 12 | ESRB: T
                   On: Arcade, Dreamcast, PS2, PS3, Xbox, Xbox 360, iOS
                   Genre: Fighting | Theme: Action
@@ -261,7 +270,7 @@
                   Designer: Hidetoshi Ishitawa, Katsuhiro Eguchi, Oni Suzuki, Shinichirō Obata, Shintaro Kojima, Tatsuya Nakae
                   Composer: Mitsuhiko Takano, Tetsuya Shibata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1020   Tom Clancy's Splinter Cell: Pandora Tomorrow (2004)                                        506    1 
+   31. 1020   Tom Clancy's Splinter Cell: Pandora Tomorrow (2004)                                        506    1 
                   CHN, ITA | 13 h | First person, Third person | PEGI: N/A | ESRB: T
                   On: GameCube, PS2, Win, Xbox
                   Genre: Shooter, Tactical | Theme: Action, Stealth
@@ -270,7 +279,7 @@
                   Designer: Denis Muffat-Meridol
                   Composer: Guy Dubuc, Jack Wall, Marc Lessart
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1000   OutRun 2 (2003)                                                                            421    1 
+   32. 1000   OutRun 2 (2003)                                                                            421    1 
                   JPN | 7 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Arcade, Xbox
                   Genre: Racing | Theme: Action
