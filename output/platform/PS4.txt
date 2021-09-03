@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2420   Final Fantasy VII (1997)                                                                   191    9 
+    1. 2791   Final Fantasy VII (1997)                                                                   191    9 
                   JPN | 51 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: T
                   On: PS4, PSX, Switch, Win
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: Yoshinori Kitase
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2402   Doom (1993)                                                                                 19    8 
+    2. 2746   Doom (1993)                                                                                 19    8 
                   USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -18,7 +18,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2105   Grand Theft Auto: Vice City (2002)                                                         339    4 
+    3. 2266   Grand Theft Auto: Vice City (2002)                                                         339    4 
                   GBR | 28 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
@@ -27,25 +27,7 @@
                   Designer: Leslie Benzies
                   Composer: Lex Horton
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2033   Grand Theft Auto: San Andreas (2004)                                                       399    3 
-                  GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
-                  Developers: Rockstar
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Michael Hunter
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1999   Grand Theft Auto III (2001)                                                                387    3 
-                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
-                  Developers: DMA Design
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Craig Conner, Stuart Ross
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1988   Pac-Man (1980)                                                                             251    3 
+    4. 2203   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -54,7 +36,25 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1863   Duke Nukem 3D (1996)                                                                        51    3 
+    5. 2182   Grand Theft Auto III (2001)                                                                387    3 
+                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
+                  Developers: DMA Design
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Craig Conner, Stuart Ross
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2178   Grand Theft Auto: San Andreas (2004)                                                       399    3 
+                  GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Michael Hunter
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1909   Duke Nukem 3D (1996)                                                                        51    3 
                   USA | 12 h | First person | PEGI: 16 | ESRB: M
                   On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Comedy, Science Fiction
@@ -62,8 +62,8 @@
                   Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
                   Designer: Allen H. Blum III, Richard Gray
                   Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1804   Double Dragon (1987)                                                                       318    3 
+
+       1909   Double Dragon (1987)                                                                       318    3
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -72,7 +72,7 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1671   Dragon Quest (1986)                                                                         87    2 
+    9. 1717   Dragon Quest (1986)                                                                         87    2 
                   JPN | 11 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: E
                   On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
                   Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
@@ -81,7 +81,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1540   Max Payne (2001)                                                                           493    3 
+   10. 1527   Max Payne (2001)                                                                           493    3 
                   FIN | 9 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Thriller
@@ -90,7 +90,7 @@
                   Designer: Petri Järvilehto
                   Composer: Kimmo Kajasto, Kärtsy Hatakka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1498   Tecmo Bowl (1987)                                                                          297    1 
+   11. 1502   Tecmo Bowl (1987)                                                                          297    1 
                   JPN | 5 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
                   Genre: Sport | Theme: Action, American Football
@@ -117,7 +117,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1371   Devil May Cry (2001)                                                                       483    1 
+   14. 1366   Devil May Cry (2001)                                                                       483    1 
                   JPN | 9 h | Third person | PEGI: 16 | ESRB: M
                   On: PS2, PS3, PS4, Switch, Win, Xbox 360, Xbox One
                   Genre: Hack and Slash | Theme: Action, Fantasy
@@ -135,7 +135,7 @@
                   Designer: Keiko Iju, Koji Obada
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1341   Shenmue II (2001)                                                                          369    1 
+   16. 1337   Shenmue II (2001)                                                                          369    1 
                   JPN | 29 h | Third person | PEGI: N/A | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox, Xbox One
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
@@ -144,7 +144,7 @@
                   Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
                   Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1336   VVVVVV (2010)                                                                              540    1 
+   17. 1331   VVVVVV (2010)                                                                              540    1 
                   IRL | 4 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Android, Linux, Mac, Ouya, PS4, Switch, Vita, Win, iOS
                   Genre: Adventure, Arcade, Indie, Platform, Puzzle | Theme: Action, Science Fiction
@@ -153,7 +153,7 @@
                   Designer: Bennett Foddy, Terry Cavanagh
                   Composer: Magnus Pålsson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1297   Spelunky (2012)                                                                            547    1 
+   18. 1292   Spelunky (2012)                                                                            547    1 
                   USA | 44 h | Side view | PEGI: 7 | ESRB: T
                   On: PS3, PS4, Switch, Vita, Win, Xbox 360
                   Genre: Adventure, Indie, Platform | Theme: Action, Fantasy, Survival
@@ -162,7 +162,7 @@
                   Designer: Derek Yu
                   Composer: Eirik Suhrke, George Buzinkai, Jonathan Perry
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1259   Bully (2006)                                                                               489    1 
+   19. 1257   Bully (2006)                                                                               489    1 
                   CAN | 21 h | Third person | PEGI: 16 | ESRB: T
                   On: PS2, PS4, Win
                   Genre: Adventure | Theme: Action, Comedy, Open world, Sandbox
@@ -171,7 +171,7 @@
                   Designer: Mike Skupa, Sergei Kuprejanov
                   Composer: Shawn Lee
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1253   Ikaruga (2001)                                                                             490    1 
+   20. 1251   Ikaruga (2001)                                                                             490    1 
                   JPN | 18 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: E10+
                   On: Android, Arcade, Dreamcast, GameCube, PS4, Switch, Win, Xbox 360
                   Genre: Arcade, Indie, Puzzle, Shooter | Theme: Action, Science Fiction
@@ -180,7 +180,16 @@
                   Designer: Hiroshi Iuchi
                   Composer: Hiroshi Iuchi, Yasushu Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1073   Jak 3 (2004)                                                                               502    1 
+   21. 1163   Mount & Blade: Warband (2010)                                                              604    1 
+                  TUR | 118 h | First person, Third person | PEGI: 16 | ESRB: T
+                  On: Linux, Mac, PS4, Win, Xbox One
+                  Genre: RPG, Shooter, Simulator, Strategy | Theme: Action, Fantasy, Historical, Open world, Sandbox
+                  Developers: Taleworlds
+                  Publishers: Paradox
+                  Designer: Armağan Yavuz, Cem Çimenbiçer, Steve Negus
+                  Composer: Jesse Hopkins
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1072   Jak 3 (2004)                                                                               502    1 
                   USA | 14 h | Third person | PEGI: 12 | ESRB: T
                   On: PS2, PS3, PS4, Vita
                   Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Science Fiction
@@ -189,7 +198,7 @@
                   Designer: Amy Hennig, Evan Wells, Jason Rubin, Richard Lemarchand
                   Composer: Josh Mancell, Larry Hopkins
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1020   Shenmue (1999)                                                                             395    1 
+   23. 1020   Shenmue (1999)                                                                             395    1 
                   JPN | 22 h | Third person | PEGI: 16 | ESRB: T
                   On: Dreamcast, PS4, Win, Xbox One
                   Genre: Adventure, Hack and Slash, RPG, Simulator | Theme: Fantasy, Historical, Sandbox

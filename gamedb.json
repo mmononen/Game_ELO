@@ -10205,6 +10205,159 @@
 		"pegi": "16",
 		"esrb": "M",
         "hltb": 37
+    },
+    "King of Dragon Pass (1999)":
+    {
+        "id": 601,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Android", "Mac", "iOS", "Win"],
+        "developers": ["A Sharp"],
+        "publishers": ["A Sharp", "HeroCraft"],
+        "genre": ["RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Text"],
+        "designer": ["David Dunham", "Greg Stafford", "Robin D. Laws"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 8
+    },
+    "Deus Ex: Human Revolution (2011)":
+    {
+        "id": 602,
+        "year": 2011,
+        "country": ["CAN"],
+        "platforms": ["Xbox 360", "Mac", "PS3", "Win"],
+        "developers": ["Eidos"],
+        "publishers": ["Feral Interactive", "Square"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Stealth"],
+        "perspective": ["First person"],
+        "designer": ["Jean-François Dugas", "François Lapikas", "Antoine Thisdale", "Pierre-Francis Lafleur"],
+        "composer": ["Michael McCann"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 30
+    },
+    "Divine Divinity (2002)":
+    {
+        "id": 603,
+        "year": 2002,
+        "country": ["BEL"],
+        "platforms": ["Win"],
+        "developers": ["Larian Studios"],
+        "publishers": ["cdv Software Entertainment"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Swen Vincke"],
+        "composer": ["Kirill Pokrovsky"],
+		"pegi": "7",
+		"esrb": "T",
+        "hltb": 47
+    },
+    "Mount & Blade: Warband (2010)":
+    {
+        "id": 604,
+        "year": 2010,
+        "country": ["TUR"],
+        "platforms": ["Xbox One", "PS4", "Linux", "Mac", "Win"],
+        "developers": ["Taleworlds"],
+        "publishers": ["Paradox"],
+        "genre": ["RPG", "Shooter", "Simulator", "Strategy"],
+        "theme": ["Action", "Fantasy", "Historical", "Open world", "Sandbox"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Armağan Yavuz", "Steve Negus", "Cem Çimenbiçer"],
+        "composer": ["Jesse Hopkins"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 118
+    },
+    "Ancient Domains of Mystery (1994)":
+    {
+        "id": 605,
+        "year": 1994,
+        "country": ["GER"],
+        "platforms": ["Amiga", "DOS", "Linux", "Win", "Mac"],
+        "developers": ["Thomas Biskup"],
+        "publishers": ["Thomas Biskup"],
+        "genre": ["RPG"],
+        "theme": ["Roguelike", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Thomas Biskup"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 50
+    },
+    "Neverwinter Nights 2 (2006)":
+    {
+        "id": 606,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Obsidian"],
+        "publishers": ["Infogrames", "Atari"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Ferret Baudoin", "Josh Sawyer"],
+        "composer": ["Dave Fraser", "Neil Goldberg"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 64
+    },
+    "Champions of Krynn (1990)":
+    {
+        "id": 607,
+        "year": 1990,
+        "country": ["USA"],
+        "platforms": ["Linux", "Amiga", "Mac", "DOS"],
+        "developers": ["SSI"],
+        "publishers": ["SSI"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Victor Penman"],
+        "composer": ["John Halbleib"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 18
+    },
+    "Lands of Lore: The Throne of Chaos (1993)":
+    {
+        "id": 608,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS", "FM Towns", "NEC PC-6000"],
+        "developers": ["Westwood Studios"],
+        "publishers": ["Virgin"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["William Alan Crum"],
+        "composer": ["Paul Mudra", "Frank Klepacki", "Dwight Okahara"],
+		"pegi": "12",
+		"esrb": "N/A",
+        "hltb": 16
+    },
+    "The Dark Heart of Uukrul (1989)":
+    {
+        "id": 609,
+        "year": 1989,
+        "country": ["NZL"],
+        "platforms": ["DOS", "Apple II"],
+        "developers": ["Digital Studios Limited"],
+        "publishers": ["Brøderbund"],
+        "genre": ["Puzzle", "RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Ian Boswell", "Martin Buis"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 29
     }
 
 }

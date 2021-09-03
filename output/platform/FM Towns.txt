@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2006   SimCity (1989)                                                                             279    5 
+    1. 2225   SimCity (1989)                                                                             279    5 
                   USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
@@ -9,7 +9,7 @@
                   Designer: Jeff Braun, Robert Strobel, Will Wright
                   Composer: Steve Hales, Will Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1893   Ultima IV: Quest of the Avatar (1985)                                                       79    4 
+    2. 1990   Ultima IV: Quest of the Avatar (1985)                                                       79    4 
                   USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
                   Genre: RPG | Theme: Fantasy
@@ -18,7 +18,7 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1833   Bubble Bobble (1986)                                                                       237    3 
+    3. 1914   Bubble Bobble (1986)                                                                       237    3 
                   JPN | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Apple II, Arcade, Atari ST, C64, DOS, FM Towns, GB, Game Gear, MSX, NES, SMS, Sharp X68000, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform, Puzzle, Strategy | Theme: Action, Fantasy, Kids
@@ -27,7 +27,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1754   Ultima V: Warriors of Destiny (1988)                                                        80    4 
+    4. 1809   Ultima V: Warriors of Destiny (1988)                                                        80    4 
                   USA | 49 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari ST, C64, DOS, FM Towns, NES, Sharp X68000
                   Genre: Adventure, RPG | Theme: Fantasy
@@ -36,7 +36,7 @@
                   Designer: Richard Garriott
                   Composer: David R. Watson, Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1691   The Secret of Monkey Island (1990)                                                         235    2 
+    5. 1740   The Secret of Monkey Island (1990)                                                         235    2 
                   USA | 7 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Amiga, Atari ST, DOS, FM Towns, Mac, Sega CD
                   Genre: Adventure, Point-and-click, Puzzle | Theme: Pirates
@@ -45,7 +45,7 @@
                   Designer: Dave Grossman, Ron Gilbert, Tim Schafer
                   Composer: Michael Z. Land, Patrick Mundy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1617   Ultima I: The First Age of Darkness (1981)                                                  75    3 
+    6. 1642   Ultima I: The First Age of Darkness (1981)                                                  75    3 
                   USA | 8 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
                   Genre: RPG | Theme: Action, Fantasy, Open world
@@ -54,16 +54,7 @@
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1614   Ultima VI: The False Prophet (1990)                                                         81    2 
-                  USA | 40 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: Fujitsu, Mindscape, Origin, Pony Canyon
-                  Designer: Richard Garriott, Warren Spector
-                  Composer: Herman Miller, Todd Poster
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1584   Marble Madness (1984)                                                                       15    3 
+    7. 1637   Marble Madness (1984)                                                                       15    3 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
@@ -72,7 +63,16 @@
                   Designer: Mark Cerny
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1574   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    2 
+    8. 1633   Ultima VI: The False Prophet (1990)                                                         81    2 
+                  USA | 40 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Atari ST, C64, DOS, FM Towns, PC-98, SNES, Sharp X68000
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: Fujitsu, Mindscape, Origin, Pony Canyon
+                  Designer: Richard Garriott, Warren Spector
+                  Composer: Herman Miller, Todd Poster
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    9. 1588   Wizardry VI: Bane of the Cosmic Forge (1990)                                               101    2 
                   USA | 47 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, DOS, FM Towns, Mac, SNES
                   Genre: Adventure, RPG | Theme: Fantasy
@@ -81,7 +81,7 @@
                   Designer: David W. Bradley
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1561   Dungeon Master (1987)                                                                      346    2 
+   10. 1572   Dungeon Master (1987)                                                                      346    2 
                   USA | 18 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple IIGS, Atari ST, DOS, FM Towns, SNES, Sharp X68000
                   Genre: RPG | Theme: Action, Fantasy
@@ -90,7 +90,7 @@
                   Designer: Doug Bell
                   Composer: Wayne Holder
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1471   Syndicate (1993)                                                                            29    2 
+   11. 1483   Syndicate (1993)                                                                            29    2 
                   GBR | 13 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
                   Genre: Strategy, Tactical | Theme: Action, Science Fiction
@@ -99,7 +99,7 @@
                   Designer: Sean Cooper
                   Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1445   Nobunaga's Ambition II (1988)                                                               50    1 
+   12. 1450   Nobunaga's Ambition II (1988)                                                               50    1 
                   JPN | 40 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: DOS, FM Towns, MSX, NES, PC-8801, PSX, Saturn, Sharp X1, Sharp X68000
                   Genre: Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Warfare
@@ -125,3 +125,12 @@
                   Publishers: Activision, Konami, Sierra
                   Designer: Roberta Williams
                   Composer: Ken Allen, Mark Seibert
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1054   Lands of Lore: The Throne of Chaos (1993)                                                  608    1 
+                  USA | 16 h | First person | PEGI: 12 | ESRB: N/A
+                  On: DOS, FM Towns, NEC PC-6000
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Westwood Studios
+                  Publishers: Virgin
+                  Designer: William Alan Crum
+                  Composer: Dwight Okahara, Frank Klepacki, Paul Mudra

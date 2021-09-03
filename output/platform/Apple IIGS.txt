@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1848   Arkanoid (1986)                                                                            308    2 
+    1. 1975   Arkanoid (1986)                                                                            308    2 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
@@ -9,7 +9,16 @@
                   Designer: Akira Fujita, Hiroshi Tsujino
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1628   The Bard's Tale (1985)                                                                     104    2 
+    2. 1642   Ultima I: The First Age of Darkness (1981)                                                  75    3 
+                  USA | 8 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
+                  On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
+                  Genre: RPG | Theme: Action, Fantasy, Open world
+                  Developers: Origin
+                  Publishers: California Pacific Computer, Electronic Arts, Fujitsu, Origin, Pony Canyon, Sierra, Vitesse
+                  Designer: Kenneth W. Arnold, Richard Garriott
+                  Composer: Unknown
+
+       1642   The Bard's Tale (1985)                                                                     104    2
                   USA | 28 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES, ZX Spectrum
                   Genre: Adventure, RPG | Theme: Fantasy
@@ -18,16 +27,7 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1617   Ultima I: The First Age of Darkness (1981)                                                  75    3 
-                  USA | 8 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
-                  On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
-                  Genre: RPG | Theme: Action, Fantasy, Open world
-                  Developers: Origin
-                  Publishers: California Pacific Computer, Electronic Arts, Fujitsu, Origin, Pony Canyon, Sierra, Vitesse
-                  Designer: Kenneth W. Arnold, Richard Garriott
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1584   Marble Madness (1984)                                                                       15    3 
+    4. 1637   Marble Madness (1984)                                                                       15    3 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
@@ -36,7 +36,7 @@
                   Designer: Mark Cerny
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1561   Dungeon Master (1987)                                                                      346    2 
+    5. 1572   Dungeon Master (1987)                                                                      346    2 
                   USA | 18 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple IIGS, Atari ST, DOS, FM Towns, SNES, Sharp X68000
                   Genre: RPG | Theme: Action, Fantasy
@@ -45,7 +45,7 @@
                   Designer: Doug Bell
                   Composer: Wayne Holder
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1546   Gauntlet (1985)                                                                            310    2 
+    6. 1564   Gauntlet (1985)                                                                            310    2 
                   USA | 10 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
                   Genre: Arcade, Hack and Slash | Theme: Action, Fantasy, Historical
@@ -54,7 +54,7 @@
                   Designer: Ed Logg
                   Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1436   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
+    7. 1439   Beyond Zork: The Coconut of Quendor (1987)                                                  57    2 
                   USA | 14 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac
                   Genre: Adventure, RPG | Theme: Fantasy
@@ -108,7 +108,7 @@
                   Designer: Ken Williams, Roberta Williams, Scott Murphy
                   Composer: Al Lowe
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1197   Sid Meier's Pirates! (1987)                                                                382    1 
+   13. 1192   Sid Meier's Pirates! (1987)                                                                382    1 
                   USA | 8 h | Bird view / Isometric, Side view, Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari ST, C64, DOS, Mac, NES
                   Genre: Adventure, Arcade, Simulator, Strategy | Theme: Action, Historical
@@ -144,7 +144,7 @@
                   Designer: Chuck Sommerville, Jon Leupp, Ken Nicholson, Kevin Furry, Kevin Norman
                   Composer: Chris Grigg, David Wise, Gil Freeman
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1118   The Last Ninja (1987)                                                                      383    1 
+   17. 1114   The Last Ninja (1987)                                                                      383    1 
                   GBR | 3 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Apple II, Apple IIGS, Atari ST, BBC, C64, DOS, Wii
                   Genre: Adventure, Arcade | Theme: Action

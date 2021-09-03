@@ -1,24 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1774   StarCraft II: Wings of Liberty (2010)                                                      513    1 
-                  USA | 22 h | Bird view / Isometric | PEGI: 16 | ESRB: T
-                  On: Mac, Win
-                  Genre: Real Time Strategy, Strategy | Theme: Action, Science Fiction, Warfare
-                  Developers: Blizzard Entertainment
-                  Publishers: Blizzard Entertainment
-                  Designer: Dustin Browder
-                  Composer: Derek Duke, Glenn Stafford, Neal Acree, Russell Brower
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1755   Company of Heroes Online (2010)                                                            514    1 
-                  CAN | 26 h | Bird view / Isometric | PEGI: 18 | ESRB: M
-                  On: Win
-                  Genre: MMO, Real Time Strategy, Strategy | Theme: Warfare
-                  Developers: Relic Entertainment
-                  Publishers: THQ
-                  Designer: Unknown
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1747   Mass Effect 2 (2010)                                                                       526    2 
+    1. 1851   Mass Effect 2 (2010)                                                                       526    2 
                   CAN | 36 h | Third person | PEGI: 18 | ESRB: M
                   On: PS3, Win, Xbox 360, Xbox One
                   Genre: RPG, Shooter, Simulator | Theme: Action, Science Fiction
@@ -27,7 +9,25 @@
                   Designer: Casey Hudson, Preston Watamaniuk
                   Composer: David Kates, Jack Wall, Jimmy Hinson, Sam Hulick
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1579   Fallout: New Vegas (2010)                                                                  569    1 
+    2. 1831   StarCraft II: Wings of Liberty (2010)                                                      513    1 
+                  USA | 22 h | Bird view / Isometric | PEGI: 16 | ESRB: T
+                  On: Mac, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Action, Science Fiction, Warfare
+                  Developers: Blizzard Entertainment
+                  Publishers: Blizzard Entertainment
+                  Designer: Dustin Browder
+                  Composer: Derek Duke, Glenn Stafford, Neal Acree, Russell Brower
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 1806   Company of Heroes Online (2010)                                                            514    1 
+                  CAN | 26 h | Bird view / Isometric | PEGI: 18 | ESRB: M
+                  On: Win
+                  Genre: MMO, Real Time Strategy, Strategy | Theme: Warfare
+                  Developers: Relic Entertainment
+                  Publishers: THQ
+                  Designer: Unknown
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1590   Fallout: New Vegas (2010)                                                                  569    1 
                   USA | 59 h | First person, Third person | PEGI: N/A | ESRB: M
                   On: PS3, Win, Xbox 360
                   Genre: RPG, Shooter | Theme: Action, Open world, Sandbox, Science Fiction, Survival
@@ -36,7 +36,7 @@
                   Designer: Josh Sawyer
                   Composer: Inon Zur
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1553   Supreme Commander 2 (2010)                                                                 521    1 
+    5. 1558   Supreme Commander 2 (2010)                                                                 521    1 
                   USA | 23 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: Mac, Win, Xbox 360
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction
@@ -45,7 +45,7 @@
                   Designer: Chris Daroza, Chris Taylor, Damian Smolko, Eric Williamson, Evan Pongress, Mike Marr, Steve Bauman
                   Composer: Howard Mostrom
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1421   Neptune's Pride (2010)                                                                     531    1 
+    6. 1417   Neptune's Pride (2010)                                                                     531    1 
                   AUS | 100 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Web browser
                   Genre: Strategy | Theme: 4X, Business, Politics, Science Fiction
@@ -54,7 +54,7 @@
                   Designer: Penny Sweetser
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1395   Alpha Protocol (2010)                                                                      584    1 
+    7. 1391   Alpha Protocol (2010)                                                                      584    1 
                   USA | 18 h | Third person | PEGI: 18 | ESRB: M
                   On: Linux, PS3, Win, Xbox 360
                   Genre: RPG, Shooter | Theme: Action, Stealth
@@ -63,7 +63,7 @@
                   Designer: Chris Avellone, Chris Parker, Raymond Holmes
                   Composer: Jason Graves, Rod Abernethy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1336   VVVVVV (2010)                                                                              540    1 
+    8. 1331   VVVVVV (2010)                                                                              540    1 
                   IRL | 4 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Android, Linux, Mac, Ouya, PS4, Switch, Vita, Win, iOS
                   Genre: Adventure, Arcade, Indie, Platform, Puzzle | Theme: Action, Science Fiction
@@ -72,7 +72,7 @@
                   Designer: Bennett Foddy, Terry Cavanagh
                   Composer: Magnus Pålsson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1211   Drakensang: The River of Time (2010)                                                       599    1 
+    9. 1207   Drakensang: The River of Time (2010)                                                       599    1 
                   GER | 37 h | Third person | PEGI: 16 | ESRB: T
                   On: Win
                   Genre: RPG | Theme: Fantasy, Historical
@@ -81,7 +81,16 @@
                   Designer: Bernd Beyreuther, Fabian Rudzinski
                   Composer: Florian Bodenschatz
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1067   Football Manager 2011 (2010)                                                               565    1 
+   10. 1163   Mount & Blade: Warband (2010)                                                              604    1 
+                  TUR | 118 h | First person, Third person | PEGI: 16 | ESRB: T
+                  On: Linux, Mac, PS4, Win, Xbox One
+                  Genre: RPG, Shooter, Simulator, Strategy | Theme: Action, Fantasy, Historical, Open world, Sandbox
+                  Developers: Taleworlds
+                  Publishers: Paradox
+                  Designer: Armağan Yavuz, Cem Çimenbiçer, Steve Negus
+                  Composer: Jesse Hopkins
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1064   Football Manager 2011 (2010)                                                               565    1 
                   GBR | 485 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Mac, PSP, Win
                   Genre: Simulator, Sport, Strategy | Theme: Football, Non-fiction

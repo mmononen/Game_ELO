@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2407   Tetris (1984)                                                                                2   10 
+    1. 2833   Tetris (1984)                                                                                2   10 
                   URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2402   Doom (1993)                                                                                 19    8 
+    2. 2746   Doom (1993)                                                                                 19    8 
                   USA | 7 h | First person | PEGI: 16 | ESRB: M
                   On: 3DO, DOS, GBA, Jaguar, Linux, Mac, Mega Drive, PS4, PSX, SNES, Saturn, Switch, Win, Xbox 360, Xbox One, iOS
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -18,16 +18,7 @@
                   Designer: John Romero, Sandy Petersen, Tom Hall
                   Composer: Robert Prince
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2211   Ms. Pac-Man (1982)                                                                          12    4 
-                  USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
-                  Genre: Arcade, Puzzle | Theme: Action
-                  Developers: General Computer Corporation
-                  Publishers: Atari, Midway, Namco, Tengen, Williams
-                  Designer: Steve Golson
-                  Composer: Chris Rode
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2187   Sonic the Hedgehog (1991)                                                                   20    6 
+    3. 2505   Sonic the Hedgehog (1991)                                                                   20    6 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E10+
                   On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -36,7 +27,16 @@
                   Designer: Hirokazu Yasuhara
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2030   Sonic the Hedgehog 2 (1992)                                                                 37    6 
+    4. 2492   Ms. Pac-Man (1982)                                                                          12    4 
+                  USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
+                  Genre: Arcade, Puzzle | Theme: Action
+                  Developers: General Computer Corporation
+                  Publishers: Atari, Midway, Namco, Tengen, Williams
+                  Designer: Steve Golson
+                  Composer: Chris Rode
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 2294   Sonic the Hedgehog 2 (1992)                                                                 37    6 
                   USA | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -45,7 +45,7 @@
                   Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
                   Composer: Masato Nakamura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1908   Lemmings (1991)                                                                              8    4 
+    6. 2100   Lemmings (1991)                                                                              8    4 
                   GBR | 23 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
@@ -54,16 +54,7 @@
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1863   Duke Nukem 3D (1996)                                                                        51    3 
-                  USA | 12 h | First person | PEGI: 16 | ESRB: M
-                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
-                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
-                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Allen H. Blum III, Richard Gray
-                  Composer: Lee Jackson, Robert Prince
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1813   Mortal Kombat (1992)                                                                       360    2 
+    7. 1923   Mortal Kombat (1992)                                                                       360    2 
                   USA | 6 h | Side view | PEGI: 18 | ESRB: M
                   On: Amiga, Arcade, DOS, GB, Game Gear, Mega Drive, SNES, Saturn, Sega CD
                   Genre: Fighting | Theme: Action
@@ -72,7 +63,16 @@
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1804   Double Dragon (1987)                                                                       318    3 
+    8. 1909   Duke Nukem 3D (1996)                                                                        51    3 
+                  USA | 12 h | First person | PEGI: 16 | ESRB: M
+                  On: DOS, Mac, Mega Drive, PS3, PS4, PSX, Saturn, Vita, Win, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Comedy, Science Fiction
+                  Developers: 3D Realms, Aardvark Software, Abstraction Games, Lobotomy Software
+                  Publishers: 3D Realms, Devolver Digital, FormGen, GT Interactive, MacSoft Games, MachineWorks Northwest, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Allen H. Blum III, Richard Gray
+                  Composer: Lee Jackson, Robert Prince
+
+       1909   Double Dragon (1987)                                                                       318    3
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -81,16 +81,7 @@
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1799   Sensible Soccer: European Champions (1992)                                                 242    2 
-                  GBR | 49 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
-                  Genre: Sport | Theme: Action, Football
-                  Developers: Sensible Software
-                  Publishers: Sony
-                  Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
-                  Composer: Richard Joseph
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1790   Virtua Fighter 2 (1994)                                                                      6    3 
+   10. 1884   Virtua Fighter 2 (1994)                                                                      6    3 
                   JPN | 4 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
                   Genre: Arcade, Fighting, Simulator | Theme: Action
@@ -99,7 +90,16 @@
                   Designer: Kazuhiro Izaki, Yu Suzuki
                   Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1742   OutRun (1986)                                                                               65    3 
+   11. 1873   Sensible Soccer: European Champions (1992)                                                 242    2 
+                  GBR | 49 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
+                  Genre: Sport | Theme: Action, Football
+                  Developers: Sensible Software
+                  Publishers: Sony
+                  Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
+                  Composer: Richard Joseph
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1822   OutRun (1986)                                                                               65    3 
                   JPN | 2 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Genre: Arcade, Racing | Theme: Action, Non-fiction
@@ -108,7 +108,7 @@
                   Designer: Yu Suzuki
                   Composer: Hiroshi Kawaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1689   Sonic the Hedgehog 3 (1994)                                                                 38    3 
+   13. 1740   Sonic the Hedgehog 3 (1994)                                                                 38    3 
                   JPN | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: Mega Drive, Wii, Xbox 360
                   Genre: Adventure, Platform | Theme: Action
@@ -117,7 +117,7 @@
                   Designer: Hirokazu Yasuhara, Hisayoshi Yoshida, Takashi Iizuka
                   Composer: Bobby Brooks, Brad Buxer, Cirocco Jones, Darryl Ross, Doug Grigsby, Geoff Grace, Jun Senoue, Michael Jackson, Sachio Ogawa, Tatsuyuki Maeda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1674   NHLPA Hockey 93 (1992)                                                                     291    1 
+   14. 1713   NHLPA Hockey 93 (1992)                                                                     291    1 
                   USA | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Mega Drive, SNES
                   Genre: Sport | Theme: Ice Hockey
@@ -126,16 +126,7 @@
                   Designer: Michael Brook, Richard Hilleman, Scott Orr
                   Composer: Jim Simmons
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
-                  GBR | 10 h | Bird view / Isometric | PEGI: 12 | ESRB: E
-                  On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
-                  Genre: Sport, Strategy | Theme: Action, Science Fiction
-                  Developers: The Bitmap Brothers
-                  Publishers: Amiga, Arena Entertainment, CSK Research Institute, Glu Mobile, Image Works, Infinite Ventures, Kixx, Konami, Krisalis, Mindscape, Mirrorsoft, Renegade Software, The Bitmap Brothers, Virgin, Wanadoo Edition
-                  Designer: Eric Matthews
-                  Composer: John Foxx
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1618   Gunstar Heroes (1993)                                                                      355    3 
+   15. 1652   Gunstar Heroes (1993)                                                                      355    3 
                   JPN | 2 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Game Gear, Linux, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
                   Genre: Arcade, Platform, Shooter | Theme: Action, Science Fiction, Warfare
@@ -144,7 +135,16 @@
                   Designer: Masato Maegawa
                   Composer: Norio Hanzawa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1584   Marble Madness (1984)                                                                       15    3 
+   16. 1645   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+                  GBR | 10 h | Bird view / Isometric | PEGI: 12 | ESRB: E
+                  On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
+                  Genre: Sport, Strategy | Theme: Action, Science Fiction
+                  Developers: The Bitmap Brothers
+                  Publishers: Amiga, Arena Entertainment, CSK Research Institute, Glu Mobile, Image Works, Infinite Ventures, Kixx, Konami, Krisalis, Mindscape, Mirrorsoft, Renegade Software, The Bitmap Brothers, Virgin, Wanadoo Edition
+                  Designer: Eric Matthews
+                  Composer: John Foxx
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1637   Marble Madness (1984)                                                                       15    3 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
@@ -153,16 +153,7 @@
                   Designer: Mark Cerny
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1562   Herzog Zwei (1989)                                                                          46    2 
-                  JPN | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: Mega Drive
-                  Genre: Real Time Strategy, Strategy | Theme: Science Fiction
-                  Developers: Technosoft
-                  Publishers: Sega, Technosoft
-                  Designer: Izumi Fukuda, Osamu Tsujikawa
-                  Composer: Naosuke Arai, Tomomi Ōtani
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1550   Populous II: Trials of the Olympian Gods (1991)                                             34    2 
+   18. 1587   Populous II: Trials of the Olympian Gods (1991)                                             34    2 
                   GBR | 12 h | Bird view / Isometric | PEGI: 7 | ESRB: N/A
                   On: Amiga, DOS, Mega Drive, SNES
                   Genre: Real Time Strategy, Simulator, Strategy | Theme: Fantasy, Historical
@@ -171,7 +162,16 @@
                   Designer: Glenn Corpes, Peter Molyneux
                   Composer: Charles Callet
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1546   Populous (1989)                                                                             16    2 
+   19. 1577   Herzog Zwei (1989)                                                                          46    2 
+                  JPN | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Mega Drive
+                  Genre: Real Time Strategy, Strategy | Theme: Science Fiction
+                  Developers: Technosoft
+                  Publishers: Sega, Technosoft
+                  Designer: Izumi Fukuda, Osamu Tsujikawa
+                  Composer: Naosuke Arai, Tomomi Ōtani
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1574   Populous (1989)                                                                             16    2 
                   GBR | 36 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: N/A
                   On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
                   Genre: Real Time Strategy, Simulator, Strategy | Theme: Business, Fantasy
@@ -180,16 +180,7 @@
                   Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
                   Composer: David Hanlon, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1521   NHL '94 (1993)                                                                             456    1 
-                  CAN | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: DOS, Mega Drive, SNES, Sega CD
-                  Genre: Simulator, Sport | Theme: Ice Hockey
-                  Developers: Electronic Arts, High Score Productions, Park Place Productions
-                  Publishers: Electronic Arts
-                  Designer: Jim Simmons
-                  Composer: Rob Hubbard
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1508   Virtua Racing (1992)                                                                        11    1 
+   21. 1546   Virtua Racing (1992)                                                                        11    1 
                   JPN | 4 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Arcade, Mega Drive
                   Genre: Racing | Theme: Action
@@ -198,7 +189,16 @@
                   Designer: Yu Suzuki
                   Composer: Naofumi Hataya, Takenobu Mitsuyoshi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1484   Micro Machines (1991)                                                                       18    1 
+   22. 1534   NHL '94 (1993)                                                                             456    1 
+                  CAN | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: DOS, Mega Drive, SNES, Sega CD
+                  Genre: Simulator, Sport | Theme: Ice Hockey
+                  Developers: Electronic Arts, High Score Productions, Park Place Productions
+                  Publishers: Electronic Arts
+                  Designer: Jim Simmons
+                  Composer: Rob Hubbard
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   23. 1505   Micro Machines (1991)                                                                       18    1 
                   GBR | 8 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Amiga, DOS, GB, Game Gear, Mega Drive, NES, Philips CD-i, SMS, SNES
                   Genre: Racing | Theme: Action
@@ -207,7 +207,7 @@
                   Designer: Andrew Graham
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1471   Syndicate (1993)                                                                            29    2 
+   24. 1483   Syndicate (1993)                                                                            29    2 
                   GBR | 13 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: 3DO, Amiga, CD32, DOS, FM Towns, Jaguar, Mac, Mega Drive, PSP, SNES
                   Genre: Strategy, Tactical | Theme: Action, Science Fiction
@@ -216,7 +216,7 @@
                   Designer: Sean Cooper
                   Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1452   Madden NFL 96 (1995)                                                                        45    1 
+   25. 1459   Madden NFL 96 (1995)                                                                        45    1 
                   USA | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: GB, Game Gear, Mega Drive, SNES, Win
                   Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
@@ -225,7 +225,7 @@
                   Designer: Gordon Bellamy, Michael Rubinelli
                   Composer: Tommy Tallarico
 
-       1452   Madden NFL 95 (1994)                                                                        44    1
+       1459   Madden NFL 95 (1994)                                                                        44    1
                   USA | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: E
                   On: Mega Drive, SNES
                   Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
@@ -234,7 +234,7 @@
                   Designer: Gordon Bellamy, Happy Keller, Michael Rubinelli
                   Composer: Jim Simmons, Joel Simmons
 
-       1452   Madden NFL '94 (1993)                                                                       43    1
+       1459   Madden NFL '94 (1993)                                                                       43    1
                   USA | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: Mega Drive, SNES
                   Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
@@ -243,7 +243,7 @@
                   Designer: Happy Keller, Michael Kosaka
                   Composer: Brian L. Schmidt
 
-       1452   John Madden Football (1990)                                                                 40    1
+       1459   John Madden Football (1990)                                                                 40    1
                   USA | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Mega Drive
                   Genre: Sport | Theme: American Football
@@ -252,7 +252,7 @@
                   Designer: Jim Simmons, Michael Knox, Richard Hilleman, Scott Orr, Troy Lyndon
                   Composer: Rob Hubbard
 
-       1452   John Madden Football '93 (1992)                                                             42    1
+       1459   John Madden Football '93 (1992)                                                             42    1
                   USA | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: Mega Drive, SNES
                   Genre: Simulator, Sport | Theme: American Football, Non-fiction
@@ -261,7 +261,7 @@
                   Designer: Scott Orr
                   Composer: Rob Hubbard
 
-       1452   John Madden Football '92 (1991)                                                             41    1
+       1459   John Madden Football '92 (1991)                                                             41    1
                   USA | 2 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: Mega Drive, SNES
                   Genre: Simulator, Sport | Theme: American Football, Non-fiction
@@ -270,7 +270,7 @@
                   Designer: John Madden
                   Composer: Michael Bartlow
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1445   Nobunaga's Ambition (1986)                                                                  49    1 
+   31. 1450   Nobunaga's Ambition (1986)                                                                  49    1 
                   JPN | 40 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
                   Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
@@ -279,7 +279,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1387   Shining Force (1992)                                                                       130    2 
+   32. 1386   Shining Force (1992)                                                                       130    2 
                   JPN | 22 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: GBA, Linux, Mac, Mega Drive, Wii, Win, iOS
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
@@ -288,7 +288,7 @@
                   Designer: Hiroyuki Takahashi, Kenji Orimo, Yasuhiro Taguchi
                   Composer: Masahiko Yoshimura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1376   Worms (1995)                                                                               364    1 
+   33. 1373   Worms (1995)                                                                               364    1 
                   GBR | 7 h | Side view, Third person | PEGI: 7 | ESRB: N/A
                   On: Amiga, CD32, DOS, Evercade, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
                   Genre: Strategy | Theme: Action, Comedy, Warfare
@@ -296,8 +296,8 @@
                   Publishers: GT Interactive, Ocean Software, Sold Out Sales & Marketing, Team17, Tec Toy Indústria de Brinquedos, Telegames
                   Designer: Andy Davidson, Cris Blyth
                   Composer: Bjørn Lynne
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1373   Micro Machines 2: Turbo Tournament (1994)                                                  240    1 
+
+       1373   Micro Machines 2: Turbo Tournament (1994)                                                  240    1
                   GBR | 2 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: DOS, Game Gear, Mega Drive
                   Genre: Racing | Theme: Action
@@ -306,7 +306,7 @@
                   Designer: Andrew Fussey, Jonathan Menzies, Peter Williamson
                   Composer: Tim Bartlett
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1371   Cannon Fodder (1993)                                                                       365    1 
+   35. 1368   Cannon Fodder (1993)                                                                       365    1 
                   GBR | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
                   Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
@@ -315,7 +315,7 @@
                   Designer: Jon Hare
                   Composer: Allister Brimble, Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1351   Streets of Rage 2 (1992)                                                                   367    1 
+   36. 1348   Streets of Rage 2 (1992)                                                                   367    1 
                   JPN | 3 h | Side view | PEGI: 12 | ESRB: E
                   On: Linux, Mega Drive, PS3, Wii, Win
                   Genre: Arcade, Hack and Slash | Theme: Action
@@ -324,7 +324,7 @@
                   Designer: Ayano Koshiro, Kataru Uchimura, Mikito Ichikawa
                   Composer: Motohiro Kawashima, Yuo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1346   Flashback (1992)                                                                           368    1 
+   37. 1342   Flashback (1992)                                                                           368    1 
                   FRA | 6 h | Side view | PEGI: N/A | ESRB: N/A
                   On: 3DO, Acorn Archimedes, Amiga, DOS, Jaguar, Mac, Mega Drive, Philips CD-i, SNES, Sega CD
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -333,7 +333,7 @@
                   Designer: Paul Cuisset
                   Composer: Fabrice Visserot, Jean Baudlot, Raphaël Gesqua
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1335   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
+   38. 1331   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
                   GBR | 7 h | Side view | PEGI: 3 | ESRB: N/A
                   On: Amiga, Atari ST, C64, CD32, DOS, DS, GB, GBA, Game Gear, Mega Drive, PS2, PS3, PSP, PSX, SMS, SNES, Switch
                   Genre: Platform | Theme: Action, Comedy
@@ -360,7 +360,7 @@
                   Designer: Brian Plank, Bruce E. McMillan, George Ashcroft, Jan G. Tian, Joe Della-Savia, Kevin P. Pickell, Matthew Webster
                   Composer: Jeff van Dyck
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1300   The NewZealand Story (1988)                                                                374    1 
+   41. 1296   The NewZealand Story (1988)                                                                374    1 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, C64, Mega Drive, NES, ZX Spectrum
                   Genre: Platform, Shooter | Theme: Action
@@ -369,7 +369,7 @@
                   Designer: Akira Ōtsuki, Hisaya Yabusaki, Kazutomo Ishida, Kōichi Ōyama, Makoto Fujita
                   Composer: Geoff Follin, Tim Follin, Yasuhisa Watanabe, Yasuko Yamada
 
-       1300   Ghouls 'n Ghosts (1988)                                                                    313    1
+       1296   Ghouls 'n Ghosts (1988)                                                                    313    1
                   JPN | 3 h | Side view | PEGI: 7 | ESRB: E
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, Mega Drive, PC Engine SuperGrafx, SMS, Sharp X68000, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Fantasy, Horror
@@ -414,7 +414,7 @@
                   Designer: Shugo Takahashi, Yasuhiro Taguchi
                   Composer: Motoaki Takenouchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   47. 1258   Rampart (1990)                                                                             250    1 
+   47. 1257   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Fantasy, Historical
@@ -423,7 +423,7 @@
                   Designer: Dave Ralston, John Salwitz
                   Composer: Brad Fuller, Don Diekneite
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   48. 1209   NHL 98 (1997)                                                                              256    1 
+   48. 1208   NHL 98 (1997)                                                                              256    1 
                   CAN | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Mega Drive, PSX, SNES, Saturn, Win
                   Genre: Sport, Strategy | Theme: Action, Ice Hockey, Non-fiction
@@ -432,7 +432,7 @@
                   Designer: Thomas L. Fessler
                   Composer: David Whittaker, Jeff van Dyck, Saki Kaskamanidis
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   49. 1197   NBA Jam Tournament Edition (1994)                                                          174    2 
+   49. 1196   NBA Jam Tournament Edition (1994)                                                          174    2 
                   USA | 12 h | Side view, Third person | PEGI: N/A | ESRB: E
                   On: Jaguar, Mega Drive, PSX, SNES, Saturn
                   Genre: Arcade, Sport | Theme: Action, Basketball
@@ -441,7 +441,7 @@
                   Designer: Jamie Rivett, John Carlton, Mark Turmell, Sal Divita, Shawn Liptak, Tony Goskie
                   Composer: Jon Hey, Rick Fox
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   50. 1172   Samurai Shodown (1993)                                                                     495    1 
+   50. 1171   Samurai Shodown (1993)                                                                     495    1 
                   JPN | 2 h | Side view | PEGI: 16 | ESRB: M
                   On: 3DO, Arcade, GB, Game Gear, Mega Drive, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS2, SMS, SNES, Sega CD, Switch, Wii, Win
                   Genre: Fighting | Theme: Action
@@ -450,7 +450,7 @@
                   Designer: Yasushi Adachi
                   Composer: Masahiko Hataya, Yasuo Yamate
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   51. 1169   R.C. Pro-Am (1988)                                                                         325    1 
+   51. 1166   R.C. Pro-Am (1988)                                                                         325    1 
                   GBR | 2 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Arcade, Mega Drive, NES
                   Genre: Racing | Theme: Action
@@ -459,7 +459,7 @@
                   Designer: Chris Stamper, Tim Stamper
                   Composer: David Wise
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   52. 1132   Road Rash (1991)                                                                           328    1 
+   52. 1130   Road Rash (1991)                                                                           328    1 
                   USA | 7 h | Third person | PEGI: N/A | ESRB: E
                   On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
                   Genre: Fighting, Racing | Theme: Action
@@ -467,8 +467,8 @@
                   Publishers: Electronic Arts, Ocean Software, U.S. Gold
                   Designer: Carl Mey, Dan Geisler, Randy Breen, Walter Stein
                   Composer: Greg Michael, Jason A.S. Whitely, Rob Hubbard
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   53. 1130   California Games (1987)                                                                    160    1 
+
+       1130   California Games (1987)                                                                    160    1
                   USA | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Atari 2600, Atari ST, C64, DOS, Lynx, MSX, Mega Drive, Mobile, NES, SMS, Wii, Win, ZX Spectrum
                   Genre: Sport | Theme: Action
@@ -486,7 +486,7 @@
                   Designer: Devil Nakamura
                   Composer: Yoshinori Kawamoto
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   55. 1079   Strider (1989)                                                                             264    1 
+   55. 1078   Strider (1989)                                                                             264    1 
                   JPN | 8 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Mega Drive, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Science Fiction
@@ -494,8 +494,8 @@
                   Publishers: Capcom, NEC Avenue, Sega, U.S. Gold
                   Designer: Kouichi Yotsui, Shinichi Yoshimoto, Tokuro Fujiwara
                   Composer: Junko Tamiya
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   56. 1078   NBA Jam (1993)                                                                             173    2 
+
+       1078   NBA Jam (1993)                                                                             173    2
                   USA | 17 h | Side view | PEGI: 3 | ESRB: E
                   On: Arcade, GB, Game Gear, Mega Drive, SNES, Sega CD
                   Genre: Sport | Theme: Basketball
@@ -531,7 +531,7 @@
                   Designer: John Manley, Mike Posehn
                   Composer: Brian L. Schmidt, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   60. 1038   Mortal Kombat II (1993)                                                                    334    1 
+   60. 1037   Mortal Kombat II (1993)                                                                    334    1 
                   USA | 8 h | Side view | PEGI: 18 | ESRB: M
                   On: Amiga, Arcade, DOS, GB, Mega Drive, PS3, PSX, SMS, SNES, Saturn
                   Genre: Fighting | Theme: Action

@@ -68,66 +68,48 @@ class Game:
         return self.lists
     
     def get_country(self):
-        s = ""
         self.country.sort()
-        for sg in self.country:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.country)
         return s[:len(s)-2]
 
     def get_platforms(self):
-        s = ""
         self.platforms.sort()
-        for sg in self.platforms:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.platforms)
         return s[:len(s)-2]
 
     def get_developers(self):
-        s = ""
         self.developers.sort()
-        for sg in self.developers:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.developers)
         return s[:len(s)-2]
 
     def get_publishers(self):
-        s = ""
         self.publishers.sort()
-        for sg in self.publishers:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.publishers)
         return s[:len(s)-2]
 
     def get_genre(self):        
-        s = ""
         self.genre.sort()
-        for sg in self.genre:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.genre)
         return s[:len(s)-2]
 
     def get_theme(self):
-        s = ""
         self.theme.sort()
-        for sg in self.theme:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.theme)
         return s[:len(s)-2]
 
     def get_perspective(self):
-        s = ""
         self.perspective.sort()
-        for sg in self.perspective:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.perspective)
         return s[:len(s)-2]
 
     def get_designer(self):
-        s = ""
         self.designer.sort()
-        for sg in self.designer:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.designer)
         return s[:len(s)-2]
 
     def get_composer(self):
-        s = ""
         self.composer.sort()
-        for sg in self.composer:
-            s += sg + ", "
+        s = "".join(sg + ", " for sg in self.composer)
         return s[:len(s)-2]
 
 class Person():
@@ -260,18 +242,30 @@ lists = ["data/1996-09-30 Next_Generation_1996_Top_100_Games_of_All_Time.txt",
 
 def adjust_k(g):
     # adjust k according to number of matches played
-    if (g.get_matches() >= 30 and g.get_elo() < 2400):
-        g.set_k(20)
-    elif (g.get_matches() >= 30 and (g.get_elo() or g.get_highest_elo() >= 2400)):
-        g.set_k(10)
+    if g.get_matches() >= 30:
+        if g.get_elo() < 2400:
+            g.set_k(20)
+        elif g.get_elo() or g.get_highest_elo() >= 2400:
+            g.set_k(10)
 
 
 
 def calculate_elo(g1, g2, res):
     ra = g1.get_elo()
     rb = g2.get_elo()
-    ea = 1 / (1 + 10**((rb-ra)/400))
-    eb = 1 / (1 + 10**((ra-rb)/400))
+    # ELO difference greater than 400 is treated as 400    
+    diff_ba = rb - ra
+    diff_ab = ra - rb
+    if diff_ba < -400:
+        diff_ba = -400
+    elif diff_ba > 400:
+        diff_ba = 400
+    if diff_ab < -400:
+        diff_ab = -400
+    elif diff_ab > 400:
+        diff_ab = 400
+    ea = 1 / (1 + 10**((diff_ba)/400))
+    eb = 1 / (1 + 10**((diff_ab)/400))
     g1.add_matches()
     g2.add_matches()
     
@@ -413,62 +407,61 @@ unlisted = []
 developers = []
 dev_names = []
 old_l = ""
+tmp_yr = 0
 for l in lists:
     list_groups = []
-    
+
     list_pos = []
-    tmp_yr = 0
     try:
-        f = open(l, "r", encoding="utf-8")
-        for x in f:
-            x = x.strip()
-            if x[0] != "#":
-                try:                
-                    list_pos.append(x)
-                    x = x.split(". ", 1)
+        with open(l, "r", encoding="utf-8") as f:
+            for x in f:
+                x = x.strip()
+                if x[0] != "#":
+                    try:                
+                        list_pos.append(x)
+                        x = x.split(". ", 1)
 
-                    if x[1] not in groups:
-                        groups.append(Game(x[1]))                    
-                        groupnames.append(x[1])
-                        g = groups[groupnames.index(x[1])]
-                        if x[1] not in gamedb:
-                            if old_l != l:
-                                unlisted.append("")
-                                unlisted.append(f"{l}")    
-                                unlisted.append(f"--------------------------")
-                                old_l = l
-                            unlisted.append(f"{x[0]}. {x[1]}")
-                        else:
-                            g.id = gamedb[x[1]]['id']
-                            g.year = gamedb[x[1]]['year']
-                            g.country = gamedb[x[1]]['country']
-                            g.platforms = gamedb[x[1]]['platforms']
-                            g.developers = gamedb[x[1]]['developers']
-                            g.publishers = gamedb[x[1]]['publishers']
-                            g.genre = gamedb[x[1]]['genre']
-                            g.theme = gamedb[x[1]]['theme']
-                            g.perspective = gamedb[x[1]]['perspective']
-                            g.designer = gamedb[x[1]]['designer']
-                            g.composer = gamedb[x[1]]['composer']
-                            g.pegi = gamedb[x[1]]['pegi']
-                            g.esrb = gamedb[x[1]]['esrb']
-                            g.hltb = gamedb[x[1]]['hltb']
+                        if x[1] not in groups:
+                            groups.append(Game(x[1]))                    
+                            groupnames.append(x[1])
+                            g = groups[groupnames.index(x[1])]
+                            if x[1] not in gamedb:
+                                if old_l != l:
+                                    unlisted.append("")
+                                    unlisted.append(f"{l}")    
+                                    unlisted.append(f"--------------------------")
+                                    old_l = l
+                                unlisted.append(f"{x[0]}. {x[1]}")
+                            else:
+                                g.id = gamedb[x[1]]['id']
+                                g.year = gamedb[x[1]]['year']
+                                g.country = gamedb[x[1]]['country']
+                                g.platforms = gamedb[x[1]]['platforms']
+                                g.developers = gamedb[x[1]]['developers']
+                                g.publishers = gamedb[x[1]]['publishers']
+                                g.genre = gamedb[x[1]]['genre']
+                                g.theme = gamedb[x[1]]['theme']
+                                g.perspective = gamedb[x[1]]['perspective']
+                                g.designer = gamedb[x[1]]['designer']
+                                g.composer = gamedb[x[1]]['composer']
+                                g.pegi = gamedb[x[1]]['pegi']
+                                g.esrb = gamedb[x[1]]['esrb']
+                                g.hltb = gamedb[x[1]]['hltb']
 
-                            for d in g.developers:
-                                if d not in dev_names:
-                                    dev_names.append(d)
-                                    developers.append(Developer(d))
-                        g.add_list(l)                    
-                    if x[1] not in list_groups:
-                        list_groups.append(x[1])
-                except Exception as e:                    
-                    print(e)
-        old_l = l
-        f.close()
+                                for d in g.developers:
+                                    if d not in dev_names:
+                                        dev_names.append(d)
+                                        developers.append(Developer(d))
+                            g.add_list(l)                    
+                        if x[1] not in list_groups:
+                            list_groups.append(x[1])
+                    except Exception as e:                    
+                        print(e)
+            old_l = l
         print(f"processing: {l}")
     except Exception as e:        
         print(f"{e}: {l} is missing!")
-   
+
     list_groups.reverse()
     tmp = [(a, b) for idx, a in enumerate(list_pos) for b in list_pos[idx + 1:]]
     for itm in tmp:
@@ -477,24 +470,21 @@ for l in lists:
         wdl = 0
         ret1 = i0[0]
         ret2 = i1[0]
-        if ret1 < ret2:
-            itm = (i1[1], i0[1])
-        else:
-            itm = (i0[1], i1[1])
+        itm = (i1[1], i0[1]) if ret1 < ret2 else (i0[1], i1[1])
         if ret1 == ret2:
             wdl = 0.5
         elif ret1 > ret2:
             wdl = 1
         elif ret1 < ret2:
             wdl = 0
-        
+
         if i0[1] != i1[1]:
             try:
                 calculate_elo(groups[groupnames.index(itm[0])],groups[groupnames.index(itm[1])],wdl)
             except Exception as e:                
                 print(e)
 
-    
+
     for g in groups:
         if g.get_elo() > g.get_highest_elo():
             g.set_highest_elo()
@@ -502,9 +492,9 @@ for l in lists:
 printable = []
 
 
-for i in range(1900, 2100, 1):
-    olist = []    
-    printable = make_printable(filter_year(olist, [*range(i,i+1,1)]))
+for i in range(1900, 2100):
+    olist = []
+    printable = make_printable(filter_year(olist, [*range(i, i+1)]))
     if len(printable) > 0:
         n = f"output/year/{i}.txt"
         with open(n, 'w', encoding='utf-8') as f_out:
@@ -543,7 +533,7 @@ for c in countries:
 
 printable = []
 olist = []
-printable = make_printable(filter_year(olist, [*range(1900,2100,1)]))
+printable = make_printable(filter_year(olist, [*range(1900, 2100)]))
 with open('all.txt', 'w', encoding='utf-8') as f_out:
     for p in printable:
         #print(p)
@@ -831,7 +821,7 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     topics = ["Countries (Top 10):",
               "Platforms (Top 10):"
              ]
-    
+
     f_out.write(f"{topics[0]}\n")
     f_out.write("-"*len(topics[0])+"\n")
     print_countries.sort(reverse=True)
@@ -922,7 +912,7 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
         if k <= 10:
             f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
         else:    
-            break    
+            break
     f_out.write("\n")
     f_out.write("ESRB Ratings:\n")
     f_out.write("-------------\n")
@@ -969,7 +959,6 @@ with open('statistics.txt', 'w', encoding='utf-8') as f_out:
             f_out.write(f"{s} {j[0]:22}: {int(i[0]):3} ({j[1]:3}\n")
         else:   
             break
-            f_out.write("\n")
     f_out.write("\n")
     f_out.write("Themes (Top 10):\n")
     f_out.write("-------------------\n")

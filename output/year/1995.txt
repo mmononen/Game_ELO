@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2294   Chrono Trigger (1995)                                                                      290    4 
+    1. 2580   Chrono Trigger (1995)                                                                      290    4 
                   JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
@@ -9,16 +9,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1980   Warcraft II: Tides of Darkness (1995)                                                       10    4 
-                  USA | 26 h | Bird view / Isometric | PEGI: N/A | ESRB: T
-                  On: DOS, Mac, PSX, Saturn, Win
-                  Genre: Real Time Strategy, Strategy | Theme: Fantasy
-                  Developers: Blizzard Entertainment
-                  Publishers: Blizzard Entertainment, Electronic Arts
-                  Designer: Ron Millar
-                  Composer: Glenn Stafford
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1976   Command & Conquer (1995)                                                                    69    4 
+    2. 2194   Command & Conquer (1995)                                                                    69    4 
                   USA | 23 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: DOS, Mac, N64, PSX, Saturn, Win
                   Genre: Real Time Strategy, Strategy | Theme: Science Fiction, Warfare
@@ -27,7 +18,16 @@
                   Designer: Erik Yeo
                   Composer: Frank Klepacki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1895   Tekken 2 (1995)                                                                             22    4 
+    3. 2186   Warcraft II: Tides of Darkness (1995)                                                       10    4 
+                  USA | 26 h | Bird view / Isometric | PEGI: N/A | ESRB: T
+                  On: DOS, Mac, PSX, Saturn, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Fantasy
+                  Developers: Blizzard Entertainment
+                  Publishers: Blizzard Entertainment, Electronic Arts
+                  Designer: Ron Millar
+                  Composer: Glenn Stafford
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1998   Tekken 2 (1995)                                                                             22    4 
                   JPN | 6 h | Side view | PEGI: 12 | ESRB: T
                   On: Arcade, PS2, PS3, PSP, PSX, Vita
                   Genre: Fighting | Theme: Action
@@ -36,7 +36,7 @@
                   Designer: Seiichi Ishii
                   Composer: Yoshie Arakawa, Yoshie Takayanagi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1705   Mario's Picross (1995)                                                                     329    2 
+    5. 1766   Mario's Picross (1995)                                                                     329    2 
                   JPN | 20 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: 3DS, GB
                   Genre: Puzzle | Theme: Nonogram
@@ -45,7 +45,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1609   Rave Racer (1995)                                                                          165    2 
+    6. 1627   Rave Racer (1995)                                                                          165    2 
                   JPN | 10 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Arcade
                   Genre: Arcade, Racing | Theme: Action
@@ -54,7 +54,7 @@
                   Designer: Fumihiro Tanaka, Kenji Wakabayashi
                   Composer: Ayako Sasō, Etsuo Ishii, Norifumi Nagaoka, Shinji Hosoe, Yoshikazu Komatsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1545   X-COM: Terror from the Deep (1995)                                                         218    1 
+    7. 1565   X-COM: Terror from the Deep (1995)                                                         218    1 
                   USA | 55 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: DOS, PSX, Win
                   Genre: Strategy, Tactical, Turn-Based Strategy | Theme: Action, Horror, Science Fiction, Warfare
@@ -63,7 +63,7 @@
                   Designer: Stephen Goss
                   Composer: Allister Brimble, John Broomhall
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1452   Madden NFL 96 (1995)                                                                        45    1 
+    8. 1459   Madden NFL 96 (1995)                                                                        45    1 
                   USA | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: GB, Game Gear, Mega Drive, SNES, Win
                   Genre: Simulator, Sport | Theme: Action, American Football, Non-fiction
@@ -72,7 +72,7 @@
                   Designer: Gordon Bellamy, Michael Rubinelli
                   Composer: Tommy Tallarico
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1440   Super Mario World 2: Yoshi's Island (1995)                                                 362    2 
+    9. 1441   Super Mario World 2: Yoshi's Island (1995)                                                 362    2 
                   JPN | 11 h | Side view | PEGI: N/A | ESRB: E
                   On: SNES, Switch
                   Genre: Platform | Theme: Action
@@ -81,7 +81,7 @@
                   Designer: Hideki Konno, Shigefumi Hino, Takashi Tezuka, Toshihiko Nakago
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1427   EF 2000 (1995)                                                                              62    1 
+   10. 1429   EF 2000 (1995)                                                                              62    1 
                   GBR | 10 h | First person | PEGI: N/A | ESRB: E
                   On: Win
                   Genre: Simulator | Theme: Flight, Warfare
@@ -90,7 +90,7 @@
                   Designer: Martin Kenwright, Shaun Hollywood
                   Composer: Robin Anderson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1417   World Series Baseball (1995)                                                                68    1 
+   11. 1418   World Series Baseball (1995)                                                                68    1 
                   JPN | 20 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Saturn
                   Genre: Sport | Theme: Baseball
@@ -108,7 +108,7 @@
                   Designer: Sran Vesce, Zachary Norman
                   Composer: Gregory Alper, Jeehun Hwang
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1376   Worms (1995)                                                                               364    1 
+   13. 1373   Worms (1995)                                                                               364    1 
                   GBR | 7 h | Side view, Third person | PEGI: 7 | ESRB: N/A
                   On: Amiga, CD32, DOS, Evercade, Jaguar, Mac, Mega Drive, PS3, PSP, PSX, SNES, Saturn, Win, Xbox 360
                   Genre: Strategy | Theme: Action, Comedy, Warfare
@@ -126,7 +126,7 @@
                   Designer: Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1347   Heroes of Might and Magic: A Strategic Quest (1995)                                        198    1 
+   15. 1349   Heroes of Might and Magic: A Strategic Quest (1995)                                        198    1 
                   USA | 29 h | Bird view / Isometric, Side view | PEGI: N/A | ESRB: E
                   On: DOS, Mac, Win
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
@@ -144,7 +144,7 @@
                   Designer: Jeffrey Morgan, Trey Smith
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1310   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
+   17. 1307   Donkey Kong Country 2: Diddy's Kong Quest (1995)                                           311    1 
                   GBR | 7 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
@@ -162,7 +162,7 @@
                   Designer: Mike Kiernan
                   Composer: Steve Royea, Traz Damji
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1229   Return Fire (1995)                                                                         253    1 
+   19. 1228   Return Fire (1995)                                                                         253    1 
                   USA | 50 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: 3DO, PSX, Win
                   Genre: Arcade | Theme: Action
@@ -171,7 +171,7 @@
                   Designer: Reichart Kurt von Wolfsheild
                   Composer: Alexis C. Kasperavičius
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1225   Albion (1995)                                                                              598    1 
+   20. 1221   Albion (1995)                                                                              598    1 
                   GER | 35 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: E
                   On: DOS
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -180,7 +180,7 @@
                   Designer: Jurie Horneman
                   Composer: Matthias Steinwachs
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1183   Suikoden (1995)                                                                            323    1 
+   21. 1180   Suikoden (1995)                                                                            323    1 
                   JPN | 25 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: PS3, PSP, PSX, Saturn, Vita, Win
                   Genre: RPG | Theme: Fantasy

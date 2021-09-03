@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2407   Tetris (1984)                                                                                2   10 
+    1. 2833   Tetris (1984)                                                                                2   10 
                   URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2032   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
+    2. 2276   Tony Hawk's Pro Skater 2 (2000)                                                            287    2 
                   USA | 13 h | Third person | PEGI: N/A | ESRB: E
                   On: Dreamcast, GBA, GBC, Mac, N64, PSX, Win, Xbox, iOS
                   Genre: Sport | Theme: Action, Skateboarding
@@ -18,7 +18,7 @@
                   Designer: Aaron Cammarata, Jason Uyeda
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1646   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
+    3. 1687   Pokémon Yellow Version: Special Pikachu Edition (1998)                                     215    1 
                   JPN | 44 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: 3DS, GB, GBC
                   Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
@@ -27,7 +27,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1618   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    3 
+    4. 1637   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    3 
                   USA | 41 h | First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Genre: RPG | Theme: Fantasy
@@ -35,17 +35,8 @@
                   Publishers: ASCII, Bandai, Sir-Tech
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1595   Madden NFL 2001 (2000)                                                                     294    1 
-                  USA | 20 h | Third person | PEGI: N/A | ESRB: E
-                  On: GBC, N64, PS2, PSX, Win
-                  Genre: Simulator, Sport | Theme: Action, American Football
-                  Developers: 3d6 Games, Electronic Arts
-                  Publishers: Electronic Arts
-                  Designer: Dale Jackson, Graeme Bayless
-                  Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1584   Marble Madness (1984)                                                                       15    3 
+
+       1637   Marble Madness (1984)                                                                       15    3
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Apple IIGS, Arcade, Atari ST, C64, DOS, FM Towns, GB, GBC, Game Gear, Mega Drive, NES, PC-98, SMS, Sharp X68000
                   Genre: Arcade, Platform, Puzzle, Racing, Strategy | Theme: Action
@@ -54,7 +45,16 @@
                   Designer: Mark Cerny
                   Composer: Brad Fuller, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1525   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
+    6. 1617   Madden NFL 2001 (2000)                                                                     294    1 
+                  USA | 20 h | Third person | PEGI: N/A | ESRB: E
+                  On: GBC, N64, PS2, PSX, Win
+                  Genre: Simulator, Sport | Theme: Action, American Football
+                  Developers: 3d6 Games, Electronic Arts
+                  Publishers: Electronic Arts
+                  Designer: Dale Jackson, Graeme Bayless
+                  Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1530   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
                   JPN | 7 h | Side view | PEGI: 3 | ESRB: N/A
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBC, NES, SMS, TurboGrafx-16, Win, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Fantasy
@@ -63,7 +63,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1509   Tony Hawk's Pro Skater (1999)                                                              296    1 
+    8. 1517   Tony Hawk's Pro Skater (1999)                                                              296    1 
                   USA | 9 h | Third person | PEGI: N/A | ESRB: T
                   On: Dreamcast, GBC, N-Gage, N64, PSX
                   Genre: Sport | Theme: Action, Skateboarding
@@ -72,7 +72,7 @@
                   Designer: Aaron Cammarata, Chris Rausch
                   Composer: Brian Bright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1475   Colin McRae Rally (1998)                                                                   227    1 
+    9. 1482   Colin McRae Rally (1998)                                                                   227    1 
                   GBR | 11 h | First person, Third person | PEGI: N/A | ESRB: E
                   On: GBC, PSX, Win
                   Genre: Racing, Sport | Theme: Motorsports, Non-fiction, Rally
@@ -81,7 +81,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1474   Ghosts 'n Goblins (1985)                                                                   347    1 
+   10. 1475   Ghosts 'n Goblins (1985)                                                                   347    1 
                   JPN | 4 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Android, Arcade, Atari ST, C16, C64, DOS, FM-7, GBA, GBC, NES, PC-8801, PS3, Plus4, Switch, Wii, Wii U, Xbox 360, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
@@ -117,7 +117,7 @@
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1258   Rampart (1990)                                                                             250    1 
+   14. 1257   Rampart (1990)                                                                             250    1 
                   USA | 10 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: Amiga, Arcade, Atari ST, DOS, GB, GBC, Lynx, Mega Drive, NES, PS3, SMS, SNES
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Fantasy, Historical
@@ -135,7 +135,7 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1132   Road Rash (1991)                                                                           328    1 
+   16. 1130   Road Rash (1991)                                                                           328    1 
                   USA | 7 h | Third person | PEGI: N/A | ESRB: E
                   On: 3DO, Amiga, GB, GBC, Game Gear, Mega Drive, PSX, SMS, Saturn, Sega CD, Win
                   Genre: Fighting, Racing | Theme: Action

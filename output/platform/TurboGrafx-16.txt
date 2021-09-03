@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1742   OutRun (1986)                                                                               65    3 
+    1. 1822   OutRun (1986)                                                                               65    3 
                   JPN | 2 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Game Gear, MSX, Mega Drive, SMS, Saturn, TurboGrafx-16, ZX Spectrum
                   Genre: Arcade, Racing | Theme: Action, Non-fiction
@@ -9,16 +9,7 @@
                   Designer: Yu Suzuki
                   Composer: Hiroshi Kawaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1698   R-Type (1987)                                                                              172    3 
-                  JPN | 2 h | Side view | PEGI: 7 | ESRB: E
-                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
-                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
-                  Developers: Irem, Konami
-                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
-                  Designer: Abiko
-                  Composer: Masato Ishizaki
-
-       1698   Ninja Gaiden (1988)                                                                        331    2
+    2. 1757   Ninja Gaiden (1988)                                                                        331    2 
                   JPN | 3 h | Side view | PEGI: 7 | ESRB: E10+
                   On: 3DS, Arcade, NES, Switch, TurboGrafx-16, Wii, Wii U
                   Genre: Adventure, Arcade, Hack and Slash, Platform | Theme: Action, Fantasy, Ninjas
@@ -27,7 +18,16 @@
                   Designer: Hideo Yoshizawa
                   Composer: Keiji Yamagishi, Ryuichi Nitta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1546   Populous (1989)                                                                             16    2 
+    3. 1750   R-Type (1987)                                                                              172    3 
+                  JPN | 2 h | Side view | PEGI: 7 | ESRB: E
+                  On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
+                  Genre: Arcade, Shooter | Theme: Action, Science Fiction
+                  Developers: Irem, Konami
+                  Publishers: DotEmu, Electric Dreams Software, Hudson Soft, Irem, Konami, Sega
+                  Designer: Abiko
+                  Composer: Masato Ishizaki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 1574   Populous (1989)                                                                             16    2 
                   GBR | 36 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: N/A
                   On: Acorn Archimedes, Amiga, Atari ST, DOS, Mac, Mega Drive, PC-98, SMS, SNES, Sharp X68000, TurboGrafx-16
                   Genre: Real Time Strategy, Simulator, Strategy | Theme: Business, Fantasy
@@ -36,7 +36,7 @@
                   Designer: Glenn Corpes, Kevin Donkin, Les Edgar, Peter Molyneux
                   Composer: David Hanlon, Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1525   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
+    5. 1530   Rainbow Islands: The Story of Bubble Bobble 2 (1987)                                       344    1 
                   JPN | 7 h | Side view | PEGI: 3 | ESRB: N/A
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBC, NES, SMS, TurboGrafx-16, Win, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Fantasy
@@ -45,7 +45,7 @@
                   Designer: Fukio Mitsuji
                   Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1445   Nobunaga's Ambition (1986)                                                                  49    1 
+    6. 1450   Nobunaga's Ambition (1986)                                                                  49    1 
                   JPN | 40 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
                   Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
@@ -72,7 +72,7 @@
                   Designer: Yutaka Sugano
                   Composer: Yasuhiro Kawakami
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 1267   Might and Magic III: Isles of Terra (1991)                                                 594    1 
+    9. 1264   Might and Magic III: Isles of Terra (1991)                                                 594    1 
                   USA | 55 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, DOS, Mac, SNES, Sega CD, TurboGrafx-16
                   Genre: RPG, Turn-Based Strategy | Theme: Fantasy, Science Fiction
@@ -81,7 +81,7 @@
                   Designer: Jon Van Caneghem
                   Composer: George Sanger, Gregory Alper, Howard Fredrics, Paul Lehrman, Paul Potyen, Rob Wallace, Shinya Yamamoto, Takehiro Kawabe, Tim Tully
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1148   Gradius (1985)                                                                             261    1 
+   10. 1147   Gradius (1985)                                                                             261    1 
                   JPN | 3 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, Amstrad CPC, Arcade, C64, MSX, NES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii U, ZX Spectrum
                   Genre: Adventure, Arcade, Shooter | Theme: Action, Science Fiction
@@ -90,7 +90,7 @@
                   Designer: Hiroyasu Machiguchi
                   Composer: Miki Higashino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1079   Strider (1989)                                                                             264    1 
+   11. 1078   Strider (1989)                                                                             264    1 
                   JPN | 8 h | Side view | PEGI: 12 | ESRB: E10+
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, Mega Drive, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action, Science Fiction

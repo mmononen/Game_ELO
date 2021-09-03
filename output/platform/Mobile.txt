@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 1988   Pac-Man (1980)                                                                             251    3 
+    1. 2203   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -9,7 +9,7 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 1976   Quake (1996)                                                                                 9    3 
+    2. 2063   Quake (1996)                                                                                 9    3 
                   USA | 7 h | First person | PEGI: N/A | ESRB: M
                   On: Amiga, DOS, Linux, Mac, Mobile, N64, Saturn, Win, Zeebo
                   Genre: Shooter | Theme: Action, Comedy, Historical, Horror, Science Fiction
@@ -18,16 +18,7 @@
                   Designer: American McGee, John Romero, Sandy Petersen, Tim Willits
                   Composer: Nine Inch Nails, Trent Reznor
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1680   Space Invaders (1978)                                                                      171    2 
-                  JPN | 4 h | Side view | PEGI: 3 | ESRB: E
-                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
-                  Genre: Arcade, Shooter | Theme: Science Fiction
-                  Developers: Taito
-                  Publishers: Midway, Taito
-                  Designer: Tomohiro Nishikado
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1671   Dragon Quest (1986)                                                                         87    2 
+    3. 1717   Dragon Quest (1986)                                                                         87    2 
                   JPN | 11 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: E
                   On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
                   Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
@@ -36,7 +27,16 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1619   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
+    4. 1716   Space Invaders (1978)                                                                      171    2 
+                  JPN | 4 h | Side view | PEGI: 3 | ESRB: E
+                  On: Arcade, Atari 2600, Atari 5200, GB, Mobile, NES, SG-1000, Saturn, WonderSwan, iOS
+                  Genre: Arcade, Shooter | Theme: Science Fiction
+                  Developers: Taito
+                  Publishers: Midway, Taito
+                  Designer: Tomohiro Nishikado
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1645   Speedball 2: Brutal Deluxe (1990)                                                          239    2 
                   GBR | 10 h | Bird view / Isometric | PEGI: 12 | ESRB: E
                   On: Acorn Archimedes, Amiga, Atari ST, BlackBerry, C64, DOS, GB, GBA, Mega Drive, Mobile, SMS
                   Genre: Sport, Strategy | Theme: Action, Science Fiction
@@ -45,7 +45,7 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1577   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    2 
+    6. 1598   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    2 
                   CAN | 14 h | First person, Third person | PEGI: 12 | ESRB: M
                   On: 3DS, DS, GameCube, Mobile, N-Gage, PS2, Win, Xbox
                   Genre: Shooter, Tactical | Theme: Action, Stealth
@@ -54,7 +54,7 @@
                   Designer: Clint Hocking
                   Composer: Amon Tobin, Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1412   ActRaiser (1990)                                                                           478    1 
+    7. 1409   ActRaiser (1990)                                                                           478    1 
                   JPN | 6 h | Bird view / Isometric, Side view | PEGI: 7 | ESRB: E10+
                   On: Mobile, SNES, Wii, Wii U
                   Genre: Fighting, Simulator, Strategy | Theme: Action, Fantasy
@@ -63,7 +63,7 @@
                   Designer: Ayano Koshiro, Masaya Hashimoto, Yasuhiro Fukushima
                   Composer: Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1397   Metal Gear (1987)                                                                          305    1 
+    8. 1393   Metal Gear (1987)                                                                          305    1 
                   JPN | 5 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
                   Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
@@ -90,7 +90,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1371   Cannon Fodder (1993)                                                                       365    1 
+   11. 1368   Cannon Fodder (1993)                                                                       365    1 
                   GBR | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: T
                   On: 3DO, Acorn Archimedes, Amiga, Atari ST, BlackBerry, CD32, DOS, Jaguar, Linux, Mac, Mega Drive, Mobile, SNES, Win
                   Genre: Shooter, Strategy | Theme: Action, Comedy, Warfare
@@ -99,7 +99,7 @@
                   Designer: Jon Hare
                   Composer: Allister Brimble, Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1311   Peggle (2007)                                                                              487    1 
+   12. 1308   Peggle (2007)                                                                              487    1 
                   USA | 12 h | Side view | PEGI: 3 | ESRB: E
                   On: Android, DS, Mac, Mobile, PS3, Win, Xbox 360, iOS
                   Genre: Puzzle | Theme: Action, Comedy
@@ -108,7 +108,7 @@
                   Designer: Brian Rothstein, Eric Tams
                   Composer: Matthew Lee Johnston, Somatone Interactive Audio
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1198   Phoenix Wright: Ace Attorney (2001)                                                        492    1 
+   13. 1196   Phoenix Wright: Ace Attorney (2001)                                                        492    1 
                   JPN | 22 h | First person, Side view, Text | PEGI: N/A | ESRB: T
                   On: DS, GBA, Mobile, Wii, Win, iOS
                   Genre: Adventure, Point-and-click, Puzzle, Visual Novel | Theme: Comedy, Drama, Fantasy
