@@ -10018,6 +10018,108 @@
         "pegi": "N/A",
         "esrb": "N/A",
         "hltb":  59
+    },
+    "Icewind Dale II (2002)":
+    {
+        "id": 590,
+        "year": 2002,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Black Isle"],
+        "publishers": ["Interplay"],
+        "genre": ["RPG", "Strategy"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Josh Sawyer", "Chris Avellone"],
+        "composer": ["Inon Zur"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 57
+    },
+    "The Witcher 2: Assassins of Kings (2011)":
+    {
+        "id": 591,
+        "year": 2011,
+        "country": ["POL"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "Win"],
+        "developers": ["CD Projekt RED"],
+        "publishers": ["CD Projekt RED", "CyberFront", "Namco", "Spike", "Atari"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Adam Badowski", "Mateusz Kanik", "Maciej Szcześnik"],
+        "composer": ["Adam Skorupa", "Krzysztof Wierzynkiewicz", "Marcin Przybyłowicz"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 34
+    },
+    "Wasteland (1988)":
+    {
+        "id": 592,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["DOS", "C64", "Apple II"],
+        "developers": ["Interplay"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "Indie", "RPG", "Strategy"],
+        "theme": ["Science Fiction", "Survival"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Brian Fargo", "Ken St. Andre", "Michael A. Stackpole", "Liz Danforth"],
+        "composer": ["Edwin Montgomery"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 35
+    },
+    "Quest for Glory: Shadows of Darkness (1993)":
+    {
+        "id": 593,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Lori Ann Cole", "Corey Cole"],
+        "composer": ["Aubrey Hodges"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 16
+    },
+    "Might and Magic III: Isles of Terra (1991)":
+    {
+        "id": 594,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["TurboGrafx-16", "Amiga", "Mac", "Sega CD", "SNES", "DOS"],
+        "developers": ["New World Computing"],
+        "publishers": ["New World Computing"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Jon Van Caneghem"],
+        "composer": ["George Sanger", "Howard Fredrics", "Tim Tully", "Gregory Alper", "Paul Potyen", "Paul Lehrman", "Rob Wallace", "Takehiro Kawabe", "Shinya Yamamoto"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 55
+    },
+    "Arx Fatalis (2002)":
+    {
+        "id": 595,
+        "year": 2002,
+        "country": ["FRA"],
+        "platforms": ["Xbox", "Win"],
+        "developers": ["WizarBox", "Arkane Studios"],
+        "publishers": ["DreamCatcher", "Mindscape", "Capcom", "Arkane Studios", "JoWooD"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Raphaël Colantonio"],
+        "composer": ["Kemal Amarasingham", "Simon Amarasingham"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 30
     }
 
 }
