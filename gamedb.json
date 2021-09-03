@@ -10120,6 +10120,91 @@
 		"pegi": "16",
 		"esrb": "M",
         "hltb": 30
+    },
+    "Geneforge (2001)":
+    {
+        "id": 596,
+        "year": 2001,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Spiderweb Software"],
+        "publishers": ["Spiderweb Software"],
+        "genre": ["Adventure", "Indie", "RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jeff Vogel"],
+        "composer": ["Unknown"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 42
+    },
+    "Pools of Darkness (1992)":
+    {
+        "id": 597,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Amiga", "DOS"],
+        "developers": ["SSI"],
+        "publishers": ["SSI"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Educational", "Fantasy"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Ken Humphries", "David Shelley"],
+        "composer": ["David Govett"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 51
+    },
+    "Albion (1995)":
+    {
+        "id": 598,
+        "year": 1995,
+        "country": ["GER"],
+        "platforms": ["DOS"],
+        "developers": ["Blue Byte"],
+        "publishers": ["Blue Byte"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "First person"],
+        "designer": ["Jurie Horneman"],
+        "composer": ["Matthias Steinwachs"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 35
+    },
+    "Drakensang: The River of Time (2010)":
+    {
+        "id": 599,
+        "year": 2010,
+        "country": ["GER"],
+        "platforms": ["Win"],
+        "developers": ["Radon Labs"],
+        "publishers": ["DTP Entertainment", "THQ", "ValuSoft"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Bernd Beyreuther", "Fabian Rudzinski"],
+        "composer": ["Florian Bodenschatz"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 37
+    },
+    "Risen (2009)":
+    {
+        "id": 600,
+        "year": 2009,
+        "country": ["GER"],
+        "platforms": ["Xbox 360", "Win"],
+        "developers": ["Piranha Bytes"],
+        "publishers": ["Deep Silver"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Open world"],
+        "perspective": ["Third person"],
+        "designer": ["Michael Rüve"],
+        "composer": ["Kai Rosenkranz"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 37
     }
 
 }

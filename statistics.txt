@@ -1,13 +1,13 @@
-Games in database: 595
-Total: 18426 h | Average: 30 h | Median: 13 h
+Games in database: 600
+Total: 18628 h | Average: 31 h | Median: 13 h
 
 Countries (Top 10):
 -------------------
-  1. USA                   : 264 (44%)
+  1. USA                   : 266 (44%)
   2. JPN                   : 198 (33%)
   3. GBR                   :  76 (12%)
   4. CAN                   :  25 (4%)
-  5. GER                   :   7 (1%)
+  5. GER                   :  10 (1%)
   6. SWE                   :   6 (1%)
   7. AUS                   :   4 (0%)
   8. FRA                   :   3 (0%)
@@ -19,14 +19,14 @@ Countries (Top 10):
 
 Platforms (Top 10):
 -------------------
-  1. Win                   : 249 (41%)
-  2. DOS                   : 174 (29%)
-  3. Mac                   : 157 (26%)
-  4. Amiga                 : 107 (17%)
+  1. Win                   : 252 (42%)
+  2. DOS                   : 176 (29%)
+  3. Mac                   : 158 (26%)
+  4. Amiga                 : 108 (18%)
   5. C64                   : 105 (17%)
   6. Arcade                :  91 (15%)
   7. PS3                   :  87 (14%)
-  8. Xbox 360              :  83 (13%)
+  8. Xbox 360              :  84 (14%)
   9. PSX                   :  82 (13%)
   =  Atari ST              :  82 (13%)
 
@@ -38,35 +38,35 @@ Years (Top 10):
   4. 1998                  :  32 (5%)
   5. 1987                  :  27 (4%)
   6. 1999                  :  24 (4%)
-  7. 1997                  :  23 (3%)
-  =  1995                  :  23 (3%)
-  =  1992                  :  23 (3%)
+  =  1995                  :  24 (4%)
+  =  1992                  :  24 (4%)
+  9. 1997                  :  23 (3%)
  10. 1991                  :  21 (3%)
   =  1988                  :  21 (3%)
 
 PEGI Ratings:
 -------------
-  1. N/A                   : 289 (48%)
+  1. N/A                   : 292 (48%)
   2. 12                    :  78 (13%)
   3. 3                     :  75 (12%)
   4. 7                     :  63 (10%)
-  5. 16                    :  60 (10%)
+  5. 16                    :  62 (10%)
   6. 18                    :  30 (5%)
 
 ESRB Ratings:
 -------------
-  1. E                     : 184 (30%)
-  2. N/A                   : 166 (27%)
-  3. T                     : 115 (19%)
-  4. M                     :  96 (16%)
+  1. E                     : 185 (30%)
+  2. N/A                   : 168 (28%)
+  3. T                     : 116 (19%)
+  4. M                     :  97 (16%)
   5. E10+                  :  34 (5%)
 
 Genres (Top 10):
 -------------------
-  1. Adventure             : 202 (33%)
-  2. Shooter               : 146 (24%)
-  =  RPG                   : 146 (24%)
-  4. Strategy              : 102 (17%)
+  1. Adventure             : 205 (34%)
+  2. RPG                   : 151 (25%)
+  3. Shooter               : 146 (24%)
+  4. Strategy              : 103 (17%)
   5. Platform              :  95 (15%)
   6. Arcade                :  84 (14%)
   7. Simulator             :  78 (13%)
@@ -76,15 +76,15 @@ Genres (Top 10):
 
 Themes (Top 10):
 -------------------
-  1. Action                : 377 (63%)
-  2. Fantasy               : 194 (32%)
-  3. Science Fiction       : 160 (26%)
-  4. Historical            :  64 (10%)
+  1. Action                : 377 (62%)
+  2. Fantasy               : 199 (33%)
+  3. Science Fiction       : 162 (27%)
+  4. Historical            :  65 (10%)
   5. Comedy                :  46 (7%)
   6. Warfare               :  44 (7%)
   7. Horror                :  38 (6%)
-  8. Sandbox               :  34 (5%)
-  =  Open world            :  34 (5%)
+  8. Open world            :  35 (5%)
+  9. Sandbox               :  34 (5%)
  10. Survival              :  31 (5%)
 
 Developers (Top 10):
@@ -115,9 +115,9 @@ Publishers (Top 10):
 
 Perspectives:
 -------------
-  1. Bird view / Isometric : 210 (35%)
-  2. Third person          : 195 (32%)
-  3. First person          : 149 (25%)
+  1. Bird view / Isometric : 212 (35%)
+  2. Third person          : 198 (33%)
+  3. First person          : 151 (25%)
   4. Side view             : 146 (24%)
   5. Text                  :  12 (2%)
   6. Auditory              :   3 (0%)
