@@ -9950,6 +9950,74 @@
 		"pegi": "12",
 		"esrb": "T",
         "hltb": 30
+    },
+    "Dark Sun: Shattered Lands (1993)":
+    {
+        "id": 586,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["SSI"],
+        "publishers": ["SSI"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Russell Brown"],
+        "composer": ["Ralph Thomas"],
+        "pegi": "N/A",
+        "esrb": "E",
+        "hltb": 34
+    },
+    "The Elder Scrolls II: Daggerfall (1996)":
+    {
+        "id": 587,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["DOS"],
+        "developers": ["Bethesda"],
+        "publishers": ["Bethesda"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["First person"],
+        "designer": ["Julian Lefay"],
+        "composer": ["Eric Heberling"],
+        "pegi": "N/A",
+        "esrb": "N/A",
+        "hltb": 91
+    },
+    "Pool of Radiance (1988)":
+    {
+        "id": 588,
+        "year": 1988,
+        "country": ["USA"],
+        "platforms": ["Amiga", "NES", "Mac", "DOS", "C64", "Sharp X1", "Apple II"],
+        "developers": ["SSI"],
+        "publishers": ["Pony Canyon", "SSI"],
+        "genre": ["Adventure", "RPG", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "First person", "Third person"],
+        "designer": ["Chuck Kroegel", "George MacDonald"],
+        "composer": ["Wally Beben", "David Warhol", "Seiji Toda", "Masayuki Kurinaga"],
+        "pegi": "N/A",
+        "esrb": "M",
+        "hltb": 32
+    },
+    "Might and Magic VII: For Blood and Honor (1999)":
+    {
+        "id": 589,
+        "year": 1999,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["New World Computing"],
+        "publishers": ["3DO"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Open world"],
+        "perspective": ["First person"],
+        "designer": ["Keith Francart", "James W. Dickinson", "Bryan Farina", "Paul Rattner", "Jon Van Caneghem"],
+        "composer": ["Paul Romero"],
+        "pegi": "N/A",
+        "esrb": "N/A",
+        "hltb":  59
     }
 
 }
