@@ -9644,6 +9644,57 @@
 		"pegi": "N/A",
 		"esrb": "N/A",
         "hltb": 44
+    },
+    "Vampire: The Masquerade - Bloodlines (2004)":
+    {
+        "id": 568,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Troika Games"],
+        "publishers": ["Activision", "Electronic Arts"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy", "Horror", "Thriller"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Jason D. Anderson", "Leonard Boyarsky", "Brian Mitsoda", "Chad Moore", "TJ Perillo"],
+        "composer": ["Rik Schafter"],
+        "pegi": "18",
+        "esrb": "M",
+        "hltb": 29
+    },
+    "Fallout: New Vegas (2010)":
+    {
+        "id": 569,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["Obsidian"],
+        "publishers": ["Namco", "1C Company", "Bethesda"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Open world", "Sandbox", "Science Fiction", "Survival"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Josh Sawyer"],
+        "composer": ["Inon Zur"],
+        "pegi": "N/A",
+        "esrb": "M",
+        "hltb": 59
+    },
+    "Wizardry 8 (2001)":
+    {
+        "id": 570,
+        "year": 2001,
+        "country": ["CAN"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Sir-Tech"],
+        "publishers": ["Sir-Tech", "Night Dive Studios"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["Brenda Romero", "Linda Currie", "Alex Meduna", "Charles Miles"],
+        "composer": ["Kevin Manthei"],
+        "pegi": "N/A",
+        "esrb": "T",
+        "hltb": 92
     }
 
 }
