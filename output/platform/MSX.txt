@@ -36,7 +36,16 @@
                   Designer: David Braben, Ian Bell
                   Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1849   Donkey Kong (1981)                                                                          70    4 
+    5. 1893   Ultima IV: Quest of the Avatar (1985)                                                       79    4 
+                  USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Richard Garriott
+                  Composer: Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 1849   Donkey Kong (1981)                                                                          70    4 
                   JPN | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action
@@ -45,7 +54,7 @@
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1848   Arkanoid (1986)                                                                            308    2 
+    7. 1848   Arkanoid (1986)                                                                            308    2 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: E
                   On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
                   Genre: Arcade | Theme: Action, Science Fiction
@@ -53,15 +62,6 @@
                   Publishers: Discovery Software International, Imagine Software, Taito, Tandy
                   Designer: Akira Fujita, Hiroshi Tsujino
                   Composer: Hisayoshi Ogura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
-                  USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Richard Garriott
-                  Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1835   Manic Miner (1983)                                                                         337    1 
                   GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A
@@ -153,16 +153,7 @@
                   Designer: Chris Stamper, Tim Stamper
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1611   Puyo Puyo (1991)                                                                           216    1 
-                  JPN | 1 h | Side view | PEGI: N/A | ESRB: N/A
-                  On: MSX, NES
-                  Genre: Puzzle | Theme: Action
-                  Developers: Compile
-                  Publishers: Banpresto, Compile
-                  Designer: Masanobu Tsukamoto
-                  Composer: Akiyoshi Nagao, Daisuke Fujimoto, Masaaki Harada, Masanobu Tsukamoto, Toshiaki Sakoda
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1604   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
+   18. 1618   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    3 
                   USA | 41 h | First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
                   Genre: RPG | Theme: Fantasy
@@ -170,6 +161,15 @@
                   Publishers: ASCII, Bandai, Sir-Tech
                   Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1611   Puyo Puyo (1991)                                                                           216    1 
+                  JPN | 1 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: MSX, NES
+                  Genre: Puzzle | Theme: Action
+                  Developers: Compile
+                  Publishers: Banpresto, Compile
+                  Designer: Masanobu Tsukamoto
+                  Composer: Akiyoshi Nagao, Daisuke Fujimoto, Masaaki Harada, Masanobu Tsukamoto, Toshiaki Sakoda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    20. 1561   Pitfall! (1982)                                                                            298    2 
                   USA | 3 h | Side view | PEGI: N/A | ESRB: N/A

@@ -45,16 +45,7 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1848   Arkanoid (1986)                                                                            308    2 
-                  JPN | 2 h | Side view | PEGI: N/A | ESRB: E
-                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
-                  Genre: Arcade | Theme: Action, Science Fiction
-                  Developers: Taito
-                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
-                  Designer: Akira Fujita, Hiroshi Tsujino
-                  Composer: Hisayoshi Ogura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1836   Ultima IV: Quest of the Avatar (1985)                                                       79    3 
+    6. 1893   Ultima IV: Quest of the Avatar (1985)                                                       79    4 
                   USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
                   Genre: RPG | Theme: Fantasy
@@ -62,6 +53,15 @@
                   Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1848   Arkanoid (1986)                                                                            308    2 
+                  JPN | 2 h | Side view | PEGI: N/A | ESRB: E
+                  On: Amiga, Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, BBC, C64, DOS, MSX, Mac, NES, TRS-80, ZX Spectrum
+                  Genre: Arcade | Theme: Action, Science Fiction
+                  Developers: Taito
+                  Publishers: Discovery Software International, Imagine Software, Taito, Tandy
+                  Designer: Akira Fujita, Hiroshi Tsujino
+                  Composer: Hisayoshi Ogura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     8. 1833   Bubble Bobble (1986)                                                                       237    3 
                   JPN | 3 h | Side view | PEGI: 3 | ESRB: E
@@ -81,7 +81,16 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1740   Asteroids (1979)                                                                            59    4 
+   10. 1754   Ultima V: Warriors of Destiny (1988)                                                        80    4 
+                  USA | 49 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Apple II, Atari ST, C64, DOS, FM Towns, NES, Sharp X68000
+                  Genre: Adventure, RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: FCI, Fujitsu, Origin, Pony Canyon
+                  Designer: Richard Garriott
+                  Composer: David R. Watson, Kenneth W. Arnold
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1740   Asteroids (1979)                                                                            59    4 
                   USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 7800, Atari 8-bit
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -90,7 +99,7 @@
                   Designer: Ed Logg, Lyle Rains
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1714   Defender (1981)                                                                             13    3 
+   12. 1714   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Genre: Shooter, Strategy | Theme: Action, Science Fiction
@@ -99,7 +108,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1687   Ultima III: Exodus (1983)                                                                   78    3 
+   13. 1687   Ultima III: Exodus (1983)                                                                   78    3 
                   USA | 27 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX, Mac, NES, PC-8801, PC-98, Sharp X1
                   Genre: RPG | Theme: Fantasy
@@ -107,15 +116,6 @@
                   Publishers: Origin, Pony Canyon, StarCraft
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1679   Ultima V: Warriors of Destiny (1988)                                                        80    3 
-                  USA | 49 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Apple II, Atari ST, C64, DOS, FM Towns, NES, Sharp X68000
-                  Genre: Adventure, RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: FCI, Fujitsu, Origin, Pony Canyon
-                  Designer: Richard Garriott
-                  Composer: David R. Watson, Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 1628   The Bard's Tale (1985)                                                                     104    2 
                   USA | 28 h | First person | PEGI: N/A | ESRB: N/A
@@ -126,7 +126,16 @@
                   Designer: Michael Cranford
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1617   Ultima I: The First Age of Darkness (1981)                                                  75    3 
+   15. 1618   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    3 
+                  USA | 41 h | First person | PEGI: N/A | ESRB: N/A
+                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Bandai, Sir-Tech
+                  Designer: Andrew C. Greenberg, Robert Woodhead
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1617   Ultima I: The First Age of Darkness (1981)                                                  75    3 
                   USA | 8 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
                   Genre: RPG | Theme: Action, Fantasy, Open world
@@ -135,22 +144,13 @@
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
+   17. 1614   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Genre: RPG | Theme: Fantasy
                   Developers: Origin
                   Publishers: Pony Canyon, Sierra, StarCraft
                   Designer: Richard Garriott
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1604   Wizardry: Proving Grounds of the Mad Overlord (1981)                                        96    2 
-                  USA | 41 h | First person | PEGI: N/A | ESRB: N/A
-                  On: Apple II, C64, DOS, FM-7, GBC, MSX, Mac, NES, PC-8801, PC-98, Sharp X1, WonderSwan
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Bandai, Sir-Tech
-                  Designer: Andrew C. Greenberg, Robert Woodhead
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1588   The Lurking Horror (1987)                                                                   24    2 
@@ -270,7 +270,16 @@
                   Designer: Kazunori Sawano, Shigeichi Ishimura
                   Composer: Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1384   Akalabeth: World of Doom (1980)                                                             76    1 
+   31. 1385   Wizardry IV: The Return of Werdna (1987)                                                    99    2 
+                  USA | 25 h | First person | PEGI: N/A | ESRB: N/A
+                  On: Apple II, DOS, Sharp X1
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Sir-Tech
+                  Publishers: ASCII, Sir-Tech
+                  Designer: Andrew C. Greenberg, Robert Woodhead, Roe. R. Adams III
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   32. 1384   Akalabeth: World of Doom (1980)                                                             76    1 
                   USA | 4 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, DOS, Linux, Mac, Win, iOS
                   Genre: RPG | Theme: Fantasy
@@ -279,22 +288,13 @@
                   Designer: Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1349   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1 
+   33. 1349   Wizardry V: Heart of the Maelstrom (1988)                                                  100    1 
                   USA | 61 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Apple II, C64, DOS, FM Towns, PC-8801, PC-98, SNES, TurboGrafx-16, Win
                   Genre: RPG | Theme: Action, Drama, Fantasy
                   Developers: ASCII, Sir-Tech
                   Publishers: ASCII, Capcom, Nintendo, Sir-Tech, St. GIGA
                   Designer: Andrew C. Greenberg, David W. Bradley
-                  Composer: Unknown
-
-       1349   Wizardry IV: The Return of Werdna (1987)                                                    99    1
-                  USA | 25 h | First person | PEGI: N/A | ESRB: N/A
-                  On: Apple II, DOS, Sharp X1
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Sir-Tech
-                  Publishers: ASCII, Sir-Tech
-                  Designer: Andrew C. Greenberg, Robert Woodhead, Roe. R. Adams III
                   Composer: Unknown
 
        1349   Wizardry III: Legacy of Llylgamyn (1983)                                                    98    1

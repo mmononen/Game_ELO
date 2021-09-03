@@ -9797,6 +9797,91 @@
 		"pegi": "12",
 		"esrb": "T",
         "hltb": 41
+    },
+    "The Temple of Elemental Evil (2003)":
+    {
+        "id": 577,
+        "year": 2003,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Troika Games"],
+        "publishers": ["Atari"],
+        "genre": ["RPG", "Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Timothy Cain"],
+        "composer": ["Ron Fish"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 49
+    },
+    "Icewind Dale (2000)":
+    {
+        "id": 578,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Mac", "iOS", "Win"],
+        "developers": ["Black Isle"],
+        "publishers": ["Interplay"],
+        "genre": ["RPG", "Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Feargus Urquhart", "Steve Bokkes", "Josh Sawyer", "John Deily", "Reginald Arnedo", "Chris Avellone"],
+        "composer": ["Jeremy Soule"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 45
+    },
+    "The Witcher (2007)":
+    {
+        "id": 579,
+        "year": 2007,
+        "country": ["POL"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["CD Projekt RED"],
+        "publishers": ["Atari", "CD Projekt RED"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Jacek Brzeziński", "Michał Madej"],
+        "composer": ["Adam Skorupa", "Paweł Blaszczak"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 46
+    },
+    "Might and Magic VI: The Mandate of Heaven (1998)":
+    {
+        "id": 580,
+        "year": 1998,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["New World Computing"],
+        "publishers": ["3DO"],
+        "genre": ["RPG", "Turn-Based Strategy"],
+        "theme": ["Action", "Fantasy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Bryan Farina", "Paul Rattner", "Jon Van Caneghem"],
+        "composer": ["Paul Romero", "Rob King", "Steve Baca"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 64
+    },
+    "Gothic (2001)":
+    {
+        "id": 581,
+        "year": 2001,
+        "country": ["GER"],
+        "platforms": ["Win"],
+        "developers": ["Piranha Bytes"],
+        "publishers": ["JoWooD", "Nordic Games", "Egmont", "Xicat"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy", "Historical", "Open world", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Alexander Brüggemann", "Michael Hoge", "Stefan Nyul", "Tom Putzki"],
+        "composer": ["Kai Rosenkranz"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 30
     }
 
 }
