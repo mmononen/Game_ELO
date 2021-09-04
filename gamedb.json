@@ -10494,6 +10494,57 @@
 		"pegi": "16",
 		"esrb": "T",
         "hltb": 22
+    },
+    "Dance Dance Revolution (1998)":
+    {
+        "id": 618,
+        "year": 1998,
+        "country": ["JPN"],
+        "platforms": ["PSX", "Arcade", "Win"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Music", "Simulator"],
+        "theme": ["Party"],
+        "perspective": ["Auditory"],
+        "designer": ["Hirotaka Ishikawa", "Yoshiko Wada", "Yumi Yoshida"],
+        "composer": ["Yuichi Asami"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 1
+    },
+    "Rock Band 3 (2010)":
+    {
+        "id": 619,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["DS", "Xbox 360", "Wii", "PS3"],
+        "developers": ["Harmonix"],
+        "publishers": ["MTV", "Mad Catz"],
+        "genre": ["Music"],
+        "theme": ["Party"],
+        "perspective": ["First person", "Auditory"],
+        "designer": ["Dan Teasdale", "Sylvain Dubrofsky", "Brian Chan", "Casey Malone"],
+        "composer": ["Unknown"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 36
+    },
+    "Psychonauts (2005)":
+    {
+        "id": 620,
+        "year": 2005,
+        "country": ["USA"],
+        "platforms": ["PS4", "Xbox 360", "PS2", "Linux", "Mac", "Xbox", "PS3", "Win"],
+        "developers": ["Double Fine", "Budcat Creations"],
+        "publishers": ["THQ", "Majesco"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Comedy", "Kids"],
+        "perspective": ["Third person"],
+        "designer": ["Tim Schafer", "Erik Robson"],
+        "composer": ["Peter McConnell"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 16
     }
 
 }
