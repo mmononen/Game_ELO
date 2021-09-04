@@ -10358,6 +10358,57 @@
 		"pegi": "N/A",
 		"esrb": "N/A",
         "hltb": 29
+    },
+    "Heroine's Quest: The Herald of Ragnarok (2014)":
+    {
+        "id": 610,
+        "year": 2014,
+        "country": ["NED"],
+        "platforms": ["Linux", "Win"],
+        "developers": ["Crystal Shard"],
+        "publishers": ["Screen 7"],
+        "genre": ["Adventure", "Indie", "RPG"],
+        "theme": ["Survival", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Pieter Simoons"],
+        "composer": ["Matthew Chastney", "Dmitrii Zavorotny"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 18
+    },
+    "Divinity II: The Dragon Knight Saga (2010)":
+    {
+        "id": 611,
+        "year": 2010,
+        "country": ["BEL"],
+        "platforms": ["Xbox 360", "Win"],
+        "developers": ["Larian Studios"],
+        "publishers": ["Focus Home Interactive"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy", "Historical"],
+        "perspective": ["Third person"],
+        "designer": ["Swen Vincke", "Farhang Namdar"],
+        "composer": ["Kirill Pokrovsky"],
+		"pegi": "12",
+		"esrb": "M",
+        "hltb": 47
+    },
+    "Wizards & Warriors (2000)":
+    {
+        "id": 612,
+        "year": 2000,
+        "country": ["USA"],
+        "platforms": ["Win"],
+        "developers": ["Heuristic Park"],
+        "publishers": ["Activision"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Fantasy"],
+        "perspective": ["First person"],
+        "designer": ["David W. Bradley", "Nathan Cheever"],
+        "composer": ["Steve Miller"],
+		"pegi": "12",
+		"esrb": "M",
+        "hltb": 105
     }
 
 }
