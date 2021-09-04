@@ -10367,7 +10367,7 @@
         "platforms": ["Linux", "Win"],
         "developers": ["Crystal Shard"],
         "publishers": ["Screen 7"],
-        "genre": ["Adventure", "Indie", "RPG"],
+        "genre": ["Adventure", "Indie", "RPG", "Point-and-click"],
         "theme": ["Survival", "Fantasy"],
         "perspective": ["Third person"],
         "designer": ["Pieter Simoons"],
@@ -10409,6 +10409,91 @@
 		"pegi": "12",
 		"esrb": "M",
         "hltb": 105
+    },
+    "Red Dead Redemption (2010)":
+    {
+        "id": 613,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS3"],
+        "developers": ["Rockstar"],
+        "publishers": ["Rockstar", "Take-Two"],
+        "genre": ["Adventure", "RPG", "Shooter"],
+        "theme": ["Action", "Open world", "Sandbox", "Western"],
+        "perspective": ["Third person"],
+        "designer": ["Christian Cantamessa", "Leslie Benzies"],
+        "composer": ["Bill Elm", "Woody Jackson"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 28
+    },
+    "Portal 2 (2011)":
+    {
+        "id": 614,
+        "year": 2011,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "Linux", "Mac", "PS3", "Win"],
+        "developers": ["Valve"],
+        "publishers": ["Valve", "Electronic Arts"],
+        "genre": ["Adventure", "Platform", "Puzzle", "Shooter"],
+        "theme": ["Action", "Comedy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Joshua Weier"],
+        "composer": ["Mike Morasky"],
+		"pegi": "12",
+		"esrb": "E10+",
+        "hltb": 14
+    },
+    "Rez (2001)":
+    {
+        "id": 615,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["PS2", "Dreamcast"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Music", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Hiroyuki Abe", "Katsuhiko Yamada"],
+        "composer": ["Keiichi Sugiyama"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 3
+    },
+    "The Walking Dead: Season One (2012)":
+    {
+        "id": 616,
+        "year": 2012,
+        "country": ["USA"],
+        "platforms": ["Android", "Xbox One", "PS4", "Xbox 360", "Mac", "iOS", "Vita", "PS3", "Win", "Switch"],
+        "developers": ["Telltale"],
+        "publishers": ["Telltale", "Sony"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Action", "Drama", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Sean Vanaman", "Jake Rodkin", "Mark Darin", "Harrison G. Pink", "Andrew Langley", "Sean Ainsworth"],
+        "composer": ["Jared-Emerson Johnson"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 14
+    },
+    "Batman: Arkham City (2011)":
+    {
+        "id": 617,
+        "year": 2011,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360", "PS3", "Win", "OnLive"],
+        "developers": ["Rocksteady"],
+        "publishers": ["Warner Bros", "DC Entertainment"],
+        "genre": ["Adventure", "Hack and Slash"],
+        "theme": ["Action", "Open world", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Sefton Hill"],
+        "composer": ["Nick Arundel", "Ron Fish"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 22
     }
 
 }

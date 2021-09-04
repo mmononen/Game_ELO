@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2676   Half-Life 2 (2004)                                                                         401    5 
+    1. 2688   Half-Life 2 (2004)                                                                         401    5 
                   USA | 16 h | First person | PEGI: 16 | ESRB: M
                   On: Android, Linux, Mac, PS3, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: Marc Laidlaw
                   Composer: Kelly Bailey
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2580   Chrono Trigger (1995)                                                                      290    4 
+    2. 2598   Chrono Trigger (1995)                                                                      290    4 
                   JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
@@ -18,16 +18,7 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2505   Sonic the Hedgehog (1991)                                                                   20    6 
-                  JPN | 2 h | Side view | PEGI: 3 | ESRB: E10+
-                  On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
-                  Genre: Adventure, Platform | Theme: Action, Science Fiction
-                  Developers: Sonic Team
-                  Publishers: Sega, Tectoy
-                  Designer: Hirokazu Yasuhara
-                  Composer: Masato Nakamura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2458   Castlevania: Symphony of the Night (1997)                                                  224    5 
+    3. 2526   Castlevania: Symphony of the Night (1997)                                                  224    6 
                   JPN | 12 h | Side view | PEGI: N/A | ESRB: T
                   On: Android, PSX, Saturn, Xbox 360, iOS
                   Genre: Adventure, Platform, RPG | Theme: Action, Horror
@@ -36,7 +27,16 @@
                   Designer: Toru Hagihara
                   Composer: Michiru Yamane
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2391   SoulCalibur (1998)                                                                         222    6 
+    4. 2505   Sonic the Hedgehog (1991)                                                                   20    6 
+                  JPN | 2 h | Side view | PEGI: 3 | ESRB: E10+
+                  On: Android, Mega Drive, PS3, Wii, Win, Xbox 360, iOS
+                  Genre: Adventure, Platform | Theme: Action, Science Fiction
+                  Developers: Sonic Team
+                  Publishers: Sega, Tectoy
+                  Designer: Hirokazu Yasuhara
+                  Composer: Masato Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 2432   SoulCalibur (1998)                                                                         222    6 
                   JPN | 9 h | Third person | PEGI: 16 | ESRB: T
                   On: Android, Arcade, Dreamcast, Xbox 360, iOS
                   Genre: Arcade, Fighting | Theme: Action, Fantasy, Historical
@@ -45,7 +45,7 @@
                   Designer: Jin Okubo, Tetsuya Akatsuka, Tsuyoshi Kiuchi, Yoshitaka Tezuka
                   Composer: Akitaka Tohyama, Junichi Nakatsuru, Takanori Otsuka, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2383   Portal (2007)                                                                              405    4 
+    6. 2428   Portal (2007)                                                                              405    4 
                   USA | 5 h | First person | PEGI: 12 | ESRB: T
                   On: Android, Linux, Mac, PS3, Win, Xbox 360
                   Genre: Platform, Puzzle, Shooter | Theme: Action, Comedy, Science Fiction
@@ -54,7 +54,7 @@
                   Designer: Kim Swift
                   Composer: Kelly Bailey, Mike Morasky
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2266   Grand Theft Auto: Vice City (2002)                                                         339    4 
+    7. 2389   Grand Theft Auto: Vice City (2002)                                                         339    5 
                   GBR | 28 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
@@ -90,7 +90,16 @@
                   Designer: Leslie Benzies
                   Composer: Michael Hunter
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1750   R-Type (1987)                                                                              172    3 
+   11. 1756   Max Payne (2001)                                                                           493    4 
+                  FIN | 9 h | Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Thriller
+                  Developers: Remedy
+                  Publishers: 1C Company, 3D Realms, Feral Interactive, Gathering of Developers, MacSoft Games, Rockstar, Take-Two
+                  Designer: Petri Järvilehto
+                  Composer: Kimmo Kajasto, Kärtsy Hatakka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 1750   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view | PEGI: 7 | ESRB: E
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -99,7 +108,7 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1717   Dragon Quest (1986)                                                                         87    2 
+   13. 1717   Dragon Quest (1986)                                                                         87    2 
                   JPN | 11 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: E
                   On: 3DS, Android, MSX, Mobile, NES, PS4, Switch, iOS
                   Genre: Adventure, RPG | Theme: Fantasy, Historical, Sandbox
@@ -108,7 +117,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1683   Secret of Mana (1993)                                                                      232    3 
+   14. 1683   Secret of Mana (1993)                                                                      232    3 
                   JPN | 29 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: Android, SNES, Wii, Wii U, iOS
                   Genre: RPG | Theme: Action, Fantasy
@@ -117,7 +126,7 @@
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1572   Pitfall! (1982)                                                                            298    2 
+   15. 1572   Pitfall! (1982)                                                                            298    2 
                   USA | 3 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Genre: Platform | Theme: Action
@@ -125,15 +134,6 @@
                   Publishers: Activision
                   Designer: David Crane
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1527   Max Payne (2001)                                                                           493    3 
-                  FIN | 9 h | Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Thriller
-                  Developers: Remedy
-                  Publishers: 1C Company, 3D Realms, Feral Interactive, Gathering of Developers, MacSoft Games, Rockstar, Take-Two
-                  Designer: Petri Järvilehto
-                  Composer: Kimmo Kajasto, Kärtsy Hatakka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    16. 1525   Boulder Dash (1984)                                                                        345    1 
                   USA | 10 h | Side view | PEGI: 7 | ESRB: E
@@ -144,7 +144,16 @@
                   Designer: Chris Gray, Peter Liepa
                   Composer: Ian Waugh, Peter Liepa
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1490   International Track & Field (1996)                                                         225    1 
+   17. 1507   The Walking Dead: Season One (2012)                                                        616    1 
+                  USA | 14 h | Third person | PEGI: N/A | ESRB: N/A
+                  On: Android, Mac, PS3, PS4, Switch, Vita, Win, Xbox 360, Xbox One, iOS
+                  Genre: Adventure, Point-and-click | Theme: Action, Drama, Horror, Survival
+                  Developers: Telltale
+                  Publishers: Sony, Telltale
+                  Designer: Andrew Langley, Harrison G. Pink, Jake Rodkin, Mark Darin, Sean Ainsworth, Sean Vanaman
+                  Composer: Jared-Emerson Johnson
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1490   International Track & Field (1996)                                                         225    1 
                   JPN | 1 h | Auditory | PEGI: 3 | ESRB: E
                   On: Android, PS3, PSX
                   Genre: Sport | Theme: Track & Field
@@ -153,7 +162,7 @@
                   Designer: Satoshi Kushibuchi
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1475   Ghosts 'n Goblins (1985)                                                                   347    1 
+   19. 1475   Ghosts 'n Goblins (1985)                                                                   347    1 
                   JPN | 4 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Android, Arcade, Atari ST, C16, C64, DOS, FM-7, GBA, GBC, NES, PC-8801, PS3, Plus4, Switch, Wii, Wii U, Xbox 360, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
@@ -162,7 +171,7 @@
                   Designer: Tokuro Fujiwara
                   Composer: Ayako Mori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1445   The Sims 3 (2009)                                                                          528    1 
+   20. 1445   The Sims 3 (2009)                                                                          528    1 
                   USA | 68 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Android, DS, Mac, PS3, Wii, Win, Xbox 360, iOS
                   Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
@@ -171,7 +180,7 @@
                   Designer: Eric Holmberg-Weidler, Juan Custer, Matt Goss, Ray Mazza, Sean Baity
                   Composer: Pieter A. Schlosser, Steve Jablonsky
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1410   The Lords of Midnight (1984)                                                               358    1 
+   21. 1410   The Lords of Midnight (1984)                                                               358    1 
                   GBR | 4 h | First person | PEGI: N/A | ESRB: N/A
                   On: Amstrad CPC, Android, BlackBerry, C64, DOS, Win, ZX Spectrum, iOS
                   Genre: RPG, Turn-Based Strategy | Theme: Fantasy
@@ -180,7 +189,7 @@
                   Designer: Mike Singleton
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1378   Dungeon Keeper (1997)                                                                      536    1 
+   22. 1378   Dungeon Keeper (1997)                                                                      536    1 
                   GBR | 22 h | Bird view / Isometric | PEGI: 16 | ESRB: M
                   On: Android, DOS, Mac, Win
                   Genre: Real Time Strategy, Strategy | Theme: Action, Comedy, Fantasy, Historical, Horror
@@ -189,7 +198,7 @@
                   Designer: Mark Healey, Peter Molyneux
                   Composer: Russell Shaw
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1372   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
+   23. 1372   Dragon Quest VI: Realms of Revelation (1995)                                                92    1 
                   JPN | 49 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
                   On: Android, DS, SNES, iOS
                   Genre: RPG | Theme: Fantasy, Historical
@@ -225,7 +234,7 @@
                   Designer: Koichi Nakamura, Yuji Horii
                   Composer: Koichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1331   VVVVVV (2010)                                                                              540    1 
+   27. 1331   VVVVVV (2010)                                                                              540    1 
                   IRL | 4 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Android, Linux, Mac, Ouya, PS4, Switch, Vita, Win, iOS
                   Genre: Adventure, Arcade, Indie, Platform, Puzzle | Theme: Action, Science Fiction
@@ -234,7 +243,7 @@
                   Designer: Bennett Foddy, Terry Cavanagh
                   Composer: Magnus Pålsson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1308   Peggle (2007)                                                                              487    1 
+   28. 1308   Peggle (2007)                                                                              487    1 
                   USA | 12 h | Side view | PEGI: 3 | ESRB: E
                   On: Android, DS, Mac, Mobile, PS3, Win, Xbox 360, iOS
                   Genre: Puzzle | Theme: Action, Comedy
@@ -243,7 +252,7 @@
                   Designer: Brian Rothstein, Eric Tams
                   Composer: Matthew Lee Johnston, Somatone Interactive Audio
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1251   Ikaruga (2001)                                                                             490    1 
+   29. 1251   Ikaruga (2001)                                                                             490    1 
                   JPN | 18 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: E10+
                   On: Android, Arcade, Dreamcast, GameCube, PS4, Switch, Win, Xbox 360
                   Genre: Arcade, Indie, Puzzle, Shooter | Theme: Action, Science Fiction
@@ -252,7 +261,7 @@
                   Designer: Hiroshi Iuchi
                   Composer: Hiroshi Iuchi, Yasushu Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1221   ChuChu Rocket! (1999)                                                                      254    1 
+   30. 1221   ChuChu Rocket! (1999)                                                                      254    1 
                   JPN | 7 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Android, Dreamcast, GBA, Wii U, iOS
                   Genre: Puzzle, Strategy | Theme: Action, Science Fiction
@@ -261,7 +270,7 @@
                   Designer: Takafumi Kaya, Yuji Naka
                   Composer: Tomoya Ohtani
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1192   King of Dragon Pass (1999)                                                                 601    1 
+   31. 1192   King of Dragon Pass (1999)                                                                 601    1 
                   USA | 8 h | Text | PEGI: N/A | ESRB: T
                   On: Android, Mac, Win, iOS
                   Genre: RPG, Strategy, Turn-Based Strategy | Theme: Fantasy
@@ -270,7 +279,7 @@
                   Designer: David Dunham, Greg Stafford, Robin D. Laws
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1087   Cool Boarders 2 (1997)                                                                     330    1 
+   32. 1087   Cool Boarders 2 (1997)                                                                     330    1 
                   JPN | 5 h | Third person | PEGI: 3 | ESRB: E
                   On: Android, PSX
                   Genre: Racing, Sport | Theme: Snowboarding

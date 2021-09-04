@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2749   The Legend of Zelda: A Link to the Past (1991)                                             110    9 
+    1. 2757   The Legend of Zelda: A Link to the Past (1991)                                             110    9 
                   JPN | 17 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -9,7 +9,7 @@
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2748   Super Mario Bros. (1985)                                                                     5    8 
+    2. 2756   Super Mario Bros. (1985)                                                                     5    8 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2742   Super Mario World (1990)                                                                    33    9 
+    3. 2750   Super Mario World (1990)                                                                    33    9 
                   JPN | 8 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -27,16 +27,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2641   Super Mario Bros. 3 (1988)                                                                  32    7 
-                  JPN | 6 h | Side view | PEGI: 3 | ESRB: E
-                  On: 3DS, NES, Switch, Wii, Wii U
-                  Genre: Adventure, Platform | Theme: Action
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2637   Super Metroid (1994)                                                                       119    9 
+    4. 2651   Super Metroid (1994)                                                                       119    9 
                   JPN | 9 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -44,6 +35,15 @@
                   Publishers: Nintendo
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 2641   Super Mario Bros. 3 (1988)                                                                  32    7 
+                  JPN | 6 h | Side view | PEGI: 3 | ESRB: E
+                  On: 3DS, NES, Switch, Wii, Wii U
+                  Genre: Adventure, Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
+                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 2628   Super Mario Kart (1992)                                                                     53    7 
                   JPN | 10 h | Third person | PEGI: 3 | ESRB: E
@@ -72,7 +72,7 @@
                   Designer: Satoru Okada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 2455   Pokémon Red (1996)                                                                         213    5 
+    9. 2488   Pokémon Red (1996)                                                                         213    5 
                   JPN | 44 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Kids, Open world
@@ -81,7 +81,7 @@
                   Designer: Satoshi Tajiri
                   Composer: Junichi Masuda
 
-       2455   Pokémon Blue (1996)                                                                        214    5
+       2488   Pokémon Blue (1996)                                                                        214    5
                   JPN | 44 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: E
                   On: 3DS, GB
                   Genre: Adventure, RPG | Theme: Fantasy, Kids, Open world
