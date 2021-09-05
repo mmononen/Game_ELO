@@ -10715,6 +10715,176 @@
         "pegi": "3",
         "esrb": "E",
         "hltb": 5
+    },
+    "Street Fighter II: Champion Edition (1992)":
+    {
+        "id": 631,
+        "year": 1992,
+        "country": ["JPN"],
+        "platforms": ["Mega Drive", "Wii", "SMS", "TurboGrafx-16", "Arcade"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Akira Nishitani", "Akira Yasuda"],
+        "composer": ["Yoko Shimomura", "Isao Abe"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 6
+    },
+    "Amplitude (2003)":
+    {
+        "id": 632,
+        "year": 2003,
+        "country": ["USA"],
+        "platforms": ["PS2"],
+        "developers": ["Harmonix"],
+        "publishers": ["Harmonix"],
+        "genre": ["Adventure", "Music"],
+        "theme": ["Action", "Party", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Greg LoPiccolo"],
+        "composer": ["Chuck Doud", "Buzz Burrowes"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 17
+    },
+    "Grand Theft Auto V (2013)":
+    {
+        "id": 633,
+        "year": 2013,
+        "country": ["GBR"],
+        "platforms": ["Xbox One", "PS4", "Xbox 360", "PS3", "Win"],
+        "developers": ["Rockstar"],
+        "publishers": ["Rockstar", "Take-Two"],
+        "genre": ["Adventure", "Shooter"],
+        "theme": ["Action", "Comedy", "Open world", "Sandbox"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Leslie Benzies", "Imran Sarwar"],
+        "composer": ["Edgar Froese", "Linda Spa", "Iris Camaa", "Thorsten Quaeschning", "Bernhard Beibl", "Hoshiko Yamane", "Woody Jackson", "Daniel Alan Maman", "Michael Woodrow Jackson"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 48
+    },
+    "Jet Set Radio (2000)":
+    {
+        "id": 634,
+        "year": 2000,
+        "country": ["JPN"],
+        "platforms": ["Dreamcast"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Masayoshi Kikuchi", "Hosokawa Kazuki"],
+        "composer": ["Hideki Naganuma", "Richard Jacques", "Tomonori Sawada"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 10
+    },
+    "Viewtiful Joe (2003)":
+    {
+        "id": 635,
+        "year": 2003,
+        "country": ["JPN"],
+        "platforms": ["PS2", "GameCube"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Fighting", "Hack and Slash", "Platform"],
+        "theme": ["Action", "Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Hideki Kamiya"],
+        "composer": ["Masakazu Sugimori", "Masami Ueda"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 12
+    },
+    "Myst (1993)":
+    {
+        "id": 636,
+        "year": 1993,
+        "country": ["USA"],
+        "platforms": ["3DS", "DS", "Saturn", "Mac", "PSX", "PSP", "iOS", "Win"],
+        "developers": ["Cyan"],
+        "publishers": ["Cyan", "Maximum Games", "Mean Hamster Software", "Brøderbund", "Midway"],
+        "genre": ["Adventure", "Indie", "Point-and-click", "Puzzle", "Strategy"],
+        "theme": ["Fantasy", "Mystery"],
+        "perspective": ["First person"],
+        "designer": ["Rand Miller", "Robyn Miller"],
+        "composer": ["Robyn Miller"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 7
+    },
+    "Dragon Quest VIII: Journey of the Cursed King (2004)":
+    {
+        "id": 637,
+        "year": 2004,
+        "country": ["JPN"],
+        "platforms": ["Android", "PS2", "iOS", "3DS"],
+        "developers": ["Square", "Level-5"],
+        "publishers": ["Square"],
+        "genre": ["Adventure", "RPG", "Strategy"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Akihiro Hino", "Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 81
+    },
+    "Snatcher (1988)":
+    {
+        "id": 638,
+        "year": 1988,
+        "country": ["JPN"],
+        "platforms": ["MSX2", "PC-8801", "Saturn", "PSX", "Sega CD", "TurboGrafx-16"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Point-and-click", "Shooter"],
+        "theme": ["Fantasy", "Science Fiction"],
+        "perspective": ["First person"],
+        "designer": ["Hideo Kojima"],
+        "composer": ["Masahiro Ikariko"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 9
+    },
+    "Rayman Legends (2013)":
+    {
+        "id": 639,
+        "year": 2013,
+        "country": ["FRA"],
+        "platforms": ["Xbox One", "Wii U", "PS4", "Xbox 360", "Vita", "PS3", "Win", "Switch"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Michel Ancel"],
+        "composer": ["Christophe Héral", "Billy Martin"],
+		"pegi": "7",
+		"esrb": "E10+",
+        "hltb": 16
+    },
+    "Halo 3 (2007)":
+    {
+        "id": 640,
+        "year": 2007,
+        "country": ["USA"],
+        "platforms": ["Xbox One", "Xbox 360", "Win"],
+        "developers": ["Bungie"],
+        "publishers": ["Microsoft"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Marcus Lehto", "Jaime Griesemer", "Francois Boucher-Genesse"],
+        "composer": ["Martin O'Donnell", "Michael Salvatori"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 12
     }
 
 }
