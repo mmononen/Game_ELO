@@ -10630,6 +10630,91 @@
 		"pegi": "18",
 		"esrb": "M",
         "hltb": 36
+    },
+    "Conker's Bad Fur Day (2001)":
+    {
+        "id": 626,
+        "year": 2001,
+        "country": ["GBR"],
+        "platforms": ["N64"],
+        "developers": ["Rare"],
+        "publishers": ["Rare", "THQ"],
+        "genre": ["Adventure", "Platform", "Shooter"],
+        "theme": ["Action", "Comedy", "Fantasy"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Chris Seavor"],
+        "composer": ["Robin Beanland"],
+        "pegi": "N/A",
+        "esrb": "M",
+        "hltb": 12
+    },
+    "Hotline Miami (2012)":
+    {
+        "id": 627,
+        "year": 2012,
+        "country": ["SWE"],
+        "platforms": ["Android", "PS4", "Linux", "Mac", "Vita", "PS3", "Win", "Stadia"],
+        "developers": ["Dennaton Games"],
+        "publishers": ["Devolver Digital"],
+        "genre": ["Indie", "Shooter"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jonatan Söderström", "Dennis Wedin"],
+        "composer": ["Cameron Stallones", "Tim Evans", "Jordan Redaelli", "Daniel Mitha", "Stephen Gilarde", "Jasper Byrne", "Niklas Åkerblad", "James Kent"],
+        "pegi": "16",
+        "esrb": "M",
+        "hltb": 8
+    },
+    "You Don't Know Jack (1995)":
+    {
+        "id": 628,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Mac", "Win"],
+        "developers": ["Berkeley Systems", "Jellyvision"],
+        "publishers": ["Sierra"],
+        "genre": ["Trivia"],
+        "theme": ["Comedy", "Party"],
+        "perspective": ["Text"],
+        "designer": ["Dan Fiden"],
+        "composer": ["Kelly Halpine", "Dave Metzger", "Todd Scales", "Bob Filler", "Phoebe Fuller", "Rebecca Kaufman", "Larry King", "Pamela Rose", "Kevin Quinn"],
+        "pegi": "N/A",
+        "esrb": "T",
+        "hltb": 1
+    },
+    "Silent Hill (1999)":
+    {
+        "id": 629,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["PSX"],
+        "developers": ["Konami"],
+        "publishers": ["Konami"],
+        "genre": ["Adventure", "Puzzle"],
+        "theme": ["Action", "Horror", "Survival"],
+        "perspective": ["Third person"],
+        "designer": ["Keiichiro Toyama"],
+        "composer": ["Akira Yamaoka"],
+        "pegi": "16",
+        "esrb": "M",
+        "hltb": 8 
+    },
+    "Donkey Kong Country (1994)":
+    {
+        "id": 630,
+        "year": 1994,
+        "country": ["GBR"],
+        "platforms": ["3DS", "Wii U", "SNES", "Wii", "Switch"],
+        "developers": ["Nintendo", "Rare"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Tim Stamper", "Chris Stamper"],
+        "composer": ["David Wise", "Eveline Fischer", "Robin Beanland"],
+        "pegi": "3",
+        "esrb": "E",
+        "hltb": 5
     }
 
 }
