@@ -10545,6 +10545,91 @@
 		"pegi": "12",
 		"esrb": "T",
         "hltb": 16
+    },
+    "Katamari Damacy (2004)":
+    {
+        "id": 621,
+        "year": 2004,
+        "country": ["JPN"],
+        "platforms": ["PS2", "PS3"],
+        "developers": ["Namco"],
+        "publishers": ["Namco"],
+        "genre": ["Adventure", "Puzzle"],
+        "theme": ["Comedy", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Keita Takahashi", "Masatoshi Ogita"],
+        "composer": ["Yuu Miyake", "Asuka Sakai", "Akitaka Tohyama", "Hideki Tobeta", "Yoshihito Yano", "Yuri Misumi"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 8
+    },
+    "Journey (2012)":
+    {
+        "id": 622,
+        "year": 2012,
+        "country": ["USA"],
+        "platforms": ["PS4", "iOS", "PS3", "Win"],
+        "developers": ["ThatGameCompany"],
+        "publishers": ["Sony", "Annapurna"],
+        "genre": ["Adventure", "Indie", "Platform"],
+        "theme": ["Fantasy"],
+        "perspective": ["Side view", "Third person"],
+        "designer": ["Jenova Chen", "Nicholas Clark", "Bryan Singh", "Chris Bell"],
+        "composer": ["Austin Wintory"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 3
+    },
+    "Bayonetta (2009)":
+    {
+        "id": 623,
+        "year": 2009,
+        "country": ["JPN"],
+        "platforms": ["Xbox One", "Wii U", "PS4", "Xbox 360", "PS3", "Win", "Switch"],
+        "developers": ["Nex Entertainment", "Bee Tribe", "Platinum Games"],
+        "publishers": ["Sega", "Nintendo"],
+        "genre": ["Adventure", "Hack and Slash"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Hideki Kamiya", "Hiroshi Shibata", "Masaaki Yamada"],
+        "composer": ["Norihiko Hibino", "Takahiro Izutani", "Masami Ueda", "Hiroshi Yamaguchi", "Rei Kondoh", "Takayasu Sodeoka", "Erina Niwa", "Yoshitaka Suzuki", "Naoto Tanaka"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 16
+    },
+    "The World Ends with You (2007)":
+    {
+        "id": 624,
+        "year": 2007,
+        "country": ["JPN"],
+        "platforms": ["DS"],
+        "developers": ["Jupiter", "Square"],
+        "publishers": ["Ubisoft", "Square"],
+        "genre": ["RPG"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Tatsuya Kando", "Tomohiro Hasegawa", "Tetsuro Hosokawa"],
+        "composer": ["Takeharu Ishimoto"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 44
+    },
+    "Mass Effect 3 (2012)":
+    {
+        "id": 625,
+        "year": 2012,
+        "country": ["CAN"],
+        "platforms": ["Wii U", "Xbox 360", "PS3", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Casey Hudson", "Preston Watamaniuk"],
+        "composer": ["Sascha Dikiciyan", "Sam Hulick", "Chris Lennertz", "Clint Mansell", "Cris Velasco"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 36
     }
 
 }
