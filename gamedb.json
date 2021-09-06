@@ -11123,6 +11123,23 @@
 		"pegi": "7",
 		"esrb": "E",
         "hltb": 15
+    },
+    "Assassin's Creed II (2009)":
+    {
+        "id": 655,
+        "year": 2009,
+        "country": ["CAN"],
+        "platforms": ["Xbox 360", "Mac", "iOS", "PS3", "Win"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Fantasy", "Historical", "Open world", "Sandbox", "Science Fiction", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Patrice Désilets", "Benoît Lambert", "Patrick Plourde", "Olivier Palmieri"],
+        "composer": ["Jesper Kyd"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 27
     }
 
 }

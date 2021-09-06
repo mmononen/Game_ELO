@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2492   Ms. Pac-Man (1982)                                                                          12    4 
+    1. 2641   Ms. Pac-Man (1982)                                                                          12    5 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, Game Gear, Lynx, Mega Drive, NES, SMS, SNES, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -18,7 +18,7 @@
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2097   Zork I: The Great Underground Empire (1980)                                                 54    5 
+    3. 2142   Zork I: The Great Underground Empire (1980)                                                 54    6 
                   USA | 4 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Amstrad PCW, Apple II, Atari 8-bit, Atari ST, C16, C64, DOS, Mac, PC-98, Plus4, TRS-80, Tatung Einstein
                   Genre: Adventure | Theme: Fantasy
@@ -27,16 +27,7 @@
                   Designer: Bruce Daniels, Dave Lebling, Marc Blank, Tim Anderson
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 1990   Ultima IV: Quest of the Avatar (1985)                                                       79    4 
-                  USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
-                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Origin
-                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
-                  Designer: Richard Garriott
-                  Composer: Kenneth W. Arnold
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 1986   Donkey Kong (1981)                                                                          70    4 
+    4. 2005   Donkey Kong (1981)                                                                          70    5 
                   JPN | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Amstrad CPC, Arcade, Atari 7800, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, TI-99, VIC-20, ZX Spectrum
                   Genre: Arcade, Platform | Theme: Action
@@ -44,6 +35,15 @@
                   Publishers: Atari, Coleco, Nintendo, Ocean Software
                   Designer: Gunpei Yokoi, Shigeru Miyamoto
                   Composer: Yukio Kaneoka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 1990   Ultima IV: Quest of the Avatar (1985)                                                       79    4 
+                  USA | 30 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
+                  On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM Towns, FM-7, MSX, Mac, NES, PC-8801, PC-98, SMS, Sharp X1, Sharp X68000, Win, iOS
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Origin
+                  Publishers: Electronic Arts, FCI, Fujitsu, MicroProse, Origin, Pony Canyon, Sega, Tec Toy Indústria de Brinquedos, U.S. Gold
+                  Designer: Richard Garriott
+                  Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     6. 1975   Arkanoid (1986)                                                                            308    2 
                   JPN | 2 h | Side view | PEGI: N/A | ESRB: E
@@ -81,7 +81,16 @@
                   Designer: Ed Logg, Lyle Rains
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 1788   Defender (1981)                                                                             13    3 
+   10. 1807   Gauntlet (1985)                                                                            310    3 
+                  USA | 10 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
+                  Genre: Arcade, Hack and Slash | Theme: Action, Fantasy, Historical
+                  Developers: Atari
+                  Publishers: Atari, Mindscape, U.S. Gold
+                  Designer: Ed Logg
+                  Composer: Ben Daglish, Earl Vickers, Hal Canon
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 1788   Defender (1981)                                                                             13    3 
                   USA | 2 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, Mac, TI-99, VIC-20, Web browser
                   Genre: Shooter, Strategy | Theme: Action, Science Fiction
@@ -90,7 +99,7 @@
                   Designer: Eugene Jarvis, Larry DeMar
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 1715   Ultima III: Exodus (1983)                                                                   78    3 
+   12. 1715   Ultima III: Exodus (1983)                                                                   78    3 
                   USA | 27 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX, Mac, NES, PC-8801, PC-98, Sharp X1
                   Genre: RPG | Theme: Fantasy
@@ -99,7 +108,7 @@
                   Designer: Richard Garriott
                   Composer: Kenneth W. Arnold
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1673   Star Wars (1983)                                                                            94    3 
+   13. 1673   Star Wars (1983)                                                                            94    3 
                   USA | 2 h | First person | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST, BBC, C64, ColecoVision, DOS, Mac, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -108,7 +117,7 @@
                   Designer: Mike Hally
                   Composer: Earl Vickers
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1659   Head Over Heels (1987)                                                                     244    2 
+   14. 1659   Head Over Heels (1987)                                                                     244    2 
                   GBR | 10 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Atari 8-bit, Atari ST, C64, MSX, ZX Spectrum
                   Genre: Adventure, Platform, Puzzle | Theme: Action, Science Fiction
@@ -117,7 +126,7 @@
                   Designer: Jon Ritman
                   Composer: Guy Stevens
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1642   Ultima I: The First Age of Darkness (1981)                                                  75    3 
+   15. 1642   Ultima I: The First Age of Darkness (1981)                                                  75    3 
                   USA | 8 h | Bird view / Isometric, First person | PEGI: N/A | ESRB: N/A
                   On: Apple II, Apple IIGS, Atari 8-bit, C64, DOS, FM Towns, MSX2
                   Genre: RPG | Theme: Action, Fantasy, Open world
@@ -126,7 +135,7 @@
                   Designer: Kenneth W. Arnold, Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1633   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
+   16. 1633   Ultima II: The Revenge of the Enchantress (1982)                                            77    2 
                   USA | 12 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Atari 8-bit, Atari ST, C64, DOS, FM-7, MSX2, Mac, PC-8801, PC-98
                   Genre: RPG | Theme: Fantasy
@@ -135,7 +144,7 @@
                   Designer: Richard Garriott
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1609   The Lurking Horror (1987)                                                                   24    2 
+   17. 1609   The Lurking Horror (1987)                                                                   24    2 
                   USA | 9 h | Text | PEGI: N/A | ESRB: N/A
                   On: Amiga, Amstrad CPC, Apple II, Atari 8-bit, Atari ST, C64, DOS, Mac
                   Genre: Adventure | Theme: Horror
@@ -144,7 +153,7 @@
                   Designer: Dave Lebling
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1572   Pitfall! (1982)                                                                            298    2 
+   18. 1572   Pitfall! (1982)                                                                            298    2 
                   USA | 3 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Android, Apple II, Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, Intellivision, MSX, NES, Win, Windows Phone, Xbox 360, iOS
                   Genre: Platform | Theme: Action
@@ -152,15 +161,6 @@
                   Publishers: Activision
                   Designer: David Crane
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1564   Gauntlet (1985)                                                                            310    2 
-                  USA | 10 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: Amstrad CPC, Apple II, Apple IIGS, Arcade, Atari 8-bit, Atari ST, C64, DOS, MSX, Mac, SMS, ZX Spectrum
-                  Genre: Arcade, Hack and Slash | Theme: Action, Fantasy, Historical
-                  Developers: Atari
-                  Publishers: Atari, Mindscape, U.S. Gold
-                  Designer: Ed Logg
-                  Composer: Ben Daglish, Earl Vickers, Hal Canon
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    19. 1552   Chuckie Egg (1983)                                                                         343    1 
                   GBR | 11 h | Side view | PEGI: N/A | ESRB: N/A
@@ -243,7 +243,16 @@
                   Designer: Bruce Jordan, Paul Woakes
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1254   Track & Field (1983)                                                                       132    1 
+   28. 1282   Spy Hunter (1982)                                                                          389    2 
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
+                  Genre: Racing, Shooter | Theme: Action
+                  Developers: Bally
+                  Publishers: Bally, Coleco, Sega, Sun Corporation
+                  Designer: George Gomez
+                  Composer: Bob Libbe, Michael Bartlow, Naoki Kodaka, Neil Falconer
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   29. 1254   Track & Field (1983)                                                                       132    1 
                   JPN | 1 h | Bird view / Isometric, Side view | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, MSX, NES, ZX Spectrum
                   Genre: Sport | Theme: Party, Track & Field
@@ -252,7 +261,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1224   Dig Dug (1982)                                                                             491    1 
+   30. 1224   Dig Dug (1982)                                                                             491    1 
                   JPN | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, C64, DOS, FM-7, GB, GBA, Intellivision, MSX, NES, PC-8801, Sharp X1, TI-99, VIC-20, Wii, Wii U, Xbox 360
                   Genre: Adventure, Arcade | Theme: Action
@@ -261,7 +270,7 @@
                   Designer: Masahisa Ikegami, Shigeru Yokoyama
                   Composer: Yuriko Keino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1217   River Raid (1982)                                                                          144    1 
+   31. 1217   River Raid (1982)                                                                          144    1 
                   USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Atari 2600, Atari 5200, Atari 8-bit, C64, ColecoVision, DOS, Intellivision, MSX, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action
@@ -270,7 +279,7 @@
                   Designer: Carol Shaw
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1207   Mr. DO! (1982)                                                                             380    1 
+   32. 1207   Mr. DO! (1982)                                                                             380    1 
                   JPN | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 8-bit, C64, ColecoVision, GB, J2ME, MSX, PC-98, SNES, Tomy Tutor, Wii
                   Genre: Adventure, Arcade | Theme: Action
@@ -279,7 +288,7 @@
                   Designer: Kazutoshi Ueda
                   Composer: Junichi Saito
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1203   Joust (1982)                                                                               147    1 
+   33. 1203   Joust (1982)                                                                               147    1 
                   USA | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, Atari ST, DOS, Lynx, Mac, NES, PS3
                   Genre: Arcade, Fighting, Platform | Theme: Action
@@ -288,7 +297,7 @@
                   Designer: John Newcomer
                   Composer: Tim Murphy
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1198   Centipede (1981)                                                                           148    1 
+   34. 1198   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -297,7 +306,7 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1169   Thrust (1986)                                                                              258    1 
+   35. 1169   Thrust (1986)                                                                              258    1 
                   GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C16, C64, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -306,7 +315,7 @@
                   Designer: Jeremy Smith
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1130   Summer Games (1984)                                                                        158    1 
+   36. 1130   Summer Games (1984)                                                                        158    1 
                   USA | 1 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Amiga, Apple II, Atari 2600, Atari 7800, Atari 8-bit, C64, PC-8801, SMS, ZX Spectrum
                   Genre: Sport | Theme: Action
@@ -315,7 +324,7 @@
                   Designer: Brian McGhie, Erin Murphy, Jon Leupp, Randy Glover, Scott Nelson, Stephen Landrum, Stephen Mudry
                   Composer: Randy Glover
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1110   Hard Hat Mack (1983)                                                                       163    1 
+   37. 1110   Hard Hat Mack (1983)                                                                       163    1 
                   USA | 10 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Amstrad CPC, Apple II, Atari 8-bit, C64, DOS
                   Genre: Arcade, Platform | Theme: Action
@@ -324,7 +333,7 @@
                   Designer: Matthew Alexander, Michael Abbot
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
+   38. 1102   Boulder Dash II: Rockford's Revenge (1985)                                                 263    1 
                   USA | 10 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Atari 8-bit, C64, DOS, MSX, ZX Spectrum
                   Genre: Arcade, Puzzle | Theme: Action
@@ -333,7 +342,7 @@
                   Designer: Peter Liepa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1054   Missile Command (1980)                                                                     388    1 
+   39. 1054   Missile Command (1980)                                                                     388    1 
                   USA | 1 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Arcade, Atari 2600, Atari 5200, Atari 8-bit, Atari ST
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction, Warfare
@@ -342,7 +351,7 @@
                   Designer: Dave Theurer
                   Composer: Rich Adam
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   39. 1029   Choplifter (1982)                                                                          265    1 
+   40. 1029   Choplifter (1982)                                                                          265    1 
                   USA | 2 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Apple II, Arcade, Atari 5200, Atari 7800, Atari 8-bit, C64, ColecoVision, FM-7, MSX, NEC PC-6000, NES, PC-8801, SG-1000, SMS, Sharp X1, Thomson MO5, VIC-20
                   Genre: Arcade, Shooter | Theme: Action
@@ -350,12 +359,3 @@
                   Publishers: Ariolasoft, Atari, Brøderbund, Coleco, Creative Software, Jaleco, Sega, Soft Pro, Sony, SystemSoft, TO TEK
                   Designer: Dan Gorlin
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1010   Spy Hunter (1982)                                                                          389    1 
-                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
-                  Genre: Racing, Shooter | Theme: Action
-                  Developers: Bally
-                  Publishers: Bally, Coleco, Sega, Sun Corporation
-                  Designer: George Gomez
-                  Composer: Bob Libbe, Michael Bartlow, Naoki Kodaka, Neil Falconer

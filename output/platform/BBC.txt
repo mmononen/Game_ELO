@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2838   Tetris (1984)                                                                                2   10 
+    1. 2905   Tetris (1984)                                                                                2   11 
                   URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -180,16 +180,7 @@
                   Designer: Hugh Riley, Mark Cale, Tim Best
                   Composer: Matt Gray
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1289   Repton (1985)                                                                              375    1 
-                  GBR | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: Acorn Electron, BBC
-                  Genre: Arcade, Platform, Puzzle, RPG | Theme: Action, Sandbox
-                  Developers: Tim Tyler
-                  Publishers: Superior Software
-                  Designer: Tim Tyler
-                  Composer: George Botsford
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1282   Tempest (1981)                                                                             127    1 
+   21. 1300   Tempest (1981)                                                                             127    2 
                   USA | 1 h | Third person | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amstrad CPC, Arcade, Atari ST, BBC, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -198,7 +189,25 @@
                   Designer: Dave Theurer
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1254   Hyper Sports (1984)                                                                        133    1 
+   22. 1289   Repton (1985)                                                                              375    1 
+                  GBR | 10 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Acorn Electron, BBC
+                  Genre: Arcade, Platform, Puzzle, RPG | Theme: Action, Sandbox
+                  Developers: Tim Tyler
+                  Publishers: Superior Software
+                  Designer: Tim Tyler
+                  Composer: George Botsford
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   23. 1282   Spy Hunter (1982)                                                                          389    2 
+                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
+                  On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
+                  Genre: Racing, Shooter | Theme: Action
+                  Developers: Bally
+                  Publishers: Bally, Coleco, Sega, Sun Corporation
+                  Designer: George Gomez
+                  Composer: Bob Libbe, Michael Bartlow, Naoki Kodaka, Neil Falconer
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   24. 1254   Hyper Sports (1984)                                                                        133    1 
                   JPN | 15 h | Side view | PEGI: 3 | ESRB: N/A
                   On: Amstrad CPC, Arcade, BBC, C64, MSX, NES, PC-8801, SG-1000, Sharp X1, ZX Spectrum
                   Genre: Arcade, Sport | Theme: Track & Field
@@ -207,7 +216,7 @@
                   Designer: Unknown
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1229   Jet Set Willy II: The Final Frontier (1985)                                                377    1 
+   25. 1229   Jet Set Willy II: The Final Frontier (1985)                                                377    1 
                   GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amiga, BBC, C16, C64, MSX, ZX Spectrum
                   Genre: Adventure, Platform | Theme: Action
@@ -216,7 +225,7 @@
                   Designer: Matthew Smith
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1198   Centipede (1981)                                                                           148    1 
+   26. 1198   Centipede (1981)                                                                           148    1 
                   USA | 1 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Apple II, Arcade, Atari 2600, Atari 5200, Atari 7800, Atari 8-bit, BBC, C64, ColecoVision, DOS, GB, GBC, Intellivision, TI-99, VIC-20, Web browser
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -225,7 +234,7 @@
                   Designer: Dona Bailey, Ed Logg
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1169   Thrust (1986)                                                                              258    1 
+   27. 1169   Thrust (1986)                                                                              258    1 
                   GBR | 10 h | Side view | PEGI: N/A | ESRB: N/A
                   On: Acorn Electron, Amstrad CPC, Atari 8-bit, Atari ST, BBC, C16, C64, ZX Spectrum
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -234,7 +243,7 @@
                   Designer: Jeremy Smith
                   Composer: Rob Hubbard
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1114   The Last Ninja (1987)                                                                      383    1 
+   28. 1114   The Last Ninja (1987)                                                                      383    1 
                   GBR | 3 h | Bird view / Isometric, Third person | PEGI: 12 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Apple II, Apple IIGS, Atari ST, BBC, C64, DOS, Wii
                   Genre: Adventure, Arcade | Theme: Action
@@ -242,12 +251,3 @@
                   Publishers: Activision, Superior Software, System 3
                   Designer: Mark Cale, Tim Best
                   Composer: Anthony Lees, Ben Daglish, Jochen Hippel, Russell Lieblich
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1010   Spy Hunter (1982)                                                                          389    1 
-                  USA | 1 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
-                  On: Amstrad CPC, Apple II, Arcade, Atari 2600, Atari 8-bit, BBC, C64, ColecoVision, DOS, NES, ZX Spectrum
-                  Genre: Racing, Shooter | Theme: Action
-                  Developers: Bally
-                  Publishers: Bally, Coleco, Sega, Sun Corporation
-                  Designer: George Gomez
-                  Composer: Bob Libbe, Michael Bartlow, Naoki Kodaka, Neil Falconer

@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2411   Halo: Combat Evolved (2001)                                                                340    4 
+    1. 2636   Halo: Combat Evolved (2001)                                                                340    5 
                   USA | 11 h | First person, Third person | PEGI: N/A | ESRB: M
                   On: Mac, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -9,34 +9,7 @@
                   Designer: Jason Jones, John Howard
                   Composer: Martin O'Donnell, Michael Salvatori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2272   Ico (2001)                                                                                 412    3 
-                  JPN | 7 h | Third person | PEGI: N/A | ESRB: T
-                  On: PS2
-                  Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy
-                  Developers: Sony
-                  Publishers: Sony
-                  Designer: Fumito Ueda
-                  Composer: Koichi Yamazaki, Michiru Oshima, Mitsukuni Murayama
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2260   Final Fantasy X (2001)                                                                     425    2 
-                  JPN | 71 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
-                  On: PS2
-                  Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Motomu Toriyama, Takayoshi Nakazato, Toshiro Tsuchida, Yoshinori Kitase
-                  Composer: Junya Nakano, Masashi Hamauzu, Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2182   Grand Theft Auto III (2001)                                                                387    3 
-                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
-                  Developers: DMA Design
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Craig Conner, Stuart Ross
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2151   Silent Hill 2 (2001)                                                                       443    2 
+    2. 2373   Silent Hill 2 (2001)                                                                       443    3 
                   JPN | 10 h | Third person | PEGI: 16 | ESRB: M
                   On: PS2, Win, Xbox
                   Genre: Adventure, Puzzle | Theme: Drama, Horror, Mystery, Survival
@@ -45,7 +18,34 @@
                   Designer: Masashi Tsuboyama
                   Composer: Akira Yamaoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1984   Super Smash Bros. Melee (2001)                                                             436    2 
+    3. 2355   Final Fantasy X (2001)                                                                     425    3 
+                  JPN | 71 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
+                  On: PS2
+                  Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Motomu Toriyama, Takayoshi Nakazato, Toshiro Tsuchida, Yoshinori Kitase
+                  Composer: Junya Nakano, Masashi Hamauzu, Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    4. 2272   Ico (2001)                                                                                 412    3 
+                  JPN | 7 h | Third person | PEGI: N/A | ESRB: T
+                  On: PS2
+                  Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy
+                  Developers: Sony
+                  Publishers: Sony
+                  Designer: Fumito Ueda
+                  Composer: Koichi Yamazaki, Michiru Oshima, Mitsukuni Murayama
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 2182   Grand Theft Auto III (2001)                                                                387    3 
+                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
+                  Developers: DMA Design
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Craig Conner, Stuart Ross
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2161   Super Smash Bros. Melee (2001)                                                             436    3 
                   JPN | 56 h | Side view | PEGI: N/A | ESRB: T
                   On: GameCube
                   Genre: Fighting, Hack and Slash, Platform, Sport | Theme: Action
@@ -126,7 +126,16 @@
                   Designer: Alexander Brüggemann, Michael Hoge, Stefan Nyul, Tom Putzki
                   Composer: Kai Rosenkranz
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1366   Devil May Cry (2001)                                                                       483    1 
+   15. 1398   Shenmue II (2001)                                                                          369    2 
+                  JPN | 29 h | Third person | PEGI: N/A | ESRB: T
+                  On: Dreamcast, PS4, Win, Xbox, Xbox One
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
+                  Developers: Rutubo Games, Sega
+                  Publishers: Microsoft, Sega
+                  Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
+                  Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1366   Devil May Cry (2001)                                                                       483    1 
                   JPN | 9 h | Third person | PEGI: 16 | ESRB: M
                   On: PS2, PS3, PS4, Switch, Win, Xbox 360, Xbox One
                   Genre: Hack and Slash | Theme: Action, Fantasy
@@ -135,7 +144,7 @@
                   Designer: Hideki Kamiya
                   Composer: Masami Ueda, Masato Kohda, Misao Senbongi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1341   Conker's Bad Fur Day (2001)                                                                626    1 
+   17. 1341   Conker's Bad Fur Day (2001)                                                                626    1 
                   GBR | 12 h | Side view, Third person | PEGI: N/A | ESRB: M
                   On: N64
                   Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Fantasy
@@ -143,15 +152,6 @@
                   Publishers: Rare, THQ
                   Designer: Chris Seavor
                   Composer: Robin Beanland
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1337   Shenmue II (2001)                                                                          369    1 
-                  JPN | 29 h | Third person | PEGI: N/A | ESRB: T
-                  On: Dreamcast, PS4, Win, Xbox, Xbox One
-                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
-                  Developers: Rutubo Games, Sega
-                  Publishers: Microsoft, Sega
-                  Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
-                  Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    18. 1251   Ikaruga (2001)                                                                             490    1 
                   JPN | 18 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: E10+
@@ -162,7 +162,16 @@
                   Designer: Hiroshi Iuchi
                   Composer: Hiroshi Iuchi, Yasushu Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1233   Geneforge (2001)                                                                           596    1 
+   19. 1242   Gran Turismo 3: A-Spec (2001)                                                              386    2 
+                  JPN | 64 h | First person, Third person | PEGI: 3 | ESRB: E
+                  On: PS2
+                  Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
+                  Developers: Sony
+                  Publishers: Sony
+                  Designer: Kazunori Yamauchi
+                  Composer: Daiki Kasho, Isamu Ohira
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1233   Geneforge (2001)                                                                           596    1 
                   USA | 42 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Mac, Win
                   Genre: Adventure, Indie, RPG, Strategy, Turn-Based Strategy | Theme: Fantasy, Science Fiction
@@ -171,7 +180,7 @@
                   Designer: Jeff Vogel
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1214   Phoenix Wright: Ace Attorney (2001)                                                        492    2 
+   21. 1214   Phoenix Wright: Ace Attorney (2001)                                                        492    2 
                   JPN | 22 h | First person, Side view, Text | PEGI: N/A | ESRB: T
                   On: DS, GBA, Mobile, Wii, Win, iOS
                   Genre: Adventure, Point-and-click, Puzzle, Visual Novel | Theme: Comedy, Drama, Fantasy
@@ -179,12 +188,3 @@
                   Publishers: Capcom, Nintendo
                   Designer: Shu Takumi
                   Composer: Masakazu Sugimori, Naoto Tanaka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1073   Gran Turismo 3: A-Spec (2001)                                                              386    1 
-                  JPN | 64 h | First person, Third person | PEGI: 3 | ESRB: E
-                  On: PS2
-                  Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
-                  Developers: Sony
-                  Publishers: Sony
-                  Designer: Kazunori Yamauchi
-                  Composer: Daiki Kasho, Isamu Ohira
