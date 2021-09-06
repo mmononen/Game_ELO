@@ -11361,6 +11361,23 @@
         "pegi": "N/A",
         "esrb": "N/A",
         "hltb": 12
+    },
+    "Guitar Hero II (2006)":
+    {
+        "id": 669,
+        "year": 2006,
+        "country": ["USA"],
+        "platforms": ["Xbox 360", "PS2"],
+        "developers": ["Harmonix"],
+        "publishers": ["Activision", "RedOctane"],
+        "genre": ["Music", "Simulator"],
+        "theme": ["Party", "Rhythm"],
+        "perspective": ["Auditory"],
+        "designer": ["Daniel Sussman", "Chris Canfield"],
+        "composer": ["Eric Brosius"],
+        "pegi": "12",
+        "esrb": "T",
+        "hltb": 20
     }
 
 }
