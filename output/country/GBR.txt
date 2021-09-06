@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2735   GoldenEye 007 (1997)                                                                       181    8 
+    1. 2736   GoldenEye 007 (1997)                                                                       181    8 
                   GBR | 17 h | First person | PEGI: 16 | ESRB: T
                   On: N64
                   Genre: Adventure, Shooter | Theme: Action, Stealth
@@ -18,7 +18,7 @@
                   Designer: Vicky Arnold
                   Composer: Nathan McCree
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2389   Grand Theft Auto: Vice City (2002)                                                         339    5 
+    3. 2391   Grand Theft Auto: Vice City (2002)                                                         339    5 
                   GBR | 28 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS4, Win, Xbox, iOS
                   Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
@@ -72,7 +72,7 @@
                   Designer: David Jones
                   Composer: Brian Johnston, Tim Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 2021   Grand Theft Auto IV (2008)                                                                 396    5 
+    9. 2023   Grand Theft Auto IV (2008)                                                                 396    5 
                   GBR | 41 h | Third person | PEGI: 18 | ESRB: M
                   On: PS3, Win, Xbox 360
                   Genre: Adventure, Racing, Shooter | Theme: Action, Open world
@@ -171,7 +171,7 @@
                   Designer: Eric Matthews
                   Composer: John Foxx
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1642   Banjo-Kazooie (1998)                                                                       316    2 
+   20. 1644   Banjo-Kazooie (1998)                                                                       316    2 
                   GBR | 15 h | Third person | PEGI: N/A | ESRB: E
                   On: N64, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Comedy, Fantasy
@@ -243,7 +243,7 @@
                   Designer: Geoff Crammond
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1520   Batman: Arkham City (2011)                                                                 617    1 
+   28. 1521   Batman: Arkham City (2011)                                                                 617    1 
                   GBR | 22 h | Third person | PEGI: 16 | ESRB: T
                   On: OnLive, PS3, Win, Xbox 360
                   Genre: Adventure, Hack and Slash | Theme: Action, Open world, Stealth
@@ -513,7 +513,16 @@
                   Designer: Ian Terry, Julian Gollop
                   Composer: Matt Furniss
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   58. 1340   LEGO Star Wars: The Video Game (2005)                                                      406    1 
+   58. 1341   Conker's Bad Fur Day (2001)                                                                626    1 
+                  GBR | 12 h | Side view, Third person | PEGI: N/A | ESRB: M
+                  On: N64
+                  Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Fantasy
+                  Developers: Rare
+                  Publishers: Rare, THQ
+                  Designer: Chris Seavor
+                  Composer: Robin Beanland
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   59. 1340   LEGO Star Wars: The Video Game (2005)                                                      406    1 
                   GBR | 11 h | Third person | PEGI: 3 | ESRB: E
                   On: GBA, GameCube, Mac, PS2, Win, Xbox
                   Genre: Adventure, Platform | Theme: Action, Comedy, Kids, Science Fiction
@@ -531,7 +540,7 @@
                   Designer: Jon Burton
                   Composer: David Whittaker, John Williams
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   60. 1339   Geometry Wars: Retro Evolved (2005)                                                        485    1 
+   61. 1339   Geometry Wars: Retro Evolved (2005)                                                        485    1 
                   GBR | 9 h | Bird view / Isometric | PEGI: N/A | ESRB: E
                   On: Win, Xbox 360
                   Genre: Arcade, Shooter | Theme: Abstract
@@ -539,15 +548,6 @@
                   Publishers: Bizarre Creations, Microsoft
                   Designer: Stephen Cakebread
                   Composer: Chris Chudley
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   61. 1338   Conker's Bad Fur Day (2001)                                                                626    1 
-                  GBR | 12 h | Side view, Third person | PEGI: N/A | ESRB: M
-                  On: N64
-                  Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Fantasy
-                  Developers: Rare
-                  Publishers: Rare, THQ
-                  Designer: Chris Seavor
-                  Composer: Robin Beanland
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    62. 1331   James Pond 2: Codename: RoboCod (1991)                                                     370    1 
                   GBR | 7 h | Side view | PEGI: 3 | ESRB: N/A
@@ -585,7 +585,7 @@
                   Designer: Andrew Collard, Gregg Mayles, Tim Stamper
                   Composer: David Wise
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   66. 1303   Donkey Kong Country (1994)                                                                 630    1 
+   66. 1306   Donkey Kong Country (1994)                                                                 630    1 
                   GBR | 5 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -630,7 +630,7 @@
                   Designer: Craig Sullivan
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   71. 1264   Grand Theft Auto V (2013)                                                                  633    1 
+   71. 1268   Grand Theft Auto V (2013)                                                                  633    1 
                   GBR | 48 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: PS3, PS4, Win, Xbox 360, Xbox One
                   Genre: Adventure, Shooter | Theme: Action, Comedy, Open world, Sandbox
@@ -719,3 +719,12 @@
                   Publishers: Sega
                   Designer: Unknown
                   Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   81. 1000   Worms Armageddon (1999)                                                                    654    1 
+                  GBR | 15 h | Side view | PEGI: 7 | ESRB: E
+                  On: Dreamcast, N64, PS3, PSP, PSX, Win
+                  Genre: Platform, Shooter, Strategy | Theme: Action, Comedy, Warfare
+                  Developers: Infogrames, Team17
+                  Publishers: Imagineer, Infogrames, MicroProse, Russobit-M, Sold Out Sales & Marketing, THQ, Team17
+                  Designer: Karl Morton
+                  Composer: Bjørn Lynne
