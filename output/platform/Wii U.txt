@@ -1,15 +1,15 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2931   The Legend of Zelda: Ocarina of Time (1998)                                                177   10 
-                  JPN | 31 h | Third person | PEGI: 12 | ESRB: E
-                  On: N64, Wii, Wii U
-                  Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
+    1. 2979   Super Mario World (1990)                                                                    33   11 
+                  JPN | 8 h | Side view | PEGI: 7 | ESRB: E
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Genre: Adventure, Platform | Theme: Action
                   Developers: Nintendo
                   Publishers: Nintendo
-                  Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
+                  Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2890   The Legend of Zelda: A Link to the Past (1991)                                             110   10 
+    2. 2974   The Legend of Zelda: A Link to the Past (1991)                                             110   11 
                   JPN | 17 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: 3DS, GBA, SNES, Switch, Wii, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -17,14 +17,14 @@
                   Publishers: Nintendo, St. GIGA
                   Designer: Takashi Tezuka
                   Composer: Koji Kondo
-
-       2890   Super Mario World (1990)                                                                    33   10
-                  JPN | 8 h | Side view | PEGI: 7 | ESRB: E
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Genre: Adventure, Platform | Theme: Action
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2931   The Legend of Zelda: Ocarina of Time (1998)                                                177   10 
+                  JPN | 31 h | Third person | PEGI: 12 | ESRB: E
+                  On: N64, Wii, Wii U
+                  Genre: Adventure, Platform, Puzzle, RPG | Theme: Action, Fantasy, Sandbox
                   Developers: Nintendo
                   Publishers: Nintendo
-                  Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
+                  Designer: Eiji Aonuma, Toru Osawa, Toshio Iwawaki, Yoichi Yamada, Yoshiaki Koizumi
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     4. 2826   Super Mario 64 (1996)                                                                        1   10 
@@ -36,7 +36,16 @@
                   Designer: Shigeru Miyamoto
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2766   Super Mario Bros. 3 (1988)                                                                  32    8 
+    5. 2791   Super Metroid (1994)                                                                       119   11 
+                  JPN | 9 h | Side view | PEGI: 7 | ESRB: E
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Yoshio Sakamoto
+                  Composer: Kenji Yamamoto, Minako Hamano
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    6. 2766   Super Mario Bros. 3 (1988)                                                                  32    8 
                   JPN | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -45,7 +54,7 @@
                   Designer: Hideki Konno, Katsuya Eguchi, Kensuke Tanabe, Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2756   Super Mario Bros. (1985)                                                                     5    8 
+    7. 2756   Super Mario Bros. (1985)                                                                     5    8 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, NES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -54,7 +63,7 @@
                   Designer: Shigeru Miyamoto, Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2714   Super Mario Kart (1992)                                                                     53    8 
+    8. 2714   Super Mario Kart (1992)                                                                     53    8 
                   JPN | 10 h | Third person | PEGI: 3 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Arcade, Racing | Theme: Action, Party
@@ -62,15 +71,6 @@
                   Publishers: Nintendo
                   Designer: Hideki Konno, Tadashi Sugiyama
                   Composer: Soyo Oka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2712   Super Metroid (1994)                                                                       119   10 
-                  JPN | 9 h | Side view | PEGI: 7 | ESRB: E
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Yoshio Sakamoto
-                  Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 2593   The Legend of Zelda (1986)                                                                 108    5 
                   JPN | 9 h | Bird view / Isometric | PEGI: 7 | ESRB: E
@@ -99,16 +99,7 @@
                   Designer: Akira Kitamura
                   Composer: Takashi Tateishi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 2372   The Legend of Zelda: Majora's Mask (2000)                                                  314    3 
-                  JPN | 30 h | Third person | PEGI: 12 | ESRB: E
-                  On: GameCube, N64, Wii, Wii U
-                  Genre: Adventure | Theme: Action, Fantasy, Horror, Open world
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Eiji Aonuma, Yoshiaki Koizumi
-                  Composer: Koji Kondo
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 2294   Sonic the Hedgehog 2 (1992)                                                                 37    6 
+   12. 2376   Sonic the Hedgehog 2 (1992)                                                                 37    7 
                   USA | 3 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Mega Drive, PS3, Wii, Wii U, Win, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Science Fiction
@@ -116,6 +107,15 @@
                   Publishers: Sega
                   Designer: Hirokazu Yasuhara, Masaharu Yoshii, Takahiro Anto, Yutaka Sugano
                   Composer: Masato Nakamura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 2372   The Legend of Zelda: Majora's Mask (2000)                                                  314    3 
+                  JPN | 30 h | Third person | PEGI: 12 | ESRB: E
+                  On: GameCube, N64, Wii, Wii U
+                  Genre: Adventure | Theme: Action, Fantasy, Horror, Open world
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Eiji Aonuma, Yoshiaki Koizumi
+                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    14. 2273   Super Mario Bros. 2 (1988)                                                                  31    4 
                   JPN | 4 h | Side view | PEGI: 3 | ESRB: E
@@ -126,7 +126,16 @@
                   Designer: Kensuke Tanabe, Toshio Iwawaki, Yasunori Taketani
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 2203   Pac-Man (1980)                                                                             251    3 
+   15. 2209   Secret of Mana (1993)                                                                      232    5 
+                  JPN | 29 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
+                  On: Android, SNES, Wii, Wii U, iOS
+                  Genre: RPG | Theme: Action, Fantasy
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Hiromichi Tanaka, Koichi Ishii
+                  Composer: Hiroki Kikuta
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 2203   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -144,7 +153,7 @@
                   Designer: Hironobu Sakaguchi, Takashi Tokita
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 2170   Super Mario RPG: Legend of the Seven Stars (1996)                                          476    3 
+   18. 2170   Super Mario RPG: Legend of the Seven Stars (1996)                                          476    3 
                   JPN | 19 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: SNES, Wii, Wii U
                   Genre: Adventure, Platform, RPG | Theme: Action, Comedy, Fantasy, Kids
@@ -153,7 +162,7 @@
                   Designer: Chihiro Fujioka, Yoshihiko Maekawa
                   Composer: Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 2028   EarthBound (1994)                                                                          450    2 
+   19. 2122   EarthBound (1994)                                                                          450    3 
                   JPN | 33 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
                   On: 3DS (New), GBA, SNES, Wii U
                   Genre: Adventure, RPG, Turn-Based Strategy | Theme: Action, Drama, Fantasy, Science Fiction
@@ -162,7 +171,7 @@
                   Designer: Akihiko Miura, Shigesato Itoi
                   Composer: Hirokazu Tanaka, Keiichi Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 2015   Double Dragon (1987)                                                                       318    4 
+   20. 2015   Double Dragon (1987)                                                                       318    4 
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari 2600, Atari 7800, Atari ST, C64, DOS, GBA, Game Gear, Lynx, MSX, Mega Drive, NES, Neo Geo AES, Neo Geo CD, Neo Geo MVS, PS4, SMS, Switch, Wii U, Xbox 360, ZX Spectrum
                   Genre: Adventure, Arcade, Fighting, Hack and Slash, Platform | Theme: Action
@@ -170,15 +179,6 @@
                   Publishers: Activision, Arc System Works, Arcadia Systems, Atlus, Ballistic, Empire, Melbourne House, Ocean Software, Sega, Technos, Telegames, Tradewest, Virgin, Zemina
                   Designer: Koji Kai, Shinichi Saito, Yoshihisa Kishimoto
                   Composer: Kazunaka Yamane
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1979   Secret of Mana (1993)                                                                      232    4 
-                  JPN | 29 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
-                  On: Android, SNES, Wii, Wii U, iOS
-                  Genre: RPG | Theme: Action, Fantasy
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Hiromichi Tanaka, Koichi Ishii
-                  Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    21. 1971   Star Fox 64 (1997)                                                                         233    4 
                   JPN | 4 h | First person, Third person | PEGI: 7 | ESRB: E
@@ -207,7 +207,16 @@
                   Designer: Fukio Mitsuji
                   Composer: Tadashi Kimijima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   24. 1856   Dr. Mario (1990)                                                                           319    2 
+   24. 1886   Bayonetta (2009)                                                                           623    2 
+                  JPN | 16 h | Third person | PEGI: 18 | ESRB: M
+                  On: PS3, PS4, Switch, Wii U, Win, Xbox 360, Xbox One
+                  Genre: Adventure, Hack and Slash | Theme: Action
+                  Developers: Bee Tribe, Nex Entertainment, Platinum Games
+                  Publishers: Nintendo, Sega
+                  Designer: Hideki Kamiya, Hiroshi Shibata, Masaaki Yamada
+                  Composer: Erina Niwa, Hiroshi Yamaguchi, Masami Ueda, Naoto Tanaka, Norihiko Hibino, Rei Kondoh, Takahiro Izutani, Takayasu Sodeoka, Yoshitaka Suzuki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   25. 1856   Dr. Mario (1990)                                                                           319    2 
                   JPN | 4 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, GB, GBA, NES, Switch, Wii U
                   Genre: Puzzle, Strategy | Theme: Healthcare
@@ -216,7 +225,7 @@
                   Designer: Takahiro Harada
                   Composer: Hirokazu Tanaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   25. 1813   Ghosts 'n Goblins (1985)                                                                   347    2 
+   26. 1813   Ghosts 'n Goblins (1985)                                                                   347    2 
                   JPN | 4 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Android, Arcade, Atari ST, C16, C64, DOS, FM-7, GBA, GBC, NES, PC-8801, PS3, Plus4, Switch, Wii, Wii U, Xbox 360, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Platform, Shooter | Theme: Action, Fantasy
@@ -225,7 +234,7 @@
                   Designer: Tokuro Fujiwara
                   Composer: Ayako Mori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   26. 1767   Zelda II: The Adventure of Link (1987)                                                     109    2 
+   27. 1767   Zelda II: The Adventure of Link (1987)                                                     109    2 
                   JPN | 12 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, GBA, GameCube, NES, Switch, Wii U
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Open world
@@ -234,7 +243,7 @@
                   Designer: Kazunobu Shimizu, Tadashi Sugiyama
                   Composer: Akito Nakatsuka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   27. 1757   Ninja Gaiden (1988)                                                                        331    2 
+   28. 1757   Ninja Gaiden (1988)                                                                        331    2 
                   JPN | 3 h | Side view | PEGI: 7 | ESRB: E10+
                   On: 3DS, Arcade, NES, Switch, TurboGrafx-16, Wii, Wii U
                   Genre: Adventure, Arcade, Hack and Slash, Platform | Theme: Action, Fantasy, Ninjas
@@ -243,7 +252,7 @@
                   Designer: Hideo Yoshizawa
                   Composer: Keiji Yamagishi, Ryuichi Nitta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1750   R-Type (1987)                                                                              172    3 
+   29. 1750   R-Type (1987)                                                                              172    3 
                   JPN | 2 h | Side view | PEGI: 7 | ESRB: E
                   On: Amiga, Amstrad CPC, Android, Arcade, Atari ST, C64, GB, MSX, PC-8801, SMS, Sharp X68000, TurboGrafx-16, Wii, Wii U, ZX Spectrum, iOS
                   Genre: Arcade, Shooter | Theme: Action, Science Fiction
@@ -252,7 +261,7 @@
                   Designer: Abiko
                   Composer: Masato Ishizaki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1672   Wave Race 64 (1996)                                                                        193    2 
+   30. 1672   Wave Race 64 (1996)                                                                        193    2 
                   JPN | 9 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action
@@ -261,7 +270,7 @@
                   Designer: Katsuya Eguchi, Shinya Takahashi
                   Composer: Kazumi Totaka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1632   Advance Wars (2001)                                                                        413    2 
+   31. 1632   Advance Wars (2001)                                                                        413    2 
                   JPN | 21 h | Bird view / Isometric | PEGI: 7 | ESRB: E
                   On: GBA, Wii U
                   Genre: Puzzle, Simulator, Strategy, Tactical, Turn-Based Strategy | Theme: Action, Science Fiction, Warfare
@@ -270,7 +279,7 @@
                   Designer: Toru Narihiro
                   Composer: Taishi Senda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1612   Donkey Kong Country (1994)                                                                 630    2 
+   32. 1612   Donkey Kong Country (1994)                                                                 630    2 
                   GBR | 5 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
@@ -279,7 +288,7 @@
                   Designer: Chris Stamper, Tim Stamper
                   Composer: David Wise, Eveline Fischer, Robin Beanland
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1549   Mega Man X (1993)                                                                          455    1 
+   33. 1549   Mega Man X (1993)                                                                          455    1 
                   JPN | 4 h | Side view | PEGI: 12 | ESRB: T
                   On: 3DS, 3DS (New), DOS, SNES, Wii, Wii U, iOS
                   Genre: Adventure, Platform, Shooter | Theme: Action, Science Fiction
@@ -288,7 +297,7 @@
                   Designer: Keiji Inafune, Masayoshi Kurogawa, Sho Tsuge, Yoshinori Takenaka
                   Composer: Makoto Tomozawa, Setsuo Yamamoto, Toshihiko Horiyama, Yuki Iwai, Yuko Takehara
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1516   Castlevania (1986)                                                                         302    2 
+   34. 1516   Castlevania (1986)                                                                         302    2 
                   JPN | 6 h | Side view | PEGI: 7 | ESRB: E10+
                   On: 3DS, Amiga, Arcade, C64, DOS, GBA, NES, Wii U
                   Genre: Adventure, Platform | Theme: Action, Horror
@@ -297,7 +306,7 @@
                   Designer: Akihiko Nagata
                   Composer: Kinuyo Yamashita, Satoe Terashima
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1511   Metroid Fusion (2002)                                                                      459    1 
+   35. 1511   Metroid Fusion (2002)                                                                      459    1 
                   JPN | 6 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, GBA, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Science Fiction
@@ -306,7 +315,7 @@
                   Designer: Takehiko Hosokawa, Tomoyoshi Yamane, Yoshio Sakamoto
                   Composer: Akira Fujiwara, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1502   Tecmo Bowl (1987)                                                                          297    1 
+   36. 1502   Tecmo Bowl (1987)                                                                          297    1 
                   JPN | 5 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: 3DS, Arcade, GB, NES, PS4, Switch, Wii, Wii U
                   Genre: Sport | Theme: Action, American Football
@@ -315,7 +324,7 @@
                   Designer: Chizuo Kinjo, Ichiro Tomie, Kazunori Takafuji, Moritaka Nakamine
                   Composer: Keiji Yamagishi, Mikio Saitou
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1500   Pilotwings (1990)                                                                          462    1 
+   37. 1500   Pilotwings (1990)                                                                          462    1 
                   JPN | 12 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Simulator, Sport | Theme: Action
@@ -324,7 +333,7 @@
                   Designer: Tadashi Sugiyama
                   Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1478   Final Fight (1989)                                                                         464    1 
+   38. 1478   Final Fight (1989)                                                                         464    1 
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBA, PS2, PSP, SNES, Wii, Wii U, Xbox, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Fighting, Hack and Slash | Theme: Action
@@ -333,7 +342,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Harumi Fujita, Hiromitsu Takaoka, Junko Tamiya, Manami Matsumae, Yasuaki Fujita, Yoko Shimomura, Yoshihiro Sakaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1458   1080° Snowboarding (1998)                                                                  231    1 
+   39. 1458   1080° Snowboarding (1998)                                                                  231    1 
                   JPN | 7 h | Third person | PEGI: 3 | ESRB: E
                   On: N64, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action, Snowboarding
@@ -342,7 +351,7 @@
                   Designer: Masamichi Abe, Mitsuhiro Takano
                   Composer: Kenta Nagata
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   39. 1452   Excitebike (1984)                                                                          300    1 
+   40. 1452   Excitebike (1984)                                                                          300    1 
                   JPN | 1 h | Side view | PEGI: 3 | ESRB: E
                   On: Arcade, GBA, NES, PC-8801, Sharp X1, Wii, Wii U
                   Genre: Racing, Sport | Theme: Action, Motocross, Motorsports
@@ -351,7 +360,7 @@
                   Designer: Shigeru Miyamoto
                   Composer: Akito Nakatsuka, Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1450   Nobunaga's Ambition (1986)                                                                  49    1 
+   41. 1450   Nobunaga's Ambition (1986)                                                                  49    1 
                   JPN | 40 h | Bird view / Isometric | PEGI: 3 | ESRB: E
                   On: Amiga, DOS, GB, MSX, Mac, Mega Drive, NES, PC-8801, PSX, SNES, Sharp X1, Sharp X68000, TurboGrafx-16, Wii, Wii U, WonderSwan
                   Genre: RPG, Simulator, Strategy, Turn-Based Strategy | Theme: Fantasy, Historical, Sandbox, Warfare
@@ -360,7 +369,7 @@
                   Designer: Kou Shibusawa
                   Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1431   Street Fighter II: Hyper Fighting (1992)                                                   353    1 
+   42. 1431   Street Fighter II: Hyper Fighting (1992)                                                   353    1 
                   JPN | 4 h | Side view | PEGI: 12 | ESRB: T
                   On: 3DS, Arcade, SNES, Wii, Wii U, Xbox 360
                   Genre: Fighting | Theme: Action
@@ -369,7 +378,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   42. 1423   Super Castlevania IV (1991)                                                                475    1 
+   43. 1423   Super Castlevania IV (1991)                                                                475    1 
                   JPN | 5 h | Side view | PEGI: 7 | ESRB: E10+
                   On: 3DS, SNES, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action, Horror
@@ -378,7 +387,7 @@
                   Designer: Masahiro Ueno
                   Composer: Masanori Adachi, Taro Kudo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   43. 1409   ActRaiser (1990)                                                                           478    1 
+   44. 1409   ActRaiser (1990)                                                                           478    1 
                   JPN | 6 h | Bird view / Isometric, Side view | PEGI: 7 | ESRB: E10+
                   On: Mobile, SNES, Wii, Wii U
                   Genre: Fighting, Simulator, Strategy | Theme: Action, Fantasy
@@ -386,15 +395,6 @@
                   Publishers: Enix, Macrospace, Square, St. GIGA
                   Designer: Ayano Koshiro, Masaya Hashimoto, Yasuhiro Fukushima
                   Composer: Yuzo Koshiro
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   44. 1390   Bayonetta (2009)                                                                           623    1 
-                  JPN | 16 h | Third person | PEGI: 18 | ESRB: M
-                  On: PS3, PS4, Switch, Wii U, Win, Xbox 360, Xbox One
-                  Genre: Adventure, Hack and Slash | Theme: Action
-                  Developers: Bee Tribe, Nex Entertainment, Platinum Games
-                  Publishers: Nintendo, Sega
-                  Designer: Hideki Kamiya, Hiroshi Shibata, Masaaki Yamada
-                  Composer: Erina Niwa, Hiroshi Yamaguchi, Masami Ueda, Naoto Tanaka, Norihiko Hibino, Rei Kondoh, Takahiro Izutani, Takayasu Sodeoka, Yoshitaka Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    45. 1352   Mass Effect 3 (2012)                                                                       625    1 
                   CAN | 36 h | Third person | PEGI: 18 | ESRB: M

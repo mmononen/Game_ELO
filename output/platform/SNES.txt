@@ -1,21 +1,21 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2890   The Legend of Zelda: A Link to the Past (1991)                                             110   10 
-                  JPN | 17 h | Bird view / Isometric | PEGI: 7 | ESRB: E
-                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
-                  Genre: Adventure, RPG | Theme: Action, Fantasy
-                  Developers: Nintendo
-                  Publishers: Nintendo, St. GIGA
-                  Designer: Takashi Tezuka
-                  Composer: Koji Kondo
-
-       2890   Super Mario World (1990)                                                                    33   10
+    1. 2979   Super Mario World (1990)                                                                    33   11 
                   JPN | 8 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform | Theme: Action
                   Developers: Nintendo
                   Publishers: Nintendo
                   Designer: Hideki Konno, Katsuya Eguchi, Takashi Tezuka
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    2. 2974   The Legend of Zelda: A Link to the Past (1991)                                             110   11 
+                  JPN | 17 h | Bird view / Isometric | PEGI: 7 | ESRB: E
+                  On: 3DS, GBA, SNES, Switch, Wii, Wii U
+                  Genre: Adventure, RPG | Theme: Action, Fantasy
+                  Developers: Nintendo
+                  Publishers: Nintendo, St. GIGA
+                  Designer: Takashi Tezuka
                   Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     3. 2858   Doom (1993)                                                                                 19    9 
@@ -36,16 +36,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Isao Abe, Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2714   Super Mario Kart (1992)                                                                     53    8 
-                  JPN | 10 h | Third person | PEGI: 3 | ESRB: E
-                  On: 3DS, SNES, Switch, Wii, Wii U
-                  Genre: Arcade, Racing | Theme: Action, Party
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Hideki Konno, Tadashi Sugiyama
-                  Composer: Soyo Oka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2712   Super Metroid (1994)                                                                       119   10 
+    5. 2791   Super Metroid (1994)                                                                       119   11 
                   JPN | 9 h | Side view | PEGI: 7 | ESRB: E
                   On: 3DS, SNES, Switch, Wii, Wii U
                   Genre: Adventure, Platform, Shooter | Theme: Action, Horror, Science Fiction, Thriller
@@ -54,7 +45,16 @@
                   Designer: Yoshio Sakamoto
                   Composer: Kenji Yamamoto, Minako Hamano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2706   Chrono Trigger (1995)                                                                      290    5 
+    6. 2780   Final Fantasy VI (1994)                                                                     36    8 
+                  JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
+                  On: PSX, SNES, Wii, Win
+                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
+                  Developers: Square, Tose
+                  Publishers: Nintendo, Sony, Square
+                  Designer: Hiroyuki Ito, Yoshinori Kitase
+                  Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 2776   Chrono Trigger (1995)                                                                      290    6 
                   JPN | 27 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: Android, DS, PSX, SNES, Wii, Win, iOS
                   Genre: RPG | Theme: Fantasy, Science Fiction
@@ -63,14 +63,14 @@
                   Designer: Akihiko Matsui, Hironobu Sakaguchi, Takashi Tokita, Yoshinori Kitase
                   Composer: Nobuo Uematsu, Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2694   Final Fantasy VI (1994)                                                                     36    7 
-                  JPN | 42 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
-                  On: PSX, SNES, Wii, Win
-                  Genre: Adventure, RPG | Theme: Fantasy, Open world, Sandbox
-                  Developers: Square, Tose
-                  Publishers: Nintendo, Sony, Square
-                  Designer: Hiroyuki Ito, Yoshinori Kitase
-                  Composer: Nobuo Uematsu
+    8. 2714   Super Mario Kart (1992)                                                                     53    8 
+                  JPN | 10 h | Third person | PEGI: 3 | ESRB: E
+                  On: 3DS, SNES, Switch, Wii, Wii U
+                  Genre: Arcade, Racing | Theme: Action, Party
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hideki Konno, Tadashi Sugiyama
+                  Composer: Soyo Oka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 2641   Ms. Pac-Man (1982)                                                                          12    5 
                   USA | 2 h | Bird view / Isometric | PEGI: 3 | ESRB: E
@@ -99,61 +99,7 @@
                   Designer: Jeff Braun, Robert Strobel, Will Wright
                   Composer: Steve Hales, Will Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 2203   Final Fantasy IV (1991)                                                                    190    4 
-                  JPN | 28 h | Bird view / Isometric | PEGI: 12 | ESRB: E10+
-                  On: SNES, Wii, Wii U, WonderSwan
-                  Genre: RPG | Theme: Fantasy
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Hironobu Sakaguchi, Takashi Tokita
-                  Composer: Nobuo Uematsu
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 2170   Super Mario RPG: Legend of the Seven Stars (1996)                                          476    3 
-                  JPN | 19 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: SNES, Wii, Wii U
-                  Genre: Adventure, Platform, RPG | Theme: Action, Comedy, Fantasy, Kids
-                  Developers: Square
-                  Publishers: Nintendo
-                  Designer: Chihiro Fujioka, Yoshihiko Maekawa
-                  Composer: Yoko Shimomura
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 2111   SimCity 2000 (1993)                                                                         48    4 
-                  USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E
-                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
-                  Genre: Simulator, Strategy | Theme: Business, Sandbox
-                  Developers: Maxis
-                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
-                  Designer: Fred Haslam, Will Wright
-                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 2100   Lemmings (1991)                                                                              8    4 
-                  GBR | 23 h | Side view | PEGI: 3 | ESRB: E
-                  On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
-                  Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
-                  Developers: DMA Design
-                  Publishers: Psygnosis, Sunsoft
-                  Designer: David Jones
-                  Composer: Brian Johnston, Tim Wright
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 2050   Super Bomberman (1993)                                                                     217    3 
-                  JPN | 4 h | Side view | PEGI: N/A | ESRB: N/A
-                  On: SNES
-                  Genre: Puzzle, Strategy | Theme: Action, Party
-                  Developers: Produce!
-                  Publishers: Hudson Soft, Mattel
-                  Designer: Kyon Kyon, Mikio Ueyama
-                  Composer: Jun Chikuma, Tomoyuki Hamada
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 2028   EarthBound (1994)                                                                          450    2 
-                  JPN | 33 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
-                  On: 3DS (New), GBA, SNES, Wii U
-                  Genre: Adventure, RPG, Turn-Based Strategy | Theme: Action, Drama, Fantasy, Science Fiction
-                  Developers: Creatures Inc., HAL Laboratory
-                  Publishers: Nintendo
-                  Designer: Akihiko Miura, Shigesato Itoi
-                  Composer: Hirokazu Tanaka, Keiichi Suzuki
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1979   Secret of Mana (1993)                                                                      232    4 
+   12. 2209   Secret of Mana (1993)                                                                      232    5 
                   JPN | 29 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: Android, SNES, Wii, Wii U, iOS
                   Genre: RPG | Theme: Action, Fantasy
@@ -162,7 +108,70 @@
                   Designer: Hiromichi Tanaka, Koichi Ishii
                   Composer: Hiroki Kikuta
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1923   Mortal Kombat (1992)                                                                       360    2 
+   13. 2203   Final Fantasy IV (1991)                                                                    190    4 
+                  JPN | 28 h | Bird view / Isometric | PEGI: 12 | ESRB: E10+
+                  On: SNES, Wii, Wii U, WonderSwan
+                  Genre: RPG | Theme: Fantasy
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Hironobu Sakaguchi, Takashi Tokita
+                  Composer: Nobuo Uematsu
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 2170   Super Mario RPG: Legend of the Seven Stars (1996)                                          476    3 
+                  JPN | 19 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: SNES, Wii, Wii U
+                  Genre: Adventure, Platform, RPG | Theme: Action, Comedy, Fantasy, Kids
+                  Developers: Square
+                  Publishers: Nintendo
+                  Designer: Chihiro Fujioka, Yoshihiko Maekawa
+                  Composer: Yoko Shimomura
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 2122   EarthBound (1994)                                                                          450    3 
+                  JPN | 33 h | Bird view / Isometric, First person | PEGI: 12 | ESRB: T
+                  On: 3DS (New), GBA, SNES, Wii U
+                  Genre: Adventure, RPG, Turn-Based Strategy | Theme: Action, Drama, Fantasy, Science Fiction
+                  Developers: Creatures Inc., HAL Laboratory
+                  Publishers: Nintendo
+                  Designer: Akihiko Miura, Shigesato Itoi
+                  Composer: Hirokazu Tanaka, Keiichi Suzuki
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 2111   SimCity 2000 (1993)                                                                         48    4 
+                  USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E
+                  On: Amiga, DOS, Mac, N64, PSX, SNES, Saturn, Win
+                  Genre: Simulator, Strategy | Theme: Business, Sandbox
+                  Developers: Maxis
+                  Publishers: DSI Games, Electronic Arts, Maxis, Zoo Digital
+                  Designer: Fred Haslam, Will Wright
+                  Composer: Brian Conrad, Justin McCormick, Sue Kasper
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 2100   Lemmings (1991)                                                                              8    4 
+                  GBR | 23 h | Side view | PEGI: 3 | ESRB: E
+                  On: 3DO, Amiga, Amstrad CPC, Atari ST, CD32, DOS, Game Gear, Lynx, Mega Drive, NES, PS3, SMS, SNES
+                  Genre: Platform, Puzzle, Strategy | Theme: Action, Comedy
+                  Developers: DMA Design
+                  Publishers: Psygnosis, Sunsoft
+                  Designer: David Jones
+                  Composer: Brian Johnston, Tim Wright
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 2050   Super Bomberman (1993)                                                                     217    3 
+                  JPN | 4 h | Side view | PEGI: N/A | ESRB: N/A
+                  On: SNES
+                  Genre: Puzzle, Strategy | Theme: Action, Party
+                  Developers: Produce!
+                  Publishers: Hudson Soft, Mattel
+                  Designer: Kyon Kyon, Mikio Ueyama
+                  Composer: Jun Chikuma, Tomoyuki Hamada
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 2019   Super Mario World 2: Yoshi's Island (1995)                                                 362    4 
+                  JPN | 11 h | Side view | PEGI: N/A | ESRB: E
+                  On: SNES, Switch
+                  Genre: Platform | Theme: Action
+                  Developers: Nintendo
+                  Publishers: Nintendo
+                  Designer: Hideki Konno, Shigefumi Hino, Takashi Tezuka, Toshihiko Nakago
+                  Composer: Koji Kondo
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1923   Mortal Kombat (1992)                                                                       360    2 
                   USA | 6 h | Side view | PEGI: 18 | ESRB: M
                   On: Amiga, Arcade, DOS, GB, Game Gear, Mega Drive, SNES, Saturn, Sega CD
                   Genre: Fighting | Theme: Action
@@ -171,7 +180,7 @@
                   Designer: Ed Boon, John Tobias
                   Composer: Dan Forden
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1873   Sensible Soccer: European Champions (1992)                                                 242    2 
+   21. 1873   Sensible Soccer: European Champions (1992)                                                 242    2 
                   GBR | 49 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Amiga, Atari ST, DOS, GB, Game Gear, Mega Drive, SMS, SNES, Sega CD
                   Genre: Sport | Theme: Action, Football
@@ -180,7 +189,7 @@
                   Designer: Chris Chapman, Chris Yates, David Korn, Jon Hare
                   Composer: Richard Joseph
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1737   Final Fantasy V (1992)                                                                      35    2 
+   22. 1737   Final Fantasy V (1992)                                                                      35    2 
                   JPN | 37 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
                   On: PSX, SNES, Wii
                   Genre: Adventure, RPG | Theme: Action, Fantasy, Open world
@@ -189,7 +198,7 @@
                   Designer: Hironobu Sakaguchi, Hiroyuki Ito
                   Composer: Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1713   NHLPA Hockey 93 (1992)                                                                     291    1 
+   23. 1713   NHLPA Hockey 93 (1992)                                                                     291    1 
                   USA | 13 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Mega Drive, SNES
                   Genre: Sport | Theme: Ice Hockey
@@ -197,15 +206,6 @@
                   Publishers: Electronic Arts
                   Designer: Michael Brook, Richard Hilleman, Scott Orr
                   Composer: Jim Simmons
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1707   Super Mario World 2: Yoshi's Island (1995)                                                 362    3 
-                  JPN | 11 h | Side view | PEGI: N/A | ESRB: E
-                  On: SNES, Switch
-                  Genre: Platform | Theme: Action
-                  Developers: Nintendo
-                  Publishers: Nintendo
-                  Designer: Hideki Konno, Shigefumi Hino, Takashi Tezuka, Toshihiko Nakago
-                  Composer: Koji Kondo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    24. 1706   Super Bomberman 2 (1994)                                                                     3    2 
                   JPN | 5 h | Bird view / Isometric | PEGI: N/A | ESRB: E

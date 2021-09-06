@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2636   Halo: Combat Evolved (2001)                                                                340    5 
+    1. 2772   Halo: Combat Evolved (2001)                                                                340    6 
                   USA | 11 h | First person, Third person | PEGI: N/A | ESRB: M
                   On: Mac, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Science Fiction
@@ -9,7 +9,7 @@
                   Designer: Jason Jones, John Howard
                   Composer: Martin O'Donnell, Michael Salvatori
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2373   Silent Hill 2 (2001)                                                                       443    3 
+    2. 2538   Silent Hill 2 (2001)                                                                       443    4 
                   JPN | 10 h | Third person | PEGI: 16 | ESRB: M
                   On: PS2, Win, Xbox
                   Genre: Adventure, Puzzle | Theme: Drama, Horror, Mystery, Survival
@@ -18,7 +18,7 @@
                   Designer: Masashi Tsuboyama
                   Composer: Akira Yamaoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2355   Final Fantasy X (2001)                                                                     425    3 
+    3. 2529   Final Fantasy X (2001)                                                                     425    4 
                   JPN | 71 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
                   On: PS2
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -27,7 +27,7 @@
                   Designer: Motomu Toriyama, Takayoshi Nakazato, Toshiro Tsuchida, Yoshinori Kitase
                   Composer: Junya Nakano, Masashi Hamauzu, Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2272   Ico (2001)                                                                                 412    3 
+    4. 2431   Ico (2001)                                                                                 412    4 
                   JPN | 7 h | Third person | PEGI: N/A | ESRB: T
                   On: PS2
                   Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy
@@ -63,7 +63,7 @@
                   Designer: Hideo Kojima
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1761   Max Payne (2001)                                                                           493    4 
+    8. 1844   Max Payne (2001)                                                                           493    5 
                   FIN | 9 h | Third person | PEGI: 18 | ESRB: M
                   On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
                   Genre: Shooter | Theme: Action, Thriller
@@ -108,7 +108,16 @@
                   Designer: Alex Meduna, Brenda Romero, Charles Miles, Linda Currie
                   Composer: Kevin Manthei
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1492   Anachronox (2001)                                                                          537    2 
+   13. 1563   Phoenix Wright: Ace Attorney (2001)                                                        492    3 
+                  JPN | 22 h | First person, Side view, Text | PEGI: N/A | ESRB: T
+                  On: DS, GBA, Mobile, Wii, Win, iOS
+                  Genre: Adventure, Point-and-click, Puzzle, Visual Novel | Theme: Comedy, Drama, Fantasy
+                  Developers: Capcom
+                  Publishers: Capcom, Nintendo
+                  Designer: Shu Takumi
+                  Composer: Masakazu Sugimori, Naoto Tanaka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 1492   Anachronox (2001)                                                                          537    2 
                   USA | 32 h | Third person | PEGI: N/A | ESRB: T
                   On: Win
                   Genre: RPG | Theme: Science Fiction
@@ -117,43 +126,7 @@
                   Designer: Tom Hall
                   Composer: Darren Walsh, Will Nevins
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1420   Gothic (2001)                                                                              581    1 
-                  GER | 30 h | Third person | PEGI: 16 | ESRB: T
-                  On: Win
-                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Open world, Survival
-                  Developers: Piranha Bytes
-                  Publishers: Egmont, JoWooD, Nordic Games, Xicat
-                  Designer: Alexander Brüggemann, Michael Hoge, Stefan Nyul, Tom Putzki
-                  Composer: Kai Rosenkranz
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1398   Shenmue II (2001)                                                                          369    2 
-                  JPN | 29 h | Third person | PEGI: N/A | ESRB: T
-                  On: Dreamcast, PS4, Win, Xbox, Xbox One
-                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
-                  Developers: Rutubo Games, Sega
-                  Publishers: Microsoft, Sega
-                  Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
-                  Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1366   Devil May Cry (2001)                                                                       483    1 
-                  JPN | 9 h | Third person | PEGI: 16 | ESRB: M
-                  On: PS2, PS3, PS4, Switch, Win, Xbox 360, Xbox One
-                  Genre: Hack and Slash | Theme: Action, Fantasy
-                  Developers: Capcom
-                  Publishers: Capcom
-                  Designer: Hideki Kamiya
-                  Composer: Masami Ueda, Masato Kohda, Misao Senbongi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1341   Conker's Bad Fur Day (2001)                                                                626    1 
-                  GBR | 12 h | Side view, Third person | PEGI: N/A | ESRB: M
-                  On: N64
-                  Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Fantasy
-                  Developers: Rare
-                  Publishers: Rare, THQ
-                  Designer: Chris Seavor
-                  Composer: Robin Beanland
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1251   Ikaruga (2001)                                                                             490    1 
+   15. 1475   Ikaruga (2001)                                                                             490    2 
                   JPN | 18 h | Bird view / Isometric, Third person | PEGI: 7 | ESRB: E10+
                   On: Android, Arcade, Dreamcast, GameCube, PS4, Switch, Win, Xbox 360
                   Genre: Arcade, Indie, Puzzle, Shooter | Theme: Action, Science Fiction
@@ -162,7 +135,43 @@
                   Designer: Hiroshi Iuchi
                   Composer: Hiroshi Iuchi, Yasushu Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1242   Gran Turismo 3: A-Spec (2001)                                                              386    2 
+   16. 1420   Gothic (2001)                                                                              581    1 
+                  GER | 30 h | Third person | PEGI: 16 | ESRB: T
+                  On: Win
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Open world, Survival
+                  Developers: Piranha Bytes
+                  Publishers: Egmont, JoWooD, Nordic Games, Xicat
+                  Designer: Alexander Brüggemann, Michael Hoge, Stefan Nyul, Tom Putzki
+                  Composer: Kai Rosenkranz
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1398   Shenmue II (2001)                                                                          369    2 
+                  JPN | 29 h | Third person | PEGI: N/A | ESRB: T
+                  On: Dreamcast, PS4, Win, Xbox, Xbox One
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Historical, Sandbox
+                  Developers: Rutubo Games, Sega
+                  Publishers: Microsoft, Sega
+                  Designer: Eigo Kasahara, Shinichi Yoshino, Yoshihiro Okabayashi, Yu Suzuki
+                  Composer: Fumio Ito, Koji Sakurai, Masataka Nitta, Megumi Takano, Osamu Murata, Ryuji Iuchi, Satoshi Miyashita, Shinichi Goto, Shinji Otsuka, Takenobu Mitsuyoshi, Takeshi Yanagawa, Yuzo Koshiro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1366   Devil May Cry (2001)                                                                       483    1 
+                  JPN | 9 h | Third person | PEGI: 16 | ESRB: M
+                  On: PS2, PS3, PS4, Switch, Win, Xbox 360, Xbox One
+                  Genre: Hack and Slash | Theme: Action, Fantasy
+                  Developers: Capcom
+                  Publishers: Capcom
+                  Designer: Hideki Kamiya
+                  Composer: Masami Ueda, Masato Kohda, Misao Senbongi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1341   Conker's Bad Fur Day (2001)                                                                626    1 
+                  GBR | 12 h | Side view, Third person | PEGI: N/A | ESRB: M
+                  On: N64
+                  Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Fantasy
+                  Developers: Rare
+                  Publishers: Rare, THQ
+                  Designer: Chris Seavor
+                  Composer: Robin Beanland
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1242   Gran Turismo 3: A-Spec (2001)                                                              386    2 
                   JPN | 64 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: PS2
                   Genre: Racing, Simulator | Theme: Motorsports, Non-fiction
@@ -171,7 +180,7 @@
                   Designer: Kazunori Yamauchi
                   Composer: Daiki Kasho, Isamu Ohira
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1233   Geneforge (2001)                                                                           596    1 
+   21. 1233   Geneforge (2001)                                                                           596    1 
                   USA | 42 h | Bird view / Isometric | PEGI: N/A | ESRB: N/A
                   On: Mac, Win
                   Genre: Adventure, Indie, RPG, Strategy, Turn-Based Strategy | Theme: Fantasy, Science Fiction
@@ -179,12 +188,3 @@
                   Publishers: Spiderweb Software
                   Designer: Jeff Vogel
                   Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1214   Phoenix Wright: Ace Attorney (2001)                                                        492    2 
-                  JPN | 22 h | First person, Side view, Text | PEGI: N/A | ESRB: T
-                  On: DS, GBA, Mobile, Wii, Win, iOS
-                  Genre: Adventure, Point-and-click, Puzzle, Visual Novel | Theme: Comedy, Drama, Fantasy
-                  Developers: Capcom
-                  Publishers: Capcom, Nintendo
-                  Designer: Shu Takumi
-                  Composer: Masakazu Sugimori, Naoto Tanaka

@@ -1,15 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2660   Half-Life (1998)                                                                           188    7 
-                  USA | 14 h | First person | PEGI: 16 | ESRB: M
-                  On: Linux, Mac, PS2, Win
-                  Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
-                  Developers: Valve
-                  Publishers: Sierra, Valve
-                  Designer: Marc Laidlaw
-                  Composer: Kelly Bailey
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2655   Resident Evil 4 (2005)                                                                     397    4 
+    1. 2805   Resident Evil 4 (2005)                                                                     397    5 
                   JPN | 20 h | Third person | PEGI: 18 | ESRB: M
                   On: GameCube, PS2, Wii, Win
                   Genre: Shooter | Theme: Action, Horror, Survival
@@ -18,7 +9,16 @@
                   Designer: Hiroshi Shibata, Kouji Kakae, Shigenori Nishikawa, Shinji Mikami
                   Composer: Misao Senbongi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 2430   Shadow of the Colossus (2005)                                                              434    3 
+    2. 2660   Half-Life (1998)                                                                           188    7 
+                  USA | 14 h | First person | PEGI: 16 | ESRB: M
+                  On: Linux, Mac, PS2, Win
+                  Genre: Adventure, Puzzle, Shooter | Theme: Action, Horror, Science Fiction, Thriller, Warfare
+                  Developers: Valve
+                  Publishers: Sierra, Valve
+                  Designer: Marc Laidlaw
+                  Composer: Kelly Bailey
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    3. 2612   Shadow of the Colossus (2005)                                                              434    4 
                   JPN | 12 h | Third person | PEGI: 12 | ESRB: T
                   On: PS2, PS3
                   Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy, Open world
@@ -27,25 +27,7 @@
                   Designer: Fumito Ueda
                   Composer: Kow Otani
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2404   Deus Ex (2000)                                                                             274    4 
-                  USA | 29 h | First person | PEGI: 16 | ESRB: M
-                  On: Mac, PS2, PS3, Win
-                  Genre: RPG, Shooter | Theme: Action, Science Fiction, Stealth
-                  Developers: Ion Storm, Westlake Interactive
-                  Publishers: Aspyr, Eidos, Square
-                  Designer: Harvey Smith, Warren Spector
-                  Composer: Alexander Brandon, Dan Gardopée, Michiel van den Bos
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2391   Grand Theft Auto: Vice City (2002)                                                         339    5 
-                  GBR | 28 h | Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
-                  Developers: Rockstar
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Lex Horton
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2373   Silent Hill 2 (2001)                                                                       443    3 
+    4. 2538   Silent Hill 2 (2001)                                                                       443    4 
                   JPN | 10 h | Third person | PEGI: 16 | ESRB: M
                   On: PS2, Win, Xbox
                   Genre: Adventure, Puzzle | Theme: Drama, Horror, Mystery, Survival
@@ -54,7 +36,7 @@
                   Designer: Masashi Tsuboyama
                   Composer: Akira Yamaoka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 2355   Final Fantasy X (2001)                                                                     425    3 
+    5. 2529   Final Fantasy X (2001)                                                                     425    4 
                   JPN | 71 h | Bird view / Isometric, Side view | PEGI: 12 | ESRB: T
                   On: PS2
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -63,7 +45,16 @@
                   Designer: Motomu Toriyama, Takayoshi Nakazato, Toshiro Tsuchida, Yoshinori Kitase
                   Composer: Junya Nakano, Masashi Hamauzu, Nobuo Uematsu
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 2272   Ico (2001)                                                                                 412    3 
+    6. 2514   Deus Ex (2000)                                                                             274    5 
+                  USA | 29 h | First person | PEGI: 16 | ESRB: M
+                  On: Mac, PS2, PS3, Win
+                  Genre: RPG, Shooter | Theme: Action, Science Fiction, Stealth
+                  Developers: Ion Storm, Westlake Interactive
+                  Publishers: Aspyr, Eidos, Square
+                  Designer: Harvey Smith, Warren Spector
+                  Composer: Alexander Brandon, Dan Gardopée, Michiel van den Bos
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 2431   Ico (2001)                                                                                 412    4 
                   JPN | 7 h | Third person | PEGI: N/A | ESRB: T
                   On: PS2
                   Genre: Adventure, Platform, Puzzle | Theme: Action, Drama, Fantasy
@@ -72,106 +63,7 @@
                   Designer: Fumito Ueda
                   Composer: Koichi Yamazaki, Michiru Oshima, Mitsukuni Murayama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    9. 2217   Tekken 3 (1997)                                                                            186    4 
-                  JPN | 12 h | Side view | PEGI: 12 | ESRB: T
-                  On: Arcade, PS2, PSX
-                  Genre: Fighting | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
-                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   10. 2207   God of War (2005)                                                                          416    3 
-                  USA | 10 h | Third person | PEGI: 18 | ESRB: M
-                  On: PS2
-                  Genre: Adventure, Hack and Slash, Strategy | Theme: Action, Fantasy, Historical
-                  Developers: Sony
-                  Publishers: Sony
-                  Designer: David Jaffe
-                  Composer: Cris Velasco, Gerard Marino, MArcello De Francisci, Mike Reagan, Ron Fish, Winifred Phillips, Winnie Waldron
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   11. 2200   Ōkami (2006)                                                                               433    2 
-                  JPN | 41 h | Third person | PEGI: 12 | ESRB: T
-                  On: PS2, Wii
-                  Genre: Adventure, RPG | Theme: Action, Comedy, Fantasy, Historical
-                  Developers: Clover Studio, HexaDrive
-                  Publishers: Capcom
-                  Designer: Hideki Kamiya, Hiroshi Shibata
-                  Composer: Akari Kaida, Hiroshi Yamaguchi, Masami Ueda, Rei Kondoh
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 2182   Grand Theft Auto III (2001)                                                                387    3 
-                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
-                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
-                  Developers: DMA Design
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Craig Conner, Stuart Ross
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 2178   Grand Theft Auto: San Andreas (2004)                                                       399    3 
-                  GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
-                  Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
-                  Developers: Rockstar
-                  Publishers: Rockstar, Take-Two
-                  Designer: Leslie Benzies
-                  Composer: Michael Hunter
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1998   Tekken 2 (1995)                                                                             22    4 
-                  JPN | 6 h | Side view | PEGI: 12 | ESRB: T
-                  On: Arcade, PS2, PS3, PSP, PSX, Vita
-                  Genre: Fighting | Theme: Action
-                  Developers: Namco
-                  Publishers: Namco, Sony
-                  Designer: Seiichi Ishii
-                  Composer: Yoshie Arakawa, Yoshie Takayanagi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   15. 1971   Guitar Hero (2005)                                                                         409    2 
-                  USA | 11 h | Auditory | PEGI: 12 | ESRB: T
-                  On: PS2
-                  Genre: Music | Theme: Party
-                  Developers: Harmonix
-                  Publishers: RedOctane
-                  Designer: Greg LoPiccolo, Rob Kay, Ryan Lesser
-                  Composer: Unknown
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   16. 1955   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    2 
-                  JPN | 15 h | Third person | PEGI: N/A | ESRB: M
-                  On: PS2, PS3, Vita, Win, Xbox, Xbox 360
-                  Genre: Adventure | Theme: Action, Stealth
-                  Developers: Konami
-                  Publishers: Konami
-                  Designer: Hideo Kojima
-                  Composer: Harry Gregson-Williams, Norihiko Hibino
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   17. 1926   Final Fantasy XII (2006)                                                                   398    2 
-                  JPN | 93 h | Third person | PEGI: 16 | ESRB: T
-                  On: PS2
-                  Genre: Adventure, RPG | Theme: Action, Fantasy, Sandbox
-                  Developers: Square
-                  Publishers: Square
-                  Designer: Hiroshi Minagawa, Hiroyuki Ito
-                  Composer: Hayato Matsuo, Hitoshi Sakimoto, Masaharu Iwata
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   18. 1884   Virtua Fighter 2 (1994)                                                                      6    3 
-                  JPN | 4 h | Side view | PEGI: 12 | ESRB: E10+
-                  On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
-                  Genre: Arcade, Fighting, Simulator | Theme: Action
-                  Developers: 3D Ages, Sega
-                  Publishers: Sega
-                  Designer: Kazuhiro Izaki, Yu Suzuki
-                  Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   19. 1878   Age of Empires II: The Age of Kings (1999)                                                 273    2 
-                  USA | 114 h | Bird view / Isometric | PEGI: N/A | ESRB: T
-                  On: Mac, PS2, Win
-                  Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
-                  Developers: Ensemble Studios
-                  Publishers: Konami, Microsoft
-                  Designer: Bruce Shelley
-                  Composer: Stephen Rippy
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   20. 1843   Metal Gear Solid 3: Snake Eater (2004)                                                     500    3 
+    8. 2425   Metal Gear Solid 3: Snake Eater (2004)                                                     500    4 
                   JPN | 20 h | Bird view / Isometric, First person, Third person | PEGI: N/A | ESRB: M
                   On: PS2
                   Genre: Adventure, Shooter, Tactical | Theme: Action, Drama, Fantasy, Historical, Stealth, Survival
@@ -180,7 +72,124 @@
                   Designer: Hideo Kojima
                   Composer: Harry Gregson-Williams, Norihiko Hibino
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   21. 1839   The Sims (2000)                                                                            322    2 
+    9. 2405   Ōkami (2006)                                                                               433    3 
+                  JPN | 41 h | Third person | PEGI: 12 | ESRB: T
+                  On: PS2, Wii
+                  Genre: Adventure, RPG | Theme: Action, Comedy, Fantasy, Historical
+                  Developers: Clover Studio, HexaDrive
+                  Publishers: Capcom
+                  Designer: Hideki Kamiya, Hiroshi Shibata
+                  Composer: Akari Kaida, Hiroshi Yamaguchi, Masami Ueda, Rei Kondoh
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   10. 2391   Grand Theft Auto: Vice City (2002)                                                         339    5 
+                  GBR | 28 h | Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Comedy, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Lex Horton
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   11. 2335   Tekken 3 (1997)                                                                            186    5 
+                  JPN | 12 h | Side view | PEGI: 12 | ESRB: T
+                  On: Arcade, PS2, PSX
+                  Genre: Fighting | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Designer: Katsuhiro Harada, Masahiro Kimoto, Masamichi Abe, Yutaka Kounoe
+                  Composer: Hideki Tobeta, Hiroyuki Kawada, Keiichi Okabe, Minamo Takahashi, Nobuyoshi Sano, Yoshie Arakawa, Yuu Miyake
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   12. 2207   God of War (2005)                                                                          416    3 
+                  USA | 10 h | Third person | PEGI: 18 | ESRB: M
+                  On: PS2
+                  Genre: Adventure, Hack and Slash, Strategy | Theme: Action, Fantasy, Historical
+                  Developers: Sony
+                  Publishers: Sony
+                  Designer: David Jaffe
+                  Composer: Cris Velasco, Gerard Marino, MArcello De Francisci, Mike Reagan, Ron Fish, Winifred Phillips, Winnie Waldron
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 2182   Grand Theft Auto III (2001)                                                                387    3 
+                  GBR | 22 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, iOS
+                  Genre: Adventure, Racing, Shooter, Simulator | Theme: Action, Open world
+                  Developers: DMA Design
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Craig Conner, Stuart Ross
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   14. 2178   Grand Theft Auto: San Andreas (2004)                                                       399    3 
+                  GBR | 47 h | First person, Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
+                  Genre: Adventure, Racing, Shooter | Theme: Action, Non-fiction, Open world
+                  Developers: Rockstar
+                  Publishers: Rockstar, Take-Two
+                  Designer: Leslie Benzies
+                  Composer: Michael Hunter
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   15. 1998   Tekken 2 (1995)                                                                             22    4 
+                  JPN | 6 h | Side view | PEGI: 12 | ESRB: T
+                  On: Arcade, PS2, PS3, PSP, PSX, Vita
+                  Genre: Fighting | Theme: Action
+                  Developers: Namco
+                  Publishers: Namco, Sony
+                  Designer: Seiichi Ishii
+                  Composer: Yoshie Arakawa, Yoshie Takayanagi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   16. 1971   Guitar Hero (2005)                                                                         409    2 
+                  USA | 11 h | Auditory | PEGI: 12 | ESRB: T
+                  On: PS2
+                  Genre: Music | Theme: Party
+                  Developers: Harmonix
+                  Publishers: RedOctane
+                  Designer: Greg LoPiccolo, Rob Kay, Ryan Lesser
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   17. 1955   Metal Gear Solid 2: Sons of Liberty (2001)                                                 426    2 
+                  JPN | 15 h | Third person | PEGI: N/A | ESRB: M
+                  On: PS2, PS3, Vita, Win, Xbox, Xbox 360
+                  Genre: Adventure | Theme: Action, Stealth
+                  Developers: Konami
+                  Publishers: Konami
+                  Designer: Hideo Kojima
+                  Composer: Harry Gregson-Williams, Norihiko Hibino
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   18. 1926   Final Fantasy XII (2006)                                                                   398    2 
+                  JPN | 93 h | Third person | PEGI: 16 | ESRB: T
+                  On: PS2
+                  Genre: Adventure, RPG | Theme: Action, Fantasy, Sandbox
+                  Developers: Square
+                  Publishers: Square
+                  Designer: Hiroshi Minagawa, Hiroyuki Ito
+                  Composer: Hayato Matsuo, Hitoshi Sakimoto, Masaharu Iwata
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   19. 1884   Virtua Fighter 2 (1994)                                                                      6    3 
+                  JPN | 4 h | Side view | PEGI: 12 | ESRB: E10+
+                  On: Arcade, Mega Drive, PS2, PS3, Saturn, Wii, Win, Xbox 360
+                  Genre: Arcade, Fighting, Simulator | Theme: Action
+                  Developers: 3D Ages, Sega
+                  Publishers: Sega
+                  Designer: Kazuhiro Izaki, Yu Suzuki
+                  Composer: Akiko Hashimoto, Takayuki Nakamura, Takenobu Mitsuyoshi
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   20. 1878   Age of Empires II: The Age of Kings (1999)                                                 273    2 
+                  USA | 114 h | Bird view / Isometric | PEGI: N/A | ESRB: T
+                  On: Mac, PS2, Win
+                  Genre: Real Time Strategy, Strategy | Theme: Historical, Warfare
+                  Developers: Ensemble Studios
+                  Publishers: Konami, Microsoft
+                  Designer: Bruce Shelley
+                  Composer: Stephen Rippy
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   21. 1844   Max Payne (2001)                                                                           493    5 
+                  FIN | 9 h | Third person | PEGI: 18 | ESRB: M
+                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
+                  Genre: Shooter | Theme: Action, Thriller
+                  Developers: Remedy
+                  Publishers: 1C Company, 3D Realms, Feral Interactive, Gathering of Developers, MacSoft Games, Rockstar, Take-Two
+                  Designer: Petri Järvilehto
+                  Composer: Kimmo Kajasto, Kärtsy Hatakka
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   22. 1839   The Sims (2000)                                                                            322    2 
                   USA | 32 h | Bird view / Isometric | PEGI: 7 | ESRB: T
                   On: GameCube, Linux, Mac, PS2, Win, Xbox
                   Genre: Adventure, RPG, Simulator, Strategy | Theme: Comedy, Fantasy, Romance, Sandbox
@@ -189,7 +198,7 @@
                   Designer: Will Wright
                   Composer: Jerry Martin, Marc Russo
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   22. 1805   Sega Rally Championship (1994)                                                              93    4 
+   23. 1805   Sega Rally Championship (1994)                                                              93    4 
                   JPN | 5 h | First person, Third person | PEGI: 3 | ESRB: E
                   On: Arcade, GBA, N-Gage, PS2, Saturn, Win
                   Genre: Racing, Sport | Theme: Motorsports
@@ -197,15 +206,6 @@
                   Publishers: Sega
                   Designer: Kenji Sasaki
                   Composer: Takenobu Mitsuyoshi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   23. 1761   Max Payne (2001)                                                                           493    4 
-                  FIN | 9 h | Third person | PEGI: 18 | ESRB: M
-                  On: Android, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360, iOS
-                  Genre: Shooter | Theme: Action, Thriller
-                  Developers: Remedy
-                  Publishers: 1C Company, 3D Realms, Feral Interactive, Gathering of Developers, MacSoft Games, Rockstar, Take-Two
-                  Designer: Petri Järvilehto
-                  Composer: Kimmo Kajasto, Kärtsy Hatakka
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    24. 1751   Nights into Dreams... (1996)                                                                25    2 
                   JPN | 4 h | Side view, Third person | PEGI: 7 | ESRB: E
@@ -243,7 +243,16 @@
                   Designer: Jordan Mechner, Patrice Désilets
                   Composer: Stuart Chatwood
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   28. 1679   God of War II (2007)                                                                       437    1 
+   28. 1705   Persona 4 (2008)                                                                           659    2 
+                  JPN | 86 h | Third person | PEGI: 16 | ESRB: M
+                  On: PS2, PS3
+                  Genre: RPG, Simulator, Visual Novel | Theme: Comedy, Drama, Educational, Fantasy, Open world
+                  Developers: Atlus
+                  Publishers: Atlus, Nippon Ichi Software, Square, Ubisoft
+                  Designer: Atsushi Watanabe, Azusa Kido, Katsura Hashino
+                  Composer: Shoji Meguro
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   29. 1679   God of War II (2007)                                                                       437    1 
                   USA | 13 h | Third person | PEGI: 18 | ESRB: M
                   On: PS2
                   Genre: Adventure, Hack and Slash, Platform | Theme: Action, Fantasy, Historical
@@ -252,7 +261,7 @@
                   Designer: Cory Barlog
                   Composer: Cris Velasco, Gerard Marino, Mike Reagan, Ron Fish
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   29. 1672   Ratchet & Clank: Up Your Arsenal (2004)                                                    439    1 
+   30. 1672   Ratchet & Clank: Up Your Arsenal (2004)                                                    439    1 
                   USA | 16 h | Third person | PEGI: 7 | ESRB: E10+
                   On: PS2, PS3, Vita
                   Genre: Adventure, Platform, Shooter | Theme: Action, Comedy, Science Fiction
@@ -260,8 +269,8 @@
                   Publishers: Sony
                   Designer: Brian Allgeier
                   Composer: David Bergeaud
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   30. 1664   Hitman: Blood Money (2006)                                                                 517    1 
+
+       1672   Hitman: Blood Money (2006)                                                                 517    2
                   DEN | 16 h | First person, Third person | PEGI: 18 | ESRB: M
                   On: PS2, Win, Xbox, Xbox 360
                   Genre: Shooter | Theme: Action, Stealth
@@ -270,7 +279,7 @@
                   Designer: Rasmus Højengaard
                   Composer: Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   31. 1627   Unreal Tournament (1999)                                                                   519    1 
+   32. 1652   Unreal Tournament (1999)                                                                   519    2 
                   CAN, USA | 15 h | First person | PEGI: 16 | ESRB: M
                   On: Dreamcast, Linux, Mac, PS2, Win
                   Genre: Shooter | Theme: Action
@@ -279,7 +288,7 @@
                   Designer: Cliff Bleszinski, James Schmalz
                   Composer: Alexander Brandon, Andrew Sega, Dan Gardopée, Michiel van den Bos
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   32. 1617   Madden NFL 2001 (2000)                                                                     294    1 
+   33. 1617   Madden NFL 2001 (2000)                                                                     294    1 
                   USA | 20 h | Third person | PEGI: N/A | ESRB: E
                   On: GBC, N64, PS2, PSX, Win
                   Genre: Simulator, Sport | Theme: Action, American Football
@@ -288,7 +297,7 @@
                   Designer: Dale Jackson, Graeme Bayless
                   Composer: Charles Stockley, David Whittaker, Don Veca, Ken Felton, Randy Eckhart
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   33. 1598   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    2 
+   34. 1598   Tom Clancy's Splinter Cell: Chaos Theory (2005)                                            454    2 
                   CAN | 14 h | First person, Third person | PEGI: 12 | ESRB: M
                   On: 3DS, DS, GameCube, Mobile, N-Gage, PS2, Win, Xbox
                   Genre: Shooter, Tactical | Theme: Action, Stealth
@@ -297,7 +306,7 @@
                   Designer: Clint Hocking
                   Composer: Amon Tobin, Jesper Kyd
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   34. 1580   Kingdom Hearts II (2005)                                                                   461    2 
+   35. 1580   Kingdom Hearts II (2005)                                                                   461    2 
                   JPN | 43 h | Third person | PEGI: N/A | ESRB: E10+
                   On: PS2
                   Genre: Adventure, RPG | Theme: Action, Fantasy
@@ -306,7 +315,7 @@
                   Designer: Tetsuya Nomura
                   Composer: Yoko Shimomura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   35. 1579   Rez (2001)                                                                                 615    1 
+   36. 1579   Rez (2001)                                                                                 615    1 
                   JPN | 3 h | Third person | PEGI: N/A | ESRB: E
                   On: Dreamcast, PS2
                   Genre: Music, Shooter | Theme: Action
@@ -315,7 +324,7 @@
                   Designer: Hiroyuki Abe, Katsuhiko Yamada
                   Composer: Keiichi Sugiyama
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   36. 1565   Mafia (2002)                                                                               510    1 
+   37. 1565   Mafia (2002)                                                                               510    1 
                   CZE | 19 h | Third person | PEGI: 18 | ESRB: M
                   On: PS2, Win, Xbox
                   Genre: Adventure, Fighting, Racing, Shooter | Theme: Action, Open world
@@ -324,7 +333,7 @@
                   Designer: Daniel Vávra, Petr Vochozka
                   Composer: Vladimir Šimůnek
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   37. 1478   Final Fight (1989)                                                                         464    1 
+   38. 1478   Final Fight (1989)                                                                         464    1 
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: E
                   On: 3DS, Amiga, Amstrad CPC, Arcade, Atari ST, C64, GBA, PS2, PSP, SNES, Wii, Wii U, Xbox, ZX Spectrum, iOS
                   Genre: Adventure, Arcade, Fighting, Hack and Slash | Theme: Action
@@ -333,7 +342,7 @@
                   Designer: Akira Nishitani, Akira Yasuda
                   Composer: Harumi Fujita, Hiromitsu Takaoka, Junko Tamiya, Manami Matsumae, Yasuaki Fujita, Yoko Shimomura, Yoshihiro Sakaguchi
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   38. 1454   Psychonauts (2005)                                                                         620    1 
+   39. 1454   Psychonauts (2005)                                                                         620    1 
                   USA | 16 h | Third person | PEGI: 12 | ESRB: T
                   On: Linux, Mac, PS2, PS3, PS4, Win, Xbox, Xbox 360
                   Genre: Adventure, Platform | Theme: Action, Comedy, Kids
@@ -342,7 +351,7 @@
                   Designer: Erik Robson, Tim Schafer
                   Composer: Peter McConnell
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   39. 1437   Burnout 3: Takedown (2004)                                                                 472    1 
+   40. 1437   Burnout 3: Takedown (2004)                                                                 472    1 
                   GBR | 23 h | First person, Third person | PEGI: 3 | ESRB: T
                   On: PS2, Xbox, Xbox 360
                   Genre: Racing | Theme: Action
@@ -351,7 +360,7 @@
                   Designer: Alex Ward, Christopher Roberts, Paul Cross
                   Composer: Stephen Root
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   40. 1431   Katamari Damacy (2004)                                                                     621    1 
+   41. 1431   Katamari Damacy (2004)                                                                     621    1 
                   JPN | 8 h | Third person | PEGI: N/A | ESRB: E
                   On: PS2, PS3
                   Genre: Adventure, Puzzle | Theme: Comedy, Fantasy
@@ -360,7 +369,7 @@
                   Designer: Keita Takahashi, Masatoshi Ogita
                   Composer: Akitaka Tohyama, Asuka Sakai, Hideki Tobeta, Yoshihito Yano, Yuri Misumi, Yuu Miyake
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   41. 1428   Pro Evolution Soccer 4 (2004)                                                              400    1 
+   42. 1428   Pro Evolution Soccer 4 (2004)                                                              400    1 
                   JPN | 72 h | Bird view / Isometric | PEGI: 3 | ESRB: N/A
                   On: PS2, Win, Xbox
                   Genre: Sport | Theme: Football, Non-fiction
@@ -369,7 +378,7 @@
                   Designer: Seisuke Yasunaga, Tetsushi Yamakawa, Yasuyuki Shoji
                   Composer: Atsushi Sato, Norikazu Miura
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   42. 1399   Xenosaga Episode I: Der Wille zur Macht (2002)                                             480    1 
+   43. 1399   Xenosaga Episode I: Der Wille zur Macht (2002)                                             480    1 
                   JPN | 42 h | Bird view / Isometric, Third person | PEGI: N/A | ESRB: T
                   On: PS2
                   Genre: Adventure, RPG | Theme: Fantasy, Science Fiction
@@ -378,7 +387,7 @@
                   Designer: Tetsuya Takahashi
                   Composer: Yasunori Mitsuda
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   43. 1396   SoulCalibur II (2002)                                                                      658    1 
+   44. 1396   SoulCalibur II (2002)                                                                      658    1 
                   JPN | 11 h | Side view | PEGI: N/A | ESRB: T
                   On: Arcade, GameCube, PS2, Xbox
                   Genre: Fighting, Sport | Theme: Action, Fantasy, Historical
@@ -387,7 +396,7 @@
                   Designer: Jin Okubo, Yoshitaka Tezuka
                   Composer: Asuka Sakai, Junichi Nakatsuru, Rio Hamamoto, Yoshihito Yano
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   44. 1393   Metal Gear (1987)                                                                          305    1 
+   45. 1393   Metal Gear (1987)                                                                          305    1 
                   JPN | 5 h | Bird view / Isometric | PEGI: 7 | ESRB: E10+
                   On: C64, DOS, GameCube, MSX2, Mobile, PS2, PS3, Vita, Xbox 360
                   Genre: Adventure, Shooter | Theme: Action, Science Fiction, Stealth, Survival
@@ -395,15 +404,6 @@
                   Publishers: Konami
                   Designer: Hideo Kojima
                   Composer: Iku Mizutani, Kazuki Muraoka, Motoaki Furugawa, Shigehiro Takenouchi
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   45. 1389   Persona 4 (2008)                                                                           659    1 
-                  JPN | 86 h | Third person | PEGI: 16 | ESRB: M
-                  On: PS2, PS3
-                  Genre: RPG, Simulator, Visual Novel | Theme: Comedy, Drama, Educational, Fantasy, Open world
-                  Developers: Atlus
-                  Publishers: Atlus, Nippon Ichi Software, Square, Ubisoft
-                  Designer: Atsushi Watanabe, Azusa Kido, Katsura Hashino
-                  Composer: Shoji Meguro
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    46. 1385   Marvel vs. Capcom 2: New Age of Heroes (2000)                                              503    2 
                   JPN | 21 h | Side view | PEGI: 12 | ESRB: T
