@@ -11378,6 +11378,108 @@
         "pegi": "12",
         "esrb": "T",
         "hltb": 20
+    },
+    "Super Mario Galaxy 2 (2010)":
+    {
+        "id": 670,
+        "year": 2010,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Koichi Hayashida", "Kenta Motokura"],
+        "composer": ["Mahito Yokota", "Ryo Nagamatsu", "Koji Kondo"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 22
+    },
+    "Mario Kart 7 (2011)":
+    {
+        "id": 671,
+        "year": 2011,
+        "country": ["JPN", "USA"],
+        "platforms": ["3DS"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Racing"],
+        "theme": ["Party", "Kids"],
+        "perspective": ["Third person"],
+        "designer": ["Yoshihisa Morimoto"],
+        "composer": ["Kenta Nagata", "Satomi Terui"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 18
+    },
+    "Ultra Street Fighter IV (2014)":
+    {
+        "id": 672,
+        "year": 2014,
+        "country": ["JPN"],
+        "platforms": ["PS4", "Xbox 360", "PS3", "Arcade", "Win"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Arcade", "Fighting"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Takashi Tsukamoto", "Hirotoshi Shiozaki"],
+        "composer": ["Hideyuki Fukasawa"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 17
+    },
+    "Pokémon X (2013)":
+    {
+        "id": 673,
+        "year": 2013,
+        "country": ["JPN"],
+        "platforms": ["3DS"],
+        "developers": ["Game Freak"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Open world", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Junichi Masuda"],
+        "composer": ["Shota Kageyama", "Minako Adachi", "Hitomi Sato", "Junichi Masuda"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 71
+    },
+    "Pokémon Y (2013)":
+    {
+        "id": 674,
+        "year": 2013,
+        "country": ["JPN"],
+        "platforms": ["3DS"],
+        "developers": ["Game Freak"],
+        "publishers": ["Nintendo"],
+        "genre": ["Adventure", "RPG", "Turn-Based Strategy"],
+        "theme": ["Fantasy", "Open world", "Science Fiction"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Junichi Masuda"],
+        "composer": ["Shota Kageyama", "Minako Adachi", "Hitomi Sato", "Junichi Masuda"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 71
+    },
+    "Animal Crossing: New Leaf (2012)":
+    {
+        "id": 675,
+        "year": 2012,
+        "country": ["JPN"],
+        "platforms": ["3DS"],
+        "developers": ["Nintendo"],
+        "publishers": ["Nintendo"],
+        "genre": ["Simulator"],
+        "theme": ["Kids"],
+        "perspective": ["Third person"],
+        "designer": ["Isao Moro", "Aya Kyogoku", "Koji Takahashi", "Ryuji Kobayashi", "Akito Osanai"],
+        "composer": ["Manaka Kataoka", "Atsuko Asahi", "Kazumi Totaka"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 195
     }
 
 }
