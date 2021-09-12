@@ -563,11 +563,13 @@ composers = {}
 pegi = {}
 esrb = {}
 total_hltb = []
+total_years = []
 
 for g in gamedb:
     try:
         s = groups[groupnames.index(g)]
         total_hltb.append(s.hltb)
+        total_years.append(s.year)        
     except Exception as e:
         print(f"{e}: {g} not in lists!")
         break
@@ -816,7 +818,7 @@ for i in composers:
 with open('statistics.txt', 'w', encoding='utf-8') as f_out:
     f_out.write(f"Games in database: {len(gamedb)}\n")
     f_out.write(f"Total: {sum(total_hltb)} h | Average: {int(sum(total_hltb) / len(gamedb))} h | Median: {int(statistics.median(total_hltb))} h\n")
-    #f_out.write(f"Average hours per game: {int(sum(total_hltb) / len(gamedb))} h\n")
+    f_out.write(f"Average year: {int(sum(total_years) / len(gamedb))} | Median year: {int(statistics.median(total_years))}\n")
     f_out.write("\n")
     topics = ["Countries (Top 10):",
               "Platforms (Top 10):"

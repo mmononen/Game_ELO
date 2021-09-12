@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2982   Tetris (1984)                                                                                2   12 
+    1. 3044   Tetris (1984)                                                                                2   13 
                   URS | 6 h | Side view | PEGI: 3 | ESRB: E
                   On: Amiga, Apple II, Arcade, Atari ST, BBC, C64, DOS, GBC, MSX, Mac, Mega Drive, NES, SMS, Sharp X1, VIC-20, WonderSwan, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Abstract
@@ -9,7 +9,7 @@
                   Designer: Alexey Pajitnov
                   Composer: trad.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2797   Street Fighter II (1991)                                                                     7    9 
+    2. 2870   Street Fighter II (1991)                                                                     7   10 
                   JPN | 9 h | Side view | PEGI: 12 | ESRB: T
                   On: Amiga, Amstrad CPC, Arcade, Atari ST, C64, DOS, GB, SNES, Win, ZX Spectrum
                   Genre: Arcade, Fighting | Theme: Action, Science Fiction
@@ -27,7 +27,16 @@
                   Designer: Steve Golson
                   Composer: Chris Rode
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    4. 2225   SimCity (1989)                                                                             279    5 
+    4. 2322   Elite (1984)                                                                                14    4 
+                  GBR | 100 h | First person | PEGI: N/A | ESRB: N/A
+                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
+                  Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
+                  Developers: Acornsoft
+                  Publishers: Acornsoft, Firebird, Hybrid Technology, Imagineer, Merlin Software
+                  Designer: David Braben, Ian Bell
+                  Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    5. 2225   SimCity (1989)                                                                             279    5 
                   USA | 25 h | Bird view / Isometric | PEGI: 3 | ESRB: E10+
                   On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Atari ST, BBC, C64, DOS, FM Towns, Mac, PC-98, SNES, Sharp X68000, Wii, Win, ZX Spectrum
                   Genre: Simulator, Strategy | Theme: Business, Sandbox
@@ -36,7 +45,7 @@
                   Designer: Jeff Braun, Robert Strobel, Will Wright
                   Composer: Steve Hales, Will Wright
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    5. 2203   Pac-Man (1980)                                                                             251    3 
+    6. 2203   Pac-Man (1980)                                                                             251    3 
                   JPN | 2 h | Side view | PEGI: 3 | ESRB: E
                   On: 3DS, Apple II, Arcade, Atari 5200, Atari 8-bit, C64, DOS, FM-7, Fairchild Channel F, GB, Game Gear, Intellivision, MSX, Mobile, NEC PC-6000, NES, Neo Geo Pocket Color, PC-8801, PC-98, PS4, Sharp X1, TI-99, VIC-20, Wii, Wii U, Win, Windows Phone, Xbox 360, ZX Spectrum
                   Genre: Arcade, Puzzle, Strategy | Theme: Action, Survival
@@ -44,15 +53,6 @@
                   Publishers: Atari, Dempa Shimbunsha, Micomsoft, Namco, SNK, Wiz
                   Designer: Toru Iwatani
                   Composer: Shigeichi Ishimura, Toshio Kai
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 2114   Elite (1984)                                                                                14    3 
-                  GBR | 100 h | First person | PEGI: N/A | ESRB: N/A
-                  On: Acorn Archimedes, Acorn Electron, Amiga, Amstrad CPC, Apple II, Atari ST, BBC, C64, DOS, MSX, NES, Tatung Einstein, ZX Spectrum
-                  Genre: Shooter, Simulator, Strategy | Theme: Action, Business, Sandbox, Science Fiction
-                  Developers: Acornsoft
-                  Publishers: Acornsoft, Firebird, Hybrid Technology, Imagineer, Merlin Software
-                  Designer: David Braben, Ian Bell
-                  Composer: Aidan Bell, David Whittaker, Johann Strauss, Julie Dunn, Wally Beben
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     7. 2015   Double Dragon (1987)                                                                       318    4 
                   JPN | 2 h | Side view, Third person | PEGI: 12 | ESRB: T

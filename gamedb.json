@@ -11480,6 +11480,142 @@
 		"pegi": "3",
 		"esrb": "E",
         "hltb": 195
+    },
+    "Xenoblade Chronicles (2010)":
+    {
+        "id": 676,
+        "year": 2010,
+        "country": ["JPN"],
+        "platforms": ["Wii U", "Wii"],
+        "developers": ["Monolith Soft"],
+        "publishers": ["Nintendo"],
+        "genre": ["RPG"],
+        "theme": ["Action", "Fantasy", "Open world", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Koh Kojima", "Genki Yokota"],
+        "composer": ["Manami Kiyota", "Tomori Kudo", "Hiroyo Yamanaka", "Kenji Hiramatsu", "Yoko Shimomura", "Yasunori Mitsuda"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 100
+    },
+    "FIFA 15 (2014)":
+    {
+        "id": 677,
+        "year": 2014,
+        "country": ["CAN"],
+        "platforms": ["Xbox One", "3DS", "PS4", "Xbox 360", "Wii", "Vita", "PS3", "Win"],
+        "developers": ["Electronic Arts"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Sport"],
+        "theme": ["Non-fiction", "Football"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Simon Humber"],
+        "composer": ["Tyler Berrie"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 70
+    },
+    "Destiny (2014)":
+    {
+        "id": 678,
+        "year": 2014,
+        "country": ["USA"],
+        "platforms": ["Xbox One", "PS4", "Xbox 360", "PS3"],
+        "developers": ["Bungie"],
+        "publishers": ["Activision", "ND Games"],
+        "genre": ["RPG", "Shooter"],
+        "theme": ["Action", "Science Fiction", "Warfare"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Lars Bakken", "Del Chafe III", "Liz M. E. Chung", "Tyson Green", "Ken Malcolm", "Sage Merrill" ,"Christopher Opdahl", "Alex Pfeiffer", "Luke Smith", "James Tsai"],
+        "composer": ["Michael Salvatori", "C. Paul Johnson", "Martin O'Donnell", "Paul McCartney"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 55
+    },
+    "Super Smash Bros. for Wii U (2014)":
+    {
+        "id": 679,
+        "year": 2014,
+        "country": ["JPN"],
+        "platforms": ["Wii U"],
+        "developers": ["Sora", "Namco"],
+        "publishers": ["Nintendo"],
+        "genre": ["Fighting", "Platform", "Sport"],
+        "theme": ["Action", "Party"],
+        "perspective": ["Side view"],
+        "designer": ["Masahiro Sakurai"],
+        "composer": ["Keiki Kobayashi", "Junichi Nakatsuru", "Hiroki Hashimoto", "Hiroyuki Kawada", "Torine", "Akihiko Ishikawa", "Yoshinori Hirai"],
+		"pegi": "12",
+		"esrb": "E10+",
+        "hltb": 53
+    },
+    "Ghost Trick: Phantom Detective (2010)":
+    {
+        "id": 680,
+        "year": 2010,
+        "country": ["JPN"],
+        "platforms": ["DS", "iOS"],
+        "developers": ["Capcom"],
+        "publishers": ["Capcom"],
+        "genre": ["Adventure", "Puzzle"],
+        "theme": ["Comedy", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Shu Takumi"],
+        "composer": ["Masakazu Sugimori"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 13
+    },
+    "Tony Hawk's Pro Skater 3 (2001)":
+    {
+        "id": 681,
+        "year": 2001,
+        "country": ["USA"],
+        "platforms": ["GBC", "PS2", "Mac", "PSX", "GBA", "GameCube", "Xbox", "N64", "Win"],
+        "developers": ["Neversoft"],
+        "publishers": ["Activision"],
+        "genre": ["Sport"],
+        "theme": ["Action", "Non-fiction", "Skateboarding"],
+        "perspective": ["Third person"],
+        "designer": ["Unknown"],
+        "composer": ["Nelson Bae", "Lori Marlowe-Lahman"],
+		"pegi": "12",
+		"esrb": "E",
+        "hltb": 16
+    },
+    "Guild Wars 2 (2012)":
+    {
+        "id": 682,
+        "year": 2012,
+        "country": ["USA"],
+        "platforms": ["Win", "Mac"],
+        "developers": ["ArenaNet"],
+        "publishers": ["NCSoft"],
+        "genre": ["RPG", "MMO"],
+        "theme": ["Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Mike O'Brien", "Colin Johanson", "Eric Flannum"],
+        "composer": ["Jeremy Soule"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 232
+    },
+    "Brothers: A Tale of Two Sons (2013)":
+    {
+        "id": 683,
+        "year": 2013,
+        "country": ["SWE"],
+        "platforms": ["Android", "Xbox One", "PS4", "Xbox 360", "iOS", "Windows Phone", "PS3", "Win", "Switch"],
+        "developers": ["Starbreeze"],
+        "publishers": ["505 Games", "Spike"],
+        "genre": ["Adventure", "Indie", "Puzzle"],
+        "theme": ["Action", "Drama", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Josef Fares"],
+        "composer": ["Gustaf Grefberg"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 4
     }
 
 }

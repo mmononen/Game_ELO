@@ -1,6 +1,6 @@
  RANK   ELO   GAME                                                                                        ID  LST
 -------------------------------------------------------------------------------------------------------------------
-    1. 2620   Uncharted 2: Among Thieves (2009)                                                          428    4 
+    1. 2784   Uncharted 2: Among Thieves (2009)                                                          428    5 
                   USA | 13 h | Third person | PEGI: 16 | ESRB: T
                   On: PS3
                   Genre: Adventure, Platform, Shooter | Theme: Action, Fantasy, Historical
@@ -9,7 +9,7 @@
                   Designer: Amy Hennig, Bruce Straley, Neil Druckmann, Richard Lemarchand
                   Composer: Greg Edmonson
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    2. 2006   Batman: Arkham Asylum (2009)                                                               447    2 
+    2. 2489   Batman: Arkham Asylum (2009)                                                               447    3 
                   GBR | 17 h | Third person | PEGI: 16 | ESRB: T
                   On: Ouya, PS3, Win, Xbox 360
                   Genre: Adventure, Hack and Slash | Theme: Action, Stealth
@@ -18,7 +18,7 @@
                   Designer: Sefton Hill
                   Composer: Nick Arundel, Ron Fish
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    3. 1915   Assassin's Creed II (2009)                                                                 655    1 
+    3. 2423   Assassin's Creed II (2009)                                                                 655    2 
                   CAN | 27 h | Third person | PEGI: 18 | ESRB: M
                   On: Mac, PS3, Win, Xbox 360, iOS
                   Genre: Adventure, Platform | Theme: Action, Fantasy, Historical, Open world, Sandbox, Science Fiction, Stealth
@@ -45,7 +45,16 @@
                   Designer: Hideki Kamiya, Hiroshi Shibata, Masaaki Yamada
                   Composer: Erina Niwa, Hiroshi Yamaguchi, Masami Ueda, Naoto Tanaka, Norihiko Hibino, Rei Kondoh, Takahiro Izutani, Takayasu Sodeoka, Yoshitaka Suzuki
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    6. 1818   Left 4 Dead 2 (2009)                                                                       539    2 
+    6. 1848   Dragon Age: Origins (2009)                                                                 511    4 
+                  CAN | 59 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
+                  On: Mac, PS3, Win, Xbox 360
+                  Genre: RPG | Theme: Action, Fantasy
+                  Developers: BioWare
+                  Publishers: Electronic Arts
+                  Designer: Brent Knowles, Dan Tudge, James Ohlen, Mark Darrah, Mike Laidlaw
+                  Composer: Inon Zur
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+    7. 1818   Left 4 Dead 2 (2009)                                                                       539    2 
                   USA | 24 h | First person | PEGI: 18 | ESRB: M
                   On: Linux, Mac, Win, Xbox 360
                   Genre: Shooter | Theme: Action, Horror, Survival
@@ -54,7 +63,7 @@
                   Designer: Erik Johnson, Michael Booth
                   Composer: Mike Morasky
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    7. 1780   ArmA 2 (2009)                                                                              515    1 
+    8. 1780   ArmA 2 (2009)                                                                              515    1 
                   CZE | 34 h | First person | PEGI: N/A | ESRB: M
                   On: Win
                   Genre: Shooter, Simulator, Strategy, Tactical | Theme: Action, Warfare
@@ -62,15 +71,6 @@
                   Publishers: 505 Games, Got Game Entertainment
                   Designer: Ivan Buchta, Marek Španěl
                   Composer: Ondřej Matějka
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-    8. 1668   Dragon Age: Origins (2009)                                                                 511    3 
-                  CAN | 59 h | Bird view / Isometric, Third person | PEGI: 18 | ESRB: M
-                  On: Mac, PS3, Win, Xbox 360
-                  Genre: RPG | Theme: Action, Fantasy
-                  Developers: BioWare
-                  Publishers: Electronic Arts
-                  Designer: Brent Knowles, Dan Tudge, James Ohlen, Mark Darrah, Mike Laidlaw
-                  Composer: Inon Zur
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
     9. 1482   S.T.A.L.K.E.R.: Call of Pripyat (2009)                                                     524    1 
                   UKR | 26 h | First person | PEGI: N/A | ESRB: M
@@ -99,7 +99,16 @@
                   Designer: Pierre Begue
                   Composer: Nino Rajačić
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   12. 1326   Zeno Clash (2009)                                                                          541    1 
+   12. 1373   League of Legends (2009)                                                                   546    2 
+                  USA | 1582 h | Bird view / Isometric | PEGI: 12 | ESRB: T
+                  On: Mac, Win
+                  Genre: MOBA | Theme: Action, Fantasy
+                  Developers: Riot Games
+                  Publishers: GOA Games Services, Riot Games, Tencent
+                  Designer: Andrei van Roon
+                  Composer: Unknown
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+   13. 1326   Zeno Clash (2009)                                                                          541    1 
                   CHI | 5 h | First person | PEGI: 16 | ESRB: T
                   On: Win, Xbox 360
                   Genre: Fighting, Hack and Slash, Indie, Shooter | Theme: Action, Fantasy
@@ -108,7 +117,7 @@
                   Designer: Andrés Bordeu, Carlos Bordeu
                   Composer: Patricio Meneses
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   13. 1321   Torchlight (2009)                                                                          542    1 
+   14. 1321   Torchlight (2009)                                                                          542    1 
                   USA | 22 h | Bird view / Isometric | PEGI: 12 | ESRB: T
                   On: Linux, Mac, Win, Xbox 360
                   Genre: Hack and Slash, RPG | Theme: Action, Fantasy, Historical
@@ -116,15 +125,6 @@
                   Publishers: Encore, JoWooD, Microsoft, Perfect World
                   Designer: Travis Baldree
                   Composer: Matt Uelmen
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-   14. 1298   League of Legends (2009)                                                                   546    1 
-                  USA | 1582 h | Bird view / Isometric | PEGI: 12 | ESRB: T
-                  On: Mac, Win
-                  Genre: MOBA | Theme: Action, Fantasy
-                  Developers: Riot Games
-                  Publishers: GOA Games Services, Riot Games, Tencent
-                  Designer: Andrei van Roon
-                  Composer: Unknown
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
    15. 1280   Zuma's Revenge! (2009)                                                                     549    1 
                   USA | 9 h | Bird view / Isometric | PEGI: 7 | ESRB: E
