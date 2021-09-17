@@ -11616,6 +11616,40 @@
 		"pegi": "16",
 		"esrb": "T",
         "hltb": 4
+    },
+    "F-Zero GX (2003)":
+    {
+        "id": 684,
+        "year": 2003,
+        "country": ["JPN"],
+        "platforms": ["GameCube"],
+        "developers": ["Sega"],
+        "publishers": ["Nintendo"],
+        "genre": ["Racing"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Hiroyuki Sakamoto"],
+        "composer": ["Hidenori Shoji", "Daiki Kasho"],
+	    "pegi": "",
+	    "esrb": "",
+        "hltb": 4
+    },
+    "TowerFall Ascension (2014)":
+    {
+        "id": 685,
+        "year": 2014,
+        "country": ["CAN"],
+        "platforms": ["Xbox One", "PS4", "Mac", "Linux", "Vita", "Win", "Ouya"],
+        "developers": ["Matt Makes Games"],
+        "publishers": ["Matt Makes Games"],
+        "genre": ["Indie", "Platform"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Side view"],
+        "designer": ["Maddy Thorson"],
+        "composer": ["Alec Holowka"],
+		"pegi": "7",
+		"esrb": "E10+",
+        "hltb": 12
     }
 
 }
