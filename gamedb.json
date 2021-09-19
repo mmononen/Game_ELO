@@ -11735,6 +11735,142 @@
 		"pegi": "16",
 		"esrb": "M",
         "hltb": 24
+    },
+    "Sid Meier's Civilization V (2010)":
+    {
+        "id": 691,
+        "year": 2010,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Win"],
+        "developers": ["Firaxis"],
+        "publishers": ["Aspyr", "Mastertronic", "2K Games"],
+        "genre": ["Simulator", "Strategy", "Turn-Based Strategy"],
+        "theme": ["4X", "Fantasy", "Historical", "Science Fiction", "Warfare"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Jon Shafer", "Ed Beach", "Scott Lewis"],
+        "composer": ["Michael Curran", "Geoff Knorr"],
+		"pegi": "N/A",
+		"esrb": "E10+",
+        "hltb": 112
+    },
+    "Super Monkey Ball (2001)":
+    {
+        "id": 692,
+        "year": 2001,
+        "country": ["JPN"],
+        "platforms": ["GameCube"],
+        "developers": ["Sega"],
+        "publishers": ["Sega"],
+        "genre": ["Pinball", "Puzzle", "Racing"],
+        "theme": ["Party"],
+        "perspective": ["Third person"],
+        "designer": ["Toshihiro Nagoshi", "Junichi Namada"],
+        "composer": ["Hidenori Shoji", "Sakae Osumi", "Haruyoshi Tomita"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 10
+    },
+    "Dragon Age: Inquisition (2014)":
+    {
+        "id": 693,
+        "year": 2014,
+        "country": ["CAN"],
+        "platforms": ["Xbox One", "PS4", "Xbox 360", "PS3", "Win"],
+        "developers": ["BioWare"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "RPG", "Tactical"],
+        "theme": ["Action", "Fantasy", "Historical"],
+        "perspective": ["Bird view / Isometric", "Third person"],
+        "designer": ["Mike Laidlaw"],
+        "composer": ["Trevor Morris"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 87
+    },
+    "Hearthstone (2014)":
+    {
+        "id": 694,
+        "year": 2014,
+        "country": ["USA"],
+        "platforms": ["Android", "Mac", "iOS", "Win"],
+        "developers": ["Blizzard Entertainment"],
+        "publishers": ["Blizzard Entertainment"],
+        "genre": ["Card or Board Game", "Strategy", "Turn-Based Strategy"],
+        "theme": ["Fantasy"],
+        "perspective": ["Bird view / Isometric", "Text"],
+        "designer": ["Ben Brode", "Jason Chayes", "Eric Dodds", "Derek Sakamoto", "Mike Donais"],
+        "composer": ["Peter McConnell"],
+		"pegi": "7",
+		"esrb": "T",
+        "hltb": 67
+    },
+    "OutRun 2006: Coast 2 Coast (2006)":
+    {
+        "id": 695,
+        "year": 2006,
+        "country": ["GBR"],
+        "platforms": ["PS2", "PSP", "Xbox", "Win"],
+        "developers": ["Sumo Digital"],
+        "publishers": ["Sega"],
+        "genre": ["Racing"],
+        "theme": ["Action"],
+        "perspective": ["Third person"],
+        "designer": ["Paul Porter", "Darren Mills", "Travis Ryan"],
+        "composer": ["Hiroshi Kawaguchi", "Fumio Ito", "Richard Jacques"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 8
+    },
+    "Nidhogg (2014)":
+    {
+        "id": 696,
+        "year": 2014,
+        "country": ["USA"],
+        "platforms": ["PS4", "Mac", "Vita", "Win"],
+        "developers": ["Messhof"],
+        "publishers": ["Messhof"],
+        "genre": ["Fighting", "Indie", "Sport"],
+        "theme": ["Action"],
+        "perspective": ["Side view"],
+        "designer": ["Mark Essen"],
+        "composer": ["Alfred Darlington"],
+		"pegi": "7",
+		"esrb": "T",
+        "hltb": 3
+    },
+    "Plants vs. Zombies (2009)":
+    {
+        "id": 697,
+        "year": 2009,
+        "country": ["USA"],
+        "platforms": ["Android", "DS", "DSi", "Xbox 360", "Mac", "iOS", "Vita", "Windows Phone", "PS3", "Win"],
+        "developers": ["PopCap Games"],
+        "publishers": ["PopCap Games"],
+        "genre": ["Puzzle", "Real Time Strategy", "Strategy", "Tactical"],
+        "theme": ["Action", "Comedy", "Kids", "Survival"],
+        "perspective": ["Side view"],
+        "designer": ["George Fan"],
+        "composer": ["Laura Shigihara"],
+		"pegi": "12",
+		"esrb": "E10+",
+        "hltb": 20
+    },
+    "The Sims 2 (2004)":
+    {
+        "id": 698,
+        "year": 2004,
+        "country": ["USA"],
+        "platforms": ["DS", "PS2", "Mac", "GBA", "PSP", "GameCube", "Xbox", "Win"],
+        "developers": ["Maxis"],
+        "publishers": ["Electronic Arts", "Aspyr"],
+        "genre": ["Adventure", "RPG", "Simulator", "Strategy"],
+        "theme": ["Comedy", "Fantasy", "Romance", "Sandbox"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Charles London"],
+        "composer": ["Jerry Martin", "Mark Mothersbaugh"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 40
     }
 
 }
