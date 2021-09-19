@@ -11630,8 +11630,8 @@
         "perspective": ["Third person"],
         "designer": ["Hiroyuki Sakamoto"],
         "composer": ["Hidenori Shoji", "Daiki Kasho"],
-	    "pegi": "",
-	    "esrb": "",
+	    "pegi": "3",
+	    "esrb": "T",
         "hltb": 4
     },
     "TowerFall Ascension (2014)":
@@ -11650,6 +11650,91 @@
 		"pegi": "7",
 		"esrb": "E10+",
         "hltb": 12
+    },
+    "SSX 3 (2003)":
+    {
+        "id": 686,
+        "year": 2003,
+        "country": ["CAN"],
+        "platforms": ["PS2", "GBA", "GameCube", "Xbox"],
+        "developers": ["Electronic Arts", "Visual Impact"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Adventure", "Racing", "Sport"],
+        "theme": ["Action", "Snowboarding"],
+        "perspective": ["Third person"],
+        "designer": ["Mike Rayner"],
+        "composer": ["Frank Faugno", "Tim McKenzie", "John Morgan"],
+		"pegi": "3",
+		"esrb": "E",
+        "hltb": 26
+    },
+    "To the Moon (2011)":
+    {
+        "id": 687,
+        "year": 2011,
+        "country": ["CAN"],
+        "platforms": ["Android", "Linux", "Mac", "iOS", "Win", "Switch"],
+        "developers": ["Freebird Games"],
+        "publishers": ["Freebird Games", "X.D. Network"],
+        "genre": ["Adventure", "Indie"],
+        "theme": ["Drama", "Romance", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Kan Gao", "Lannie Neely III"],
+        "composer": ["Kan Gao", "Laura Shigihara"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 5
+    },
+    "Assassin's Creed IV: Black Flag (2013)":
+    {
+        "id": 688,
+        "year": 2013,
+        "country": ["CAN", "ITA", "UKR"],
+        "platforms": ["Xbox One", "Wii U", "PS4", "Xbox 360", "PS3", "Win", "Stadia"],
+        "developers": ["Ubisoft"],
+        "publishers": ["Ubisoft"],
+        "genre": ["Adventure", "Platform"],
+        "theme": ["Action", "Fantasy", "Historical", "Open world", "Sandbox", "Science Fiction", "Stealth"],
+        "perspective": ["Third person"],
+        "designer": ["Jean Guesdon", "Ashraf Ismail", "Damien Kieken"],
+        "composer": ["Brian Tyler"],
+		"pegi": "N/A",
+		"esrb": "M",
+        "hltb": 41
+    },
+    "XCOM: Enemy Within (2013)":
+    {
+        "id": 689,
+        "year": 2013,
+        "country": ["USA"],
+        "platforms": ["Android", "Linux", "Mac", "iOS", "Win"],
+        "developers": ["Firaxis"],
+        "publishers": ["2K Games", "Feral Interactive"],
+        "genre": ["Strategy", "Turn-Based Strategy"],
+        "theme": ["Action", "Science Fiction"],
+        "perspective": ["Bird view / Isometric"],
+        "designer": ["Ananda Gupta"],
+        "composer": ["Michael McCann"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 37
+    },
+    "Fable II (2008)":
+    {
+        "id": 690,
+        "year": 2008,
+        "country": ["GBR"],
+        "platforms": ["Xbox 360"],
+        "developers": ["Lionhead"],
+        "publishers": ["Microsoft"],
+        "genre": ["Adventure", "RPG"],
+        "theme": ["Action", "Fantasy"],
+        "perspective": ["Third person"],
+        "designer": ["Peter Molyneux"],
+        "composer": ["Danny Elfman", "Russell Shaw"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 24
     }
 
 }
