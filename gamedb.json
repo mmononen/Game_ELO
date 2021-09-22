@@ -11871,6 +11871,91 @@
 		"pegi": "12",
 		"esrb": "T",
         "hltb": 40
+    },
+    "Dragon Quest IX: Sentinels of the Starry Skies (2009)":
+    {
+        "id": 699,
+        "year": 2009,
+        "country": ["JPN"],
+        "platforms": ["DS"],
+        "developers": ["Level-5", "Square"],
+        "publishers": ["Square", "Nintendo"],
+        "genre": ["RPG"],
+        "theme": ["Fantasy", "Sandbox"],
+        "perspective": ["First person", "Third person"],
+        "designer": ["Akihiro Hino", "Jin Fujisawa", "Yuji Horii"],
+        "composer": ["Koichi Sugiyama"],
+		"pegi": "12",
+		"esrb": "E10+",
+        "hltb": 87
+    },
+    "TimeSplitters 2 (2002)":
+    {
+        "id": 700,
+        "year": 2002,
+        "country": ["GBR"],
+        "platforms": ["PS2", "GameCube", "Xbox"],
+        "developers": ["Free Radical Design"],
+        "publishers": ["Eidos"],
+        "genre": ["Shooter"],
+        "theme": ["Comedy", "Fantasy", "Historical", "Horror", "Science Fiction", "Warfare"],
+        "perspective": ["First person"],
+        "designer": ["Stephen Ellis", "David Doak"],
+        "composer": ["Graeme Norgate"],
+		"pegi": "16",
+		"esrb": "T",
+        "hltb": 27
+    },
+    "Battlefield 3 (2011)":
+    {
+        "id": 701,
+        "year": 2011,
+        "country": ["SWE"],
+        "platforms": ["Xbox 360", "PS3", "Win"],
+        "developers": ["Digital Illusions"],
+        "publishers": ["Electronic Arts"],
+        "genre": ["Shooter"],
+        "theme": ["Action", "Warfare"],
+        "perspective": ["Bird view / Isometric", "First person", "Third person"],
+        "designer": ["Tom Keegan"],
+        "composer": ["Johan Skugge", "Jukka Rintamäki"],
+		"pegi": "16",
+		"esrb": "M",
+        "hltb": 12
+    },
+    "Crazy Taxi (1999)":
+    {
+        "id": 702,
+        "year": 1999,
+        "country": ["JPN"],
+        "platforms": ["Android", "Xbox 360", "PS2", "iOS", "Dreamcast", "GameCube", "PS3", "Arcade", "Win"],
+        "developers": ["Sega"],
+        "publishers": ["Sega", "Activision", "Acclaim"],
+        "genre": ["Racing"],
+        "theme": ["Action", "Comedy", "Open world", "Sandbox"],
+        "perspective": ["Third person"],
+        "designer": ["Kenji Kanno"],
+        "composer": ["Yuko Iseki"],
+		"pegi": "12",
+		"esrb": "E10+",
+        "hltb": 5
+    },
+    "Alien: Isolation (2014)":
+    {
+        "id": 703,
+        "year": 2014,
+        "country": ["GBR"],
+        "platforms": ["Xbox One", "PS4", "Xbox 360", "Linux", "Mac", "PS3", "Win", "Switch"],
+        "developers": ["The Creative Assembly"],
+        "publishers": ["Sega", "Feral Interactive"],
+        "genre": ["Adventure"],
+        "theme": ["Action", "Horror", "Science Fiction", "Stealth", "Survival"],
+        "perspective": ["First person", "Virtual Reality"],
+        "designer": ["Alistair Hope", "Gary Napper", "Clive Lindop"],
+        "composer": ["Christian Henson", "Joe Henson", "Alexis Smith"],
+		"pegi": "18",
+		"esrb": "M",
+        "hltb": 23
     }
 
 }
