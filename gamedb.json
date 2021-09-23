@@ -11956,6 +11956,91 @@
 		"pegi": "18",
 		"esrb": "M",
         "hltb": 23
+    },
+    "Indiana Jones and the Fate of Atlantis (1992)":
+    {
+        "id": 704,
+        "year": 1992,
+        "country": ["USA"],
+        "platforms": ["Linux", "Amiga", "Mac", "DOS", "Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["Disney", "LucasArts", "U.S. Gold"],
+        "genre": ["Adventure", "Point-and-click", "Puzzle"],
+        "theme": ["Action", "Comedy", "Fantasy", "Historical", "Thriller"],
+        "perspective": ["Bird view / Isometric", "Side view"],
+        "designer": ["Hal Barwood", "Noah Falstein"],
+        "composer": ["Clint Bajakian", "Peter McConnell", "Michael Z. Land"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 9
+    },
+    "Toonstruck (1996)":
+    {
+        "id": 705,
+        "year": 1996,
+        "country": ["USA"],
+        "platforms": ["Mac", "DOS", "Win"],
+        "developers": ["Burst Studios"],
+        "publishers": ["Virgin"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Richard Hare", "Jennifer McWilliams"],
+        "composer": ["Keith Arem"],
+		"pegi": "N/A",
+		"esrb": "T",
+        "hltb": 9
+    },
+    "Space Quest IV: Roger Wilco And The Time Rippers (1991)":
+    {
+        "id": 706,
+        "year": 1991,
+        "country": ["USA"],
+        "platforms": ["Amiga", "Mac", "DOS", "Win"],
+        "developers": ["Sierra"],
+        "publishers": ["Sierra"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy", "Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Bill Davis", "Scott Murphy", "Mark Crowe"],
+        "composer": ["Mark Seibert", "Ken Allen"],
+		"pegi": "N/A",
+		"esrb": "E",
+        "hltb": 5
+    },
+    "Ben There, Dan That! (2009)":
+    {
+        "id": 707,
+        "year": 2009,
+        "country": ["GBR"],
+        "platforms": ["Win"],
+        "developers": ["Size Five Games"],
+        "publishers": ["Size Five Games"],
+        "genre": ["Adventure", "Indie", "Point-and-click"],
+        "theme": ["Comedy"],
+        "perspective": ["Side view"],
+        "designer": ["Dan Marshall", "Ben Ward"],
+        "composer": ["Mike Watts"],
+		"pegi": "N/A",
+		"esrb": "N/A",
+        "hltb": 3
+    },
+    "The Dig (1995)":
+    {
+        "id": 708,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "DOS", "Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["LucasArts"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Sean Clark", "Brian Moriarty"],
+        "composer": ["Michael Z. Land"],
+		"pegi": "7",
+		"esrb": "E",
+        "hltb": 7
     }
 
 }
