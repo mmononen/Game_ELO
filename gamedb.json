@@ -12041,6 +12041,57 @@
 		"pegi": "7",
 		"esrb": "E",
         "hltb": 7
+    },
+    "Kentucky Route Zero (2013)":
+    {
+        "id": 709,
+        "year": 2013,
+        "country": ["USA"],
+        "platforms": ["Linux", "Mac", "Switch", "PS4", "Win", "Xbox One"],
+        "developers": ["Cardboard Computer"],
+        "publishers": ["Cardboard Computer"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Third person"],
+        "designer": ["Jake Elliott", "Tamas Kemenczy"],
+        "composer": ["Ben Babbitt"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 11
+    },
+    "Full Throttle (1995)":
+    {
+        "id": 710,
+        "year": 1995,
+        "country": ["USA"],
+        "platforms": ["DOS", "Mac", "Win"],
+        "developers": ["LucasArts"],
+        "publishers": ["LucasArts"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Comedy"],
+        "perspective": ["Third person"],
+        "designer": ["Tim Schafer"],
+        "composer": ["Peter McConnell"],
+		"pegi": "12",
+		"esrb": "T",
+        "hltb": 6
+    },
+    "Machinarium (2009)":
+    {
+        "id": 711,
+        "year": 2009,
+        "country": ["CZE"],
+        "platforms": ["Android", "Fire OS", "iOS", "Linux", "Mac", "Switch", "Ouya", "PS3", "PS4", "Vita", "tvOS", "Win", "Windows Apps", "Windows Phone", "Xbox One"],
+        "developers": ["Amanita Design"],
+        "publishers": ["Amanita Design"],
+        "genre": ["Adventure", "Point-and-click"],
+        "theme": ["Science Fiction"],
+        "perspective": ["Side view"],
+        "designer": ["Jakub Dvorský"],
+        "composer": ["Tomáš Dvořák"],
+		"pegi": "7",
+		"esrb": "E10+",
+        "hltb": 6
     }
 
 }
